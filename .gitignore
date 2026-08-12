@@ -2,3 +2,8 @@
 *.nt
 *.ttl
 *.log
+
+# Generated datasets, GengoDB database directories, and benchmark output.
+/data/
+/results/*
+!/results/.gitkeep

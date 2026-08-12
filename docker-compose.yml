@@ -1,0 +1,44 @@
+services:
+  gengodb:
+    build:
+      context: hosts/GengoDB
+      ssh:
+        - default
+      args:
+        GENGODB_CACHEBUST: "${GENGODB_CACHEBUST:-1}"
+    volumes:
+      - ./data:/data
+      - ./queries/custom:/queries:ro
+    ports:
+      - "${GENGODB_PORT:-8890}:${GENGODB_PORT:-8890}"
+    command:
+      [
+        "/gengodb/build/lingodb-release/sparql-endpoint",
+        "${DB_DIR:-/data/db/default}",
+        "--host", "0.0.0.0",
+        "--port", "${GENGODB_PORT:-8890}"
+      ]
+
+  jena-fuseki:
+    build:
+      context: hosts/JenaFuseki
+    volumes:
+      - ./data:/data
+    ports:
+      - "${FUSEKI_PORT:-3030}:${FUSEKI_PORT:-3030}"
+    command:
+      [
+        "java", "-jar", "fuseki-server.jar",
+        "--loc=${FUSEKI_DB_DIR:-/data/db/default-fuseki}",
+        "--update",
+        "--port=${FUSEKI_PORT:-3030}",
+        "/${FUSEKI_DATASET:-ds}"
+      ]
+
+  bsbm-tools:
+    build:
+      context: .
+      dockerfile: hosts/BSBMTools/Dockerfile
+    volumes:
+      - ./data:/data
+      - ./results:/results
