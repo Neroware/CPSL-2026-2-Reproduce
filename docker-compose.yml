@@ -16,7 +16,8 @@ services:
         "/gengodb/build/lingodb-release/sparql-endpoint",
         "${DB_DIR:-/data/db/default}",
         "--host", "0.0.0.0",
-        "--port", "${GENGODB_PORT:-8890}"
+        "--port", "${GENGODB_PORT:-8890}",
+        "--enable-cache"
       ]
 
   jena-fuseki:
