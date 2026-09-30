@@ -11,3 +11,7 @@
 # Environment
 .venv/
 .vscode/
+
+# R
+.RProfile
+.RData

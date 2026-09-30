@@ -20,7 +20,7 @@ Loads the runs stored in `<timestamp>-sf<scale factor>-<gengodb|fuseki>` under
 faceted by scale factor for query-by-query comparison.
 
 ```{r bsbm-preload}
-results_dir <- "results"
+results_dir <- "plots/runs/2026-09-30"
 
 run_dirs <- list.dirs(results_dir, recursive = FALSE, full.names = TRUE)
 run_dirs <- run_dirs[grepl("-(gengodb|fuseki)$", basename(run_dirs))]
@@ -94,7 +94,7 @@ Visualize individual module runs stored as `<timestamp>-sf<scale factor>-custom`
 under `results/custom/`.
 
 ```{r custom-load}
-custom_dir <- "results/custom"
+custom_dir <- "plots/runs/2026-09-30/custom"
 
 custom_run_dirs <- list.dirs(custom_dir, recursive = FALSE, full.names = TRUE)
 custom_run_dirs <- custom_run_dirs[grepl("-sf[0-9]+-custom$", basename(custom_run_dirs))]
@@ -120,7 +120,7 @@ to_phases <- function(wide) {
 ```
 
 ```{r custom-plot-helper}
-phase_colors <- c("Compile time" = "#2a78d6", "Execution time" = "#eb6834")
+phase_colors <- c("Compile time" = "#3C2673", "Execution time" = "#006e12")
 group_colors <- c("#3C2673", "#9d8fd1")
 
 plot_phase <- function(data, phase_name, x, title, subtitle, x_lab = NULL,
