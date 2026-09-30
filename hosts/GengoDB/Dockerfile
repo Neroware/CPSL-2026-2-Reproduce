@@ -118,7 +118,7 @@ RUN --mount=type=ssh \
     echo "cachebust=${GENGODB_CACHEBUST}" && \
     git clone git@github.com:Neroware/GengoDB.git /gengodb
 WORKDIR /gengodb
-RUN git checkout rz/benchmark/bsbm/latest
+RUN git checkout rz/benchmark/bsbm/2026-09-30
 RUN --mount=type=ssh \
     git submodule update --init --recursive
 RUN make build-release
