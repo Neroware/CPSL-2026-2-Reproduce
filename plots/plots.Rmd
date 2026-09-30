@@ -1,0 +1,289 @@
+---
+title: "BSBM Benchmark Plots"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+library(ggplot2)
+library(dplyr)
+library(purrr)
+library(tibble)
+library(jsonlite)
+library(xml2)
+```
+
+## BSBM: total runtime per query, GengoDB vs. Fuseki Jena
+
+Loads the runs stored in `<timestamp>-sf<scale factor>-<gengodb|fuseki>` under
+`results/`, compute the *total* runtime as `aqet * executecount`. Results are 
+faceted by scale factor for query-by-query comparison.
+
+```{r bsbm-preload}
+results_dir <- "results"
+
+run_dirs <- list.dirs(results_dir, recursive = FALSE, full.names = TRUE)
+run_dirs <- run_dirs[grepl("-(gengodb|fuseki)$", basename(run_dirs))]
+
+parse_run <- function(dir) {
+  meta <- fromJSON(file.path(dir, "meta.json"))
+  xml <- read_xml(file.path(dir, "result.xml"))
+  query_nodes <- xml_find_all(xml, ".//queries/query")
+  tibble(
+    engine = meta$backend,
+    scale_factor = meta$product_count,
+    query = as.integer(xml_attr(query_nodes, "nr")),
+    execute_count = as.integer(xml_text(xml_find_first(query_nodes, "executecount"))),
+    aqet = as.numeric(xml_text(xml_find_first(query_nodes, "aqet")))
+  ) %>%
+    mutate(total_runtime = aqet * execute_count)
+}
+
+bsbm_data <- map_dfr(run_dirs, parse_run) %>%
+  filter(execute_count > 0, !query %in% c(6, 9, 12)) %>%
+  mutate(
+    engine = recode(engine, "gengodb" = "GengoDB", "fuseki" = "Fuseki Jena"),
+    engine = factor(engine, levels = c("GengoDB", "Fuseki Jena")),
+    scale_factor = factor(
+      scale_factor,
+      levels = sort(unique(scale_factor)),
+      labels = paste0("SF ", sort(unique(scale_factor)))
+    ),
+    query = factor(query, levels = sort(unique(query)))
+  ) %>%
+  filter(scale_factor %in% c("SF 1000", "SF 2000", "SF 4000", "SF 5000"))
+```
+
+```{r bsbm-plot, fig.width=13, fig.height=10}
+engine_colors <- c("GengoDB" = "#3C2673", "Fuseki Jena" = "#006e12")
+
+# Mark tiny bars with a numeric label
+bsbm_data <- bsbm_data %>%
+  mutate(bar_label = if_else(total_runtime < 1, sprintf("%.3f", total_runtime), ""))
+
+bsbm_plot <- ggplot(bsbm_data, aes(x = query, y = total_runtime, fill = engine)) +
+  geom_col(position = position_dodge(width = 0.8), width = 0.7) +
+  geom_text(
+    aes(label = bar_label),
+    position = position_dodge(width = 0.8),
+    vjust = -0.4, angle = 90, hjust = 0, size = 2.6, color = "#52514e"
+  ) +
+  facet_wrap(~scale_factor, scales = "free_y") +
+  scale_fill_manual(values = engine_colors) +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.28))) +
+  labs(
+    title = "BSBM total query runtime: GengoDB vs. Fuseki Jena",
+    subtitle = "Total execution time per query (aqet times execution count), by scale factor",
+    x = "Query number",
+    y = "Total runtime (s)",
+    fill = NULL
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(
+    legend.position = "top",
+    panel.grid.minor = element_blank(),
+    panel.grid.major.x = element_blank(),
+    strip.text = element_text(face = "bold")
+  )
+bsbm_plot
+```
+
+## Custom LingoDB backend: shared loading and plotting
+
+Visualize individual module runs stored as `<timestamp>-sf<scale factor>-custom`
+under `results/custom/`.
+
+```{r custom-load}
+custom_dir <- "results/custom"
+
+custom_run_dirs <- list.dirs(custom_dir, recursive = FALSE, full.names = TRUE)
+custom_run_dirs <- custom_run_dirs[grepl("-sf[0-9]+-custom$", basename(custom_run_dirs))]
+
+read_custom_run <- function(dir) {
+  read.csv(file.path(dir, "results.csv"), stringsAsFactors = FALSE) %>%
+    as_tibble() %>%
+    select(file, status, executionTime_mean, total_mean) %>%
+    mutate(scale_factor = as.integer(sub(".*-sf([0-9]+)-custom$", "\\1", basename(dir))))
+}
+
+custom_runs <- map_dfr(custom_run_dirs, read_custom_run) %>%
+  filter(status == "OK") %>%
+  mutate(compile_time_mean = total_mean - executionTime_mean)
+
+to_phases <- function(wide) {
+  bind_rows(
+    wide %>% mutate(phase = "Compile time", time_ms = compile_time_mean),
+    wide %>% mutate(phase = "Execution time", time_ms = executionTime_mean)
+  ) %>%
+    mutate(phase = factor(phase, levels = c("Compile time", "Execution time")))
+}
+```
+
+```{r custom-plot-helper}
+phase_colors <- c("Compile time" = "#2a78d6", "Execution time" = "#eb6834")
+group_colors <- c("#3C2673", "#9d8fd1")
+
+plot_phase <- function(data, phase_name, x, title, subtitle, x_lab = NULL,
+                       fill = NULL, facet = NULL, label_fmt = "%.3f") {
+  data <- filter(data, phase == phase_name)
+  dodge <- position_dodge(width = 0.8)
+  label_layer <- function(...) {
+    geom_text(
+      aes(label = sprintf(label_fmt, time_ms), ...),
+      vjust = -0.4, size = 2.8, color = "#52514e",
+      position = if (is.null(fill)) "identity" else dodge
+    )
+  }
+
+  p <- ggplot(data, aes(x = .data[[x]], y = time_ms))
+  if (is.null(fill)) {
+    p <- p +
+      geom_col(width = 0.55, fill = phase_colors[[phase_name]]) +
+      label_layer()
+  } else {
+    p <- p +
+      geom_col(aes(fill = .data[[fill]]), position = dodge, width = 0.7) +
+      label_layer(group = .data[[fill]]) +
+      scale_fill_manual(values = group_colors)
+  }
+  if (!is.null(facet)) {
+    p <- p + facet_wrap(vars(.data[[facet]]), scales = "free_x", nrow = 1)
+  }
+
+  p +
+    scale_y_continuous(expand = expansion(mult = c(0, 0.15))) +
+    labs(
+      title = title, subtitle = subtitle, x = x_lab,
+      y = paste0(phase_name, " (ms)"), fill = NULL
+    ) +
+    theme_minimal(base_size = 12) +
+    theme(
+      legend.position = "top",
+      panel.grid.minor = element_blank(),
+      panel.grid.major.x = element_blank(),
+      strip.text = element_text(face = "bold")
+    )
+}
+```
+
+## Sub-operator modules: PageRank and Triangle Search
+
+PageRank vs. PageRank with Graph SubOps and Triangle Search vs. Triangle
+Search with Graph SubOps.
+
+```{r custom-modules-load}
+# file -> which pair it belongs to, and its short label within that pair
+module_variants <- tribble(
+  ~file, ~pair, ~variant,
+  "pagerank.mlir", "PageRank", "Base",
+  "pagerank_gsubop.mlir", "PageRank", "Graph SubOps",
+  "triangle_search.mlir", "Triangle Search", "Base",
+  "triangle_search_gsubop.mlir", "Triangle Search", "Graph SubOps"
+)
+
+module_data <- custom_runs %>%
+  inner_join(module_variants, by = "file") %>%
+  to_phases() %>%
+  mutate(
+    pair = factor(pair, levels = c("PageRank", "Triangle Search")),
+    variant = factor(variant, levels = c("Base", "Graph SubOps"))
+  )
+```
+
+```{r custom-modules-compile, fig.width=8, fig.height=4.5}
+custom_modules_plot <- plot_phase(module_data, "Compile time",
+  x = "variant", facet = "pair",
+  title = "Sub-operator modules: compile time",
+  subtitle = "Mean compile time per run (ms)", label_fmt = "%.1f ms"
+)
+custom_modules_plot
+```
+
+```{r custom-modules-execution, fig.width=8, fig.height=4.5}
+custom_modules_plot <- plot_phase(module_data, "Execution time",
+  x = "variant", facet = "pair",
+  title = "Sub-operator modules: execution time",
+  subtitle = "Mean execution time per run (ms)", label_fmt = "%.3f ms"
+)
+custom_modules_plot
+```
+
+## Bound variable join across scale factors
+
+Triple Join (SubOp, "Hash Join") vs. Triple Join (Cheap, "Indexed Join"), each
+run at SF1000-5000.
+
+```{r triple-join-load}
+triple_join_variants <- tribble(
+  ~file, ~variant,
+  "triple_join_subop.mlir", "Hash Join",
+  "triple_join_cheap.mlir", "Index Join"
+)
+
+triple_join_data <- custom_runs %>%
+  inner_join(triple_join_variants, by = "file") %>%
+  to_phases() %>%
+  mutate(
+    variant = factor(variant, levels = triple_join_variants$variant),
+    scale_factor = factor(paste0("SF ", scale_factor),
+      levels = paste0("SF ", sort(unique(scale_factor)))
+    )
+  )
+```
+
+```{r triple-join-compile, fig.width=10, fig.height=4.5}
+triple_hashjoin_plot <- plot_phase(triple_join_data, "Compile time",
+  x = "scale_factor", fill = "variant",
+  title = "Bound variable join: compile time",
+  subtitle = "Mean compile time per run (ms), by scale factor",
+  x_lab = "Scale factor", label_fmt = "%.1f"
+)
+triple_hashjoin_plot
+```
+
+```{r triple-join-execution, fig.width=10, fig.height=4.5}
+triple_indexjoin_plot <- plot_phase(triple_join_data, "Execution time",
+  x = "scale_factor", fill = "variant",
+  title = "Bound variable join: execution time",
+  subtitle = "Mean execution time per run (ms), by scale factor",
+  x_lab = "Scale factor", label_fmt = "%.3f"
+)
+triple_indexjoin_plot
+```
+
+## BSBM queries on the custom backend
+
+The BSBM query mix run at SF1000 and SF5000. Queries 6, 9 and
+12 were not run against the GengoDB backend, since they are 
+not yet supported by the implementation.
+
+```{r bsbm-custom-load}
+bsbm_custom_data <- custom_runs %>%
+  filter(grepl("^[0-9]+\\.sparql$", file)) %>%
+  mutate(query = as.integer(sub("\\.sparql$", "", file))) %>%
+  to_phases() %>%
+  mutate(
+    query = factor(query, levels = sort(unique(query))),
+    scale_factor = factor(paste0("SF ", scale_factor),
+      levels = paste0("SF ", sort(unique(scale_factor)))
+    )
+  )
+```
+
+```{r bsbm-custom-compile, fig.width=11, fig.height=4.5}
+plot_phase(filter(bsbm_custom_data, scale_factor == "SF 5000"), "Compile time",
+  x = "query",
+  title = "BSBM queries direct execution: compile time",
+  subtitle = "Mean compile time per query (ms, SF5000)",
+  x_lab = "Query number", label_fmt = "%.0f"
+)
+```
+
+```{r bsbm-custom-execution, fig.width=11, fig.height=4.5}
+plot_phase(bsbm_custom_data, "Execution time",
+  x = "query", fill = "scale_factor",
+  title = "BSBM queries direct execution: execution time",
+  subtitle = "Mean execution time per query (ms), by scale factor",
+  x_lab = "Query number", label_fmt = "%.2f"
+)
+```

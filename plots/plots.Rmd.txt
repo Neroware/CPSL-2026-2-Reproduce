@@ -1,0 +1,249 @@
+---
+title: "BSBM Benchmark Plots"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+library(ggplot2)
+library(dplyr)
+library(purrr)
+library(tibble)
+library(jsonlite)
+library(xml2)
+```
+
+## BSBM: queries per second per query, GengoDB vs. Fuseki Jena
+
+Loads every `<timestamp>-sf<scale factor>-<gengodb|fuseki>` run under `Results/`,
+and for each query takes the throughput in queries per second (`qps`, as
+reported by BSBM, i.e. `1 / aqet`). Results are faceted by scale factor so the
+two engines can be compared query-by-query at each scale. Higher is better.
+
+```{r bsbm-preload}
+results_dir <- "results"
+
+run_dirs <- list.dirs(results_dir, recursive = FALSE, full.names = TRUE)
+run_dirs <- run_dirs[grepl("-(gengodb|fuseki)$", basename(run_dirs))]
+
+parse_run <- function(dir) {
+  meta <- fromJSON(file.path(dir, "meta.json"))
+  xml <- read_xml(file.path(dir, "result.xml"))
+  query_nodes <- xml_find_all(xml, ".//queries/query")
+
+  tibble(
+    engine = meta$backend,
+    scale_factor = meta$product_count,
+    query = as.integer(xml_attr(query_nodes, "nr")),
+    execute_count = as.integer(xml_text(xml_find_first(query_nodes, "executecount"))),
+    aqet = as.numeric(xml_text(xml_find_first(query_nodes, "aqet"))),
+    qps = as.numeric(xml_text(xml_find_first(query_nodes, "qps")))
+  )
+}
+
+bsbm_data <- map_dfr(run_dirs, parse_run) %>%
+  filter(execute_count > 0, !query %in% c(6, 9, 12)) %>%
+  mutate(
+    engine = recode(engine, "gengodb" = "GengoDB", "fuseki" = "Fuseki Jena"),
+    engine = factor(engine, levels = c("GengoDB", "Fuseki Jena")),
+    scale_factor = factor(
+      scale_factor,
+      levels = sort(unique(scale_factor)),
+      labels = paste0("SF ", sort(unique(scale_factor)))
+    ),
+    query = factor(query, levels = sort(unique(query)))
+  ) %>%
+  filter(scale_factor %in% c("SF 1000", "SF 2000", "SF 4000", "SF 5000"))
+```
+
+```{r bsbm-plot, fig.width=13, fig.height=10}
+engine_colors <- c("GengoDB" = "#3C2673", "Fuseki Jena" = "#006e12")
+
+# GengoDB and Fuseki Jena differ by orders of magnitude on several queries.
+# A log y-axis would make bars under 1 qps appear to hang below zero
+# (misleading), so we stay on a linear scale (free per facet) and directly
+# label bars under 5% of their facet's max so their exact value stays legible
+# even when the bar itself is tiny.
+bsbm_data <- bsbm_data %>%
+  group_by(scale_factor) %>%
+  mutate(bar_label = if_else(qps < 0.05 * max(qps), sprintf("%.1f", qps), "")) %>%
+  ungroup()
+
+ggplot(bsbm_data, aes(x = query, y = qps, fill = engine)) +
+  geom_col(position = position_dodge(width = 0.8), width = 0.7) +
+  geom_text(
+    aes(label = bar_label),
+    position = position_dodge(width = 0.8),
+    vjust = -0.4, angle = 90, hjust = 0, size = 2.6, color = "#52514e"
+  ) +
+  facet_wrap(~scale_factor, scales = "free_y") +
+  scale_fill_manual(values = engine_colors) +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.28))) +
+  labs(
+    title = "BSBM query throughput: GengoDB vs. Fuseki Jena",
+    subtitle = "Queries per second per query (higher is better), by scale factor",
+    x = "Query number",
+    y = "Queries per second",
+    fill = NULL
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(
+    legend.position = "top",
+    panel.grid.minor = element_blank(),
+    panel.grid.major.x = element_blank(),
+    strip.text = element_text(face = "bold")
+  )
+```
+
+## Custom LingoDB modules: compile time vs. execution time
+
+Compares three matched pairs of custom modules under `Results/custom/`:
+PageRank vs. PageRank with Graph SubOps, Triangle Search vs. Triangle Search
+with Graph SubOps, and Triple Join (SubOp) vs. Triple Join (Cheap). Each run's
+`total_mean` is split into the compile-time portion (everything up to and
+including LLVM codegen) and the `executionTime_mean` portion (the query
+actually running).
+
+```{r custom-load}
+custom_dir <- "Results/custom"
+
+# file -> which pair it belongs to, and its short label within that pair
+custom_variants <- tribble(
+  ~file, ~pair, ~variant,
+  "pagerank.mlir", "PageRank", "Base",
+  "pagerank_gsubop.mlir", "PageRank", "Graph SubOps",
+  "triangle_search.mlir", "Triangle Search", "Base",
+  "triangle_search_gsubop.mlir", "Triangle Search", "Graph SubOps",
+  "triple_join_subop.mlir", "Bound Variable Join", "Inner Join",
+  "triple_join_cheap.mlir", "Bound Variable Join", "Optimized"
+)
+
+custom_run_dirs <- list.dirs(custom_dir, recursive = FALSE, full.names = TRUE)
+custom_run_dirs <- custom_run_dirs[grepl("-coffee-custom$", basename(custom_run_dirs))]
+
+read_custom_run <- function(dir) {
+  read.csv(file.path(dir, "results.csv"), stringsAsFactors = FALSE) %>%
+    as_tibble() %>%
+    select(file, executionTime_mean, total_mean)
+}
+
+custom_wide <- map_dfr(custom_run_dirs, read_custom_run) %>%
+  inner_join(custom_variants, by = "file") %>%
+  mutate(compile_time_mean = total_mean - executionTime_mean)
+
+# Long form: one row per (pair, variant, phase) so compile + execution stack
+# to the run's total_mean. Built with bind_rows instead of pivot_longer to
+# avoid adding a tidyr dependency.
+custom_data <- bind_rows(
+  custom_wide %>% transmute(pair, variant, phase = "Compile time", time_ms = compile_time_mean),
+  custom_wide %>% transmute(pair, variant, phase = "Execution time", time_ms = executionTime_mean)
+) %>%
+  group_by(pair, variant) %>%
+  mutate(total_ms = sum(time_ms)) %>%
+  ungroup() %>%
+  mutate(
+    phase = factor(phase, levels = c("Compile time", "Execution time")),
+    pair = factor(pair, levels = c("PageRank", "Triangle Search", "Bound Variable Join")),
+    variant = factor(variant, levels = c("Base", "Graph SubOps", "Inner Join", "Optimized")),
+    # Execution time is tiny next to compile time (compile-once/execute-fast
+    # pipeline) - a stacked segment that thin isn't readable, so label it
+    # directly above the bar instead.
+    seg_label = if_else(phase == "Execution time", sprintf("%.3f ms", time_ms), "")
+  )
+```
+
+```{r custom-plot, fig.width=11, fig.height=5}
+phase_colors <- c("Compile time" = "#2a78d6", "Execution time" = "#eb6834")
+
+ggplot(custom_data, aes(x = variant, y = time_ms, fill = phase)) +
+  geom_col(width = 0.55) +
+  geom_text(
+    aes(label = seg_label, y = total_ms),
+    vjust = -0.4, size = 3, color = "#52514e"
+  ) +
+  facet_wrap(~pair, scales = "free_x", nrow = 1) +
+  scale_fill_manual(values = phase_colors) +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.15))) +
+  labs(
+    title = "Sub-operator modules: compile time vs. execution time",
+    subtitle = "Total time per run (ms), split into compile time and execution time",
+    x = NULL,
+    y = "Time (ms)",
+    fill = NULL
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(
+    legend.position = "top",
+    panel.grid.minor = element_blank(),
+    panel.grid.major.x = element_blank(),
+    strip.text = element_text(face = "bold")
+  )
+```
+
+## BSBM queries on the custom backend: compile time vs. execution time
+
+Same breakdown as above (`total_mean` split into compile time and
+`executionTime_mean`), now for the BSBM query mix run individually through the
+custom backend under `Results/custom/bsbm/` (one run directory per query,
+SF1000). Only runs with `status == "OK"` are kept - query 9 is present but
+`FAILED` (0/20 reps succeeded), and queries 6 and 12 were never run against
+this backend, consistent with them being unsupported.
+
+```{r bsbm-custom-load}
+bsbm_custom_dir <- "Results/custom/bsbm"
+
+bsbm_custom_run_dirs <- list.dirs(bsbm_custom_dir, recursive = FALSE, full.names = TRUE)
+
+read_bsbm_custom_run <- function(dir) {
+  read.csv(file.path(dir, "results.csv"), stringsAsFactors = FALSE) %>%
+    as_tibble()
+}
+
+bsbm_custom_wide <- map_dfr(bsbm_custom_run_dirs, read_bsbm_custom_run) %>%
+  filter(status == "OK") %>%
+  mutate(
+    query = as.integer(gsub("\\.sparql$", "", file)),
+    compile_time_mean = total_mean - executionTime_mean
+  )
+
+bsbm_custom_data <- bind_rows(
+  bsbm_custom_wide %>% transmute(query, phase = "Compile time", time_ms = compile_time_mean),
+  bsbm_custom_wide %>% transmute(query, phase = "Execution time", time_ms = executionTime_mean)
+) %>%
+  group_by(query) %>%
+  mutate(total_ms = sum(time_ms)) %>%
+  ungroup() %>%
+  mutate(
+    phase = factor(phase, levels = c("Compile time", "Execution time")),
+    query = factor(query, levels = sort(unique(query))),
+    # Same reasoning as the custom-module chart: execution time is a sliver
+    # next to compile time, so label it directly above the bar.
+    seg_label = if_else(phase == "Execution time", sprintf("%.2f ms", time_ms), "")
+  )
+```
+
+```{r bsbm-custom-plot, fig.width=10, fig.height=6}
+phase_colors <- c("Compile time" = "#2a78d6", "Execution time" = "#eb6834")
+
+ggplot(bsbm_custom_data, aes(x = query, y = time_ms, fill = phase)) +
+  geom_col(width = 0.6) +
+  geom_text(
+    aes(label = seg_label, y = total_ms),
+    vjust = -0.4, size = 3, color = "#52514e"
+  ) +
+  scale_fill_manual(values = phase_colors) +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.15))) +
+  labs(
+    title = "BSBM queries direct execution: compile time vs. execution time",
+    subtitle = "Total time per query (ms, SF1000), split into compile time and execution time",
+    x = "Query number",
+    y = "Time (ms)",
+    fill = NULL
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(
+    legend.position = "top",
+    panel.grid.minor = element_blank(),
+    panel.grid.major.x = element_blank()
+  )
+```

@@ -7,3 +7,7 @@
 /data/
 /results/*
 !/results/.gitkeep
+
+# Environment
+.venv/
+.vscode/
