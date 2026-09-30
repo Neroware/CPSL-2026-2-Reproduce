@@ -1,5 +1,6 @@
 services:
   gengodb:
+    image: pi/bsbm/gengodb
     build:
       context: hosts/GengoDB
       ssh:
@@ -21,6 +22,7 @@ services:
       ]
 
   jena-fuseki:
+    image: pi/bsbm/jena-fuseki
     build:
       context: hosts/JenaFuseki
     volumes:
@@ -37,6 +39,7 @@ services:
       ]
 
   bsbm-tools:
+    image: pi/bsbm/bsbm-tools
     build:
       context: .
       dockerfile: hosts/BSBMTools/Dockerfile
