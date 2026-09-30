@@ -30,7 +30,7 @@ Both go through the same test-driver/orchestration scripts under
 ## Pieces
 
 - [hosts/GengoDB/Dockerfile](hosts/GengoDB/Dockerfile) — builds GengoDB
-  (`rz/benchmark/bsbm`, release mode) and serves it via `sparql-endpoint`.
+  (`rz/benchmark/bsbm/latest`, release mode) and serves it via `sparql-endpoint`.
 - [hosts/JenaFuseki/Dockerfile](hosts/JenaFuseki/Dockerfile) — downloads and
   verifies (SHA-512) the official Apache Jena Fuseki 6.2.0 binary
   distribution and serves it via `fuseki-server.jar` on a TDB2 dataset.
