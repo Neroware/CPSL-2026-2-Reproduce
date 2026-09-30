@@ -1,0 +1,5 @@
+== Custom module timing summary (20260930T081113Z-sf1000-custom) ==
+(all times in ms - see lingodb::execution::TimingPrinter; mean over successful reps, blank = phase not used)
+
+file      type    warmups  reps_requested  reps_ok  status  271_mean  lowerRelAlg_mean  lowerSubOp_mean  lowerDB_mean  lowerArrow_mean  lowerToLLVM_mean  baselineLowering_mean  toLLVMIR_mean  llvmOptimize_mean  llvmCodeGen_mean  baselineCodeGen_mean  baselineEmit_mean  executionTime_mean  total_mean  executionTime_min  executionTime_max  total_min  total_max
+7.sparql  sparql  5        20              20       OK      0.27215   0.5595            6.4112           21.5634       5.33005          77.3907                                  6.5625         48.1613            211.979                                                    27.7651             409.031     27.291             28.444             407.172    411.616

@@ -1,0 +1,22 @@
+== BSBM result summary (/home/zebiscra/Documents/Workspace/cpsl-benchmark/results/20260930T064849Z-sf3000-fuseki/result.xml) ==
+Scale factor (product count):      3000
+Query mix runs (measured):         20
+Total runtime (s):                 5.443
+Query Mixes per Hour (QMpH):       13227.29
+Avg. query mix runtime (s, arith): 0.27216
+Avg. query mix runtime (s, geom):  0.27066
+
+Per-query breakdown:
+nr   count  aqet(s)      aqetg(s)     qps        avgres     timeouts
+1    20     0.001345     0.001327     743.32     1.50       0       
+2    120    0.003001     0.002980     333.24     20.75      0       
+3    20     0.001680     0.001657     595.33     0.95       0       
+4    20     0.001751     0.001734     571.23     0.25       0       
+5    40     0.115937     0.114046     8.63       4.50       0       
+6    0      0.0          -            -          -          -       
+7    80     0.002215     0.002171     451.42     9.80       0       
+8    40     0.002069     0.002022     483.37     4.78       0       
+9    0      0.000000     NaN          Infinity   0.00       0       
+10   40     0.001617     0.001598     618.46     1.98       0       
+11   20     0.001278     0.001268     782.65     10.00      0       
+12   0      0.000000     NaN          Infinity   0.00       0       

@@ -1,0 +1,12 @@
+{
+  "run_id": "20260930T063857Z-sf4000-gengodb",
+  "backend": "gengodb",
+  "scale": "sf4000",
+  "product_count": 4000,
+  "runs": 20,
+  "warmups": 5,
+  "seed": 808080,
+  "query_mix": "explore",
+  "endpoint": "http://gengodb:8890/sparql",
+  "timestamp_utc": "2026-09-30T06:39:28Z"
+}

@@ -1,0 +1,2 @@
+file,type,warmups,reps_requested,reps_ok,status,271_mean,lowerRelAlg_mean,lowerSubOp_mean,lowerDB_mean,lowerArrow_mean,lowerToLLVM_mean,baselineLowering_mean,toLLVMIR_mean,llvmOptimize_mean,llvmCodeGen_mean,baselineCodeGen_mean,baselineEmit_mean,executionTime_mean,total_mean,executionTime_min,executionTime_max,total_min,total_max
+triple_join_cheap.mlir,mlir,5,20,20,OK,0.029,0.1086,0.8323,0.69905,0.1811,2.9763,,0.5082,1.87325,9.71875,,,0.0525,19.8828,0.048,0.056,19.685,20.221

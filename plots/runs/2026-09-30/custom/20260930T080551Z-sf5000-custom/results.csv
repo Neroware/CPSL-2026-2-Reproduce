@@ -1,0 +1,2 @@
+file,type,warmups,reps_requested,reps_ok,status,271_mean,lowerRelAlg_mean,lowerSubOp_mean,lowerDB_mean,lowerArrow_mean,lowerToLLVM_mean,baselineLowering_mean,toLLVMIR_mean,llvmOptimize_mean,llvmCodeGen_mean,baselineCodeGen_mean,baselineEmit_mean,executionTime_mean,total_mean,executionTime_min,executionTime_max,total_min,total_max
+10.sparql,sparql,5,20,20,OK,0.1404,0.47565,3.0449,13.2839,3.3333,45.5538,,3.87575,29.4555,127.839,,,77.2233,307.044,74.94,79.789,303.975,309.838

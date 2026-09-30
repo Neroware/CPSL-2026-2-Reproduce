@@ -1,0 +1,2 @@
+file,type,warmups,reps_requested,reps_ok,status,271_mean,lowerRelAlg_mean,lowerSubOp_mean,lowerDB_mean,lowerArrow_mean,lowerToLLVM_mean,baselineLowering_mean,toLLVMIR_mean,llvmOptimize_mean,llvmCodeGen_mean,baselineCodeGen_mean,baselineEmit_mean,executionTime_mean,total_mean,executionTime_min,executionTime_max,total_min,total_max
+triangle_search.mlir,mlir,5,20,20,OK,0.0319,0.0412,1.12175,0.49105,0.161,3.2324,,0.5991,1.3828,11.6156,,,0.1136,21.6743,0.086,0.206,21.397,22.314

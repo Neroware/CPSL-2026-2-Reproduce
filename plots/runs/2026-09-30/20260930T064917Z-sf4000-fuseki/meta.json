@@ -1,0 +1,12 @@
+{
+  "run_id": "20260930T064917Z-sf4000-fuseki",
+  "backend": "fuseki",
+  "scale": "sf4000",
+  "product_count": 4000,
+  "runs": 20,
+  "warmups": 5,
+  "seed": 808080,
+  "query_mix": "explore",
+  "endpoint": "http://jena-fuseki:3030/ds/sparql",
+  "timestamp_utc": "2026-09-30T06:49:27Z"
+}

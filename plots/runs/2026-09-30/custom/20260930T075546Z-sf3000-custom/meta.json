@@ -1,0 +1,9 @@
+{
+  "run_id": "20260930T075546Z-sf3000-custom",
+  "scale": "sf3000",
+  "db_dir": "/home/zebiscra/Documents/Workspace/cpsl-benchmark/data/db/sf3000",
+  "warmups": 5,
+  "reps": 20,
+  "files": ["queries/custom/mlir/triple_join_cheap.mlir"],
+  "timestamp_utc": "2026-09-30T07:56:10Z"
+}
