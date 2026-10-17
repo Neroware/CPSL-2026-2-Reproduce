@@ -12,6 +12,8 @@
 : "${RUNS:=20}"                      # BSBM -runs (upstream default: 500)
 : "${WARMUPS:=5}"                    # BSBM -w      (upstream default: 50)
 : "${SEED:=808080}"                  # BSBM -seed   (upstream default)
+: "${CHECK_RUNS:=10}"                # query mixes of instances for run-correctness.sh
+: "${CHECK_TIMEOUT:=60}"             # per-query timeout (s) for run-correctness.sh
 : "${DB_CAPACITY:=2000000}"          # gengodb://sparql/settings/#capacity - see
                                       # hosts/GengoDB/known-issues/README.md #2.
                                       # Default GengoDB cap is 1024

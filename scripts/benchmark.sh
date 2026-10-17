@@ -6,6 +6,8 @@
 # Configure via environment variables (see lib.sh for defaults):
 #   BACKEND (gengodb|fuseki), SCALE, PRODUCT_COUNT, GENGODB_PORT,
 #   GENGODB_SPARQL_PATH, FUSEKI_PORT, FUSEKI_DATASET, RUNS, WARMUPS, SEED
+#   CHECK_CORRECTNESS=1 additionally runs run-correctness.sh afterwards
+#   (BACKEND=gengodb only; needs the Fuseki DB for $SCALE initialized too).
 # Examples:
 #   SCALE=sf5000 PRODUCT_COUNT=5000 RUNS=50 WARMUPS=10 ./scripts/benchmark.sh
 #   BACKEND=fuseki ./scripts/benchmark.sh
@@ -50,5 +52,10 @@ log "== 5/6: smoke test =="
 
 log "== 6/6: run benchmark =="
 "$SCRIPT_DIR/run-benchmark.sh"
+
+if [ "${CHECK_CORRECTNESS:-0}" = "1" ] && [ "$BACKEND" = "gengodb" ]; then
+  log "== extra: correctness check against Fuseki =="
+  "$SCRIPT_DIR/run-correctness.sh"
+fi
 
 log "Done."

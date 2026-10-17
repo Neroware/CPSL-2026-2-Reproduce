@@ -10,23 +10,6 @@ running in Docker. Two targets are wired up, selected via `BACKEND`:
 Both go through the same test-driver/orchestration scripts under
 [scripts/](scripts/).
 
-> **Status: both backends have completed a full end-to-end `run-benchmark.sh`
-> run (2026-08-12).**
->
-> - **GengoDB**: 20 measured "explore" query-mix runs against a shared
->   dataset (see the dataset-size caveat below), zero crashes, zero
->   timeouts. See
->   [hosts/GengoDB/known-issues/README.md](hosts/GengoDB/known-issues/README.md)
->   for the full history (four issues found and fixed across two rounds of
->   testing) and the caveat that still applies: `DESCRIBE`/`CONSTRUCT`
->   (queries 9/12) return an empty stub rather than real RDF, so their
->   numbers reflect querying nothing, not real DESCRIBE/CONSTRUCT
->   performance.
-> - **Fuseki**: 20 measured "explore" query-mix runs, zero crashes, zero
->   timeouts, **no caveats** — it's a complete SPARQL implementation, so
->   `DESCRIBE`/`CONSTRUCT` (queries 9/12) return real RDF and real byte
->   counts rather than an empty stub.
-
 ## Pieces
 
 - [hosts/GengoDB/Dockerfile](hosts/GengoDB/Dockerfile) — builds GengoDB
@@ -147,6 +130,61 @@ misalign a naive split. See the comments in that script and in
 `lingodb::execution::TimingPrinter` in GengoDB's
 `include/lingodb/execution/Timing.h`).
 
+## Correctness check
+
+The benchmark itself only measures time. [scripts/run-correctness.sh](scripts/run-correctness.sh)
+checks that GengoDB's answers are actually *right*, by replaying concrete
+BSBM query instances against both GengoDB and Fuseki (the reference
+implementation) and comparing every answer:
+
+```sh
+./scripts/init-db.sh && BACKEND=fuseki ./scripts/init-db.sh   # both DBs for $SCALE
+./scripts/run-correctness.sh                                  # or: SCALE=sf5000 ...
+CHECK_CORRECTNESS=1 ./scripts/benchmark.sh                    # benchmark, then check
+```
+
+It starts whichever server isn't running yet (and stops only those again),
+and refuses to reuse a running server that serves a different `$SCALE`.
+The GengoDB server is checked exactly as configured in `docker-compose.yml`
+(the server flags and image are recorded in `meta.json`), so a change to
+the benchmarked setup, e.g. `--enable-cache`, is reflected in the check.
+
+How it works:
+
+1. [scripts/gen-correctness-queries.sh](scripts/gen-correctness-queries.sh)
+   runs the BSBM test driver in qualification mode (`-q`) against Fuseki,
+   using the `explore-all` query mix
+   ([tools/test-driver/queries/explore-all/](tools/test-driver/queries/explore-all/)):
+   the explore queries plus 6, with nothing ignored. That yields
+   `CHECK_RUNS` × 26 concrete query instances with BSBM's own parameter
+   distribution, logged to `run.log`. This happens once per
+   scale/seed/runs under `results/correctness/reference/`, together with
+   a cache of Fuseki's answers; `FORCE=1` regenerates it.
+2. [scripts/check-correctness.py](scripts/check-correctness.py) (run
+   inside `bsbm-tools`) sends every instance to both endpoints and
+   classifies GengoDB's answer. Rows are compared as multisets, or as
+   lists under `ORDER BY`. Numeric literals are compared by value, and
+   `ORDER BY ... LIMIT` accepts any valid choice among rows tied at the
+   cut-off (`match_modulo_ties`). CONSTRUCT/DESCRIBE answers are compared
+   as graphs (isomorphism). DESCRIBE output is implementation-defined, so
+   queries 9 and 12 are marked informational (`[i]`) and excluded from
+   the overall score.
+
+BSBM's own `qualification` tool isn't used for the comparison: it only
+compares the columns in `query*valid.txt` and only SELECT queries,
+compares the tested run's head with itself (upstream bug in
+`Qualification.java`), can't handle ties at a `LIMIT`, and exits on
+malformed XML.
+
+Results land in `results/correctness/<run-id>/`:
+
+- `summary.txt`: per-query status counts plus the first failing instances.
+- `summary.csv`: the same, one row per query (`correct_pct` =
+  `match` + `match_modulo_ties` share).
+- `instances.jsonl`: one record per instance with status, row/triple
+  counts, query text and a sample of missing/extra rows.
+- `meta.json`: endpoints, scale, seed, GengoDB image and server args.
+
 ## Configuration
 
 All via environment variables (defaults in `scripts/lib.sh`):
@@ -163,6 +201,8 @@ All via environment variables (defaults in `scripts/lib.sh`):
 | `RUNS`                 | `20`      | BSBM `-runs` (measured query-mix repetitions). Upstream BSBM default is 500. |
 | `WARMUPS`              | `5`       | BSBM `-w` (warm-up repetitions before measuring). Upstream default is 50. |
 | `SEED`                 | `808080`  | BSBM `-seed`, fixed for run-to-run comparability     |
+| `CHECK_RUNS`           | `10`      | Query mixes of instances `run-correctness.sh` checks (×26 instances each) |
+| `CHECK_TIMEOUT`        | `60`      | Per-query timeout (s) in `run-correctness.sh` |
 | `DB_CAPACITY`          | `2000000` | GengoDB `db:capacity` (node/rel/property cap), set before `LOAD` in `init-db.sh`. Default GengoDB cap is 1024, which segfaults on any real BSBM dataset. Unused by Fuseki. |
 
 Example for a larger, closer-to-standard run:
@@ -170,8 +210,3 @@ Example for a larger, closer-to-standard run:
 ```sh
 SCALE=sf25000 PRODUCT_COUNT=25000 RUNS=100 WARMUPS=25 BACKEND=fuseki ./scripts/benchmark.sh
 ```
-
-## Verified against real runs
-
-Confirmed end-to-end by actually building both backends and running the
-pipeline **(Last tested on 12.08.2026)**
