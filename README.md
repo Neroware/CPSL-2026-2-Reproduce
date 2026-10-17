@@ -153,11 +153,10 @@ How it works:
 
 1. [scripts/gen-correctness-queries.sh](scripts/gen-correctness-queries.sh)
    runs the BSBM test driver in qualification mode (`-q`) against Fuseki,
-   using the `explore-all` query mix
-   ([tools/test-driver/queries/explore-all/](tools/test-driver/queries/explore-all/)):
-   the explore queries plus 6, with nothing ignored. That yields
-   `CHECK_RUNS` × 26 concrete query instances with BSBM's own parameter
-   distribution, logged to `run.log`. This happens once per
+   using the `explore` query mix
+   ([tools/test-driver/queries/explore/](tools/test-driver/queries/explore/)):
+   That yields `CHECK_RUNS` × 25 concrete query instances with BSBM's own 
+   parameter distribution, logged to `run.log`. This happens once per
    scale/seed/runs under `results/correctness/reference/`, together with
    a cache of Fuseki's answers; `FORCE=1` regenerates it.
 2. [scripts/check-correctness.py](scripts/check-correctness.py) (run

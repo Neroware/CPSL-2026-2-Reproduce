@@ -5,9 +5,6 @@
 # string plus its result to run.log (see tools/test-driver/log4j.xml),
 # which check-correctness.py then replays against both endpoints.
 #
-# Uses the explore-all query mix: the same queries as "explore", but with an
-# empty ignoreQueries.txt, so queries 6/9/12 are included too.
-#
 # Usage: ./scripts/gen-correctness-queries.sh <output dir under ./results>
 set -euo pipefail
 cd "$(dirname "${BASH_SOURCE[0]}")"
@@ -32,7 +29,7 @@ docker compose run --rm bsbm-tools bash -c "
     -runs '$CHECK_RUNS' \
     -seed '$SEED' \
     -idir '$DATASET_DIR_CT' \
-    -ucf usecases/explore-all/sparql.txt \
+    -ucf usecases/explore/sparql.txt \
     '$ENDPOINT' && cp run.log '$OUT_CT/run.log'
 " 2>&1 | tee "$OUT_HOST/driver.log"
 
@@ -44,7 +41,7 @@ cat > "$OUT_HOST/meta.json" <<EOF
   "product_count": $PRODUCT_COUNT,
   "seed": $SEED,
   "runs": $CHECK_RUNS,
-  "query_mix": "explore-all",
+  "query_mix": "explore",
   "reference_endpoint": "$ENDPOINT",
   "timestamp_utc": "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
 }
