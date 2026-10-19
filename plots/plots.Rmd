@@ -88,6 +88,25 @@ bsbm_plot <- ggplot(bsbm_data, aes(x = query, y = total_runtime, fill = engine))
 bsbm_plot
 ```
 
+```{r bsbm-geomean}
+geo_mean <- function(x) exp(mean(log(x)))
+
+bsbm_geomean <- bsbm_data %>%
+  group_by(scale_factor) %>%
+  summarise(
+    gengodb = geo_mean(total_runtime[engine == "GengoDB"]),
+    fuseki = geo_mean(total_runtime[engine == "Fuseki Jena"])
+  ) %>%
+  mutate(ratio = gengodb / fuseki)
+
+knitr::kable(
+  bsbm_geomean,
+  col.names = c("Scale factor", "GengoDB (s)", "Fuseki Jena (s)", "Ratio GengoDB / Fuseki Jena"),
+  digits = 3,
+  caption = "Geometric mean of total query runtime per scale factor"
+)
+```
+
 ## Custom LingoDB backend: shared loading and plotting
 
 Visualize individual module runs stored as `<timestamp>-sf<scale factor>-custom`
