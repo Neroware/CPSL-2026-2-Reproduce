@@ -9,26 +9,26 @@ ENV TZ=Etc/UTC
 RUN apt-get update && \
     apt-get upgrade -y && \
     apt-get install -y \
-        git \
-        openssh-client \
-        ssh \
-        vim \
-        gdb \
-        wget \
-        curl \
-        ca-certificates \
-        software-properties-common \
-        build-essential \
-        cmake \
-        ninja-build \
-        flex \
-        bison \
-        python3 \
-        python3-pip \
-        python3-venv \
-        lsb-release \
-        pkg-config \
-        catch2 && \
+    git \
+    openssh-client \
+    ssh \
+    vim \
+    gdb \
+    wget \
+    curl \
+    ca-certificates \
+    software-properties-common \
+    build-essential \
+    cmake \
+    ninja-build \
+    flex \
+    bison \
+    python3 \
+    python3-pip \
+    python3-venv \
+    lsb-release \
+    pkg-config \
+    catch2 && \
     rm -rf /var/lib/apt/lists/*
 
 # ------------------------------------------------------------
@@ -52,13 +52,13 @@ RUN wget https://apt.llvm.org/llvm.sh && \
 
 RUN apt-get update && \
     apt-get install -y \
-        clang-20 \
-        llvm-20 \
-        libclang-20-dev \
-        llvm-20-dev \
-        libmlir-20-dev \
-        mlir-20-tools \
-        clang-tidy-20 && \
+    clang-20 \
+    llvm-20 \
+    libclang-20-dev \
+    llvm-20-dev \
+    libmlir-20-dev \
+    mlir-20-tools \
+    clang-tidy-20 && \
     rm -rf /var/lib/apt/lists/*
 
 ENV CC=clang-20
@@ -72,10 +72,10 @@ RUN wget https://apache.jfrog.io/artifactory/arrow/$(lsb_release --id --short | 
 
 RUN apt-get update && \
     apt-get install -y \
-        libarrow-dev=24.* \
-        libarrow-compute-dev=24.* \
-        libparquet-dev=24.* \
-        libboost-context1.83-dev && \
+    libarrow-dev=24.* \
+    libarrow-compute-dev=24.* \
+    libparquet-dev=24.* \
+    libboost-context1.83-dev && \
     rm -rf /var/lib/apt/lists/*
 
 # ------------------------------------------------------------
@@ -94,12 +94,12 @@ RUN git clone https://github.com/tentris/rdf4cpp.git && \
     cd rdf4cpp && \
     git checkout v0.1.13 && \
     wget https://github.com/conan-io/cmake-conan/raw/develop2/conan_provider.cmake \
-        -O conan_provider.cmake && \
+    -O conan_provider.cmake && \
     cmake -S . -B build_dir \
-        -DCMAKE_BUILD_TYPE=Release \
-        -DCMAKE_C_COMPILER=clang-20 \
-        -DCMAKE_CXX_COMPILER=clang++-20 \
-        -DCMAKE_PROJECT_TOP_LEVEL_INCLUDES="$PWD/conan_provider.cmake" && \
+    -DCMAKE_BUILD_TYPE=Release \
+    -DCMAKE_C_COMPILER=clang-20 \
+    -DCMAKE_CXX_COMPILER=clang++-20 \
+    -DCMAKE_PROJECT_TOP_LEVEL_INCLUDES="$PWD/conan_provider.cmake" && \
     cmake --build build_dir --parallel "$(nproc)" && \
     cmake --install build_dir
 
@@ -118,7 +118,7 @@ RUN --mount=type=ssh \
     echo "cachebust=${GENGODB_CACHEBUST}" && \
     git clone git@github.com:Neroware/GengoDB.git /gengodb
 WORKDIR /gengodb
-RUN git checkout rz/benchmark/bsbm/2026-09-30
+RUN git checkout rz/benchmark/bsbm/2026-10-19
 RUN --mount=type=ssh \
     git submodule update --init --recursive
 RUN make build-release
