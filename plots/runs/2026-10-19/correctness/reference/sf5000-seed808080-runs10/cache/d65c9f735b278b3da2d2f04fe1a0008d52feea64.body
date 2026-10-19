@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="label"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer31/Product1414</uri>
+      </binding>
+      <binding name="label">
+        <literal>dozily</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer104/Product4888</uri>
+      </binding>
+      <binding name="label">
+        <literal>megaphone whits</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer26/Product1239</uri>
+      </binding>
+      <binding name="label">
+        <literal>montaged decommissioned</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer25/Product1134</uri>
+      </binding>
+      <binding name="label">
+        <literal>pensionable coppered</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer90/Product4316</uri>
+      </binding>
+      <binding name="label">
+        <literal>tenoned lowbrow</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer75/Product3522</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>acceleration louvers</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer73/Product3457</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>acquirable</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer99/Product4666</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>argufy</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer71/Product3362</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>backfilled lighting</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer99/Product4671</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>backwoodsmen</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,14 @@
+{
+  "reference": "http://jena-fuseki:3030/ds/sparql",
+  "test": "http://gengodb:8890/sparql",
+  "instances": 200,
+  "queries_log": "/results/correctness/reference/sf5000-seed808080-runs10/run.log",
+  "timeout_s": 60.0,
+  "run_id": "20261019T080425Z-sf5000-correctness",
+  "scale": "sf5000",
+  "seed": "808080",
+  "check_runs": "10",
+  "gengodb_image": "sha256:0c8b0a08f2b66451518cd192628d3aad2ee94cb3ddf4c353e39b0def8a30e248",
+  "gengodb_args": "/data/db/sf5000/ --host 0.0.0.0 --port 8890 --enable-cache",
+  "timestamp_utc": "2026-10-19T08:04:25Z"
+}

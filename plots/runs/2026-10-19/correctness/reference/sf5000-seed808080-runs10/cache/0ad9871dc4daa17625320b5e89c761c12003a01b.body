@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="text"/>
+    <variable name="reviewDate"/>
+    <variable name="reviewer"/>
+    <variable name="reviewerName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+    <variable name="rating3"/>
+    <variable name="rating4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="title">
+        <literal>clotures micropipette holeless birdseyes eructs beechnut tiredness unarms inaugurating resubmit fylfot shootouts antipopes rencounter</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">bluecoats underset originals thrustpush inflicted overindulging dewaxed reconcentrated dauphins skeeters oboists dangers temperatures acceded annualized senhor tottering minoring torticollis frumpiest rebroadcasted tidewaters fibered newnesses aviating benedictions crossways enriched annulate spewer putouts hairlike promisee gelee refrigerates tongued ouches millpond junctions staterooms dividers samechs audiovisuals rearousing justly jointly ferries redistill superannuating basher forewarns loper volunteers yogins urinogenital boaters uncomplaining dibbuks hearsing worriment salvoed whizbang sanguinely effectuates interdenominational ropeway terraced loops stewpans keening spinets brusk imperialist pingrasses leaderless penults supermolecule safaried redry illicitly minibikes deaccessioned unblock egomania hypnoses filar yawned denominating subtraction cogitos sparry infested subsisting ponchos hatchable alkalinizes wivern offended inspirations annullable unwritten seasonality dogmata serrating slummiest crimsons invigoration uncorking meseems totalizer misted gentiles slugabeds chalcopyrite emptily idealizing montanans kilotons maxwells excused mortified binoculars neologic painfulness ransacked wonderingly playwear tics pasquinade walkouts anthropologist irreparableness befriend nonpaying frustrating polytheistic discommode sporulate harborers alleyways agar frazzling centralizing dozing vanguards rhapsodize recelebrate folioed unmanful caucusing screenwriter humiliating slashings affixes cinematographers technocrats nicely caninity</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-01-07T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1500</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Desha-Ines</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>poulticing ambivert casavas caviare immunotherapies corrupting teratologies excavates noninterventionists lignifies auricular joules relapsers</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">spiel tortuosities microwave miniaturizes irreconcilably feminines requiem interfiled mensurative spooked corespondents bursaries vowers ichthyosiform persuasively unfeeling phials visitors louped incarnations dreadfully shouts attenuates devotedly brashness dandyism hexers plebiscites czechoslovaks libellee polluting sitars amnesics ospreys subsumable symmetric auras bruskness hatted briony prostrating rheumatically jouster glueing nettlier announcers highlights pugilists ensured fashioned gaucher reeky bandmasters revoltingly toyish splashdowns undercoatings networked suborders stupe deathlessly rocked powwowed expansively</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-09-03T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1805</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Anastsios</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>flavoured heartsick liquidators lamented phantasmagory</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">keening bemoaned sitcoms contemptuously seduceable teared motormen unwittingly berets lienee knuckleheads atonality mags tosses counterespionage levied predicates buggery lancelets placidness unaged identifying slackest peseta yammered phylacteries segue phonetician lubricates sufferer milieus clabbering snowplow drums tractional figurant reheated stagings floorboards accusatorial hellebores cay researcher rhombuses serializing naphtha unhitch realest reconquest adulates</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-07-03T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer839</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Honami-Tsumemasa</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

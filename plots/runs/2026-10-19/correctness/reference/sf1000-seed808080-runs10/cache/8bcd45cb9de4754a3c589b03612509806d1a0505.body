@@ -1,0 +1,579 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>nonabrasiveness</literal>
+      </binding>
+      <binding name="comment">
+        <literal>postformed naves curries salinas carless basters vanquisher predictively reforge unmerited intermesh craton minelayer augments treacle landsmen cozens monumental tousling decapitate vituperating falconets mendings appositively rakehell debark vantages hindquarter gallivanted lathery handfasted infundibulum chanters fatuousness reserved undistinguished hijacker spumier pinchbugs disarticulation dabbed misterms alkalify squealer buchu dogsleds overruling bastinadoes beechy emplacement dustpan doffed votaries unpen capitalizers gleanings inflates unscrew teariest retailor piles extortionate canaanite peroxiding putrescence trawls agatize balloter hearting rupturing halidom sunbathe subdivider colombians suffixed atheisms loden deciduousness slipshodness emulator disinfection frivoled blushed scrapples macadamize marabouts junkman corruptibly agriculturist itemizes barmen refrigerants inaptness browny dithered mismatches betrayers hulas sparingly anole rolling miscellanies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>matrilinearly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misprize promiscuously considers spasmodical kerf dazzles loudens copular dexterousness bowfront viols</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pavan inshrines lieutenancy lamina gangs</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>rumouring paperweights lienor capillaries nescients</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">845</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>rootless scratchiness homophiles overspreads endwise watermarking sulphuring pandowdies plagiarizing trifocal cumbers</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reiterated nonpartisans dishpans stouten gristliest honor mischarge spectrometry tokenism escrowed eclats richens hoorahed exploitable oftest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>nonabrasiveness</literal>
+      </binding>
+      <binding name="comment">
+        <literal>postformed naves curries salinas carless basters vanquisher predictively reforge unmerited intermesh craton minelayer augments treacle landsmen cozens monumental tousling decapitate vituperating falconets mendings appositively rakehell debark vantages hindquarter gallivanted lathery handfasted infundibulum chanters fatuousness reserved undistinguished hijacker spumier pinchbugs disarticulation dabbed misterms alkalify squealer buchu dogsleds overruling bastinadoes beechy emplacement dustpan doffed votaries unpen capitalizers gleanings inflates unscrew teariest retailor piles extortionate canaanite peroxiding putrescence trawls agatize balloter hearting rupturing halidom sunbathe subdivider colombians suffixed atheisms loden deciduousness slipshodness emulator disinfection frivoled blushed scrapples macadamize marabouts junkman corruptibly agriculturist itemizes barmen refrigerants inaptness browny dithered mismatches betrayers hulas sparingly anole rolling miscellanies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>wheelman</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misprize promiscuously considers spasmodical kerf dazzles loudens copular dexterousness bowfront viols</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pavan inshrines lieutenancy lamina gangs</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>rumouring paperweights lienor capillaries nescients</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">845</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>rootless scratchiness homophiles overspreads endwise watermarking sulphuring pandowdies plagiarizing trifocal cumbers</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reiterated nonpartisans dishpans stouten gristliest honor mischarge spectrometry tokenism escrowed eclats richens hoorahed exploitable oftest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>nonabrasiveness</literal>
+      </binding>
+      <binding name="comment">
+        <literal>postformed naves curries salinas carless basters vanquisher predictively reforge unmerited intermesh craton minelayer augments treacle landsmen cozens monumental tousling decapitate vituperating falconets mendings appositively rakehell debark vantages hindquarter gallivanted lathery handfasted infundibulum chanters fatuousness reserved undistinguished hijacker spumier pinchbugs disarticulation dabbed misterms alkalify squealer buchu dogsleds overruling bastinadoes beechy emplacement dustpan doffed votaries unpen capitalizers gleanings inflates unscrew teariest retailor piles extortionate canaanite peroxiding putrescence trawls agatize balloter hearting rupturing halidom sunbathe subdivider colombians suffixed atheisms loden deciduousness slipshodness emulator disinfection frivoled blushed scrapples macadamize marabouts junkman corruptibly agriculturist itemizes barmen refrigerants inaptness browny dithered mismatches betrayers hulas sparingly anole rolling miscellanies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>kneading hellholes thanking</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misprize promiscuously considers spasmodical kerf dazzles loudens copular dexterousness bowfront viols</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pavan inshrines lieutenancy lamina gangs</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>rumouring paperweights lienor capillaries nescients</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">845</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>rootless scratchiness homophiles overspreads endwise watermarking sulphuring pandowdies plagiarizing trifocal cumbers</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reiterated nonpartisans dishpans stouten gristliest honor mischarge spectrometry tokenism escrowed eclats richens hoorahed exploitable oftest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>nonabrasiveness</literal>
+      </binding>
+      <binding name="comment">
+        <literal>postformed naves curries salinas carless basters vanquisher predictively reforge unmerited intermesh craton minelayer augments treacle landsmen cozens monumental tousling decapitate vituperating falconets mendings appositively rakehell debark vantages hindquarter gallivanted lathery handfasted infundibulum chanters fatuousness reserved undistinguished hijacker spumier pinchbugs disarticulation dabbed misterms alkalify squealer buchu dogsleds overruling bastinadoes beechy emplacement dustpan doffed votaries unpen capitalizers gleanings inflates unscrew teariest retailor piles extortionate canaanite peroxiding putrescence trawls agatize balloter hearting rupturing halidom sunbathe subdivider colombians suffixed atheisms loden deciduousness slipshodness emulator disinfection frivoled blushed scrapples macadamize marabouts junkman corruptibly agriculturist itemizes barmen refrigerants inaptness browny dithered mismatches betrayers hulas sparingly anole rolling miscellanies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>worshippers bespattered</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misprize promiscuously considers spasmodical kerf dazzles loudens copular dexterousness bowfront viols</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pavan inshrines lieutenancy lamina gangs</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>rumouring paperweights lienor capillaries nescients</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">845</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>rootless scratchiness homophiles overspreads endwise watermarking sulphuring pandowdies plagiarizing trifocal cumbers</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reiterated nonpartisans dishpans stouten gristliest honor mischarge spectrometry tokenism escrowed eclats richens hoorahed exploitable oftest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>nonabrasiveness</literal>
+      </binding>
+      <binding name="comment">
+        <literal>postformed naves curries salinas carless basters vanquisher predictively reforge unmerited intermesh craton minelayer augments treacle landsmen cozens monumental tousling decapitate vituperating falconets mendings appositively rakehell debark vantages hindquarter gallivanted lathery handfasted infundibulum chanters fatuousness reserved undistinguished hijacker spumier pinchbugs disarticulation dabbed misterms alkalify squealer buchu dogsleds overruling bastinadoes beechy emplacement dustpan doffed votaries unpen capitalizers gleanings inflates unscrew teariest retailor piles extortionate canaanite peroxiding putrescence trawls agatize balloter hearting rupturing halidom sunbathe subdivider colombians suffixed atheisms loden deciduousness slipshodness emulator disinfection frivoled blushed scrapples macadamize marabouts junkman corruptibly agriculturist itemizes barmen refrigerants inaptness browny dithered mismatches betrayers hulas sparingly anole rolling miscellanies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sixths inducer mooted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misprize promiscuously considers spasmodical kerf dazzles loudens copular dexterousness bowfront viols</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pavan inshrines lieutenancy lamina gangs</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>rumouring paperweights lienor capillaries nescients</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">845</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>rootless scratchiness homophiles overspreads endwise watermarking sulphuring pandowdies plagiarizing trifocal cumbers</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reiterated nonpartisans dishpans stouten gristliest honor mischarge spectrometry tokenism escrowed eclats richens hoorahed exploitable oftest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>nonabrasiveness</literal>
+      </binding>
+      <binding name="comment">
+        <literal>postformed naves curries salinas carless basters vanquisher predictively reforge unmerited intermesh craton minelayer augments treacle landsmen cozens monumental tousling decapitate vituperating falconets mendings appositively rakehell debark vantages hindquarter gallivanted lathery handfasted infundibulum chanters fatuousness reserved undistinguished hijacker spumier pinchbugs disarticulation dabbed misterms alkalify squealer buchu dogsleds overruling bastinadoes beechy emplacement dustpan doffed votaries unpen capitalizers gleanings inflates unscrew teariest retailor piles extortionate canaanite peroxiding putrescence trawls agatize balloter hearting rupturing halidom sunbathe subdivider colombians suffixed atheisms loden deciduousness slipshodness emulator disinfection frivoled blushed scrapples macadamize marabouts junkman corruptibly agriculturist itemizes barmen refrigerants inaptness browny dithered mismatches betrayers hulas sparingly anole rolling miscellanies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ketonuria</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misprize promiscuously considers spasmodical kerf dazzles loudens copular dexterousness bowfront viols</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pavan inshrines lieutenancy lamina gangs</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>rumouring paperweights lienor capillaries nescients</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">845</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>rootless scratchiness homophiles overspreads endwise watermarking sulphuring pandowdies plagiarizing trifocal cumbers</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reiterated nonpartisans dishpans stouten gristliest honor mischarge spectrometry tokenism escrowed eclats richens hoorahed exploitable oftest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>nonabrasiveness</literal>
+      </binding>
+      <binding name="comment">
+        <literal>postformed naves curries salinas carless basters vanquisher predictively reforge unmerited intermesh craton minelayer augments treacle landsmen cozens monumental tousling decapitate vituperating falconets mendings appositively rakehell debark vantages hindquarter gallivanted lathery handfasted infundibulum chanters fatuousness reserved undistinguished hijacker spumier pinchbugs disarticulation dabbed misterms alkalify squealer buchu dogsleds overruling bastinadoes beechy emplacement dustpan doffed votaries unpen capitalizers gleanings inflates unscrew teariest retailor piles extortionate canaanite peroxiding putrescence trawls agatize balloter hearting rupturing halidom sunbathe subdivider colombians suffixed atheisms loden deciduousness slipshodness emulator disinfection frivoled blushed scrapples macadamize marabouts junkman corruptibly agriculturist itemizes barmen refrigerants inaptness browny dithered mismatches betrayers hulas sparingly anole rolling miscellanies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sunroom</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misprize promiscuously considers spasmodical kerf dazzles loudens copular dexterousness bowfront viols</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pavan inshrines lieutenancy lamina gangs</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>rumouring paperweights lienor capillaries nescients</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">845</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>rootless scratchiness homophiles overspreads endwise watermarking sulphuring pandowdies plagiarizing trifocal cumbers</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reiterated nonpartisans dishpans stouten gristliest honor mischarge spectrometry tokenism escrowed eclats richens hoorahed exploitable oftest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>nonabrasiveness</literal>
+      </binding>
+      <binding name="comment">
+        <literal>postformed naves curries salinas carless basters vanquisher predictively reforge unmerited intermesh craton minelayer augments treacle landsmen cozens monumental tousling decapitate vituperating falconets mendings appositively rakehell debark vantages hindquarter gallivanted lathery handfasted infundibulum chanters fatuousness reserved undistinguished hijacker spumier pinchbugs disarticulation dabbed misterms alkalify squealer buchu dogsleds overruling bastinadoes beechy emplacement dustpan doffed votaries unpen capitalizers gleanings inflates unscrew teariest retailor piles extortionate canaanite peroxiding putrescence trawls agatize balloter hearting rupturing halidom sunbathe subdivider colombians suffixed atheisms loden deciduousness slipshodness emulator disinfection frivoled blushed scrapples macadamize marabouts junkman corruptibly agriculturist itemizes barmen refrigerants inaptness browny dithered mismatches betrayers hulas sparingly anole rolling miscellanies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>litigiousness sportily legacies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misprize promiscuously considers spasmodical kerf dazzles loudens copular dexterousness bowfront viols</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pavan inshrines lieutenancy lamina gangs</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>rumouring paperweights lienor capillaries nescients</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">845</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>rootless scratchiness homophiles overspreads endwise watermarking sulphuring pandowdies plagiarizing trifocal cumbers</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reiterated nonpartisans dishpans stouten gristliest honor mischarge spectrometry tokenism escrowed eclats richens hoorahed exploitable oftest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>nonabrasiveness</literal>
+      </binding>
+      <binding name="comment">
+        <literal>postformed naves curries salinas carless basters vanquisher predictively reforge unmerited intermesh craton minelayer augments treacle landsmen cozens monumental tousling decapitate vituperating falconets mendings appositively rakehell debark vantages hindquarter gallivanted lathery handfasted infundibulum chanters fatuousness reserved undistinguished hijacker spumier pinchbugs disarticulation dabbed misterms alkalify squealer buchu dogsleds overruling bastinadoes beechy emplacement dustpan doffed votaries unpen capitalizers gleanings inflates unscrew teariest retailor piles extortionate canaanite peroxiding putrescence trawls agatize balloter hearting rupturing halidom sunbathe subdivider colombians suffixed atheisms loden deciduousness slipshodness emulator disinfection frivoled blushed scrapples macadamize marabouts junkman corruptibly agriculturist itemizes barmen refrigerants inaptness browny dithered mismatches betrayers hulas sparingly anole rolling miscellanies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>flinting donator</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misprize promiscuously considers spasmodical kerf dazzles loudens copular dexterousness bowfront viols</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pavan inshrines lieutenancy lamina gangs</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>rumouring paperweights lienor capillaries nescients</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">845</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>rootless scratchiness homophiles overspreads endwise watermarking sulphuring pandowdies plagiarizing trifocal cumbers</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reiterated nonpartisans dishpans stouten gristliest honor mischarge spectrometry tokenism escrowed eclats richens hoorahed exploitable oftest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>nonabrasiveness</literal>
+      </binding>
+      <binding name="comment">
+        <literal>postformed naves curries salinas carless basters vanquisher predictively reforge unmerited intermesh craton minelayer augments treacle landsmen cozens monumental tousling decapitate vituperating falconets mendings appositively rakehell debark vantages hindquarter gallivanted lathery handfasted infundibulum chanters fatuousness reserved undistinguished hijacker spumier pinchbugs disarticulation dabbed misterms alkalify squealer buchu dogsleds overruling bastinadoes beechy emplacement dustpan doffed votaries unpen capitalizers gleanings inflates unscrew teariest retailor piles extortionate canaanite peroxiding putrescence trawls agatize balloter hearting rupturing halidom sunbathe subdivider colombians suffixed atheisms loden deciduousness slipshodness emulator disinfection frivoled blushed scrapples macadamize marabouts junkman corruptibly agriculturist itemizes barmen refrigerants inaptness browny dithered mismatches betrayers hulas sparingly anole rolling miscellanies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>schedulers primas promotional</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misprize promiscuously considers spasmodical kerf dazzles loudens copular dexterousness bowfront viols</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pavan inshrines lieutenancy lamina gangs</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>rumouring paperweights lienor capillaries nescients</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">845</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>rootless scratchiness homophiles overspreads endwise watermarking sulphuring pandowdies plagiarizing trifocal cumbers</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reiterated nonpartisans dishpans stouten gristliest honor mischarge spectrometry tokenism escrowed eclats richens hoorahed exploitable oftest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>nonabrasiveness</literal>
+      </binding>
+      <binding name="comment">
+        <literal>postformed naves curries salinas carless basters vanquisher predictively reforge unmerited intermesh craton minelayer augments treacle landsmen cozens monumental tousling decapitate vituperating falconets mendings appositively rakehell debark vantages hindquarter gallivanted lathery handfasted infundibulum chanters fatuousness reserved undistinguished hijacker spumier pinchbugs disarticulation dabbed misterms alkalify squealer buchu dogsleds overruling bastinadoes beechy emplacement dustpan doffed votaries unpen capitalizers gleanings inflates unscrew teariest retailor piles extortionate canaanite peroxiding putrescence trawls agatize balloter hearting rupturing halidom sunbathe subdivider colombians suffixed atheisms loden deciduousness slipshodness emulator disinfection frivoled blushed scrapples macadamize marabouts junkman corruptibly agriculturist itemizes barmen refrigerants inaptness browny dithered mismatches betrayers hulas sparingly anole rolling miscellanies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unbutton meniscoid</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misprize promiscuously considers spasmodical kerf dazzles loudens copular dexterousness bowfront viols</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pavan inshrines lieutenancy lamina gangs</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>rumouring paperweights lienor capillaries nescients</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">845</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>rootless scratchiness homophiles overspreads endwise watermarking sulphuring pandowdies plagiarizing trifocal cumbers</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reiterated nonpartisans dishpans stouten gristliest honor mischarge spectrometry tokenism escrowed eclats richens hoorahed exploitable oftest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>nonabrasiveness</literal>
+      </binding>
+      <binding name="comment">
+        <literal>postformed naves curries salinas carless basters vanquisher predictively reforge unmerited intermesh craton minelayer augments treacle landsmen cozens monumental tousling decapitate vituperating falconets mendings appositively rakehell debark vantages hindquarter gallivanted lathery handfasted infundibulum chanters fatuousness reserved undistinguished hijacker spumier pinchbugs disarticulation dabbed misterms alkalify squealer buchu dogsleds overruling bastinadoes beechy emplacement dustpan doffed votaries unpen capitalizers gleanings inflates unscrew teariest retailor piles extortionate canaanite peroxiding putrescence trawls agatize balloter hearting rupturing halidom sunbathe subdivider colombians suffixed atheisms loden deciduousness slipshodness emulator disinfection frivoled blushed scrapples macadamize marabouts junkman corruptibly agriculturist itemizes barmen refrigerants inaptness browny dithered mismatches betrayers hulas sparingly anole rolling miscellanies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cantharides</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misprize promiscuously considers spasmodical kerf dazzles loudens copular dexterousness bowfront viols</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pavan inshrines lieutenancy lamina gangs</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>rumouring paperweights lienor capillaries nescients</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">845</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>rootless scratchiness homophiles overspreads endwise watermarking sulphuring pandowdies plagiarizing trifocal cumbers</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reiterated nonpartisans dishpans stouten gristliest honor mischarge spectrometry tokenism escrowed eclats richens hoorahed exploitable oftest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>nonabrasiveness</literal>
+      </binding>
+      <binding name="comment">
+        <literal>postformed naves curries salinas carless basters vanquisher predictively reforge unmerited intermesh craton minelayer augments treacle landsmen cozens monumental tousling decapitate vituperating falconets mendings appositively rakehell debark vantages hindquarter gallivanted lathery handfasted infundibulum chanters fatuousness reserved undistinguished hijacker spumier pinchbugs disarticulation dabbed misterms alkalify squealer buchu dogsleds overruling bastinadoes beechy emplacement dustpan doffed votaries unpen capitalizers gleanings inflates unscrew teariest retailor piles extortionate canaanite peroxiding putrescence trawls agatize balloter hearting rupturing halidom sunbathe subdivider colombians suffixed atheisms loden deciduousness slipshodness emulator disinfection frivoled blushed scrapples macadamize marabouts junkman corruptibly agriculturist itemizes barmen refrigerants inaptness browny dithered mismatches betrayers hulas sparingly anole rolling miscellanies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>disarmed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misprize promiscuously considers spasmodical kerf dazzles loudens copular dexterousness bowfront viols</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pavan inshrines lieutenancy lamina gangs</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>rumouring paperweights lienor capillaries nescients</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">845</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>rootless scratchiness homophiles overspreads endwise watermarking sulphuring pandowdies plagiarizing trifocal cumbers</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reiterated nonpartisans dishpans stouten gristliest honor mischarge spectrometry tokenism escrowed eclats richens hoorahed exploitable oftest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>nonabrasiveness</literal>
+      </binding>
+      <binding name="comment">
+        <literal>postformed naves curries salinas carless basters vanquisher predictively reforge unmerited intermesh craton minelayer augments treacle landsmen cozens monumental tousling decapitate vituperating falconets mendings appositively rakehell debark vantages hindquarter gallivanted lathery handfasted infundibulum chanters fatuousness reserved undistinguished hijacker spumier pinchbugs disarticulation dabbed misterms alkalify squealer buchu dogsleds overruling bastinadoes beechy emplacement dustpan doffed votaries unpen capitalizers gleanings inflates unscrew teariest retailor piles extortionate canaanite peroxiding putrescence trawls agatize balloter hearting rupturing halidom sunbathe subdivider colombians suffixed atheisms loden deciduousness slipshodness emulator disinfection frivoled blushed scrapples macadamize marabouts junkman corruptibly agriculturist itemizes barmen refrigerants inaptness browny dithered mismatches betrayers hulas sparingly anole rolling miscellanies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>resummoning southerners ferried</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misprize promiscuously considers spasmodical kerf dazzles loudens copular dexterousness bowfront viols</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pavan inshrines lieutenancy lamina gangs</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>rumouring paperweights lienor capillaries nescients</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">845</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>rootless scratchiness homophiles overspreads endwise watermarking sulphuring pandowdies plagiarizing trifocal cumbers</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reiterated nonpartisans dishpans stouten gristliest honor mischarge spectrometry tokenism escrowed eclats richens hoorahed exploitable oftest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>nonabrasiveness</literal>
+      </binding>
+      <binding name="comment">
+        <literal>postformed naves curries salinas carless basters vanquisher predictively reforge unmerited intermesh craton minelayer augments treacle landsmen cozens monumental tousling decapitate vituperating falconets mendings appositively rakehell debark vantages hindquarter gallivanted lathery handfasted infundibulum chanters fatuousness reserved undistinguished hijacker spumier pinchbugs disarticulation dabbed misterms alkalify squealer buchu dogsleds overruling bastinadoes beechy emplacement dustpan doffed votaries unpen capitalizers gleanings inflates unscrew teariest retailor piles extortionate canaanite peroxiding putrescence trawls agatize balloter hearting rupturing halidom sunbathe subdivider colombians suffixed atheisms loden deciduousness slipshodness emulator disinfection frivoled blushed scrapples macadamize marabouts junkman corruptibly agriculturist itemizes barmen refrigerants inaptness browny dithered mismatches betrayers hulas sparingly anole rolling miscellanies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sandblasting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misprize promiscuously considers spasmodical kerf dazzles loudens copular dexterousness bowfront viols</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pavan inshrines lieutenancy lamina gangs</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>rumouring paperweights lienor capillaries nescients</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">845</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>rootless scratchiness homophiles overspreads endwise watermarking sulphuring pandowdies plagiarizing trifocal cumbers</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reiterated nonpartisans dishpans stouten gristliest honor mischarge spectrometry tokenism escrowed eclats richens hoorahed exploitable oftest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>nonabrasiveness</literal>
+      </binding>
+      <binding name="comment">
+        <literal>postformed naves curries salinas carless basters vanquisher predictively reforge unmerited intermesh craton minelayer augments treacle landsmen cozens monumental tousling decapitate vituperating falconets mendings appositively rakehell debark vantages hindquarter gallivanted lathery handfasted infundibulum chanters fatuousness reserved undistinguished hijacker spumier pinchbugs disarticulation dabbed misterms alkalify squealer buchu dogsleds overruling bastinadoes beechy emplacement dustpan doffed votaries unpen capitalizers gleanings inflates unscrew teariest retailor piles extortionate canaanite peroxiding putrescence trawls agatize balloter hearting rupturing halidom sunbathe subdivider colombians suffixed atheisms loden deciduousness slipshodness emulator disinfection frivoled blushed scrapples macadamize marabouts junkman corruptibly agriculturist itemizes barmen refrigerants inaptness browny dithered mismatches betrayers hulas sparingly anole rolling miscellanies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>refried stardoms</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misprize promiscuously considers spasmodical kerf dazzles loudens copular dexterousness bowfront viols</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pavan inshrines lieutenancy lamina gangs</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>rumouring paperweights lienor capillaries nescients</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">845</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>rootless scratchiness homophiles overspreads endwise watermarking sulphuring pandowdies plagiarizing trifocal cumbers</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reiterated nonpartisans dishpans stouten gristliest honor mischarge spectrometry tokenism escrowed eclats richens hoorahed exploitable oftest</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

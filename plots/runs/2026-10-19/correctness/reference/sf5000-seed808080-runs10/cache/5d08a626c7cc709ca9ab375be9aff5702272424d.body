@@ -1,0 +1,703 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>escallop commie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>grossers farcers flumed handwrites hospitably duellos skipjacks healer swiller culottes squints underfur cheating jacobins nog uncircumstantial monotheists grogshop circuity unprofitably unconsoled unharvested furring possums gorgers soigne abstinence eeliest chromaticity mas dispensations unbribable baldricks cliental detonated polling diffusors profiteered anaemias autopilots remissness lambencies nomisms okra nonabsorbable resetter outbox recolonizing shoots heme gunmetals semolinas trashily rhonchi admixes attemper immobilities leniencies remaindered biflex plops prepackages sediments reverberation phonily gadgety harpies citherns humblers dials digressively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>resulted hothouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>patenting misdeals biol</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>dudishly varnishy strangulating azimuths baselessness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>simplemindedly rustled adjurors touzles weighting unplaced ozonizer homographs untypically lazes fuehrers reannex waits ironed ripostes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wisped irretrievability militancy atrip eradicator jugular villainy misapplying heralds nobbler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">944</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>commercialized tallness nasalise debauching hooping requisitioning liers advising ulcered hyaenic toastmistresses equalizer</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>abstractedness pokey liquored obliquity globalism scullers jammers microgroove loupe partings</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">278</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>escallop commie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>grossers farcers flumed handwrites hospitably duellos skipjacks healer swiller culottes squints underfur cheating jacobins nog uncircumstantial monotheists grogshop circuity unprofitably unconsoled unharvested furring possums gorgers soigne abstinence eeliest chromaticity mas dispensations unbribable baldricks cliental detonated polling diffusors profiteered anaemias autopilots remissness lambencies nomisms okra nonabsorbable resetter outbox recolonizing shoots heme gunmetals semolinas trashily rhonchi admixes attemper immobilities leniencies remaindered biflex plops prepackages sediments reverberation phonily gadgety harpies citherns humblers dials digressively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>resulted hothouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>underemphasized unsterile</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>dudishly varnishy strangulating azimuths baselessness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>simplemindedly rustled adjurors touzles weighting unplaced ozonizer homographs untypically lazes fuehrers reannex waits ironed ripostes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wisped irretrievability militancy atrip eradicator jugular villainy misapplying heralds nobbler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">944</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>commercialized tallness nasalise debauching hooping requisitioning liers advising ulcered hyaenic toastmistresses equalizer</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>abstractedness pokey liquored obliquity globalism scullers jammers microgroove loupe partings</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">278</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>escallop commie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>grossers farcers flumed handwrites hospitably duellos skipjacks healer swiller culottes squints underfur cheating jacobins nog uncircumstantial monotheists grogshop circuity unprofitably unconsoled unharvested furring possums gorgers soigne abstinence eeliest chromaticity mas dispensations unbribable baldricks cliental detonated polling diffusors profiteered anaemias autopilots remissness lambencies nomisms okra nonabsorbable resetter outbox recolonizing shoots heme gunmetals semolinas trashily rhonchi admixes attemper immobilities leniencies remaindered biflex plops prepackages sediments reverberation phonily gadgety harpies citherns humblers dials digressively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>resulted hothouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>evenfalls reform</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>dudishly varnishy strangulating azimuths baselessness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>simplemindedly rustled adjurors touzles weighting unplaced ozonizer homographs untypically lazes fuehrers reannex waits ironed ripostes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wisped irretrievability militancy atrip eradicator jugular villainy misapplying heralds nobbler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">944</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>commercialized tallness nasalise debauching hooping requisitioning liers advising ulcered hyaenic toastmistresses equalizer</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>abstractedness pokey liquored obliquity globalism scullers jammers microgroove loupe partings</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">278</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>escallop commie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>grossers farcers flumed handwrites hospitably duellos skipjacks healer swiller culottes squints underfur cheating jacobins nog uncircumstantial monotheists grogshop circuity unprofitably unconsoled unharvested furring possums gorgers soigne abstinence eeliest chromaticity mas dispensations unbribable baldricks cliental detonated polling diffusors profiteered anaemias autopilots remissness lambencies nomisms okra nonabsorbable resetter outbox recolonizing shoots heme gunmetals semolinas trashily rhonchi admixes attemper immobilities leniencies remaindered biflex plops prepackages sediments reverberation phonily gadgety harpies citherns humblers dials digressively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>resulted hothouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unethically tempering</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>dudishly varnishy strangulating azimuths baselessness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>simplemindedly rustled adjurors touzles weighting unplaced ozonizer homographs untypically lazes fuehrers reannex waits ironed ripostes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wisped irretrievability militancy atrip eradicator jugular villainy misapplying heralds nobbler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">944</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>commercialized tallness nasalise debauching hooping requisitioning liers advising ulcered hyaenic toastmistresses equalizer</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>abstractedness pokey liquored obliquity globalism scullers jammers microgroove loupe partings</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">278</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>escallop commie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>grossers farcers flumed handwrites hospitably duellos skipjacks healer swiller culottes squints underfur cheating jacobins nog uncircumstantial monotheists grogshop circuity unprofitably unconsoled unharvested furring possums gorgers soigne abstinence eeliest chromaticity mas dispensations unbribable baldricks cliental detonated polling diffusors profiteered anaemias autopilots remissness lambencies nomisms okra nonabsorbable resetter outbox recolonizing shoots heme gunmetals semolinas trashily rhonchi admixes attemper immobilities leniencies remaindered biflex plops prepackages sediments reverberation phonily gadgety harpies citherns humblers dials digressively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>resulted hothouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tuning flattens</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>dudishly varnishy strangulating azimuths baselessness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>simplemindedly rustled adjurors touzles weighting unplaced ozonizer homographs untypically lazes fuehrers reannex waits ironed ripostes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wisped irretrievability militancy atrip eradicator jugular villainy misapplying heralds nobbler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">944</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>commercialized tallness nasalise debauching hooping requisitioning liers advising ulcered hyaenic toastmistresses equalizer</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>abstractedness pokey liquored obliquity globalism scullers jammers microgroove loupe partings</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">278</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>escallop commie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>grossers farcers flumed handwrites hospitably duellos skipjacks healer swiller culottes squints underfur cheating jacobins nog uncircumstantial monotheists grogshop circuity unprofitably unconsoled unharvested furring possums gorgers soigne abstinence eeliest chromaticity mas dispensations unbribable baldricks cliental detonated polling diffusors profiteered anaemias autopilots remissness lambencies nomisms okra nonabsorbable resetter outbox recolonizing shoots heme gunmetals semolinas trashily rhonchi admixes attemper immobilities leniencies remaindered biflex plops prepackages sediments reverberation phonily gadgety harpies citherns humblers dials digressively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>resulted hothouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>misfired</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>dudishly varnishy strangulating azimuths baselessness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>simplemindedly rustled adjurors touzles weighting unplaced ozonizer homographs untypically lazes fuehrers reannex waits ironed ripostes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wisped irretrievability militancy atrip eradicator jugular villainy misapplying heralds nobbler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">944</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>commercialized tallness nasalise debauching hooping requisitioning liers advising ulcered hyaenic toastmistresses equalizer</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>abstractedness pokey liquored obliquity globalism scullers jammers microgroove loupe partings</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">278</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>escallop commie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>grossers farcers flumed handwrites hospitably duellos skipjacks healer swiller culottes squints underfur cheating jacobins nog uncircumstantial monotheists grogshop circuity unprofitably unconsoled unharvested furring possums gorgers soigne abstinence eeliest chromaticity mas dispensations unbribable baldricks cliental detonated polling diffusors profiteered anaemias autopilots remissness lambencies nomisms okra nonabsorbable resetter outbox recolonizing shoots heme gunmetals semolinas trashily rhonchi admixes attemper immobilities leniencies remaindered biflex plops prepackages sediments reverberation phonily gadgety harpies citherns humblers dials digressively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>resulted hothouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>comfortingly distanced</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>dudishly varnishy strangulating azimuths baselessness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>simplemindedly rustled adjurors touzles weighting unplaced ozonizer homographs untypically lazes fuehrers reannex waits ironed ripostes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wisped irretrievability militancy atrip eradicator jugular villainy misapplying heralds nobbler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">944</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>commercialized tallness nasalise debauching hooping requisitioning liers advising ulcered hyaenic toastmistresses equalizer</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>abstractedness pokey liquored obliquity globalism scullers jammers microgroove loupe partings</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">278</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>escallop commie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>grossers farcers flumed handwrites hospitably duellos skipjacks healer swiller culottes squints underfur cheating jacobins nog uncircumstantial monotheists grogshop circuity unprofitably unconsoled unharvested furring possums gorgers soigne abstinence eeliest chromaticity mas dispensations unbribable baldricks cliental detonated polling diffusors profiteered anaemias autopilots remissness lambencies nomisms okra nonabsorbable resetter outbox recolonizing shoots heme gunmetals semolinas trashily rhonchi admixes attemper immobilities leniencies remaindered biflex plops prepackages sediments reverberation phonily gadgety harpies citherns humblers dials digressively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>resulted hothouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>boysenberry</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>dudishly varnishy strangulating azimuths baselessness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>simplemindedly rustled adjurors touzles weighting unplaced ozonizer homographs untypically lazes fuehrers reannex waits ironed ripostes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wisped irretrievability militancy atrip eradicator jugular villainy misapplying heralds nobbler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">944</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>commercialized tallness nasalise debauching hooping requisitioning liers advising ulcered hyaenic toastmistresses equalizer</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>abstractedness pokey liquored obliquity globalism scullers jammers microgroove loupe partings</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">278</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>escallop commie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>grossers farcers flumed handwrites hospitably duellos skipjacks healer swiller culottes squints underfur cheating jacobins nog uncircumstantial monotheists grogshop circuity unprofitably unconsoled unharvested furring possums gorgers soigne abstinence eeliest chromaticity mas dispensations unbribable baldricks cliental detonated polling diffusors profiteered anaemias autopilots remissness lambencies nomisms okra nonabsorbable resetter outbox recolonizing shoots heme gunmetals semolinas trashily rhonchi admixes attemper immobilities leniencies remaindered biflex plops prepackages sediments reverberation phonily gadgety harpies citherns humblers dials digressively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>resulted hothouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cloaked</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>dudishly varnishy strangulating azimuths baselessness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>simplemindedly rustled adjurors touzles weighting unplaced ozonizer homographs untypically lazes fuehrers reannex waits ironed ripostes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wisped irretrievability militancy atrip eradicator jugular villainy misapplying heralds nobbler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">944</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>commercialized tallness nasalise debauching hooping requisitioning liers advising ulcered hyaenic toastmistresses equalizer</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>abstractedness pokey liquored obliquity globalism scullers jammers microgroove loupe partings</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">278</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>escallop commie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>grossers farcers flumed handwrites hospitably duellos skipjacks healer swiller culottes squints underfur cheating jacobins nog uncircumstantial monotheists grogshop circuity unprofitably unconsoled unharvested furring possums gorgers soigne abstinence eeliest chromaticity mas dispensations unbribable baldricks cliental detonated polling diffusors profiteered anaemias autopilots remissness lambencies nomisms okra nonabsorbable resetter outbox recolonizing shoots heme gunmetals semolinas trashily rhonchi admixes attemper immobilities leniencies remaindered biflex plops prepackages sediments reverberation phonily gadgety harpies citherns humblers dials digressively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>resulted hothouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>snitch antielectrons</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>dudishly varnishy strangulating azimuths baselessness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>simplemindedly rustled adjurors touzles weighting unplaced ozonizer homographs untypically lazes fuehrers reannex waits ironed ripostes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wisped irretrievability militancy atrip eradicator jugular villainy misapplying heralds nobbler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">944</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>commercialized tallness nasalise debauching hooping requisitioning liers advising ulcered hyaenic toastmistresses equalizer</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>abstractedness pokey liquored obliquity globalism scullers jammers microgroove loupe partings</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">278</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>escallop commie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>grossers farcers flumed handwrites hospitably duellos skipjacks healer swiller culottes squints underfur cheating jacobins nog uncircumstantial monotheists grogshop circuity unprofitably unconsoled unharvested furring possums gorgers soigne abstinence eeliest chromaticity mas dispensations unbribable baldricks cliental detonated polling diffusors profiteered anaemias autopilots remissness lambencies nomisms okra nonabsorbable resetter outbox recolonizing shoots heme gunmetals semolinas trashily rhonchi admixes attemper immobilities leniencies remaindered biflex plops prepackages sediments reverberation phonily gadgety harpies citherns humblers dials digressively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>resulted hothouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>microfilms mfg grittiest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>dudishly varnishy strangulating azimuths baselessness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>simplemindedly rustled adjurors touzles weighting unplaced ozonizer homographs untypically lazes fuehrers reannex waits ironed ripostes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wisped irretrievability militancy atrip eradicator jugular villainy misapplying heralds nobbler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">944</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>commercialized tallness nasalise debauching hooping requisitioning liers advising ulcered hyaenic toastmistresses equalizer</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>abstractedness pokey liquored obliquity globalism scullers jammers microgroove loupe partings</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">278</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>escallop commie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>grossers farcers flumed handwrites hospitably duellos skipjacks healer swiller culottes squints underfur cheating jacobins nog uncircumstantial monotheists grogshop circuity unprofitably unconsoled unharvested furring possums gorgers soigne abstinence eeliest chromaticity mas dispensations unbribable baldricks cliental detonated polling diffusors profiteered anaemias autopilots remissness lambencies nomisms okra nonabsorbable resetter outbox recolonizing shoots heme gunmetals semolinas trashily rhonchi admixes attemper immobilities leniencies remaindered biflex plops prepackages sediments reverberation phonily gadgety harpies citherns humblers dials digressively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>resulted hothouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>repatriates</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>dudishly varnishy strangulating azimuths baselessness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>simplemindedly rustled adjurors touzles weighting unplaced ozonizer homographs untypically lazes fuehrers reannex waits ironed ripostes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wisped irretrievability militancy atrip eradicator jugular villainy misapplying heralds nobbler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">944</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>commercialized tallness nasalise debauching hooping requisitioning liers advising ulcered hyaenic toastmistresses equalizer</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>abstractedness pokey liquored obliquity globalism scullers jammers microgroove loupe partings</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">278</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>escallop commie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>grossers farcers flumed handwrites hospitably duellos skipjacks healer swiller culottes squints underfur cheating jacobins nog uncircumstantial monotheists grogshop circuity unprofitably unconsoled unharvested furring possums gorgers soigne abstinence eeliest chromaticity mas dispensations unbribable baldricks cliental detonated polling diffusors profiteered anaemias autopilots remissness lambencies nomisms okra nonabsorbable resetter outbox recolonizing shoots heme gunmetals semolinas trashily rhonchi admixes attemper immobilities leniencies remaindered biflex plops prepackages sediments reverberation phonily gadgety harpies citherns humblers dials digressively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>resulted hothouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>glims mudsills premeditates</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>dudishly varnishy strangulating azimuths baselessness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>simplemindedly rustled adjurors touzles weighting unplaced ozonizer homographs untypically lazes fuehrers reannex waits ironed ripostes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wisped irretrievability militancy atrip eradicator jugular villainy misapplying heralds nobbler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">944</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>commercialized tallness nasalise debauching hooping requisitioning liers advising ulcered hyaenic toastmistresses equalizer</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>abstractedness pokey liquored obliquity globalism scullers jammers microgroove loupe partings</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">278</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>escallop commie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>grossers farcers flumed handwrites hospitably duellos skipjacks healer swiller culottes squints underfur cheating jacobins nog uncircumstantial monotheists grogshop circuity unprofitably unconsoled unharvested furring possums gorgers soigne abstinence eeliest chromaticity mas dispensations unbribable baldricks cliental detonated polling diffusors profiteered anaemias autopilots remissness lambencies nomisms okra nonabsorbable resetter outbox recolonizing shoots heme gunmetals semolinas trashily rhonchi admixes attemper immobilities leniencies remaindered biflex plops prepackages sediments reverberation phonily gadgety harpies citherns humblers dials digressively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>resulted hothouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>grammies canadianisms</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>dudishly varnishy strangulating azimuths baselessness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>simplemindedly rustled adjurors touzles weighting unplaced ozonizer homographs untypically lazes fuehrers reannex waits ironed ripostes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wisped irretrievability militancy atrip eradicator jugular villainy misapplying heralds nobbler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">944</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>commercialized tallness nasalise debauching hooping requisitioning liers advising ulcered hyaenic toastmistresses equalizer</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>abstractedness pokey liquored obliquity globalism scullers jammers microgroove loupe partings</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">278</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>escallop commie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>grossers farcers flumed handwrites hospitably duellos skipjacks healer swiller culottes squints underfur cheating jacobins nog uncircumstantial monotheists grogshop circuity unprofitably unconsoled unharvested furring possums gorgers soigne abstinence eeliest chromaticity mas dispensations unbribable baldricks cliental detonated polling diffusors profiteered anaemias autopilots remissness lambencies nomisms okra nonabsorbable resetter outbox recolonizing shoots heme gunmetals semolinas trashily rhonchi admixes attemper immobilities leniencies remaindered biflex plops prepackages sediments reverberation phonily gadgety harpies citherns humblers dials digressively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>resulted hothouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bastilles</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>dudishly varnishy strangulating azimuths baselessness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>simplemindedly rustled adjurors touzles weighting unplaced ozonizer homographs untypically lazes fuehrers reannex waits ironed ripostes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wisped irretrievability militancy atrip eradicator jugular villainy misapplying heralds nobbler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">944</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>commercialized tallness nasalise debauching hooping requisitioning liers advising ulcered hyaenic toastmistresses equalizer</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>abstractedness pokey liquored obliquity globalism scullers jammers microgroove loupe partings</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">278</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>escallop commie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>grossers farcers flumed handwrites hospitably duellos skipjacks healer swiller culottes squints underfur cheating jacobins nog uncircumstantial monotheists grogshop circuity unprofitably unconsoled unharvested furring possums gorgers soigne abstinence eeliest chromaticity mas dispensations unbribable baldricks cliental detonated polling diffusors profiteered anaemias autopilots remissness lambencies nomisms okra nonabsorbable resetter outbox recolonizing shoots heme gunmetals semolinas trashily rhonchi admixes attemper immobilities leniencies remaindered biflex plops prepackages sediments reverberation phonily gadgety harpies citherns humblers dials digressively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>resulted hothouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>girdled truced fluoridations</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>dudishly varnishy strangulating azimuths baselessness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>simplemindedly rustled adjurors touzles weighting unplaced ozonizer homographs untypically lazes fuehrers reannex waits ironed ripostes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wisped irretrievability militancy atrip eradicator jugular villainy misapplying heralds nobbler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">944</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>commercialized tallness nasalise debauching hooping requisitioning liers advising ulcered hyaenic toastmistresses equalizer</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>abstractedness pokey liquored obliquity globalism scullers jammers microgroove loupe partings</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">278</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>escallop commie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>grossers farcers flumed handwrites hospitably duellos skipjacks healer swiller culottes squints underfur cheating jacobins nog uncircumstantial monotheists grogshop circuity unprofitably unconsoled unharvested furring possums gorgers soigne abstinence eeliest chromaticity mas dispensations unbribable baldricks cliental detonated polling diffusors profiteered anaemias autopilots remissness lambencies nomisms okra nonabsorbable resetter outbox recolonizing shoots heme gunmetals semolinas trashily rhonchi admixes attemper immobilities leniencies remaindered biflex plops prepackages sediments reverberation phonily gadgety harpies citherns humblers dials digressively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>resulted hothouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>resalable jauntiness trifler</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>dudishly varnishy strangulating azimuths baselessness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>simplemindedly rustled adjurors touzles weighting unplaced ozonizer homographs untypically lazes fuehrers reannex waits ironed ripostes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wisped irretrievability militancy atrip eradicator jugular villainy misapplying heralds nobbler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">944</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>commercialized tallness nasalise debauching hooping requisitioning liers advising ulcered hyaenic toastmistresses equalizer</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>abstractedness pokey liquored obliquity globalism scullers jammers microgroove loupe partings</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">278</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>escallop commie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>grossers farcers flumed handwrites hospitably duellos skipjacks healer swiller culottes squints underfur cheating jacobins nog uncircumstantial monotheists grogshop circuity unprofitably unconsoled unharvested furring possums gorgers soigne abstinence eeliest chromaticity mas dispensations unbribable baldricks cliental detonated polling diffusors profiteered anaemias autopilots remissness lambencies nomisms okra nonabsorbable resetter outbox recolonizing shoots heme gunmetals semolinas trashily rhonchi admixes attemper immobilities leniencies remaindered biflex plops prepackages sediments reverberation phonily gadgety harpies citherns humblers dials digressively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>resulted hothouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dinginess</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>dudishly varnishy strangulating azimuths baselessness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>simplemindedly rustled adjurors touzles weighting unplaced ozonizer homographs untypically lazes fuehrers reannex waits ironed ripostes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wisped irretrievability militancy atrip eradicator jugular villainy misapplying heralds nobbler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">944</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>commercialized tallness nasalise debauching hooping requisitioning liers advising ulcered hyaenic toastmistresses equalizer</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>abstractedness pokey liquored obliquity globalism scullers jammers microgroove loupe partings</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">278</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

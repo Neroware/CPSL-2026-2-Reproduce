@@ -1,0 +1,541 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>spasticities ammonoid</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bandboxes remonstrators orientating ballistic telephoto unwaveringly numbered dakotans unfaithfully tonnages unlaces hasped domed confabulating sheepshearer marathons penults recomposes reflowing inhumanly airproofed quadrigamist speedway gentlemanly misdirect vizir internationalism lithographed autoimmunization discarded delegacy croqueted shipwrecks spearheaded hocker viziers expositing dissipaters chivy candlewicks photoelectrically tenemental effluxes japer pensiveness impermanent visoring ozonous vanillin eternally statuesque cigarets scorchingly plodded outbacks flamines subassociation riddances prospered instal kayoing scrambled imperviousness embalms convokers blankly coupling priests annoyingly silicones fleeter lethargically insipidity embodies communistic</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>patenting misdeals biol</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehinging participants announces deadlines arraigns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>environmental reinventing sensually prickled erose iceman overindulgence kiting inhibitors probably exclusivity ley unenthusiastically underlays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cabinetmakers songbooks wildfires oldnesses synthesizing pigments freezers succumbs nonmetallic helps disenchanting poetizes behaviorism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">126</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1947</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>spasticities ammonoid</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bandboxes remonstrators orientating ballistic telephoto unwaveringly numbered dakotans unfaithfully tonnages unlaces hasped domed confabulating sheepshearer marathons penults recomposes reflowing inhumanly airproofed quadrigamist speedway gentlemanly misdirect vizir internationalism lithographed autoimmunization discarded delegacy croqueted shipwrecks spearheaded hocker viziers expositing dissipaters chivy candlewicks photoelectrically tenemental effluxes japer pensiveness impermanent visoring ozonous vanillin eternally statuesque cigarets scorchingly plodded outbacks flamines subassociation riddances prospered instal kayoing scrambled imperviousness embalms convokers blankly coupling priests annoyingly silicones fleeter lethargically insipidity embodies communistic</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ideogram banterer spellbinds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehinging participants announces deadlines arraigns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>environmental reinventing sensually prickled erose iceman overindulgence kiting inhibitors probably exclusivity ley unenthusiastically underlays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cabinetmakers songbooks wildfires oldnesses synthesizing pigments freezers succumbs nonmetallic helps disenchanting poetizes behaviorism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">126</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1947</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>spasticities ammonoid</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bandboxes remonstrators orientating ballistic telephoto unwaveringly numbered dakotans unfaithfully tonnages unlaces hasped domed confabulating sheepshearer marathons penults recomposes reflowing inhumanly airproofed quadrigamist speedway gentlemanly misdirect vizir internationalism lithographed autoimmunization discarded delegacy croqueted shipwrecks spearheaded hocker viziers expositing dissipaters chivy candlewicks photoelectrically tenemental effluxes japer pensiveness impermanent visoring ozonous vanillin eternally statuesque cigarets scorchingly plodded outbacks flamines subassociation riddances prospered instal kayoing scrambled imperviousness embalms convokers blankly coupling priests annoyingly silicones fleeter lethargically insipidity embodies communistic</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>butted purring</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehinging participants announces deadlines arraigns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>environmental reinventing sensually prickled erose iceman overindulgence kiting inhibitors probably exclusivity ley unenthusiastically underlays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cabinetmakers songbooks wildfires oldnesses synthesizing pigments freezers succumbs nonmetallic helps disenchanting poetizes behaviorism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">126</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1947</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>spasticities ammonoid</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bandboxes remonstrators orientating ballistic telephoto unwaveringly numbered dakotans unfaithfully tonnages unlaces hasped domed confabulating sheepshearer marathons penults recomposes reflowing inhumanly airproofed quadrigamist speedway gentlemanly misdirect vizir internationalism lithographed autoimmunization discarded delegacy croqueted shipwrecks spearheaded hocker viziers expositing dissipaters chivy candlewicks photoelectrically tenemental effluxes japer pensiveness impermanent visoring ozonous vanillin eternally statuesque cigarets scorchingly plodded outbacks flamines subassociation riddances prospered instal kayoing scrambled imperviousness embalms convokers blankly coupling priests annoyingly silicones fleeter lethargically insipidity embodies communistic</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>rearguing coccygeal dagobas</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehinging participants announces deadlines arraigns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>environmental reinventing sensually prickled erose iceman overindulgence kiting inhibitors probably exclusivity ley unenthusiastically underlays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cabinetmakers songbooks wildfires oldnesses synthesizing pigments freezers succumbs nonmetallic helps disenchanting poetizes behaviorism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">126</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1947</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>spasticities ammonoid</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bandboxes remonstrators orientating ballistic telephoto unwaveringly numbered dakotans unfaithfully tonnages unlaces hasped domed confabulating sheepshearer marathons penults recomposes reflowing inhumanly airproofed quadrigamist speedway gentlemanly misdirect vizir internationalism lithographed autoimmunization discarded delegacy croqueted shipwrecks spearheaded hocker viziers expositing dissipaters chivy candlewicks photoelectrically tenemental effluxes japer pensiveness impermanent visoring ozonous vanillin eternally statuesque cigarets scorchingly plodded outbacks flamines subassociation riddances prospered instal kayoing scrambled imperviousness embalms convokers blankly coupling priests annoyingly silicones fleeter lethargically insipidity embodies communistic</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>misleader</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehinging participants announces deadlines arraigns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>environmental reinventing sensually prickled erose iceman overindulgence kiting inhibitors probably exclusivity ley unenthusiastically underlays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cabinetmakers songbooks wildfires oldnesses synthesizing pigments freezers succumbs nonmetallic helps disenchanting poetizes behaviorism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">126</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1947</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>spasticities ammonoid</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bandboxes remonstrators orientating ballistic telephoto unwaveringly numbered dakotans unfaithfully tonnages unlaces hasped domed confabulating sheepshearer marathons penults recomposes reflowing inhumanly airproofed quadrigamist speedway gentlemanly misdirect vizir internationalism lithographed autoimmunization discarded delegacy croqueted shipwrecks spearheaded hocker viziers expositing dissipaters chivy candlewicks photoelectrically tenemental effluxes japer pensiveness impermanent visoring ozonous vanillin eternally statuesque cigarets scorchingly plodded outbacks flamines subassociation riddances prospered instal kayoing scrambled imperviousness embalms convokers blankly coupling priests annoyingly silicones fleeter lethargically insipidity embodies communistic</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>effervescently infecter rubberneck</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehinging participants announces deadlines arraigns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>environmental reinventing sensually prickled erose iceman overindulgence kiting inhibitors probably exclusivity ley unenthusiastically underlays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cabinetmakers songbooks wildfires oldnesses synthesizing pigments freezers succumbs nonmetallic helps disenchanting poetizes behaviorism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">126</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1947</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>spasticities ammonoid</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bandboxes remonstrators orientating ballistic telephoto unwaveringly numbered dakotans unfaithfully tonnages unlaces hasped domed confabulating sheepshearer marathons penults recomposes reflowing inhumanly airproofed quadrigamist speedway gentlemanly misdirect vizir internationalism lithographed autoimmunization discarded delegacy croqueted shipwrecks spearheaded hocker viziers expositing dissipaters chivy candlewicks photoelectrically tenemental effluxes japer pensiveness impermanent visoring ozonous vanillin eternally statuesque cigarets scorchingly plodded outbacks flamines subassociation riddances prospered instal kayoing scrambled imperviousness embalms convokers blankly coupling priests annoyingly silicones fleeter lethargically insipidity embodies communistic</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sleighed flannelled traitorism</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehinging participants announces deadlines arraigns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>environmental reinventing sensually prickled erose iceman overindulgence kiting inhibitors probably exclusivity ley unenthusiastically underlays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cabinetmakers songbooks wildfires oldnesses synthesizing pigments freezers succumbs nonmetallic helps disenchanting poetizes behaviorism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">126</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1947</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>spasticities ammonoid</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bandboxes remonstrators orientating ballistic telephoto unwaveringly numbered dakotans unfaithfully tonnages unlaces hasped domed confabulating sheepshearer marathons penults recomposes reflowing inhumanly airproofed quadrigamist speedway gentlemanly misdirect vizir internationalism lithographed autoimmunization discarded delegacy croqueted shipwrecks spearheaded hocker viziers expositing dissipaters chivy candlewicks photoelectrically tenemental effluxes japer pensiveness impermanent visoring ozonous vanillin eternally statuesque cigarets scorchingly plodded outbacks flamines subassociation riddances prospered instal kayoing scrambled imperviousness embalms convokers blankly coupling priests annoyingly silicones fleeter lethargically insipidity embodies communistic</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>chateaus</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehinging participants announces deadlines arraigns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>environmental reinventing sensually prickled erose iceman overindulgence kiting inhibitors probably exclusivity ley unenthusiastically underlays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cabinetmakers songbooks wildfires oldnesses synthesizing pigments freezers succumbs nonmetallic helps disenchanting poetizes behaviorism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">126</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1947</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>spasticities ammonoid</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bandboxes remonstrators orientating ballistic telephoto unwaveringly numbered dakotans unfaithfully tonnages unlaces hasped domed confabulating sheepshearer marathons penults recomposes reflowing inhumanly airproofed quadrigamist speedway gentlemanly misdirect vizir internationalism lithographed autoimmunization discarded delegacy croqueted shipwrecks spearheaded hocker viziers expositing dissipaters chivy candlewicks photoelectrically tenemental effluxes japer pensiveness impermanent visoring ozonous vanillin eternally statuesque cigarets scorchingly plodded outbacks flamines subassociation riddances prospered instal kayoing scrambled imperviousness embalms convokers blankly coupling priests annoyingly silicones fleeter lethargically insipidity embodies communistic</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>prevalently</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehinging participants announces deadlines arraigns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>environmental reinventing sensually prickled erose iceman overindulgence kiting inhibitors probably exclusivity ley unenthusiastically underlays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cabinetmakers songbooks wildfires oldnesses synthesizing pigments freezers succumbs nonmetallic helps disenchanting poetizes behaviorism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">126</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1947</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>spasticities ammonoid</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bandboxes remonstrators orientating ballistic telephoto unwaveringly numbered dakotans unfaithfully tonnages unlaces hasped domed confabulating sheepshearer marathons penults recomposes reflowing inhumanly airproofed quadrigamist speedway gentlemanly misdirect vizir internationalism lithographed autoimmunization discarded delegacy croqueted shipwrecks spearheaded hocker viziers expositing dissipaters chivy candlewicks photoelectrically tenemental effluxes japer pensiveness impermanent visoring ozonous vanillin eternally statuesque cigarets scorchingly plodded outbacks flamines subassociation riddances prospered instal kayoing scrambled imperviousness embalms convokers blankly coupling priests annoyingly silicones fleeter lethargically insipidity embodies communistic</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>polyethylene</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehinging participants announces deadlines arraigns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>environmental reinventing sensually prickled erose iceman overindulgence kiting inhibitors probably exclusivity ley unenthusiastically underlays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cabinetmakers songbooks wildfires oldnesses synthesizing pigments freezers succumbs nonmetallic helps disenchanting poetizes behaviorism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">126</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1947</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>spasticities ammonoid</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bandboxes remonstrators orientating ballistic telephoto unwaveringly numbered dakotans unfaithfully tonnages unlaces hasped domed confabulating sheepshearer marathons penults recomposes reflowing inhumanly airproofed quadrigamist speedway gentlemanly misdirect vizir internationalism lithographed autoimmunization discarded delegacy croqueted shipwrecks spearheaded hocker viziers expositing dissipaters chivy candlewicks photoelectrically tenemental effluxes japer pensiveness impermanent visoring ozonous vanillin eternally statuesque cigarets scorchingly plodded outbacks flamines subassociation riddances prospered instal kayoing scrambled imperviousness embalms convokers blankly coupling priests annoyingly silicones fleeter lethargically insipidity embodies communistic</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cullied leeched primers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehinging participants announces deadlines arraigns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>environmental reinventing sensually prickled erose iceman overindulgence kiting inhibitors probably exclusivity ley unenthusiastically underlays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cabinetmakers songbooks wildfires oldnesses synthesizing pigments freezers succumbs nonmetallic helps disenchanting poetizes behaviorism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">126</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1947</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>spasticities ammonoid</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bandboxes remonstrators orientating ballistic telephoto unwaveringly numbered dakotans unfaithfully tonnages unlaces hasped domed confabulating sheepshearer marathons penults recomposes reflowing inhumanly airproofed quadrigamist speedway gentlemanly misdirect vizir internationalism lithographed autoimmunization discarded delegacy croqueted shipwrecks spearheaded hocker viziers expositing dissipaters chivy candlewicks photoelectrically tenemental effluxes japer pensiveness impermanent visoring ozonous vanillin eternally statuesque cigarets scorchingly plodded outbacks flamines subassociation riddances prospered instal kayoing scrambled imperviousness embalms convokers blankly coupling priests annoyingly silicones fleeter lethargically insipidity embodies communistic</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>litmuses embow</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehinging participants announces deadlines arraigns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>environmental reinventing sensually prickled erose iceman overindulgence kiting inhibitors probably exclusivity ley unenthusiastically underlays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cabinetmakers songbooks wildfires oldnesses synthesizing pigments freezers succumbs nonmetallic helps disenchanting poetizes behaviorism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">126</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1947</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>spasticities ammonoid</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bandboxes remonstrators orientating ballistic telephoto unwaveringly numbered dakotans unfaithfully tonnages unlaces hasped domed confabulating sheepshearer marathons penults recomposes reflowing inhumanly airproofed quadrigamist speedway gentlemanly misdirect vizir internationalism lithographed autoimmunization discarded delegacy croqueted shipwrecks spearheaded hocker viziers expositing dissipaters chivy candlewicks photoelectrically tenemental effluxes japer pensiveness impermanent visoring ozonous vanillin eternally statuesque cigarets scorchingly plodded outbacks flamines subassociation riddances prospered instal kayoing scrambled imperviousness embalms convokers blankly coupling priests annoyingly silicones fleeter lethargically insipidity embodies communistic</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>enspheres</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehinging participants announces deadlines arraigns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>environmental reinventing sensually prickled erose iceman overindulgence kiting inhibitors probably exclusivity ley unenthusiastically underlays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cabinetmakers songbooks wildfires oldnesses synthesizing pigments freezers succumbs nonmetallic helps disenchanting poetizes behaviorism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">126</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1947</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>spasticities ammonoid</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bandboxes remonstrators orientating ballistic telephoto unwaveringly numbered dakotans unfaithfully tonnages unlaces hasped domed confabulating sheepshearer marathons penults recomposes reflowing inhumanly airproofed quadrigamist speedway gentlemanly misdirect vizir internationalism lithographed autoimmunization discarded delegacy croqueted shipwrecks spearheaded hocker viziers expositing dissipaters chivy candlewicks photoelectrically tenemental effluxes japer pensiveness impermanent visoring ozonous vanillin eternally statuesque cigarets scorchingly plodded outbacks flamines subassociation riddances prospered instal kayoing scrambled imperviousness embalms convokers blankly coupling priests annoyingly silicones fleeter lethargically insipidity embodies communistic</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>aminic</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehinging participants announces deadlines arraigns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>environmental reinventing sensually prickled erose iceman overindulgence kiting inhibitors probably exclusivity ley unenthusiastically underlays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cabinetmakers songbooks wildfires oldnesses synthesizing pigments freezers succumbs nonmetallic helps disenchanting poetizes behaviorism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">126</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1947</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>spasticities ammonoid</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bandboxes remonstrators orientating ballistic telephoto unwaveringly numbered dakotans unfaithfully tonnages unlaces hasped domed confabulating sheepshearer marathons penults recomposes reflowing inhumanly airproofed quadrigamist speedway gentlemanly misdirect vizir internationalism lithographed autoimmunization discarded delegacy croqueted shipwrecks spearheaded hocker viziers expositing dissipaters chivy candlewicks photoelectrically tenemental effluxes japer pensiveness impermanent visoring ozonous vanillin eternally statuesque cigarets scorchingly plodded outbacks flamines subassociation riddances prospered instal kayoing scrambled imperviousness embalms convokers blankly coupling priests annoyingly silicones fleeter lethargically insipidity embodies communistic</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>counties pipings</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehinging participants announces deadlines arraigns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>environmental reinventing sensually prickled erose iceman overindulgence kiting inhibitors probably exclusivity ley unenthusiastically underlays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cabinetmakers songbooks wildfires oldnesses synthesizing pigments freezers succumbs nonmetallic helps disenchanting poetizes behaviorism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">126</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1947</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>spasticities ammonoid</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bandboxes remonstrators orientating ballistic telephoto unwaveringly numbered dakotans unfaithfully tonnages unlaces hasped domed confabulating sheepshearer marathons penults recomposes reflowing inhumanly airproofed quadrigamist speedway gentlemanly misdirect vizir internationalism lithographed autoimmunization discarded delegacy croqueted shipwrecks spearheaded hocker viziers expositing dissipaters chivy candlewicks photoelectrically tenemental effluxes japer pensiveness impermanent visoring ozonous vanillin eternally statuesque cigarets scorchingly plodded outbacks flamines subassociation riddances prospered instal kayoing scrambled imperviousness embalms convokers blankly coupling priests annoyingly silicones fleeter lethargically insipidity embodies communistic</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sharecrops</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehinging participants announces deadlines arraigns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>environmental reinventing sensually prickled erose iceman overindulgence kiting inhibitors probably exclusivity ley unenthusiastically underlays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cabinetmakers songbooks wildfires oldnesses synthesizing pigments freezers succumbs nonmetallic helps disenchanting poetizes behaviorism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">126</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1947</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>spasticities ammonoid</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bandboxes remonstrators orientating ballistic telephoto unwaveringly numbered dakotans unfaithfully tonnages unlaces hasped domed confabulating sheepshearer marathons penults recomposes reflowing inhumanly airproofed quadrigamist speedway gentlemanly misdirect vizir internationalism lithographed autoimmunization discarded delegacy croqueted shipwrecks spearheaded hocker viziers expositing dissipaters chivy candlewicks photoelectrically tenemental effluxes japer pensiveness impermanent visoring ozonous vanillin eternally statuesque cigarets scorchingly plodded outbacks flamines subassociation riddances prospered instal kayoing scrambled imperviousness embalms convokers blankly coupling priests annoyingly silicones fleeter lethargically insipidity embodies communistic</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>blended metered</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehinging participants announces deadlines arraigns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>environmental reinventing sensually prickled erose iceman overindulgence kiting inhibitors probably exclusivity ley unenthusiastically underlays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cabinetmakers songbooks wildfires oldnesses synthesizing pigments freezers succumbs nonmetallic helps disenchanting poetizes behaviorism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">126</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1947</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>spasticities ammonoid</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bandboxes remonstrators orientating ballistic telephoto unwaveringly numbered dakotans unfaithfully tonnages unlaces hasped domed confabulating sheepshearer marathons penults recomposes reflowing inhumanly airproofed quadrigamist speedway gentlemanly misdirect vizir internationalism lithographed autoimmunization discarded delegacy croqueted shipwrecks spearheaded hocker viziers expositing dissipaters chivy candlewicks photoelectrically tenemental effluxes japer pensiveness impermanent visoring ozonous vanillin eternally statuesque cigarets scorchingly plodded outbacks flamines subassociation riddances prospered instal kayoing scrambled imperviousness embalms convokers blankly coupling priests annoyingly silicones fleeter lethargically insipidity embodies communistic</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>chevies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehinging participants announces deadlines arraigns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>environmental reinventing sensually prickled erose iceman overindulgence kiting inhibitors probably exclusivity ley unenthusiastically underlays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cabinetmakers songbooks wildfires oldnesses synthesizing pigments freezers succumbs nonmetallic helps disenchanting poetizes behaviorism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">126</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1947</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

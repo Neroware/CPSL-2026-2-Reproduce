@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="text"/>
+    <variable name="reviewDate"/>
+    <variable name="reviewer"/>
+    <variable name="reviewerName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+    <variable name="rating3"/>
+    <variable name="rating4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="title">
+        <literal>activating iliads phenobarbital superposed grouted machined laetrile excoriated formfitting shadowbox blearily figurations softhearted</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">hirable cosignatories macroscopically flightier wearisomely breathtakingly diversifications tapeworms bellowed tightener revisit oblational contestably gospels interviewers rebating ghostwrites rainproof concealment schedular botchy overmodifies miscalculated sonships blamer grapnels alarums spates overdiversifies follies predispositions divagation eyrie ravenousness hushedly products uncloaks mandarins yarmulkes amphiboles trainload datary depolishes pipedream loyalism cline deviancy chimley facetting instigation mindfully silvern busybody keepsake mussed rufflers skeeing trainway factorage interview casablanca hokypoky stowable inshrining unterrified unmechanical ascends castrato hispanics abodes damning milksops lettered sheepfold wireworms verbenas earless blessedly woomera spottiest betroths nineties tallyhoed scandalizer televisions uninterestedly polys disregarded metaled edified clothes unmarketable queasily plucker relinquished untested professionals commodiously crazily respected displacement windrowing plastering disrobes burlaps millibars recordership mispronounce wisps rouletted seneschal gazpachos misgoverns unforgivably overinsistence nonsecret schmeers tranquillize momisms stylings syncope partisans darters amalgamates syntactically castigated pacifier ormolu</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-06-05T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer350</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Joanna-Reggis</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>upboiling reparatory ventriloquism lecithins bluegills foisting plugugly gnashes condensers lubberly thrustors penile overattentive kobold</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">chela flightless aphorize heresies flied instituter incorporatedness borstal shredded sevens indecorously accumulable bifurcated febrifuges sodded stalags hatful heartbreaking unbosomed junglier misemployment emigrational cadmiums radome preposterousness cowries jackroll diphtheritic craal overmodest lockups swampers palliations blancmanges grislier reapportioned humanizes tracing entwist photoluminescent lutings swizzled emblaze workableness triunities doubled fishwife visaed houser tinkerers volts eyebolt aftershave freshened bounciest hovercraft helms versatility popularize hallucinogen telephonist corniced flanneling filmed snivelling timorous caribes encyclopedically auklets expatiator coastward unforgiven securities analects foggages cosier yugoslavian compartmentalizing unlovelier stuffiness livens snowmobilers nonfreezing authority reneged excused clangor cataclysmal witherer petrography brigands dallier memorizer pekingese parachutist primigenial monocotyledons chairmanships subeditor slumming sandbagged broomstick serer seclusionist amiable sealers enigmatical defiers instructive weakly matings multifactorial surplices ricercar hypothesizers formalizing dehumidified mephitic indows chanticleers overlaid opposed puggy moralizes princelier mungoose jinrikishas unguentary flammably afterpotential axillary gawkily protuberances computable bivouacks dees viscountess unbosoms typecasting renovators smeller ashiness ploughman hunky nonpoisonous specialized</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-04-23T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer35</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Afonaseva</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>impetuses curtsying revisors squanderer quaintly knowable sidestepper durabilities zombis downshifting blacktopping spectrographer bombsights equitably</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">attentions shepherding fictionally subclassification faut grudger bioelectrical impetigo spittoon attestator mannerless estimation effused complacency reaccented nonpredatory prosthodontia strangest oriel archings busyworks slattern dharmas subsumes prelimits outargue unamortized offences formidably hareems rosiness anointing fusile lowest swisses gossipry pomeranians longhairs sloshier dictatorialness ambulance fratriage architraves halavahs macrocosmic cashiers overdiversifying guanaco aided neurotoxicity sixpences autographed plexus nonpluses rickrack barrister flamethrower dehorns nuncle hoorah waits tillage semolina hydroelectricity guidances subtend anatomies unedible officiates nosier ladybird delights venosities climbs humanism cayennes</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-12-31T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer207</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Foolan</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

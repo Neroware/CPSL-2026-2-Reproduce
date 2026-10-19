@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="productLabel"/>
+    <variable name="offer"/>
+    <variable name="price"/>
+    <variable name="vendor"/>
+    <variable name="vendorTitle"/>
+    <variable name="review"/>
+    <variable name="revTitle"/>
+    <variable name="reviewer"/>
+    <variable name="revName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+  </head>
+  <results>
+    <result>
+      <binding name="productLabel">
+        <literal>caterwauls</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review1307</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>precancelling tooling boughs indictment flagrance cuke infracted</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer65</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Lin-Anastagio</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>caterwauls</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review7234</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>hierarchs fishtail actualized kinesiological eighthly enfeoffment rasped foreplays trudger niggarding</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer355</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Liora-Shozo</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>caterwauls</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review7604</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>damasked diverticulum vigilance bustlers fragging imagists rubidiums resignedly gerontologies squiggling bellpull odic emblazoning</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer374</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Guchol-Eilika</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>caterwauls</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8065</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>genteelest abruptly tosspot syren unmoving tuneable oblongish males physiologist jawed schoolboys strychninism trimeter evincible</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer400</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Geraint-Terumoto</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>caterwauls</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8856</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>falseness scavenger allocating scandaled tightwire imbroglios straiten fractioned</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer443</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Miloslava-Acacia</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>caterwauls</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review9398</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>recruited volunteering wilder hedgehopping folkish</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer474</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Carrola-Hemma</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

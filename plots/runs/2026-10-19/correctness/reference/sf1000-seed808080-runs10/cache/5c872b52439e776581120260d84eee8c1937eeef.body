@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer21/Product961</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>accommodator</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer4/Product174</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>introducible untenanted submontane</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer6/Product271</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>legators corrupts</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer10/Product478</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>settees</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

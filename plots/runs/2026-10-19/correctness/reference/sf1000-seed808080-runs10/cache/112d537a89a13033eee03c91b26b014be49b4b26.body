@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="productLabel"/>
+    <variable name="offer"/>
+    <variable name="price"/>
+    <variable name="vendor"/>
+    <variable name="vendorTitle"/>
+    <variable name="review"/>
+    <variable name="revTitle"/>
+    <variable name="reviewer"/>
+    <variable name="revName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+  </head>
+  <results>
+    <result>
+      <binding name="productLabel">
+        <literal>refrying fusional pedicurists</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review501</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>frothiest roundly confecting ultimata lionizer softwoods cured reactive doggedness periphrasis reinsures lavaliere</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer26</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Autolycus-Christy</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>refrying fusional pedicurists</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review2921</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>cutes bookkeeping expectorated retro reinscribes masses disillusion concrescences</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer145</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Zenko-Lodovica</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>refrying fusional pedicurists</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review3977</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>incarnations aristocratically triangulations missed sagaciously buncos renascent rezone inflationism salerooms curst didst backhands crystalloid</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer196</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Seiesnsui-Lenja</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>refrying fusional pedicurists</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review5545</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>agha lordship calyxes subsurface gormandize proindustry amandine</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer271</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ostafia-Clifton</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>refrying fusional pedicurists</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review5804</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>militantly sundae abreaction classily bustler chemoreceptive</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer282</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Karlene-Annunziata</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>refrying fusional pedicurists</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review7135</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>gaynesses clutters sloshes engram chitchat stinter arizonan sorrower engrossers satisfyingly yellowbellies addicting regressor</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer350</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Joanna-Reggis</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

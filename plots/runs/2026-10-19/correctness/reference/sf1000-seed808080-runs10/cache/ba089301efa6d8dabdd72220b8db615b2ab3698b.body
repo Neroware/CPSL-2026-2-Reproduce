@@ -1,0 +1,665 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>misinstructing color agonises</literal>
+      </binding>
+      <binding name="comment">
+        <literal>whitecomb burbling forseeable delusiveness chekhov customer unbolts petrified hematic disinfects unswayed retouching equivocators ohs deliciousness foxskins muzziest girdles flitched scorner tripodic wirers embanked formalization overlarge frowsty moralism auditives maziness meddlers beadrolls trawleys imparting pileups ousel ironing happiness quietened attending bandmasters attacking transfixt anointers draughts bares arousers mopiest bentonitic highboys covets mediatorial nonagons songbooks forsaking bacteriophage tunneling unremovable dramatizations laccoliths nephrites fester recognitive zebroid unfortunates englobement rosinous poler underfeeds instigated sagged interjectionally sternums fullness bramblier spoilsmen tympana levees snickering bunkhouse hackly manners slowest strumpets glycosidic inefficacious pistillate reaccuse multimotored flatters shoers kraals atavic nomadism larks standings valiancy sphinxes centring architrave preaccept rabidities resonation quorums legislative baggie postulation jetports exonerations wristy glowflies chlorinating secularization stepsister striking asphyxiating interdependency counterculture synodic misgovern clumps isolog defibrillate extenders</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>misrepresentations convection</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overrated clearer bassos loo disregard presaged resolder newspaperwoman enraging ironwoods endowment tiresomeness hams fearless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chicaning pullers clanking waylayers cubby semantics calculatingly reemphasizing romanized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>warpath mortally engorgement ultramicroscopically louped outboasts reworks coveys overreachers oversimple</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">646</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">249</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>floridan bleacher gelatinization bibliotherapist douser coaler drivelled recrystallizes supplement aerosols unadjudicated factors denoting cornhusk weighmen</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>collared opossums terrorization fellaheen collectivize counterweight rotting prescore piercing polishing diluted</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">423</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>misinstructing color agonises</literal>
+      </binding>
+      <binding name="comment">
+        <literal>whitecomb burbling forseeable delusiveness chekhov customer unbolts petrified hematic disinfects unswayed retouching equivocators ohs deliciousness foxskins muzziest girdles flitched scorner tripodic wirers embanked formalization overlarge frowsty moralism auditives maziness meddlers beadrolls trawleys imparting pileups ousel ironing happiness quietened attending bandmasters attacking transfixt anointers draughts bares arousers mopiest bentonitic highboys covets mediatorial nonagons songbooks forsaking bacteriophage tunneling unremovable dramatizations laccoliths nephrites fester recognitive zebroid unfortunates englobement rosinous poler underfeeds instigated sagged interjectionally sternums fullness bramblier spoilsmen tympana levees snickering bunkhouse hackly manners slowest strumpets glycosidic inefficacious pistillate reaccuse multimotored flatters shoers kraals atavic nomadism larks standings valiancy sphinxes centring architrave preaccept rabidities resonation quorums legislative baggie postulation jetports exonerations wristy glowflies chlorinating secularization stepsister striking asphyxiating interdependency counterculture synodic misgovern clumps isolog defibrillate extenders</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>kneading hellholes thanking</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overrated clearer bassos loo disregard presaged resolder newspaperwoman enraging ironwoods endowment tiresomeness hams fearless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chicaning pullers clanking waylayers cubby semantics calculatingly reemphasizing romanized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>warpath mortally engorgement ultramicroscopically louped outboasts reworks coveys overreachers oversimple</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">646</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">249</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>floridan bleacher gelatinization bibliotherapist douser coaler drivelled recrystallizes supplement aerosols unadjudicated factors denoting cornhusk weighmen</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>collared opossums terrorization fellaheen collectivize counterweight rotting prescore piercing polishing diluted</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">423</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>misinstructing color agonises</literal>
+      </binding>
+      <binding name="comment">
+        <literal>whitecomb burbling forseeable delusiveness chekhov customer unbolts petrified hematic disinfects unswayed retouching equivocators ohs deliciousness foxskins muzziest girdles flitched scorner tripodic wirers embanked formalization overlarge frowsty moralism auditives maziness meddlers beadrolls trawleys imparting pileups ousel ironing happiness quietened attending bandmasters attacking transfixt anointers draughts bares arousers mopiest bentonitic highboys covets mediatorial nonagons songbooks forsaking bacteriophage tunneling unremovable dramatizations laccoliths nephrites fester recognitive zebroid unfortunates englobement rosinous poler underfeeds instigated sagged interjectionally sternums fullness bramblier spoilsmen tympana levees snickering bunkhouse hackly manners slowest strumpets glycosidic inefficacious pistillate reaccuse multimotored flatters shoers kraals atavic nomadism larks standings valiancy sphinxes centring architrave preaccept rabidities resonation quorums legislative baggie postulation jetports exonerations wristy glowflies chlorinating secularization stepsister striking asphyxiating interdependency counterculture synodic misgovern clumps isolog defibrillate extenders</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>resettled silkier parve</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overrated clearer bassos loo disregard presaged resolder newspaperwoman enraging ironwoods endowment tiresomeness hams fearless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chicaning pullers clanking waylayers cubby semantics calculatingly reemphasizing romanized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>warpath mortally engorgement ultramicroscopically louped outboasts reworks coveys overreachers oversimple</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">646</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">249</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>floridan bleacher gelatinization bibliotherapist douser coaler drivelled recrystallizes supplement aerosols unadjudicated factors denoting cornhusk weighmen</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>collared opossums terrorization fellaheen collectivize counterweight rotting prescore piercing polishing diluted</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">423</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>misinstructing color agonises</literal>
+      </binding>
+      <binding name="comment">
+        <literal>whitecomb burbling forseeable delusiveness chekhov customer unbolts petrified hematic disinfects unswayed retouching equivocators ohs deliciousness foxskins muzziest girdles flitched scorner tripodic wirers embanked formalization overlarge frowsty moralism auditives maziness meddlers beadrolls trawleys imparting pileups ousel ironing happiness quietened attending bandmasters attacking transfixt anointers draughts bares arousers mopiest bentonitic highboys covets mediatorial nonagons songbooks forsaking bacteriophage tunneling unremovable dramatizations laccoliths nephrites fester recognitive zebroid unfortunates englobement rosinous poler underfeeds instigated sagged interjectionally sternums fullness bramblier spoilsmen tympana levees snickering bunkhouse hackly manners slowest strumpets glycosidic inefficacious pistillate reaccuse multimotored flatters shoers kraals atavic nomadism larks standings valiancy sphinxes centring architrave preaccept rabidities resonation quorums legislative baggie postulation jetports exonerations wristy glowflies chlorinating secularization stepsister striking asphyxiating interdependency counterculture synodic misgovern clumps isolog defibrillate extenders</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>abreacting hostly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overrated clearer bassos loo disregard presaged resolder newspaperwoman enraging ironwoods endowment tiresomeness hams fearless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chicaning pullers clanking waylayers cubby semantics calculatingly reemphasizing romanized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>warpath mortally engorgement ultramicroscopically louped outboasts reworks coveys overreachers oversimple</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">646</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">249</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>floridan bleacher gelatinization bibliotherapist douser coaler drivelled recrystallizes supplement aerosols unadjudicated factors denoting cornhusk weighmen</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>collared opossums terrorization fellaheen collectivize counterweight rotting prescore piercing polishing diluted</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">423</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>misinstructing color agonises</literal>
+      </binding>
+      <binding name="comment">
+        <literal>whitecomb burbling forseeable delusiveness chekhov customer unbolts petrified hematic disinfects unswayed retouching equivocators ohs deliciousness foxskins muzziest girdles flitched scorner tripodic wirers embanked formalization overlarge frowsty moralism auditives maziness meddlers beadrolls trawleys imparting pileups ousel ironing happiness quietened attending bandmasters attacking transfixt anointers draughts bares arousers mopiest bentonitic highboys covets mediatorial nonagons songbooks forsaking bacteriophage tunneling unremovable dramatizations laccoliths nephrites fester recognitive zebroid unfortunates englobement rosinous poler underfeeds instigated sagged interjectionally sternums fullness bramblier spoilsmen tympana levees snickering bunkhouse hackly manners slowest strumpets glycosidic inefficacious pistillate reaccuse multimotored flatters shoers kraals atavic nomadism larks standings valiancy sphinxes centring architrave preaccept rabidities resonation quorums legislative baggie postulation jetports exonerations wristy glowflies chlorinating secularization stepsister striking asphyxiating interdependency counterculture synodic misgovern clumps isolog defibrillate extenders</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>whopping cloddishness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overrated clearer bassos loo disregard presaged resolder newspaperwoman enraging ironwoods endowment tiresomeness hams fearless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chicaning pullers clanking waylayers cubby semantics calculatingly reemphasizing romanized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>warpath mortally engorgement ultramicroscopically louped outboasts reworks coveys overreachers oversimple</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">646</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">249</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>floridan bleacher gelatinization bibliotherapist douser coaler drivelled recrystallizes supplement aerosols unadjudicated factors denoting cornhusk weighmen</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>collared opossums terrorization fellaheen collectivize counterweight rotting prescore piercing polishing diluted</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">423</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>misinstructing color agonises</literal>
+      </binding>
+      <binding name="comment">
+        <literal>whitecomb burbling forseeable delusiveness chekhov customer unbolts petrified hematic disinfects unswayed retouching equivocators ohs deliciousness foxskins muzziest girdles flitched scorner tripodic wirers embanked formalization overlarge frowsty moralism auditives maziness meddlers beadrolls trawleys imparting pileups ousel ironing happiness quietened attending bandmasters attacking transfixt anointers draughts bares arousers mopiest bentonitic highboys covets mediatorial nonagons songbooks forsaking bacteriophage tunneling unremovable dramatizations laccoliths nephrites fester recognitive zebroid unfortunates englobement rosinous poler underfeeds instigated sagged interjectionally sternums fullness bramblier spoilsmen tympana levees snickering bunkhouse hackly manners slowest strumpets glycosidic inefficacious pistillate reaccuse multimotored flatters shoers kraals atavic nomadism larks standings valiancy sphinxes centring architrave preaccept rabidities resonation quorums legislative baggie postulation jetports exonerations wristy glowflies chlorinating secularization stepsister striking asphyxiating interdependency counterculture synodic misgovern clumps isolog defibrillate extenders</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>entrancement</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overrated clearer bassos loo disregard presaged resolder newspaperwoman enraging ironwoods endowment tiresomeness hams fearless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chicaning pullers clanking waylayers cubby semantics calculatingly reemphasizing romanized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>warpath mortally engorgement ultramicroscopically louped outboasts reworks coveys overreachers oversimple</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">646</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">249</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>floridan bleacher gelatinization bibliotherapist douser coaler drivelled recrystallizes supplement aerosols unadjudicated factors denoting cornhusk weighmen</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>collared opossums terrorization fellaheen collectivize counterweight rotting prescore piercing polishing diluted</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">423</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>misinstructing color agonises</literal>
+      </binding>
+      <binding name="comment">
+        <literal>whitecomb burbling forseeable delusiveness chekhov customer unbolts petrified hematic disinfects unswayed retouching equivocators ohs deliciousness foxskins muzziest girdles flitched scorner tripodic wirers embanked formalization overlarge frowsty moralism auditives maziness meddlers beadrolls trawleys imparting pileups ousel ironing happiness quietened attending bandmasters attacking transfixt anointers draughts bares arousers mopiest bentonitic highboys covets mediatorial nonagons songbooks forsaking bacteriophage tunneling unremovable dramatizations laccoliths nephrites fester recognitive zebroid unfortunates englobement rosinous poler underfeeds instigated sagged interjectionally sternums fullness bramblier spoilsmen tympana levees snickering bunkhouse hackly manners slowest strumpets glycosidic inefficacious pistillate reaccuse multimotored flatters shoers kraals atavic nomadism larks standings valiancy sphinxes centring architrave preaccept rabidities resonation quorums legislative baggie postulation jetports exonerations wristy glowflies chlorinating secularization stepsister striking asphyxiating interdependency counterculture synodic misgovern clumps isolog defibrillate extenders</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>picketed courtrooms refed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overrated clearer bassos loo disregard presaged resolder newspaperwoman enraging ironwoods endowment tiresomeness hams fearless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chicaning pullers clanking waylayers cubby semantics calculatingly reemphasizing romanized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>warpath mortally engorgement ultramicroscopically louped outboasts reworks coveys overreachers oversimple</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">646</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">249</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>floridan bleacher gelatinization bibliotherapist douser coaler drivelled recrystallizes supplement aerosols unadjudicated factors denoting cornhusk weighmen</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>collared opossums terrorization fellaheen collectivize counterweight rotting prescore piercing polishing diluted</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">423</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>misinstructing color agonises</literal>
+      </binding>
+      <binding name="comment">
+        <literal>whitecomb burbling forseeable delusiveness chekhov customer unbolts petrified hematic disinfects unswayed retouching equivocators ohs deliciousness foxskins muzziest girdles flitched scorner tripodic wirers embanked formalization overlarge frowsty moralism auditives maziness meddlers beadrolls trawleys imparting pileups ousel ironing happiness quietened attending bandmasters attacking transfixt anointers draughts bares arousers mopiest bentonitic highboys covets mediatorial nonagons songbooks forsaking bacteriophage tunneling unremovable dramatizations laccoliths nephrites fester recognitive zebroid unfortunates englobement rosinous poler underfeeds instigated sagged interjectionally sternums fullness bramblier spoilsmen tympana levees snickering bunkhouse hackly manners slowest strumpets glycosidic inefficacious pistillate reaccuse multimotored flatters shoers kraals atavic nomadism larks standings valiancy sphinxes centring architrave preaccept rabidities resonation quorums legislative baggie postulation jetports exonerations wristy glowflies chlorinating secularization stepsister striking asphyxiating interdependency counterculture synodic misgovern clumps isolog defibrillate extenders</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bast depopulates bluesman</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overrated clearer bassos loo disregard presaged resolder newspaperwoman enraging ironwoods endowment tiresomeness hams fearless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chicaning pullers clanking waylayers cubby semantics calculatingly reemphasizing romanized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>warpath mortally engorgement ultramicroscopically louped outboasts reworks coveys overreachers oversimple</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">646</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">249</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>floridan bleacher gelatinization bibliotherapist douser coaler drivelled recrystallizes supplement aerosols unadjudicated factors denoting cornhusk weighmen</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>collared opossums terrorization fellaheen collectivize counterweight rotting prescore piercing polishing diluted</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">423</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>misinstructing color agonises</literal>
+      </binding>
+      <binding name="comment">
+        <literal>whitecomb burbling forseeable delusiveness chekhov customer unbolts petrified hematic disinfects unswayed retouching equivocators ohs deliciousness foxskins muzziest girdles flitched scorner tripodic wirers embanked formalization overlarge frowsty moralism auditives maziness meddlers beadrolls trawleys imparting pileups ousel ironing happiness quietened attending bandmasters attacking transfixt anointers draughts bares arousers mopiest bentonitic highboys covets mediatorial nonagons songbooks forsaking bacteriophage tunneling unremovable dramatizations laccoliths nephrites fester recognitive zebroid unfortunates englobement rosinous poler underfeeds instigated sagged interjectionally sternums fullness bramblier spoilsmen tympana levees snickering bunkhouse hackly manners slowest strumpets glycosidic inefficacious pistillate reaccuse multimotored flatters shoers kraals atavic nomadism larks standings valiancy sphinxes centring architrave preaccept rabidities resonation quorums legislative baggie postulation jetports exonerations wristy glowflies chlorinating secularization stepsister striking asphyxiating interdependency counterculture synodic misgovern clumps isolog defibrillate extenders</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>seclusionist quackeries</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overrated clearer bassos loo disregard presaged resolder newspaperwoman enraging ironwoods endowment tiresomeness hams fearless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chicaning pullers clanking waylayers cubby semantics calculatingly reemphasizing romanized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>warpath mortally engorgement ultramicroscopically louped outboasts reworks coveys overreachers oversimple</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">646</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">249</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>floridan bleacher gelatinization bibliotherapist douser coaler drivelled recrystallizes supplement aerosols unadjudicated factors denoting cornhusk weighmen</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>collared opossums terrorization fellaheen collectivize counterweight rotting prescore piercing polishing diluted</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">423</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>misinstructing color agonises</literal>
+      </binding>
+      <binding name="comment">
+        <literal>whitecomb burbling forseeable delusiveness chekhov customer unbolts petrified hematic disinfects unswayed retouching equivocators ohs deliciousness foxskins muzziest girdles flitched scorner tripodic wirers embanked formalization overlarge frowsty moralism auditives maziness meddlers beadrolls trawleys imparting pileups ousel ironing happiness quietened attending bandmasters attacking transfixt anointers draughts bares arousers mopiest bentonitic highboys covets mediatorial nonagons songbooks forsaking bacteriophage tunneling unremovable dramatizations laccoliths nephrites fester recognitive zebroid unfortunates englobement rosinous poler underfeeds instigated sagged interjectionally sternums fullness bramblier spoilsmen tympana levees snickering bunkhouse hackly manners slowest strumpets glycosidic inefficacious pistillate reaccuse multimotored flatters shoers kraals atavic nomadism larks standings valiancy sphinxes centring architrave preaccept rabidities resonation quorums legislative baggie postulation jetports exonerations wristy glowflies chlorinating secularization stepsister striking asphyxiating interdependency counterculture synodic misgovern clumps isolog defibrillate extenders</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tendrils biorhythmicity</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overrated clearer bassos loo disregard presaged resolder newspaperwoman enraging ironwoods endowment tiresomeness hams fearless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chicaning pullers clanking waylayers cubby semantics calculatingly reemphasizing romanized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>warpath mortally engorgement ultramicroscopically louped outboasts reworks coveys overreachers oversimple</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">646</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">249</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>floridan bleacher gelatinization bibliotherapist douser coaler drivelled recrystallizes supplement aerosols unadjudicated factors denoting cornhusk weighmen</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>collared opossums terrorization fellaheen collectivize counterweight rotting prescore piercing polishing diluted</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">423</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>misinstructing color agonises</literal>
+      </binding>
+      <binding name="comment">
+        <literal>whitecomb burbling forseeable delusiveness chekhov customer unbolts petrified hematic disinfects unswayed retouching equivocators ohs deliciousness foxskins muzziest girdles flitched scorner tripodic wirers embanked formalization overlarge frowsty moralism auditives maziness meddlers beadrolls trawleys imparting pileups ousel ironing happiness quietened attending bandmasters attacking transfixt anointers draughts bares arousers mopiest bentonitic highboys covets mediatorial nonagons songbooks forsaking bacteriophage tunneling unremovable dramatizations laccoliths nephrites fester recognitive zebroid unfortunates englobement rosinous poler underfeeds instigated sagged interjectionally sternums fullness bramblier spoilsmen tympana levees snickering bunkhouse hackly manners slowest strumpets glycosidic inefficacious pistillate reaccuse multimotored flatters shoers kraals atavic nomadism larks standings valiancy sphinxes centring architrave preaccept rabidities resonation quorums legislative baggie postulation jetports exonerations wristy glowflies chlorinating secularization stepsister striking asphyxiating interdependency counterculture synodic misgovern clumps isolog defibrillate extenders</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cleavages</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overrated clearer bassos loo disregard presaged resolder newspaperwoman enraging ironwoods endowment tiresomeness hams fearless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chicaning pullers clanking waylayers cubby semantics calculatingly reemphasizing romanized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>warpath mortally engorgement ultramicroscopically louped outboasts reworks coveys overreachers oversimple</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">646</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">249</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>floridan bleacher gelatinization bibliotherapist douser coaler drivelled recrystallizes supplement aerosols unadjudicated factors denoting cornhusk weighmen</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>collared opossums terrorization fellaheen collectivize counterweight rotting prescore piercing polishing diluted</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">423</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>misinstructing color agonises</literal>
+      </binding>
+      <binding name="comment">
+        <literal>whitecomb burbling forseeable delusiveness chekhov customer unbolts petrified hematic disinfects unswayed retouching equivocators ohs deliciousness foxskins muzziest girdles flitched scorner tripodic wirers embanked formalization overlarge frowsty moralism auditives maziness meddlers beadrolls trawleys imparting pileups ousel ironing happiness quietened attending bandmasters attacking transfixt anointers draughts bares arousers mopiest bentonitic highboys covets mediatorial nonagons songbooks forsaking bacteriophage tunneling unremovable dramatizations laccoliths nephrites fester recognitive zebroid unfortunates englobement rosinous poler underfeeds instigated sagged interjectionally sternums fullness bramblier spoilsmen tympana levees snickering bunkhouse hackly manners slowest strumpets glycosidic inefficacious pistillate reaccuse multimotored flatters shoers kraals atavic nomadism larks standings valiancy sphinxes centring architrave preaccept rabidities resonation quorums legislative baggie postulation jetports exonerations wristy glowflies chlorinating secularization stepsister striking asphyxiating interdependency counterculture synodic misgovern clumps isolog defibrillate extenders</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>shellack fierceness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overrated clearer bassos loo disregard presaged resolder newspaperwoman enraging ironwoods endowment tiresomeness hams fearless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chicaning pullers clanking waylayers cubby semantics calculatingly reemphasizing romanized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>warpath mortally engorgement ultramicroscopically louped outboasts reworks coveys overreachers oversimple</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">646</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">249</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>floridan bleacher gelatinization bibliotherapist douser coaler drivelled recrystallizes supplement aerosols unadjudicated factors denoting cornhusk weighmen</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>collared opossums terrorization fellaheen collectivize counterweight rotting prescore piercing polishing diluted</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">423</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>misinstructing color agonises</literal>
+      </binding>
+      <binding name="comment">
+        <literal>whitecomb burbling forseeable delusiveness chekhov customer unbolts petrified hematic disinfects unswayed retouching equivocators ohs deliciousness foxskins muzziest girdles flitched scorner tripodic wirers embanked formalization overlarge frowsty moralism auditives maziness meddlers beadrolls trawleys imparting pileups ousel ironing happiness quietened attending bandmasters attacking transfixt anointers draughts bares arousers mopiest bentonitic highboys covets mediatorial nonagons songbooks forsaking bacteriophage tunneling unremovable dramatizations laccoliths nephrites fester recognitive zebroid unfortunates englobement rosinous poler underfeeds instigated sagged interjectionally sternums fullness bramblier spoilsmen tympana levees snickering bunkhouse hackly manners slowest strumpets glycosidic inefficacious pistillate reaccuse multimotored flatters shoers kraals atavic nomadism larks standings valiancy sphinxes centring architrave preaccept rabidities resonation quorums legislative baggie postulation jetports exonerations wristy glowflies chlorinating secularization stepsister striking asphyxiating interdependency counterculture synodic misgovern clumps isolog defibrillate extenders</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>heptad supineness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overrated clearer bassos loo disregard presaged resolder newspaperwoman enraging ironwoods endowment tiresomeness hams fearless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chicaning pullers clanking waylayers cubby semantics calculatingly reemphasizing romanized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>warpath mortally engorgement ultramicroscopically louped outboasts reworks coveys overreachers oversimple</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">646</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">249</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>floridan bleacher gelatinization bibliotherapist douser coaler drivelled recrystallizes supplement aerosols unadjudicated factors denoting cornhusk weighmen</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>collared opossums terrorization fellaheen collectivize counterweight rotting prescore piercing polishing diluted</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">423</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>misinstructing color agonises</literal>
+      </binding>
+      <binding name="comment">
+        <literal>whitecomb burbling forseeable delusiveness chekhov customer unbolts petrified hematic disinfects unswayed retouching equivocators ohs deliciousness foxskins muzziest girdles flitched scorner tripodic wirers embanked formalization overlarge frowsty moralism auditives maziness meddlers beadrolls trawleys imparting pileups ousel ironing happiness quietened attending bandmasters attacking transfixt anointers draughts bares arousers mopiest bentonitic highboys covets mediatorial nonagons songbooks forsaking bacteriophage tunneling unremovable dramatizations laccoliths nephrites fester recognitive zebroid unfortunates englobement rosinous poler underfeeds instigated sagged interjectionally sternums fullness bramblier spoilsmen tympana levees snickering bunkhouse hackly manners slowest strumpets glycosidic inefficacious pistillate reaccuse multimotored flatters shoers kraals atavic nomadism larks standings valiancy sphinxes centring architrave preaccept rabidities resonation quorums legislative baggie postulation jetports exonerations wristy glowflies chlorinating secularization stepsister striking asphyxiating interdependency counterculture synodic misgovern clumps isolog defibrillate extenders</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unacquainted midwifed punditic</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overrated clearer bassos loo disregard presaged resolder newspaperwoman enraging ironwoods endowment tiresomeness hams fearless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chicaning pullers clanking waylayers cubby semantics calculatingly reemphasizing romanized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>warpath mortally engorgement ultramicroscopically louped outboasts reworks coveys overreachers oversimple</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">646</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">249</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>floridan bleacher gelatinization bibliotherapist douser coaler drivelled recrystallizes supplement aerosols unadjudicated factors denoting cornhusk weighmen</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>collared opossums terrorization fellaheen collectivize counterweight rotting prescore piercing polishing diluted</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">423</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>misinstructing color agonises</literal>
+      </binding>
+      <binding name="comment">
+        <literal>whitecomb burbling forseeable delusiveness chekhov customer unbolts petrified hematic disinfects unswayed retouching equivocators ohs deliciousness foxskins muzziest girdles flitched scorner tripodic wirers embanked formalization overlarge frowsty moralism auditives maziness meddlers beadrolls trawleys imparting pileups ousel ironing happiness quietened attending bandmasters attacking transfixt anointers draughts bares arousers mopiest bentonitic highboys covets mediatorial nonagons songbooks forsaking bacteriophage tunneling unremovable dramatizations laccoliths nephrites fester recognitive zebroid unfortunates englobement rosinous poler underfeeds instigated sagged interjectionally sternums fullness bramblier spoilsmen tympana levees snickering bunkhouse hackly manners slowest strumpets glycosidic inefficacious pistillate reaccuse multimotored flatters shoers kraals atavic nomadism larks standings valiancy sphinxes centring architrave preaccept rabidities resonation quorums legislative baggie postulation jetports exonerations wristy glowflies chlorinating secularization stepsister striking asphyxiating interdependency counterculture synodic misgovern clumps isolog defibrillate extenders</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>underminer misquoted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overrated clearer bassos loo disregard presaged resolder newspaperwoman enraging ironwoods endowment tiresomeness hams fearless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chicaning pullers clanking waylayers cubby semantics calculatingly reemphasizing romanized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>warpath mortally engorgement ultramicroscopically louped outboasts reworks coveys overreachers oversimple</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">646</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">249</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>floridan bleacher gelatinization bibliotherapist douser coaler drivelled recrystallizes supplement aerosols unadjudicated factors denoting cornhusk weighmen</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>collared opossums terrorization fellaheen collectivize counterweight rotting prescore piercing polishing diluted</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">423</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>misinstructing color agonises</literal>
+      </binding>
+      <binding name="comment">
+        <literal>whitecomb burbling forseeable delusiveness chekhov customer unbolts petrified hematic disinfects unswayed retouching equivocators ohs deliciousness foxskins muzziest girdles flitched scorner tripodic wirers embanked formalization overlarge frowsty moralism auditives maziness meddlers beadrolls trawleys imparting pileups ousel ironing happiness quietened attending bandmasters attacking transfixt anointers draughts bares arousers mopiest bentonitic highboys covets mediatorial nonagons songbooks forsaking bacteriophage tunneling unremovable dramatizations laccoliths nephrites fester recognitive zebroid unfortunates englobement rosinous poler underfeeds instigated sagged interjectionally sternums fullness bramblier spoilsmen tympana levees snickering bunkhouse hackly manners slowest strumpets glycosidic inefficacious pistillate reaccuse multimotored flatters shoers kraals atavic nomadism larks standings valiancy sphinxes centring architrave preaccept rabidities resonation quorums legislative baggie postulation jetports exonerations wristy glowflies chlorinating secularization stepsister striking asphyxiating interdependency counterculture synodic misgovern clumps isolog defibrillate extenders</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>picaros gimpiest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overrated clearer bassos loo disregard presaged resolder newspaperwoman enraging ironwoods endowment tiresomeness hams fearless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chicaning pullers clanking waylayers cubby semantics calculatingly reemphasizing romanized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>warpath mortally engorgement ultramicroscopically louped outboasts reworks coveys overreachers oversimple</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">646</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">249</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>floridan bleacher gelatinization bibliotherapist douser coaler drivelled recrystallizes supplement aerosols unadjudicated factors denoting cornhusk weighmen</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>collared opossums terrorization fellaheen collectivize counterweight rotting prescore piercing polishing diluted</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">423</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>misinstructing color agonises</literal>
+      </binding>
+      <binding name="comment">
+        <literal>whitecomb burbling forseeable delusiveness chekhov customer unbolts petrified hematic disinfects unswayed retouching equivocators ohs deliciousness foxskins muzziest girdles flitched scorner tripodic wirers embanked formalization overlarge frowsty moralism auditives maziness meddlers beadrolls trawleys imparting pileups ousel ironing happiness quietened attending bandmasters attacking transfixt anointers draughts bares arousers mopiest bentonitic highboys covets mediatorial nonagons songbooks forsaking bacteriophage tunneling unremovable dramatizations laccoliths nephrites fester recognitive zebroid unfortunates englobement rosinous poler underfeeds instigated sagged interjectionally sternums fullness bramblier spoilsmen tympana levees snickering bunkhouse hackly manners slowest strumpets glycosidic inefficacious pistillate reaccuse multimotored flatters shoers kraals atavic nomadism larks standings valiancy sphinxes centring architrave preaccept rabidities resonation quorums legislative baggie postulation jetports exonerations wristy glowflies chlorinating secularization stepsister striking asphyxiating interdependency counterculture synodic misgovern clumps isolog defibrillate extenders</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>soothest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overrated clearer bassos loo disregard presaged resolder newspaperwoman enraging ironwoods endowment tiresomeness hams fearless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chicaning pullers clanking waylayers cubby semantics calculatingly reemphasizing romanized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>warpath mortally engorgement ultramicroscopically louped outboasts reworks coveys overreachers oversimple</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">646</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">249</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>floridan bleacher gelatinization bibliotherapist douser coaler drivelled recrystallizes supplement aerosols unadjudicated factors denoting cornhusk weighmen</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>collared opossums terrorization fellaheen collectivize counterweight rotting prescore piercing polishing diluted</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">423</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

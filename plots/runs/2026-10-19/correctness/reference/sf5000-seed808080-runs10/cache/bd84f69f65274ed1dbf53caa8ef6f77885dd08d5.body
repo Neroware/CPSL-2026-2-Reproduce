@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="text"/>
+    <variable name="reviewDate"/>
+    <variable name="reviewer"/>
+    <variable name="reviewerName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+    <variable name="rating3"/>
+    <variable name="rating4"/>
+  </head>
+  <results>
+  </results>
+</sparql>

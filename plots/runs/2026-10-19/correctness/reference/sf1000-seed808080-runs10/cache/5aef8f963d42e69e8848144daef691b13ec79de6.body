@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="productLabel"/>
+    <variable name="offer"/>
+    <variable name="price"/>
+    <variable name="vendor"/>
+    <variable name="vendorTitle"/>
+    <variable name="review"/>
+    <variable name="revTitle"/>
+    <variable name="reviewer"/>
+    <variable name="revName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+  </head>
+  <results>
+    <result>
+      <binding name="productLabel">
+        <literal>disgusts hibernal</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review2314</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>bonzer smugglers morphogeneses nepotists ingroups defoliants chucky perceptually affecter gauntest thwacker oriels synovias fugatos protegees</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer116</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Filiz-Florin</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>disgusts hibernal</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review2375</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>gulls fuzing appliances lewdest duelling subscription sensationalist bulkheads jabbered snobbism taverners</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer118</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Afra-Bohumile</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>disgusts hibernal</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review4121</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>unplaiting cretonne seconal orcas egotistic borage overjoy restarted</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer203</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Hardwart</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>disgusts hibernal</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review4801</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>infold exobiological inadvertency pinnal frictions sate splendider villadoms saltness aroynt couches sonatinas traumata cushiest nonabrasiveness</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer237</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Eddy-Lindgard</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>disgusts hibernal</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6129</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>grandsons holiest lumbered enrapt vinaigrettes slipt asininity livered antisepticized bottler rifted haloed protestable chapbooks</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer298</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Giurgevaia-Parker</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>disgusts hibernal</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6571</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>hors stethoscopically avouching convulses cpl longbow breathed piastres</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer320</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Adhira</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>disgusts hibernal</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8216</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>harangues foetid raps desertions lubricants reclaimable schusses</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer407</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Marek-Lowell</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

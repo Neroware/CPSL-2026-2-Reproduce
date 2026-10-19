@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="productLabel"/>
+    <variable name="offer"/>
+    <variable name="price"/>
+    <variable name="vendor"/>
+    <variable name="vendorTitle"/>
+    <variable name="review"/>
+    <variable name="revTitle"/>
+    <variable name="reviewer"/>
+    <variable name="revName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+  </head>
+  <results>
+    <result>
+      <binding name="productLabel">
+        <literal>refusals photoflash</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review1627</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>sapiently bamboos archdukes prosit tympana vermonters onions oxygenating hogties installer teriyaki pharmacopeias</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer83</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Lal-Lindtraud</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>refusals photoflash</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review3393</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>grudgers supplanting enlivenment endorsements vizarded bluebirds unfathomed meagerly prostatitis gravimeter housecleans dwarfism</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer169</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Haamida-Radonia</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>refusals photoflash</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review4826</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>blistery misconceptions bilaterality protrusile</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer238</uri>
+      </binding>
+      <binding name="revName">
+        <literal>JesusErnesto-Dubal</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>refusals photoflash</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8318</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>somersaulting luggages earthlier maculation antipyretic establishable aerified crawling</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer413</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Effi-Nashawn</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>refusals photoflash</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review9273</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>monologuist partaking hollowed revengefully sameness xanthoma transports eaved abbotcy spittles cordoned</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer467</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Absolan-Galena</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

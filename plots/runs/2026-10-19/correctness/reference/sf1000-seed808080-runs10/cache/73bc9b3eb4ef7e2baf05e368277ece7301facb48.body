@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="productLabel"/>
+    <variable name="offer"/>
+    <variable name="price"/>
+    <variable name="vendor"/>
+    <variable name="vendorTitle"/>
+    <variable name="review"/>
+    <variable name="revTitle"/>
+    <variable name="reviewer"/>
+    <variable name="revName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+  </head>
+  <results>
+    <result>
+      <binding name="productLabel">
+        <literal>callused mouthwashes tissues</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review1077</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>rinser cumulonimbus antispasmodic practices somatotypology</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer53</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Trinika-Nelson</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>callused mouthwashes tissues</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review2356</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>posed pinged classer cattails allotypic</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer117</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Prebrana-Yayang</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>callused mouthwashes tissues</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review4235</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>pushup piecer irritancies photoluminescent</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer209</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Bertram-Almundena</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>callused mouthwashes tissues</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8644</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>inquiries swanking expendability perimeters itinerants congealable proctoscopic overawing tsars</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer430</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Kikiliia-Garritt</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,817 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>submerges sorrowed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>briquettes weirdie</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>boiler unthriftily</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>suits trailblazer</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>enginery oilseeds loran</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>vivisectionists nondrying reoccupations</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lallygagged noir emissions</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sheeneys unionize outstripping</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>emaciation criticizing sightsaw</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>multifactorial gleaners flyby</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>towboats</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>formulators excerpted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>efficiencies choosers disaffecting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scrubby</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>deputize kelpie contempts</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>abounds flaccidity traitress</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>occurrence</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>placates</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>seafarers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unweakened princes majorities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skeeters dirtily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mares hurries furrily militiaman refutable volcanology ult rentage hyperkinetic invertebrates weirdo impregnability concoctions thistles melder maniacs plumiest rippler beadrolls oftenness swanked hamstring impertinently banquette inhibitive rushy wintriest tithing students stroganoff bottomed futuristically fibber curtsies shawls bargains aspidistras workwomen stoicism articulator preannounce purer myriads chastened chromosomic thickly soapily logs mutining modernists mortality bughouses premenstrually crowner dx minuted reawoke contriteness broadswords ranting jollified amaryllis beelines headlamps scuttles mainlined enjoyments stanzaed smirches cloudier ablutionary legitimization allotment stabled coagulant</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>anthills processional</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unquote wallpapered torridness somnolences armloads pronouncements itemed saboteurs asymptotical ventilated enunciated caviler parrots impeders barcaroles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>witnessed sorts timidest loader rewelds kielbasas scamped obstructor propanes paddocks sceptics anemia tyrannosaur postponed sheeted</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shuckings bewigged howitzers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">520</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">992</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>inker cheyennes precleans diffused heliotropic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>pensioner pillbox shrinkers caponization mesalliances gillnet entryway emulsoids hasenpfeffer spellbinding assimilative</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">567</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

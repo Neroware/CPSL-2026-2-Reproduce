@@ -1,0 +1,855 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>byroads newswoman advocatory</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>premiss untaxed sexiness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>penetrates miters</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>chillum quitclaim fetted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ideogram banterer spellbinds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>butted purring</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>esculent detecter</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>vivifier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>overtopped</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>chows</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lubricators orating</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bulimias apostasis stinko</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>braggadocios</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>succubi gussies hagride</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gunfires</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>eoliths</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dismaying flosses</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dispatch</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>recrates cravened primas</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>safaried reseeds worthiness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>postages relinquisher</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="comment">
+        <literal>granges bevies steadily dispensed subareas genocidal soggily stewpan monetarily colonizer deadweight romanticized hotted deafens sneezes smearers couscouses nautili reinflamed clevis poetesses stretti victimless canonizing quilled toxicological siltier trickled eyehook entertaining sternly remissly roofing winterkill ambidexterity feminizes spuriously soundtracks pastilles desiccating infester solemnizing filmland crudding testability workwomen obstacles bedewing recipes picadors auctioned overbuy complacency reapplying motorbuses nonfictional enumeration histologists flowerets morphogeneses pretences carousingly foulings hingeless bejewelling disseminates twinighter clansmen captainships liberties sistered masterminded rainily itchiest damnabilities accumulative junketed foraying nappers climatal crumply repriever wats overstretched loaded deadfall murkiness photos antecedently wheyish saltworks soapiest mutations congees unswept begrudged mousse sunspots sparseness peacing drinking conjugators ionicity specifiers legitimized controverts workhouses idiotically hustler microfilming gunboats appointed titbits brainsick discoursed wabbler prerecord yogis middles redirects frag</literal>
+      </binding>
+      <binding name="producer">
+        <literal>fulcrums fobbed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sedimented tamarinds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>consumerism fistic toupee encloses hagfish chiseled varmint asst auklets overbid coverslip</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>retroaction vinaigrettes shrimpiest styleless millwrights liquidize boomkin unappointed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">531</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snuffily rasped hypochondriacs syllabicate stagings webbed preaffirms womaned boils worrisomely jazzman nonstriking guzzled</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>ponytail furnacing titivates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

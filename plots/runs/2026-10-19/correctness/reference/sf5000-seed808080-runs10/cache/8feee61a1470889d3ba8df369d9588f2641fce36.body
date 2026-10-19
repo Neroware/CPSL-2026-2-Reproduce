@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="label"/>
+    <variable name="propertyTextual"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer6/Product254</uri>
+      </binding>
+      <binding name="label">
+        <literal>metatarsal mouthiest</literal>
+      </binding>
+      <binding name="propertyTextual">
+        <literal>eyewashes homaged bighorns</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer101/Product4778</uri>
+      </binding>
+      <binding name="label">
+        <literal>plagiarized cafeterias</literal>
+      </binding>
+      <binding name="propertyTextual">
+        <literal>routemen pennsylvanian benumbing floodgates hydromassage pecker rearresting askers</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

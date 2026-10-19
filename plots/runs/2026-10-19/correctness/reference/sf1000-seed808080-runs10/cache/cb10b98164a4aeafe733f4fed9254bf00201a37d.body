@@ -1,0 +1,353 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="productLabel"/>
+    <variable name="offer"/>
+    <variable name="price"/>
+    <variable name="vendor"/>
+    <variable name="vendorTitle"/>
+    <variable name="review"/>
+    <variable name="revTitle"/>
+    <variable name="reviewer"/>
+    <variable name="revName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+  </head>
+  <results>
+    <result>
+      <binding name="productLabel">
+        <literal>picketers genitourinary</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review39</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>mendelianism violists chutzpas insistency semioses ironist conjunctions nominally gerrymanders barring festooning</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer3</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Danijela-Adalbrand</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>picketers genitourinary</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review126</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>tasselling fazes stagnancy pepped pilchards splashes pucks winding flesher bluesy dingoes</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer7</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Athalia-Diellza</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>picketers genitourinary</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review2438</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>sacrosanctness impressionis incorrectly hanumans rerolled infects balloter hematologic</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer122</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Tanisha</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>picketers genitourinary</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review2773</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>salinity loutishly clicked plosions behaviors notifiable northings plutons fulled feasting adjudicates congeals</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer138</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Patricio-Gravriia</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>picketers genitourinary</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review2897</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>salience fragility favorer astronautically lobotomize refilters tinct pseudoparalysis elvis narcotically dispenser curding chinos</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer143</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Tawfeeq-Jacquelyn</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>picketers genitourinary</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review4284</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>propitiously agog micros gangrene tressier grooms sandfly</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer211</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Toshelle-Markandeya</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>picketers genitourinary</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review4680</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>factualism saliency niggled warbled beeswax overdrunk kirkman shutterbug</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer232</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Avimelech</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>picketers genitourinary</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review5746</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>lungee pugilists lobs quakers bunn subgum unstudied</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer280</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Misao-Raheema</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>picketers genitourinary</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6678</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>stickpins hypocritically pervious engirt shriveled promenaded conceptional dominants presages</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer326</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ledell-Mayako</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>picketers genitourinary</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6804</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>rungless armyworms reno gravitative hist krill hodad</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer334</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Estevao-Bea</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>picketers genitourinary</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review7244</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>jaegars cajolement tetherball limey heaped unshaven harebell settlements pedunculated reliquaries miscegenational</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer356</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Apikaila</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>picketers genitourinary</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review7774</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>natrons trucked jowlier subcontractor dotier overworking tidbits prettier skates emf epicanthic overburdens nonclinically judoist oeuvres</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer384</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Lisabet</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>picketers genitourinary</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review7902</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>cosmical wildling mirv unprintable</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer390</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Kostenka</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>picketers genitourinary</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8326</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>burgundies chm disadvantageousness lapidated elver preconception muffler brines</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer414</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Rubaina-Bernadett</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>picketers genitourinary</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8936</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>understatement plodded derailment negated pushers dressmaker whilom vectored impartible</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer447</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Coireall-Jurgisr</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>picketers genitourinary</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review9435</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>hugs cragged atelier unneedful undiagnosed conferrer bangs skimming crinkles revolutionaries pukes resolves philadelphian</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer475</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Joerg-Niklaus</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

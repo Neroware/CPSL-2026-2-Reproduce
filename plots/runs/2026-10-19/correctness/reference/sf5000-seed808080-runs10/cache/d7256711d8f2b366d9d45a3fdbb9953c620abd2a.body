@@ -1,0 +1,817 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>detoxifier schmoos coddles</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scansion stodgiest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>muskmelons</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>presidium sherberts eighties</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bruskness stereoscopical hurried</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>curtsy</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>spirts realization</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nincompoop aeroliths</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>knacking lagunas</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>midguts probing cleanable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>revertible tyrannizer befuddling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>aider</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>reproductiveness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>profeminists analyzable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>returnees lorry</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>raddle subordination clutching</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hobnail</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>levier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tentering loather rejectees</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>loyalest evidentiary glaring</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>perkiest clastic</literal>
+      </binding>
+      <binding name="comment">
+        <literal>peasants charrier pulldown pokers modernly tonies marmosets stagers partied overcompensating brooklet coined warbles urological pining awareness valuates sweetbrier robbing dinars contentiousness mingy mussiness litigates relax overambitiously rededicate crocodiles blowguns abjurations farriery disabler risers awnings gryphons boomlet avocados talkable imputed penile mongrel malefactresses aurums languidness victimize yes waltzed preconceived riflers gleesome bunkums forms selfed debunkers opaline affectedness grindings cussedly anticorrosives promptness borates solarizing nosebands methodizing murmurous monkhood peroxiding lockless grabbier unlearn sanitationist spiker onrushes trampoline auf brooder dilutors otoscopic linchpin compartmentalizing postconvalescents drivellers kneeholes upholsterers spillway loops urbanologist indiscriminating uproars feruling gonadectomy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>sarod</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>alpaca</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>informer instillers incompetencies daguerreotype bastinadoes arguments despoliation underbid redness advisedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>porticoed fearless retries convertibles bents</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inamoratas deviancy underslung hackman aerofoil deices negativity</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1566</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1355</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pseudoclassical abstains freeholders deluders</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>swanker fibre internationalism crocheters perdurability lacerating valkyrs</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">929</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

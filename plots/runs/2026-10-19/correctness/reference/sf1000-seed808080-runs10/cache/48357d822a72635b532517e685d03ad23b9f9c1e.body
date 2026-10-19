@@ -1,0 +1,831 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>risings corncobs</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gaunter misdefined</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>contentions pepping</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tincturing filterability</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inwardly mangey</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bootie outrides interbank</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bettas swerved deflea</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hajjis postglacial</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>decaffeinates beslime tornadoes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>demeanor</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>manliest polyethylene cullied</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>leeched primers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>spheroids spelunks lettering</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>undervalue hydraulically</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>delineating pshaws</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>reverenced</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>emplacements chagrins</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>monetizing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>anonym scantiness augurs</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ozonizes blues sadducee</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>exculpations croppers boccies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>medievals darneder blouson</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dapperest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>peatiest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nonfulfillment urgencies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>carnaubas youthening finical</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>salivation complicator inadequately</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>corncrib evolving</literal>
+      </binding>
+      <binding name="comment">
+        <literal>unwrapped kindnesses quahogs neutralizes aspired brachiate triggest crocheted toadflax tatami lilted loses parqueted clowned hyphenations growliest traitorism vim sights russians cooperatively nonfunctional bawlers reservist punkins permanency tainting outperforms sidlers retrograded vaccinal rendezvousing refill electrologist grizzliest raga outdoes tongues automation biding arrant showery charrier unchallenged whippersnappers upheave rendering pigmenting spiritualist wattled fulcra materfamilias vilified federates jejunal marmalades wheedling interpreting doggy exiguity venires culler saltcellars dolesome crowning asper tectonics accelerators preferences fattiest impaling lasagnes roughest appointively advertizement psychomotor decahedron jealousness beachboys unstrained sulphas darter unsaddled enlister nurturers soared datable dialog raced mantling sidling airplanes additives unauspicious unchilled scourer aminic sulphas pursuable arcadians azoth scriving</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tranquilizing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>contiguousness wardress theurgies feminity blaspheming diadems gads maypole ritualistic clackers nucleoprotein</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>pouff chem portaled sardinia gratified gravitated adversatively guffawing incept newlyweds languorously wakener blissfully logicized</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tranced impends swarthiness superficiary honkie budgeting ballutes patencies stances heats vaporise arums righters barnstormers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">452</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">335</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

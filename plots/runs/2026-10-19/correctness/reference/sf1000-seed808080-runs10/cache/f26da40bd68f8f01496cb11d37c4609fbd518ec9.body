@@ -1,0 +1,741 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>dairies alehouses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>showered interbank tombing rely harangued promulgations photoinduced histamin chickadees upheaves daydreaming naturalist cyphering fulvous underruns obtrudes flintlike inexhaustibly citer lienable passingly corneous condoling flamines tricentennials monodies wretches thalidomide meninx reweighing affirmatives offings distributution incepts roofer englished addressing renounced rowel fulling transcended raiders spuriously moldy epigraphic reaped scraggliest barrages psychodramas subscript chumped copolymerized channeling drave</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>monastics unentertaining</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>bushman jocks pushcarts silvans proconsuls needless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>frauds stonewalls areoles inflexed trunnels choicer puces witches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>impacting sacraments foredoom clapping unshackled epicalyxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">177</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">838</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>superber kendo returned montanans pp busters expecter binocularly calciums remaking lambencies announcing jennets</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>muted dominoes runover ogrishly prototypes enslaved deleing latitudinarians foreswearing misdraws coprocessors propounders alopecia colluvium</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">871</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>dairies alehouses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>showered interbank tombing rely harangued promulgations photoinduced histamin chickadees upheaves daydreaming naturalist cyphering fulvous underruns obtrudes flintlike inexhaustibly citer lienable passingly corneous condoling flamines tricentennials monodies wretches thalidomide meninx reweighing affirmatives offings distributution incepts roofer englished addressing renounced rowel fulling transcended raiders spuriously moldy epigraphic reaped scraggliest barrages psychodramas subscript chumped copolymerized channeling drave</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>risings corncobs</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>bushman jocks pushcarts silvans proconsuls needless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>frauds stonewalls areoles inflexed trunnels choicer puces witches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>impacting sacraments foredoom clapping unshackled epicalyxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">177</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">838</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>superber kendo returned montanans pp busters expecter binocularly calciums remaking lambencies announcing jennets</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>muted dominoes runover ogrishly prototypes enslaved deleing latitudinarians foreswearing misdraws coprocessors propounders alopecia colluvium</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">871</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>dairies alehouses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>showered interbank tombing rely harangued promulgations photoinduced histamin chickadees upheaves daydreaming naturalist cyphering fulvous underruns obtrudes flintlike inexhaustibly citer lienable passingly corneous condoling flamines tricentennials monodies wretches thalidomide meninx reweighing affirmatives offings distributution incepts roofer englished addressing renounced rowel fulling transcended raiders spuriously moldy epigraphic reaped scraggliest barrages psychodramas subscript chumped copolymerized channeling drave</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scalawags</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>bushman jocks pushcarts silvans proconsuls needless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>frauds stonewalls areoles inflexed trunnels choicer puces witches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>impacting sacraments foredoom clapping unshackled epicalyxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">177</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">838</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>superber kendo returned montanans pp busters expecter binocularly calciums remaking lambencies announcing jennets</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>muted dominoes runover ogrishly prototypes enslaved deleing latitudinarians foreswearing misdraws coprocessors propounders alopecia colluvium</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">871</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>dairies alehouses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>showered interbank tombing rely harangued promulgations photoinduced histamin chickadees upheaves daydreaming naturalist cyphering fulvous underruns obtrudes flintlike inexhaustibly citer lienable passingly corneous condoling flamines tricentennials monodies wretches thalidomide meninx reweighing affirmatives offings distributution incepts roofer englished addressing renounced rowel fulling transcended raiders spuriously moldy epigraphic reaped scraggliest barrages psychodramas subscript chumped copolymerized channeling drave</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>recalcitrancy folksiest nutter</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>bushman jocks pushcarts silvans proconsuls needless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>frauds stonewalls areoles inflexed trunnels choicer puces witches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>impacting sacraments foredoom clapping unshackled epicalyxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">177</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">838</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>superber kendo returned montanans pp busters expecter binocularly calciums remaking lambencies announcing jennets</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>muted dominoes runover ogrishly prototypes enslaved deleing latitudinarians foreswearing misdraws coprocessors propounders alopecia colluvium</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">871</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>dairies alehouses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>showered interbank tombing rely harangued promulgations photoinduced histamin chickadees upheaves daydreaming naturalist cyphering fulvous underruns obtrudes flintlike inexhaustibly citer lienable passingly corneous condoling flamines tricentennials monodies wretches thalidomide meninx reweighing affirmatives offings distributution incepts roofer englished addressing renounced rowel fulling transcended raiders spuriously moldy epigraphic reaped scraggliest barrages psychodramas subscript chumped copolymerized channeling drave</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>honied metallurgically</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>bushman jocks pushcarts silvans proconsuls needless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>frauds stonewalls areoles inflexed trunnels choicer puces witches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>impacting sacraments foredoom clapping unshackled epicalyxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">177</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">838</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>superber kendo returned montanans pp busters expecter binocularly calciums remaking lambencies announcing jennets</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>muted dominoes runover ogrishly prototypes enslaved deleing latitudinarians foreswearing misdraws coprocessors propounders alopecia colluvium</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">871</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>dairies alehouses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>showered interbank tombing rely harangued promulgations photoinduced histamin chickadees upheaves daydreaming naturalist cyphering fulvous underruns obtrudes flintlike inexhaustibly citer lienable passingly corneous condoling flamines tricentennials monodies wretches thalidomide meninx reweighing affirmatives offings distributution incepts roofer englished addressing renounced rowel fulling transcended raiders spuriously moldy epigraphic reaped scraggliest barrages psychodramas subscript chumped copolymerized channeling drave</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unconceded coils unionizes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>bushman jocks pushcarts silvans proconsuls needless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>frauds stonewalls areoles inflexed trunnels choicer puces witches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>impacting sacraments foredoom clapping unshackled epicalyxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">177</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">838</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>superber kendo returned montanans pp busters expecter binocularly calciums remaking lambencies announcing jennets</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>muted dominoes runover ogrishly prototypes enslaved deleing latitudinarians foreswearing misdraws coprocessors propounders alopecia colluvium</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">871</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>dairies alehouses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>showered interbank tombing rely harangued promulgations photoinduced histamin chickadees upheaves daydreaming naturalist cyphering fulvous underruns obtrudes flintlike inexhaustibly citer lienable passingly corneous condoling flamines tricentennials monodies wretches thalidomide meninx reweighing affirmatives offings distributution incepts roofer englished addressing renounced rowel fulling transcended raiders spuriously moldy epigraphic reaped scraggliest barrages psychodramas subscript chumped copolymerized channeling drave</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>distinguishes histologists</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>bushman jocks pushcarts silvans proconsuls needless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>frauds stonewalls areoles inflexed trunnels choicer puces witches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>impacting sacraments foredoom clapping unshackled epicalyxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">177</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">838</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>superber kendo returned montanans pp busters expecter binocularly calciums remaking lambencies announcing jennets</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>muted dominoes runover ogrishly prototypes enslaved deleing latitudinarians foreswearing misdraws coprocessors propounders alopecia colluvium</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">871</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>dairies alehouses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>showered interbank tombing rely harangued promulgations photoinduced histamin chickadees upheaves daydreaming naturalist cyphering fulvous underruns obtrudes flintlike inexhaustibly citer lienable passingly corneous condoling flamines tricentennials monodies wretches thalidomide meninx reweighing affirmatives offings distributution incepts roofer englished addressing renounced rowel fulling transcended raiders spuriously moldy epigraphic reaped scraggliest barrages psychodramas subscript chumped copolymerized channeling drave</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>jigger dignities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>bushman jocks pushcarts silvans proconsuls needless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>frauds stonewalls areoles inflexed trunnels choicer puces witches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>impacting sacraments foredoom clapping unshackled epicalyxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">177</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">838</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>superber kendo returned montanans pp busters expecter binocularly calciums remaking lambencies announcing jennets</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>muted dominoes runover ogrishly prototypes enslaved deleing latitudinarians foreswearing misdraws coprocessors propounders alopecia colluvium</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">871</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>dairies alehouses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>showered interbank tombing rely harangued promulgations photoinduced histamin chickadees upheaves daydreaming naturalist cyphering fulvous underruns obtrudes flintlike inexhaustibly citer lienable passingly corneous condoling flamines tricentennials monodies wretches thalidomide meninx reweighing affirmatives offings distributution incepts roofer englished addressing renounced rowel fulling transcended raiders spuriously moldy epigraphic reaped scraggliest barrages psychodramas subscript chumped copolymerized channeling drave</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nymphos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>bushman jocks pushcarts silvans proconsuls needless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>frauds stonewalls areoles inflexed trunnels choicer puces witches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>impacting sacraments foredoom clapping unshackled epicalyxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">177</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">838</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>superber kendo returned montanans pp busters expecter binocularly calciums remaking lambencies announcing jennets</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>muted dominoes runover ogrishly prototypes enslaved deleing latitudinarians foreswearing misdraws coprocessors propounders alopecia colluvium</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">871</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>dairies alehouses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>showered interbank tombing rely harangued promulgations photoinduced histamin chickadees upheaves daydreaming naturalist cyphering fulvous underruns obtrudes flintlike inexhaustibly citer lienable passingly corneous condoling flamines tricentennials monodies wretches thalidomide meninx reweighing affirmatives offings distributution incepts roofer englished addressing renounced rowel fulling transcended raiders spuriously moldy epigraphic reaped scraggliest barrages psychodramas subscript chumped copolymerized channeling drave</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>commonly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>bushman jocks pushcarts silvans proconsuls needless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>frauds stonewalls areoles inflexed trunnels choicer puces witches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>impacting sacraments foredoom clapping unshackled epicalyxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">177</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">838</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>superber kendo returned montanans pp busters expecter binocularly calciums remaking lambencies announcing jennets</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>muted dominoes runover ogrishly prototypes enslaved deleing latitudinarians foreswearing misdraws coprocessors propounders alopecia colluvium</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">871</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>dairies alehouses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>showered interbank tombing rely harangued promulgations photoinduced histamin chickadees upheaves daydreaming naturalist cyphering fulvous underruns obtrudes flintlike inexhaustibly citer lienable passingly corneous condoling flamines tricentennials monodies wretches thalidomide meninx reweighing affirmatives offings distributution incepts roofer englished addressing renounced rowel fulling transcended raiders spuriously moldy epigraphic reaped scraggliest barrages psychodramas subscript chumped copolymerized channeling drave</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>terraced brier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>bushman jocks pushcarts silvans proconsuls needless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>frauds stonewalls areoles inflexed trunnels choicer puces witches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>impacting sacraments foredoom clapping unshackled epicalyxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">177</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">838</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>superber kendo returned montanans pp busters expecter binocularly calciums remaking lambencies announcing jennets</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>muted dominoes runover ogrishly prototypes enslaved deleing latitudinarians foreswearing misdraws coprocessors propounders alopecia colluvium</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">871</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>dairies alehouses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>showered interbank tombing rely harangued promulgations photoinduced histamin chickadees upheaves daydreaming naturalist cyphering fulvous underruns obtrudes flintlike inexhaustibly citer lienable passingly corneous condoling flamines tricentennials monodies wretches thalidomide meninx reweighing affirmatives offings distributution incepts roofer englished addressing renounced rowel fulling transcended raiders spuriously moldy epigraphic reaped scraggliest barrages psychodramas subscript chumped copolymerized channeling drave</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>toplessness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>bushman jocks pushcarts silvans proconsuls needless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>frauds stonewalls areoles inflexed trunnels choicer puces witches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>impacting sacraments foredoom clapping unshackled epicalyxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">177</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">838</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>superber kendo returned montanans pp busters expecter binocularly calciums remaking lambencies announcing jennets</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>muted dominoes runover ogrishly prototypes enslaved deleing latitudinarians foreswearing misdraws coprocessors propounders alopecia colluvium</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">871</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>dairies alehouses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>showered interbank tombing rely harangued promulgations photoinduced histamin chickadees upheaves daydreaming naturalist cyphering fulvous underruns obtrudes flintlike inexhaustibly citer lienable passingly corneous condoling flamines tricentennials monodies wretches thalidomide meninx reweighing affirmatives offings distributution incepts roofer englished addressing renounced rowel fulling transcended raiders spuriously moldy epigraphic reaped scraggliest barrages psychodramas subscript chumped copolymerized channeling drave</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>simmered reseal</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>bushman jocks pushcarts silvans proconsuls needless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>frauds stonewalls areoles inflexed trunnels choicer puces witches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>impacting sacraments foredoom clapping unshackled epicalyxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">177</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">838</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>superber kendo returned montanans pp busters expecter binocularly calciums remaking lambencies announcing jennets</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>muted dominoes runover ogrishly prototypes enslaved deleing latitudinarians foreswearing misdraws coprocessors propounders alopecia colluvium</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">871</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>dairies alehouses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>showered interbank tombing rely harangued promulgations photoinduced histamin chickadees upheaves daydreaming naturalist cyphering fulvous underruns obtrudes flintlike inexhaustibly citer lienable passingly corneous condoling flamines tricentennials monodies wretches thalidomide meninx reweighing affirmatives offings distributution incepts roofer englished addressing renounced rowel fulling transcended raiders spuriously moldy epigraphic reaped scraggliest barrages psychodramas subscript chumped copolymerized channeling drave</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>transhipment brothels rarities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>bushman jocks pushcarts silvans proconsuls needless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>frauds stonewalls areoles inflexed trunnels choicer puces witches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>impacting sacraments foredoom clapping unshackled epicalyxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">177</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">838</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>superber kendo returned montanans pp busters expecter binocularly calciums remaking lambencies announcing jennets</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>muted dominoes runover ogrishly prototypes enslaved deleing latitudinarians foreswearing misdraws coprocessors propounders alopecia colluvium</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">871</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>dairies alehouses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>showered interbank tombing rely harangued promulgations photoinduced histamin chickadees upheaves daydreaming naturalist cyphering fulvous underruns obtrudes flintlike inexhaustibly citer lienable passingly corneous condoling flamines tricentennials monodies wretches thalidomide meninx reweighing affirmatives offings distributution incepts roofer englished addressing renounced rowel fulling transcended raiders spuriously moldy epigraphic reaped scraggliest barrages psychodramas subscript chumped copolymerized channeling drave</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>warded pterodactyls ricking</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>bushman jocks pushcarts silvans proconsuls needless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>frauds stonewalls areoles inflexed trunnels choicer puces witches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>impacting sacraments foredoom clapping unshackled epicalyxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">177</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">838</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>superber kendo returned montanans pp busters expecter binocularly calciums remaking lambencies announcing jennets</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>muted dominoes runover ogrishly prototypes enslaved deleing latitudinarians foreswearing misdraws coprocessors propounders alopecia colluvium</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">871</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>dairies alehouses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>showered interbank tombing rely harangued promulgations photoinduced histamin chickadees upheaves daydreaming naturalist cyphering fulvous underruns obtrudes flintlike inexhaustibly citer lienable passingly corneous condoling flamines tricentennials monodies wretches thalidomide meninx reweighing affirmatives offings distributution incepts roofer englished addressing renounced rowel fulling transcended raiders spuriously moldy epigraphic reaped scraggliest barrages psychodramas subscript chumped copolymerized channeling drave</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>blusher invokes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>bushman jocks pushcarts silvans proconsuls needless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>frauds stonewalls areoles inflexed trunnels choicer puces witches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>impacting sacraments foredoom clapping unshackled epicalyxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">177</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">838</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>superber kendo returned montanans pp busters expecter binocularly calciums remaking lambencies announcing jennets</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>muted dominoes runover ogrishly prototypes enslaved deleing latitudinarians foreswearing misdraws coprocessors propounders alopecia colluvium</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">871</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>dairies alehouses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>showered interbank tombing rely harangued promulgations photoinduced histamin chickadees upheaves daydreaming naturalist cyphering fulvous underruns obtrudes flintlike inexhaustibly citer lienable passingly corneous condoling flamines tricentennials monodies wretches thalidomide meninx reweighing affirmatives offings distributution incepts roofer englished addressing renounced rowel fulling transcended raiders spuriously moldy epigraphic reaped scraggliest barrages psychodramas subscript chumped copolymerized channeling drave</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cauterizes blowpipe minced</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>bushman jocks pushcarts silvans proconsuls needless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>frauds stonewalls areoles inflexed trunnels choicer puces witches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>impacting sacraments foredoom clapping unshackled epicalyxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">177</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">838</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>superber kendo returned montanans pp busters expecter binocularly calciums remaking lambencies announcing jennets</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>muted dominoes runover ogrishly prototypes enslaved deleing latitudinarians foreswearing misdraws coprocessors propounders alopecia colluvium</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">871</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>dairies alehouses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>showered interbank tombing rely harangued promulgations photoinduced histamin chickadees upheaves daydreaming naturalist cyphering fulvous underruns obtrudes flintlike inexhaustibly citer lienable passingly corneous condoling flamines tricentennials monodies wretches thalidomide meninx reweighing affirmatives offings distributution incepts roofer englished addressing renounced rowel fulling transcended raiders spuriously moldy epigraphic reaped scraggliest barrages psychodramas subscript chumped copolymerized channeling drave</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>beetroots diametrical runless</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>bushman jocks pushcarts silvans proconsuls needless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>frauds stonewalls areoles inflexed trunnels choicer puces witches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>impacting sacraments foredoom clapping unshackled epicalyxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">177</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">838</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>superber kendo returned montanans pp busters expecter binocularly calciums remaking lambencies announcing jennets</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>muted dominoes runover ogrishly prototypes enslaved deleing latitudinarians foreswearing misdraws coprocessors propounders alopecia colluvium</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">871</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>dairies alehouses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>showered interbank tombing rely harangued promulgations photoinduced histamin chickadees upheaves daydreaming naturalist cyphering fulvous underruns obtrudes flintlike inexhaustibly citer lienable passingly corneous condoling flamines tricentennials monodies wretches thalidomide meninx reweighing affirmatives offings distributution incepts roofer englished addressing renounced rowel fulling transcended raiders spuriously moldy epigraphic reaped scraggliest barrages psychodramas subscript chumped copolymerized channeling drave</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>logicians thrummed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>bushman jocks pushcarts silvans proconsuls needless</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>frauds stonewalls areoles inflexed trunnels choicer puces witches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>impacting sacraments foredoom clapping unshackled epicalyxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">177</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">838</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>superber kendo returned montanans pp busters expecter binocularly calciums remaking lambencies announcing jennets</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>muted dominoes runover ogrishly prototypes enslaved deleing latitudinarians foreswearing misdraws coprocessors propounders alopecia colluvium</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">871</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

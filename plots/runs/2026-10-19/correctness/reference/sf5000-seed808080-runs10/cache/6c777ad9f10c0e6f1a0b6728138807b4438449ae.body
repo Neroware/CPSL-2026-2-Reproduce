@@ -1,0 +1,414 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="productLabel"/>
+    <variable name="offer"/>
+    <variable name="price"/>
+    <variable name="vendor"/>
+    <variable name="vendorTitle"/>
+    <variable name="review"/>
+    <variable name="revTitle"/>
+    <variable name="reviewer"/>
+    <variable name="revName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+  </head>
+  <results>
+    <result>
+      <binding name="productLabel">
+        <literal>peddler constructiveness</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer66405</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">7157.27</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review862</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>sagiest deles motherlands polygamous pulsatory</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer44</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ignacia</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>peddler constructiveness</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer66405</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">7157.27</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Review18064</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>embezzlements increasing microphotographs ungraciously brie</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer919</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Nashat-Isidoro</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>peddler constructiveness</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer66405</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">7157.27</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Review34544</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>abscises sniffingly enceinte inclined terminations soils immolated coving subtlest aetheric</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1764</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ovdeeva-Zelda</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>peddler constructiveness</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer66405</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">7157.27</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Review38090</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>mortarless russets snouts bocces pillaged archeozoic plops bretons markkaa thermocurrent perspired biologies</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1945</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Maddox-Adalbero</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>peddler constructiveness</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer66405</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">7157.27</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Review38277</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>isthmus seizes constituencies sublevels waggling crowding sobful loners finochios sophists atheists parolers gamely</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1953</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Niloufer</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>peddler constructiveness</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer66405</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">7157.27</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Review40407</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>broadlooms pickaninnies cootie daydreamers scents metroliners seakeeping undermentioned histolytic dyestuff browns</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2058</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Neza</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>peddler constructiveness</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer67195</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">4062.97</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review862</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>sagiest deles motherlands polygamous pulsatory</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer44</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ignacia</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>peddler constructiveness</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer67195</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">4062.97</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Review18064</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>embezzlements increasing microphotographs ungraciously brie</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer919</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Nashat-Isidoro</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>peddler constructiveness</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer67195</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">4062.97</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Review34544</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>abscises sniffingly enceinte inclined terminations soils immolated coving subtlest aetheric</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1764</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ovdeeva-Zelda</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>peddler constructiveness</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer67195</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">4062.97</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Review38090</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>mortarless russets snouts bocces pillaged archeozoic plops bretons markkaa thermocurrent perspired biologies</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1945</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Maddox-Adalbero</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>peddler constructiveness</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer67195</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">4062.97</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Review38277</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>isthmus seizes constituencies sublevels waggling crowding sobful loners finochios sophists atheists parolers gamely</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1953</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Niloufer</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>peddler constructiveness</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer67195</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">4062.97</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Review40407</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>broadlooms pickaninnies cootie daydreamers scents metroliners seakeeping undermentioned histolytic dyestuff browns</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2058</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Neza</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

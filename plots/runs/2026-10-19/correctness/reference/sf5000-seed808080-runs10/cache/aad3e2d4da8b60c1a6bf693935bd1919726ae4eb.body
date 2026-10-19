@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="text"/>
+    <variable name="reviewDate"/>
+    <variable name="reviewer"/>
+    <variable name="reviewerName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+    <variable name="rating3"/>
+    <variable name="rating4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="title">
+        <literal>overanalyze disaffiliations assyrian finalization twinnings</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">marrer animadverting knits hydrotherapeutics dispensing prelacy ripraps reverting pinewood submerged dunker hardhead diuretic engulfed toxicological willpower installing overeating tarnishes overfond unkissed relying pharyngectomies allergens linchpins trioxides latency deflagrating somersaulted tootsies whisked armlessness plumaged marsupium aquifers hopefulness pemmicans eyetooth professionalist nighters collaterally tracheotomizing joggles enthused cyclicly horrifying unenjoyable assorters extrauterine grapnels gynecologies bimetallist trowel manyfold refutals impeaching subdivisions fealties lumpers dynamos trampolinist luminal moralistically flourished endearment fixating foofaraw worthier antiproton sacrist unfrocked filigrees fractional archonship medievally tabulating timidities prelacy futility goatskin modulator lour catechumens sensitively cares idolizing chaunters copier spuriousness geomagnetic pens adroitest oarsman oddness disarranged reaccustoming bangkoks dipody unshod vacationing syncing odyl faltered sideswipe lanceted familiarity whimpered fleshed macaronies hogties paraders</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-01-30T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2011</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Delbert-Zoltan</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>xiphoids crudities turquoises posterities</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">thirster choruses returned masques oceanographic typhons hectare charily hoboes operations bellpull scintillates trollied parallelled meeting boulders pruriently neoclassically violations bowlegged mignons subitems imitatively babbled radiometric grubs roentgenologies reconvene filaree mopeder degreases minibikes mobilities flightiness privates notability belted gangways limped retracted tablas ringtail bowwows adduct unflappably gelt chipper shogunal hogshead uninstructed deserver exurb thermometry unrolling relativistic surfboards veepees tyro regressed visionaries nonvoluntary synchros spelldown surrounding recesses chunkily detectors alerts swizzling eruptions planning manhours donative dentin germinations everblooming canvaslike blames chivying rethought signer vugs drawers epicentral smartest gulling tearing shares challies squushing headhunted shapelessness drumrolls coconuts ranging pajama stillness deprogrammer guardsman bruiser chlorals reviser beggarly renumbered balmoral leaguing meathead maniples participating multimedia reconsecrate clingstone gatherer replants floggers inflictions penstock alienability acceptees churlish parasitically whitecapper precludes subfamily nonparticipation looted</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-12-16T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer105</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Norie-Hanna</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>somnolencies monocularly negators telephones prematurely steamiest humaneness yapped chekhov romanism tingler stammers receiptor</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">psychophysically redouble cowed recolonized eristics hearings onionskins preselecting alkyd wavered cupped unwelcome gingery voyaging pekingese enwrapping retreading radiocast ponds doctrinairism crosscurrent cosmetologist imply expensiveness totalizes nonsegregated prebilling weaponed volga overexpanded austral finder pledging conceitedness similarities irreversibility fichu canallers macadamize hogfishes juggernaut hypersensitive pigeonholing pawner glockenspiels schoolgirls babying decreers monosexualities trickishly unteaching squiggles kwhr numerators comprizes fungoids cummerbund alighting denominates footlocker mercerizes toolsheds</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-10-10T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite3/Reviewer1065</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Emmanoul-Tishka</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>briquette radicated downloading incites accosts</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">tuberoid scheming cheesiest anguished overanxious pathetically avions heteros bosomed valerians frontally nationalize victors faultlessly chromosomally parleying tempted nanowatts discourtesy virally jukeboxes outstand counterfeiter calorically reimprisons honorables barometry iodizers beekeeper momma rickshaws revellings appertains topmasts uncongenial hulls munchy cooed glamors canonizing gristle amounting mandator singsongs oryxes dolmens attractions blackly thrills arete brattish paler folios leanly fallows roundest summits forestery fossilization studios fueller tawdriness sneeringly cubital cropped refire sulphured pieceworker bureaucratized alkalic responsibility vocative wakener grammatical inscribing tortures extemporaneousness hypersensitized bureaucratizing brainily crayonist brooklet haruspex fevering auspiciously malodorous smoulder assailed balancers cockier testis nimbused angolans bottlefuls jujuism vinculum bombardments roundest pincushions cognoscenti oddest dingeys sphygmomanometry shrewdest radiuses ungrammatical kernelling postglacial liquidates nappy jackers floret gravitic crackliest grands generates repressibility eviler loutish listenings trifler foreseer feared coaxer stripiest summable espials solidly hoggers vinos expatriate evener</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-07-27T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1446</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Eisen-Cycnus</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

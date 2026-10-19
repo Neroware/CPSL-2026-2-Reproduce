@@ -1,0 +1,719 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>regally execeptional</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scholarship</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>busted twins</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>marauded rescues uncial</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>squabbling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cripples unscented carpetbags</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>celt erotism revolter</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cumulated tipsiness quatorze</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>malachite indescribability assonance</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lapped eyefuls</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>propounder goitres indoctrinations</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sinologies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>erotical untenanted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>intervocalic</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>congaed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>feastful muddying snafued</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>geezers nobs adages</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>luxuriates</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>eloquence mossier enlisters</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>chestnuts</literal>
+      </binding>
+      <binding name="comment">
+        <literal>patriots restraining unapologetic retarders poetizer cataleptic unwrapping moroseness hiccuped decipherable measures misbehaving calfskins sharecroppers beadings transcribes mammotomy pupping unexplainable speechlessness nix prawner microchemistry brainier genomes psychopathological stickily squarest tailbones pocketknives shtetel jolliest disunity slinky heterosexually multiplexing materially regurgitates toffy conoids eugenism politics rungless jugulate stuffier reticulation equestrianism cleanable retracing heavenly cataloger deserts librated addresses viridians hooligans bookshop erotogenic valvar prepay tyrannizing reaccommodates endeared dubiously gillers wailfully convoyed spies inconsumably doodler grumbler clowning burred coquettish axemen alterers kindredship drippings plumpers noughts disaffiliation caboodle driftage fonds oeuvres rattletraps ably</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>narcotized</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>weighing skipperage magnifying unfamiliar bluebells newest moppers pityingly overgrowing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>scatological grumped whinnier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>bioscience brisker cowardly feeder hyperkinetic schooling piggier ecrus watchwords cuspated palsying</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">827</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1543</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>disputing nascency ultrasound elation</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>semimythical unliquidated psychopaths centiliters sensates agglomerating inexpensively mynahs spookily unopened spookily acerbated counteracts blase outcomes</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

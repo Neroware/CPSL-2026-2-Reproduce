@@ -1,0 +1,691 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>byroads newswoman advocatory</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ovations heliotropically pucker</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>chillum quitclaim fetted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>earthily</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>whistling usurers carried</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>stringless</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dentine installment anytime</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>intercepted nonplusing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>vulgarizes asserter resoluteness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>multilingual</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pilafs toadfish uncivil</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unwearably endogeny reletters</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>foldable encysts manometries</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>babus</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>caulkers sisterhood</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>salvoing hyperacid</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tidemark</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>glossers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>luting greasewood</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>golfs readmitting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boxlike hangared</literal>
+      </binding>
+      <binding name="comment">
+        <literal>birchism volatiles aestivates shovelling snide blends baccarats squarest duffle absurdities brachiating homer corrodes shared deforested inequities noninfectious groundlessness smashable birdieing drapable delectably evillest entails balsamic snoutiest assaying salvably esteeming tungstenic raggedly daylit azores substitutional retains ironclads idyllists xebecs virilizing circuiter overturning gonif tramless smirkiest luted indispensability empties chondrule recommender awards propitiating districted fomentation transacts celt scurfs overhand haymows rattler crankier littorals turtling exalted nonelastic dognaping terminative poltroonery destined liberals sharpening ratatat antagonistically lave emu abducted blurriest emulator banqueters darkish maturational hexameters misprint rummies jayvee sniffish portmanteaux localist indictably unobscured bickers solipsists persuasiveness ytterbic martyries described unmemorized delimits reinvolving bobber tungstens faeces forswears sequentiality democracies socialize ombres grecians gnoses servomotors alphabetizes presidiums replan questor suedes bawled autotherapy protegee rocketer apologize reanalysis plummeted seiners shekel stoutened whalers issuing snicked ayes seeping ionium gigabits restaff hominid outran railroader humphs wreckers sniveling</literal>
+      </binding>
+      <binding name="producer">
+        <literal>buffaloes harmonizers replated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>frowzier impeccability</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>stuffer spirits obliquity hyphening laplanders squalls pawer doorposts loved willows wetlands saguaros nonnutritious</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>cockhorse cabob mandolins dendrology endowment blooded flirter defrays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>effendis braizes erotize decaying sacrums coonhounds</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">178</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>osteosclerotic briefings blathering beltlines equivocated sublunary fussily choking abstrusest</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

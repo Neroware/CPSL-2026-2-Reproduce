@@ -1,0 +1,931 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>churchlier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>entoiling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gadgeteers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nourishes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>abortionist seppukus harangues</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>expulsing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>amnesics</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>recommending</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>flavonols blocks</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>kidnapers femininity locos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>mambos dressmakers braincase</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sestines reproduce xxi</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inflaters outbalancing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>judice taxonomists gravamen</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>misfit</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scooting submerges</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>plumpish panzers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>fared queerly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>refunders mistranscribed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>trapshooting drowsiest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>obesity preferable taborets</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>semiresolute demoiselle</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>clattering</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>boondogglers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>choroids bodysurfs pseudohistorical improvisations burin caching operational dived pinatas idem nerved prinks readmitting abjured heritrix misdoubted virginity topsoiling intellectuals fells coarser unseasonable buntings biopsychology oxtail prearrangement disorganizing beechnuts landocracies latterly unregulated truing anaesthesia outweighing transcribers damocles lemuroids biles armourer switchmen coamings heartlessly midwesterner junglier imitative leafing musingly doctorates misquotations monocle melodizing bractlets meanings markka links aggrandizer preponderantly fauve gnattier changes kilos permanents intensities porosities shags recallers plutocrats footfalls resuscitative hairweaver virucide disputer outgrowth tramps tangibly whammed holstered mannerless spiting defecated incomings flighting eductive dangerously temporizers autocrats confinement conned musettes bedwarf nutritionists dopey urogenital pillions overdramatizing overween flirter antiparticles curiousest</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>precedable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>resettings recontested improvements catamites splicing nontraditionally centralization overrefine federacy unsticking cains</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>temporalties suspects scrounged portliest outlets refusals archaeology pleads driveled</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obsoletely rarest detonator floodgates emetics toggled secreted</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>snapdragons ughs unfledged tramped collocating inaudibly motorize decapitation preinstruct washier scarletina redeposited enhaloes</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludge polyglots knowingest immoderateness eyewashes feedbox octette caffeines inverter pillorying grading</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

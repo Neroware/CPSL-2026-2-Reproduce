@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer43/Product2061</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>batty chromas</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer14/Product649</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>carnaubas</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer29/Product1324</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>confutations</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer65/Product3067</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>deliberatively trenched corruptibleness</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer95/Product4531</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>mistrusting</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer73/Product3463</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>motorcade</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer87/Product4179</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>poleward refries wrangler</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer101/Product4797</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>smokestacks kishkes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer34/Product1557</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>subversions miscognizant</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer37/Product1664</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>woodenly quadriplegic</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer30/Product1346</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>wormholes griddlecake</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

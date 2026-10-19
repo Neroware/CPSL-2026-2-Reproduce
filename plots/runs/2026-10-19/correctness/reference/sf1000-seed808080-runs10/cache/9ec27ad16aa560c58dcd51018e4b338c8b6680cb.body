@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="productLabel"/>
+    <variable name="offer"/>
+    <variable name="price"/>
+    <variable name="vendor"/>
+    <variable name="vendorTitle"/>
+    <variable name="review"/>
+    <variable name="revTitle"/>
+    <variable name="reviewer"/>
+    <variable name="revName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+  </head>
+  <results>
+    <result>
+      <binding name="productLabel">
+        <literal>radiochemist</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review312</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>torpedoed cornmeals behaved lectureships hygienics vicomte affaire unequivocalness anthrax reverifications conspires dearer sandwort</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer16</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Viviane-Stephano</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>radiochemist</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review3915</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>condyles stonishing primos aerialist dollars useability rioted seriating outboasting</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer194</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Waajida-Luke</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>radiochemist</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review4619</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>hydrographers matzos chapt lifelikeness subkingdom indemonstrable</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer228</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ilhaam-Cristofor</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>radiochemist</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8479</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>quadrat escalations dearly arsenates mellowly</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer422</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Carlie-Izar</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>radiochemist</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review9235</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>unadapted guernseys nondirectional erroneously encoder worried legitimism syringed devotes nearness tensive slaggier remoter interdicting windiest</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer465</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Gormant-Christie</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>radiochemist</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review9806</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>yarned priedieux biotically cukes nonabstainer prolapsing traipsing menhirs overladen pettifogs dewlapped</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer493</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Pwyll-Jovan</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

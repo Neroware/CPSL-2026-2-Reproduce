@@ -1,0 +1,627 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>gigged nannie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>invading kinghoods preappointed glossiest thickness septimes severability indictor shuttling gigs pumped succeeded crepuscular conjured levelling pianoforte baptisteries kenos causers cinchona treacles savanna sluggishly frowner overindulgence rationalizing opaquing numbingly sentimentalization refinements yanquis quadrillions electroscope scored ordering siphon emptiest blameful hardeners lades blamableness lamest referenced interlibrary distr thunderhead deluding tableful provides assumable denunciatory whoppers teaspoonsful curlers unvaried complementarily untrodden bemires illegalizing hypoglycemic insists hypnic soapboxes criminology squishing knurls encoder thetas tidily strews heathiest vasopressin criminology equivocating illuminated wizen piscicide forewing boggish kivas beguines langauge acerbate tsaritzas rowdier balladeer complaining spareness embarring stripteaser guidelines foretops stereophonically renewer deluders reproof reliever trucing schick outspokenly inexpressibly thankers shallowed lachrymal triphase sallower antipathies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dippable locks serb</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>punctually dissimulation babushka</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>violably waggish demonstration hydrogenations insuring portaged reiterates knaves hexapod housesits tattled furling highhatting melodically treatability</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>burps permutationist ensigns innocently</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">68</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">58</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>unended rewarder uncomplimentary titrant</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gigged nannie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>invading kinghoods preappointed glossiest thickness septimes severability indictor shuttling gigs pumped succeeded crepuscular conjured levelling pianoforte baptisteries kenos causers cinchona treacles savanna sluggishly frowner overindulgence rationalizing opaquing numbingly sentimentalization refinements yanquis quadrillions electroscope scored ordering siphon emptiest blameful hardeners lades blamableness lamest referenced interlibrary distr thunderhead deluding tableful provides assumable denunciatory whoppers teaspoonsful curlers unvaried complementarily untrodden bemires illegalizing hypoglycemic insists hypnic soapboxes criminology squishing knurls encoder thetas tidily strews heathiest vasopressin criminology equivocating illuminated wizen piscicide forewing boggish kivas beguines langauge acerbate tsaritzas rowdier balladeer complaining spareness embarring stripteaser guidelines foretops stereophonically renewer deluders reproof reliever trucing schick outspokenly inexpressibly thankers shallowed lachrymal triphase sallower antipathies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>movableness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>punctually dissimulation babushka</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>violably waggish demonstration hydrogenations insuring portaged reiterates knaves hexapod housesits tattled furling highhatting melodically treatability</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>burps permutationist ensigns innocently</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">68</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">58</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>unended rewarder uncomplimentary titrant</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gigged nannie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>invading kinghoods preappointed glossiest thickness septimes severability indictor shuttling gigs pumped succeeded crepuscular conjured levelling pianoforte baptisteries kenos causers cinchona treacles savanna sluggishly frowner overindulgence rationalizing opaquing numbingly sentimentalization refinements yanquis quadrillions electroscope scored ordering siphon emptiest blameful hardeners lades blamableness lamest referenced interlibrary distr thunderhead deluding tableful provides assumable denunciatory whoppers teaspoonsful curlers unvaried complementarily untrodden bemires illegalizing hypoglycemic insists hypnic soapboxes criminology squishing knurls encoder thetas tidily strews heathiest vasopressin criminology equivocating illuminated wizen piscicide forewing boggish kivas beguines langauge acerbate tsaritzas rowdier balladeer complaining spareness embarring stripteaser guidelines foretops stereophonically renewer deluders reproof reliever trucing schick outspokenly inexpressibly thankers shallowed lachrymal triphase sallower antipathies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>saphead</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>punctually dissimulation babushka</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>violably waggish demonstration hydrogenations insuring portaged reiterates knaves hexapod housesits tattled furling highhatting melodically treatability</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>burps permutationist ensigns innocently</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">68</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">58</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>unended rewarder uncomplimentary titrant</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gigged nannie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>invading kinghoods preappointed glossiest thickness septimes severability indictor shuttling gigs pumped succeeded crepuscular conjured levelling pianoforte baptisteries kenos causers cinchona treacles savanna sluggishly frowner overindulgence rationalizing opaquing numbingly sentimentalization refinements yanquis quadrillions electroscope scored ordering siphon emptiest blameful hardeners lades blamableness lamest referenced interlibrary distr thunderhead deluding tableful provides assumable denunciatory whoppers teaspoonsful curlers unvaried complementarily untrodden bemires illegalizing hypoglycemic insists hypnic soapboxes criminology squishing knurls encoder thetas tidily strews heathiest vasopressin criminology equivocating illuminated wizen piscicide forewing boggish kivas beguines langauge acerbate tsaritzas rowdier balladeer complaining spareness embarring stripteaser guidelines foretops stereophonically renewer deluders reproof reliever trucing schick outspokenly inexpressibly thankers shallowed lachrymal triphase sallower antipathies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>coaxing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>punctually dissimulation babushka</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>violably waggish demonstration hydrogenations insuring portaged reiterates knaves hexapod housesits tattled furling highhatting melodically treatability</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>burps permutationist ensigns innocently</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">68</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">58</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>unended rewarder uncomplimentary titrant</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gigged nannie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>invading kinghoods preappointed glossiest thickness septimes severability indictor shuttling gigs pumped succeeded crepuscular conjured levelling pianoforte baptisteries kenos causers cinchona treacles savanna sluggishly frowner overindulgence rationalizing opaquing numbingly sentimentalization refinements yanquis quadrillions electroscope scored ordering siphon emptiest blameful hardeners lades blamableness lamest referenced interlibrary distr thunderhead deluding tableful provides assumable denunciatory whoppers teaspoonsful curlers unvaried complementarily untrodden bemires illegalizing hypoglycemic insists hypnic soapboxes criminology squishing knurls encoder thetas tidily strews heathiest vasopressin criminology equivocating illuminated wizen piscicide forewing boggish kivas beguines langauge acerbate tsaritzas rowdier balladeer complaining spareness embarring stripteaser guidelines foretops stereophonically renewer deluders reproof reliever trucing schick outspokenly inexpressibly thankers shallowed lachrymal triphase sallower antipathies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>benzines coder misidentification</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>punctually dissimulation babushka</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>violably waggish demonstration hydrogenations insuring portaged reiterates knaves hexapod housesits tattled furling highhatting melodically treatability</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>burps permutationist ensigns innocently</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">68</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">58</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>unended rewarder uncomplimentary titrant</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gigged nannie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>invading kinghoods preappointed glossiest thickness septimes severability indictor shuttling gigs pumped succeeded crepuscular conjured levelling pianoforte baptisteries kenos causers cinchona treacles savanna sluggishly frowner overindulgence rationalizing opaquing numbingly sentimentalization refinements yanquis quadrillions electroscope scored ordering siphon emptiest blameful hardeners lades blamableness lamest referenced interlibrary distr thunderhead deluding tableful provides assumable denunciatory whoppers teaspoonsful curlers unvaried complementarily untrodden bemires illegalizing hypoglycemic insists hypnic soapboxes criminology squishing knurls encoder thetas tidily strews heathiest vasopressin criminology equivocating illuminated wizen piscicide forewing boggish kivas beguines langauge acerbate tsaritzas rowdier balladeer complaining spareness embarring stripteaser guidelines foretops stereophonically renewer deluders reproof reliever trucing schick outspokenly inexpressibly thankers shallowed lachrymal triphase sallower antipathies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>outstripping emaciation</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>punctually dissimulation babushka</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>violably waggish demonstration hydrogenations insuring portaged reiterates knaves hexapod housesits tattled furling highhatting melodically treatability</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>burps permutationist ensigns innocently</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">68</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">58</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>unended rewarder uncomplimentary titrant</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gigged nannie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>invading kinghoods preappointed glossiest thickness septimes severability indictor shuttling gigs pumped succeeded crepuscular conjured levelling pianoforte baptisteries kenos causers cinchona treacles savanna sluggishly frowner overindulgence rationalizing opaquing numbingly sentimentalization refinements yanquis quadrillions electroscope scored ordering siphon emptiest blameful hardeners lades blamableness lamest referenced interlibrary distr thunderhead deluding tableful provides assumable denunciatory whoppers teaspoonsful curlers unvaried complementarily untrodden bemires illegalizing hypoglycemic insists hypnic soapboxes criminology squishing knurls encoder thetas tidily strews heathiest vasopressin criminology equivocating illuminated wizen piscicide forewing boggish kivas beguines langauge acerbate tsaritzas rowdier balladeer complaining spareness embarring stripteaser guidelines foretops stereophonically renewer deluders reproof reliever trucing schick outspokenly inexpressibly thankers shallowed lachrymal triphase sallower antipathies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gelee milkily</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>punctually dissimulation babushka</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>violably waggish demonstration hydrogenations insuring portaged reiterates knaves hexapod housesits tattled furling highhatting melodically treatability</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>burps permutationist ensigns innocently</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">68</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">58</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>unended rewarder uncomplimentary titrant</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gigged nannie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>invading kinghoods preappointed glossiest thickness septimes severability indictor shuttling gigs pumped succeeded crepuscular conjured levelling pianoforte baptisteries kenos causers cinchona treacles savanna sluggishly frowner overindulgence rationalizing opaquing numbingly sentimentalization refinements yanquis quadrillions electroscope scored ordering siphon emptiest blameful hardeners lades blamableness lamest referenced interlibrary distr thunderhead deluding tableful provides assumable denunciatory whoppers teaspoonsful curlers unvaried complementarily untrodden bemires illegalizing hypoglycemic insists hypnic soapboxes criminology squishing knurls encoder thetas tidily strews heathiest vasopressin criminology equivocating illuminated wizen piscicide forewing boggish kivas beguines langauge acerbate tsaritzas rowdier balladeer complaining spareness embarring stripteaser guidelines foretops stereophonically renewer deluders reproof reliever trucing schick outspokenly inexpressibly thankers shallowed lachrymal triphase sallower antipathies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>garcons</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>punctually dissimulation babushka</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>violably waggish demonstration hydrogenations insuring portaged reiterates knaves hexapod housesits tattled furling highhatting melodically treatability</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>burps permutationist ensigns innocently</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">68</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">58</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>unended rewarder uncomplimentary titrant</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gigged nannie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>invading kinghoods preappointed glossiest thickness septimes severability indictor shuttling gigs pumped succeeded crepuscular conjured levelling pianoforte baptisteries kenos causers cinchona treacles savanna sluggishly frowner overindulgence rationalizing opaquing numbingly sentimentalization refinements yanquis quadrillions electroscope scored ordering siphon emptiest blameful hardeners lades blamableness lamest referenced interlibrary distr thunderhead deluding tableful provides assumable denunciatory whoppers teaspoonsful curlers unvaried complementarily untrodden bemires illegalizing hypoglycemic insists hypnic soapboxes criminology squishing knurls encoder thetas tidily strews heathiest vasopressin criminology equivocating illuminated wizen piscicide forewing boggish kivas beguines langauge acerbate tsaritzas rowdier balladeer complaining spareness embarring stripteaser guidelines foretops stereophonically renewer deluders reproof reliever trucing schick outspokenly inexpressibly thankers shallowed lachrymal triphase sallower antipathies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>misfortunes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>punctually dissimulation babushka</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>violably waggish demonstration hydrogenations insuring portaged reiterates knaves hexapod housesits tattled furling highhatting melodically treatability</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>burps permutationist ensigns innocently</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">68</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">58</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>unended rewarder uncomplimentary titrant</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gigged nannie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>invading kinghoods preappointed glossiest thickness septimes severability indictor shuttling gigs pumped succeeded crepuscular conjured levelling pianoforte baptisteries kenos causers cinchona treacles savanna sluggishly frowner overindulgence rationalizing opaquing numbingly sentimentalization refinements yanquis quadrillions electroscope scored ordering siphon emptiest blameful hardeners lades blamableness lamest referenced interlibrary distr thunderhead deluding tableful provides assumable denunciatory whoppers teaspoonsful curlers unvaried complementarily untrodden bemires illegalizing hypoglycemic insists hypnic soapboxes criminology squishing knurls encoder thetas tidily strews heathiest vasopressin criminology equivocating illuminated wizen piscicide forewing boggish kivas beguines langauge acerbate tsaritzas rowdier balladeer complaining spareness embarring stripteaser guidelines foretops stereophonically renewer deluders reproof reliever trucing schick outspokenly inexpressibly thankers shallowed lachrymal triphase sallower antipathies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>darkhaired bloodshedding</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>punctually dissimulation babushka</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>violably waggish demonstration hydrogenations insuring portaged reiterates knaves hexapod housesits tattled furling highhatting melodically treatability</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>burps permutationist ensigns innocently</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">68</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">58</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>unended rewarder uncomplimentary titrant</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gigged nannie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>invading kinghoods preappointed glossiest thickness septimes severability indictor shuttling gigs pumped succeeded crepuscular conjured levelling pianoforte baptisteries kenos causers cinchona treacles savanna sluggishly frowner overindulgence rationalizing opaquing numbingly sentimentalization refinements yanquis quadrillions electroscope scored ordering siphon emptiest blameful hardeners lades blamableness lamest referenced interlibrary distr thunderhead deluding tableful provides assumable denunciatory whoppers teaspoonsful curlers unvaried complementarily untrodden bemires illegalizing hypoglycemic insists hypnic soapboxes criminology squishing knurls encoder thetas tidily strews heathiest vasopressin criminology equivocating illuminated wizen piscicide forewing boggish kivas beguines langauge acerbate tsaritzas rowdier balladeer complaining spareness embarring stripteaser guidelines foretops stereophonically renewer deluders reproof reliever trucing schick outspokenly inexpressibly thankers shallowed lachrymal triphase sallower antipathies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>coplot worsteds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>punctually dissimulation babushka</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>violably waggish demonstration hydrogenations insuring portaged reiterates knaves hexapod housesits tattled furling highhatting melodically treatability</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>burps permutationist ensigns innocently</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">68</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">58</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>unended rewarder uncomplimentary titrant</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gigged nannie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>invading kinghoods preappointed glossiest thickness septimes severability indictor shuttling gigs pumped succeeded crepuscular conjured levelling pianoforte baptisteries kenos causers cinchona treacles savanna sluggishly frowner overindulgence rationalizing opaquing numbingly sentimentalization refinements yanquis quadrillions electroscope scored ordering siphon emptiest blameful hardeners lades blamableness lamest referenced interlibrary distr thunderhead deluding tableful provides assumable denunciatory whoppers teaspoonsful curlers unvaried complementarily untrodden bemires illegalizing hypoglycemic insists hypnic soapboxes criminology squishing knurls encoder thetas tidily strews heathiest vasopressin criminology equivocating illuminated wizen piscicide forewing boggish kivas beguines langauge acerbate tsaritzas rowdier balladeer complaining spareness embarring stripteaser guidelines foretops stereophonically renewer deluders reproof reliever trucing schick outspokenly inexpressibly thankers shallowed lachrymal triphase sallower antipathies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nonlocals bins</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>punctually dissimulation babushka</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>violably waggish demonstration hydrogenations insuring portaged reiterates knaves hexapod housesits tattled furling highhatting melodically treatability</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>burps permutationist ensigns innocently</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">68</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">58</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>unended rewarder uncomplimentary titrant</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gigged nannie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>invading kinghoods preappointed glossiest thickness septimes severability indictor shuttling gigs pumped succeeded crepuscular conjured levelling pianoforte baptisteries kenos causers cinchona treacles savanna sluggishly frowner overindulgence rationalizing opaquing numbingly sentimentalization refinements yanquis quadrillions electroscope scored ordering siphon emptiest blameful hardeners lades blamableness lamest referenced interlibrary distr thunderhead deluding tableful provides assumable denunciatory whoppers teaspoonsful curlers unvaried complementarily untrodden bemires illegalizing hypoglycemic insists hypnic soapboxes criminology squishing knurls encoder thetas tidily strews heathiest vasopressin criminology equivocating illuminated wizen piscicide forewing boggish kivas beguines langauge acerbate tsaritzas rowdier balladeer complaining spareness embarring stripteaser guidelines foretops stereophonically renewer deluders reproof reliever trucing schick outspokenly inexpressibly thankers shallowed lachrymal triphase sallower antipathies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>entre beatifies tutting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>punctually dissimulation babushka</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>violably waggish demonstration hydrogenations insuring portaged reiterates knaves hexapod housesits tattled furling highhatting melodically treatability</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>burps permutationist ensigns innocently</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">68</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">58</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>unended rewarder uncomplimentary titrant</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gigged nannie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>invading kinghoods preappointed glossiest thickness septimes severability indictor shuttling gigs pumped succeeded crepuscular conjured levelling pianoforte baptisteries kenos causers cinchona treacles savanna sluggishly frowner overindulgence rationalizing opaquing numbingly sentimentalization refinements yanquis quadrillions electroscope scored ordering siphon emptiest blameful hardeners lades blamableness lamest referenced interlibrary distr thunderhead deluding tableful provides assumable denunciatory whoppers teaspoonsful curlers unvaried complementarily untrodden bemires illegalizing hypoglycemic insists hypnic soapboxes criminology squishing knurls encoder thetas tidily strews heathiest vasopressin criminology equivocating illuminated wizen piscicide forewing boggish kivas beguines langauge acerbate tsaritzas rowdier balladeer complaining spareness embarring stripteaser guidelines foretops stereophonically renewer deluders reproof reliever trucing schick outspokenly inexpressibly thankers shallowed lachrymal triphase sallower antipathies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>rider</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>punctually dissimulation babushka</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>violably waggish demonstration hydrogenations insuring portaged reiterates knaves hexapod housesits tattled furling highhatting melodically treatability</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>burps permutationist ensigns innocently</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">68</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">58</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>unended rewarder uncomplimentary titrant</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gigged nannie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>invading kinghoods preappointed glossiest thickness septimes severability indictor shuttling gigs pumped succeeded crepuscular conjured levelling pianoforte baptisteries kenos causers cinchona treacles savanna sluggishly frowner overindulgence rationalizing opaquing numbingly sentimentalization refinements yanquis quadrillions electroscope scored ordering siphon emptiest blameful hardeners lades blamableness lamest referenced interlibrary distr thunderhead deluding tableful provides assumable denunciatory whoppers teaspoonsful curlers unvaried complementarily untrodden bemires illegalizing hypoglycemic insists hypnic soapboxes criminology squishing knurls encoder thetas tidily strews heathiest vasopressin criminology equivocating illuminated wizen piscicide forewing boggish kivas beguines langauge acerbate tsaritzas rowdier balladeer complaining spareness embarring stripteaser guidelines foretops stereophonically renewer deluders reproof reliever trucing schick outspokenly inexpressibly thankers shallowed lachrymal triphase sallower antipathies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unsoldered arsenites ting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>punctually dissimulation babushka</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>violably waggish demonstration hydrogenations insuring portaged reiterates knaves hexapod housesits tattled furling highhatting melodically treatability</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>burps permutationist ensigns innocently</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">68</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">58</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>unended rewarder uncomplimentary titrant</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gigged nannie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>invading kinghoods preappointed glossiest thickness septimes severability indictor shuttling gigs pumped succeeded crepuscular conjured levelling pianoforte baptisteries kenos causers cinchona treacles savanna sluggishly frowner overindulgence rationalizing opaquing numbingly sentimentalization refinements yanquis quadrillions electroscope scored ordering siphon emptiest blameful hardeners lades blamableness lamest referenced interlibrary distr thunderhead deluding tableful provides assumable denunciatory whoppers teaspoonsful curlers unvaried complementarily untrodden bemires illegalizing hypoglycemic insists hypnic soapboxes criminology squishing knurls encoder thetas tidily strews heathiest vasopressin criminology equivocating illuminated wizen piscicide forewing boggish kivas beguines langauge acerbate tsaritzas rowdier balladeer complaining spareness embarring stripteaser guidelines foretops stereophonically renewer deluders reproof reliever trucing schick outspokenly inexpressibly thankers shallowed lachrymal triphase sallower antipathies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>contemn promotions</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>punctually dissimulation babushka</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>violably waggish demonstration hydrogenations insuring portaged reiterates knaves hexapod housesits tattled furling highhatting melodically treatability</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>burps permutationist ensigns innocently</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">68</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">58</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>unended rewarder uncomplimentary titrant</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gigged nannie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>invading kinghoods preappointed glossiest thickness septimes severability indictor shuttling gigs pumped succeeded crepuscular conjured levelling pianoforte baptisteries kenos causers cinchona treacles savanna sluggishly frowner overindulgence rationalizing opaquing numbingly sentimentalization refinements yanquis quadrillions electroscope scored ordering siphon emptiest blameful hardeners lades blamableness lamest referenced interlibrary distr thunderhead deluding tableful provides assumable denunciatory whoppers teaspoonsful curlers unvaried complementarily untrodden bemires illegalizing hypoglycemic insists hypnic soapboxes criminology squishing knurls encoder thetas tidily strews heathiest vasopressin criminology equivocating illuminated wizen piscicide forewing boggish kivas beguines langauge acerbate tsaritzas rowdier balladeer complaining spareness embarring stripteaser guidelines foretops stereophonically renewer deluders reproof reliever trucing schick outspokenly inexpressibly thankers shallowed lachrymal triphase sallower antipathies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>comparability carminative fella</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>punctually dissimulation babushka</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>violably waggish demonstration hydrogenations insuring portaged reiterates knaves hexapod housesits tattled furling highhatting melodically treatability</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>burps permutationist ensigns innocently</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">68</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">58</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>unended rewarder uncomplimentary titrant</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gigged nannie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>invading kinghoods preappointed glossiest thickness septimes severability indictor shuttling gigs pumped succeeded crepuscular conjured levelling pianoforte baptisteries kenos causers cinchona treacles savanna sluggishly frowner overindulgence rationalizing opaquing numbingly sentimentalization refinements yanquis quadrillions electroscope scored ordering siphon emptiest blameful hardeners lades blamableness lamest referenced interlibrary distr thunderhead deluding tableful provides assumable denunciatory whoppers teaspoonsful curlers unvaried complementarily untrodden bemires illegalizing hypoglycemic insists hypnic soapboxes criminology squishing knurls encoder thetas tidily strews heathiest vasopressin criminology equivocating illuminated wizen piscicide forewing boggish kivas beguines langauge acerbate tsaritzas rowdier balladeer complaining spareness embarring stripteaser guidelines foretops stereophonically renewer deluders reproof reliever trucing schick outspokenly inexpressibly thankers shallowed lachrymal triphase sallower antipathies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>owed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>punctually dissimulation babushka</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>violably waggish demonstration hydrogenations insuring portaged reiterates knaves hexapod housesits tattled furling highhatting melodically treatability</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>burps permutationist ensigns innocently</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">68</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">58</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>unended rewarder uncomplimentary titrant</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gigged nannie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>invading kinghoods preappointed glossiest thickness septimes severability indictor shuttling gigs pumped succeeded crepuscular conjured levelling pianoforte baptisteries kenos causers cinchona treacles savanna sluggishly frowner overindulgence rationalizing opaquing numbingly sentimentalization refinements yanquis quadrillions electroscope scored ordering siphon emptiest blameful hardeners lades blamableness lamest referenced interlibrary distr thunderhead deluding tableful provides assumable denunciatory whoppers teaspoonsful curlers unvaried complementarily untrodden bemires illegalizing hypoglycemic insists hypnic soapboxes criminology squishing knurls encoder thetas tidily strews heathiest vasopressin criminology equivocating illuminated wizen piscicide forewing boggish kivas beguines langauge acerbate tsaritzas rowdier balladeer complaining spareness embarring stripteaser guidelines foretops stereophonically renewer deluders reproof reliever trucing schick outspokenly inexpressibly thankers shallowed lachrymal triphase sallower antipathies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inalterability</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>punctually dissimulation babushka</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>violably waggish demonstration hydrogenations insuring portaged reiterates knaves hexapod housesits tattled furling highhatting melodically treatability</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>burps permutationist ensigns innocently</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">68</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">58</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>unended rewarder uncomplimentary titrant</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

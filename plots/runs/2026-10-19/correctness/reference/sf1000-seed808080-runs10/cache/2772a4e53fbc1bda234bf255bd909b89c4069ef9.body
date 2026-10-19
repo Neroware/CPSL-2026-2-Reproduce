@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="text"/>
+    <variable name="reviewDate"/>
+    <variable name="reviewer"/>
+    <variable name="reviewerName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+    <variable name="rating3"/>
+    <variable name="rating4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="title">
+        <literal>impugns donated archipelagos wounds cowbells</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">slumberer raises jugulars weakhearted easies afterburner centurion southeaster rebirth defiantly quadruped waltzes pusher combe glorifiers cutinizing hooliganism cherty enuretic wholisms galilees dimness magnetizers pigsty sayst tickler zendo despatch ekistics combos maceration adjudicates straddles autobahn cosignatory demarche savagely fellating menswear shacks raining cannalling stuccoer propagandized reciter justifying demonstrator waddling reconciliation hausfraus supercargoes enabling yardmaster gripers goths stymies assegai oxidations sanctuaries petted gouts tearjerkers quirkily transplants humbleness buncoing nones pumpers pryer bilgiest grizzling puking theatergoer mezquites infringing spored ultimo libbers companying gerbils villager camps impracticability badger neatest sawteeth affairs machines peening torches knolls jested bamboozles familiarize beauticians ospreys underspends bumpy prefabbing torturer overexposing vents cyclical phocomeli protea deadening victims condemnations dehumanized pinocle supervisee phaeton promisors derisions neologies indifference periodontia aeronautical counteraction luster dado egoisms musettes represses radiographer chilblains bugled bestialize functionless theologs nebraskans remittently antechoirs insheathed antefix reconquest levers nobelist murmurs semantics enounced stretchable quinone reconciliating swarthiness innominate harebells crosspatches splurged abyssinians cheroots assize romped nighs insufficiency shapely rhomboid legalness reexchanges muscly rows maligner insulins thieved gaudies butleries vainest spotters tuberous copolymerization meretriciously gabardines depolished ecclesia periling nonabsorbable solemnizing unshared pistils chariest</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-10-02T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer492</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Elefthrios</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>transacting despoilers reobtaining hubbies repines abstractions transliterations whippersnappers</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">tasselling exploiter institutional massiest revenged sends rabic jetties infatuating besmile subcells flakily impartiality brutalness nonequivalent enflame unplug theocratically mynas tabors alzheimer monogyny pulpers lamely pornographically hisself psychedelics connoting combines intombs subabbots wedlocks catechize winesops stewarded nonsensically foes wiver chummily shelterer peters studded deserter writhingly flicking jaundicing checkmated exactas dingdong shitting democratizes kirkmen chicness cangues blesser fireworks audiogram superseding clicker imposts vaccinators shoring subordinating que interstices lordship topographical undying muckrake wracked jigsawed throwing radicalizing wolfhound playsuit thirds lithographer damnit conifers toeing stonish taupe timidest hymned crofter preblesses abjure gourdes squab drawing dusted organizer perturbed accentuating accusativeness recontests postulated reconstitute seasonally unplanted alexandrines fenestration jettying theological rumpuses woollens octopi aloes unpaid soundlessly ericas indemnities</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-08-20T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer30</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Raymon-Lonni</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

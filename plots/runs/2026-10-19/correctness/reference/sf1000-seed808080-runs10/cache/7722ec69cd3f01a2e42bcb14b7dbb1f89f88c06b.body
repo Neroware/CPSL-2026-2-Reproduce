@@ -1,0 +1,787 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dominium hyperkinesis</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cesarean</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>housebreaker</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sheaves benchmarked</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>jurors submarine</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>happenings</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>soapsuds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>delegation slotting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>overlapping disrespectful</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>internists</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>royalisms sulpha</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>wits bebops unsaid</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bankbooks dognaps trusters</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>luring</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lingier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>accidie</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sutta</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>exhorted pester</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>notochord resignee carromed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>shiftability antineutron disappoint</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>blacktop anticlerical eloped</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>champer supersaturated</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>appellee</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>docilities</literal>
+      </binding>
+      <binding name="comment">
+        <literal>decayers colossally thieftaker sennets nonsmoker dinkum nectars jocks reasoners stodging sidler subclauses birdieing photoengravers coagulates skeeter buffeted pathogeneses commissioner snarlingly unadjusted inurements blimpish empathize disfranchising prawn antifascist reticular unconditionally pitching tennesseans dopiest minicabs physical combatting contaminates inimicability jeers compliancy geomorphology usuriously apennines youngling brassards alphabetizers privatized fraternizing vaccinated decadents durneder reconcilable rustlingly catalpas mailbags recommencement quayages bracers proliferous familiarness benightedness victorianism unchilled complexions humanness cravenly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>whips</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>calibers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>chimeras prevents automatics</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chimers withed vigor hairlessness indomitably transistorize outbid clipsheets amours floss pleasingness rapaciousness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placation microminiaturization logged photos legally undiscriminating pitchforks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>hawkings miscued soporifically photogs vole oolith</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

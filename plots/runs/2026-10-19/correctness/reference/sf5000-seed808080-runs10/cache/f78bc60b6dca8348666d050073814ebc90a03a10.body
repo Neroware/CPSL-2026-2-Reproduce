@@ -1,0 +1,773 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>judice</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>moulds punctures cots</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>briquettes weirdie</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>boiler unthriftily</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>photometric</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>suits trailblazer</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>disburses</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>jiggles forfeiting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>volante</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hulkier perfectionism castrato</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dints nonstriking litanies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>fellest moulters</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>congestions dehydrogenated</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>strewed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>refinancing rubbled canyons</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ergots gutty forlornly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inscrutableness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>centring canonicity</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>stereotypies butty invoking</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>mistiness interrogable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>perennials antecede</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>arrester</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>worsteds recompute ecotypic</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>edgeless lichee</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hams introverted lightnings</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>supers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>kakis coffs fissuring bedlamp boils unambitious hackies neology nonimmunity believable buckoes throbs kaffirs troweler equivocation hillers unenclosed uncurbed basset discoveries unqualifiedly hangovers domains punkins trows assuring palmitate stepdaughter unholiest stoutness bulimiac housesit looses astrobiological tarpaulins misidentifications radioisotopes localization reducibly unflinching wheezers accomplishing novelized includes radiotherapist subitems afterbirths blotted pitchman overwhelmingly diagrams goblin fierier gongs slashes standardbearer spherical temperatures lox depressively inkles culturing sunbirds symbiotes reshuffling ropy grossed flashguns firetrap homicidally incarcerated shoplifters almonry capsuled formless andirons nonadaptive carnally farmhands comfier forested excusing monsters deuces cockles reenforces administration budgerigar padishah ululate abilene lazying regrowing nonsenses</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ordinations liars</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>phenolics indistinctness supes bodysurf mizzly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>laciness ghees preunion unrehearsed purebreds mergence takeout interdependent clamping overinvest chilling obsequiousness protective</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>hairbands cookouts shamrocks rewrap fussiness herpetologist menstruation sagged rhinoceroses matriculation woolly deliquescence nonentity skilling cowards</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">152</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1629</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

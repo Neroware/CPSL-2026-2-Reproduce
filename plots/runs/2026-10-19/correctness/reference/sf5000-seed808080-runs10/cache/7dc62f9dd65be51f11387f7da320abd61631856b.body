@@ -1,0 +1,779 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>penetrates miters</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ideogram banterer spellbinds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>frilliest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>puppydoms commonplaces liter</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>openings</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gentled</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>burrowers accommodations</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>deliquescence boundaries proselyted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>vulgarizes asserter resoluteness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>atheneums piloting dinky</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>babus</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sissies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>incitory removes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>applicabilities appreciation</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>caricatured indirection stateswomen</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>assesses</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>brainteaser ganef alibiing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dwarfing colophon</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>shielders viewed nucleators</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tibial ashcans armiger</literal>
+      </binding>
+      <binding name="comment">
+        <literal>frolickers knowable beryls hefter instruction apologists almightiness licenser prussian indemnifications reassert cornices pothead skinks ascendence linguals jabs headiness caramelizes maledicts schlock stetted appendixes stockinet unvoiced uncapped emulsifiers electronically basking uncluttered aspirations corvee blindest detectably trailblazing kamaainas funnies lithographers catchalls soldered sufferer narcotizing extravagantness eskimos bedmate cleverer trembling felicitates nonprofit protective listlessly beseechers burgling impermeabilities hydrozoon beanbag unlabelled taxiplane plugugly odometers nourishers interpretational unicorns mononucleosis abysses properness flutier unmannerly pushup piecer irritancies photoluminescent blaspheming uncompartmentalized undersold subjecting baubles mooted hourglasses sacramental praos hayforks cracking pivots whistling ripped crunches fifes coolest movement radiologist gullying recognized workroom venders riddles ravagers incapabilities torqued pockets frequency dooming depolarized bicolors warriors ganging differentiae transfigures figuratively received glazings wrappings glassblower loathsomeness plait serializations fermented actualize unlatches xenogamy constants enlargements prink scrounges dubs justified pustules shopboy nubbin demonstrates dolesome braided succumbers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>globoids widened</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reseed personalize congruences urolith cabala wrathfulness detainees deceitfulness escaping hejira carefuller briquette shakable illuminates chapbooks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ejecting psychosexually cruzeiro urushiol ultimas recliners playsuits conveniently levying countless provocations unsensible thumbtacking bargained limey</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sashimi showiest panickier coarsely lehayim patellae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">844</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1901</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>redefined hydrozoan flavorless pocketbooks remonetize psychotoxic antimonies furor quantizing sidebands earners blanked mentors</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kilobyte oscillograph vapors</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">226</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

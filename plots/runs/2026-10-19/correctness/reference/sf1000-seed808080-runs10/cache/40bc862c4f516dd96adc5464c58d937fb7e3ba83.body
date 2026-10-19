@@ -1,0 +1,931 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dippable locks serb</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>coted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>torquing tumultuousness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>shrivelling nannie siglos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dribbed hexahedron rondelle</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>belching relights</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>prettify calomel</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>oxidating turbocar rabelaisian</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>equestrians</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>realigning jabbers prohibiting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pearler banes blubbers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>boards</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>praxes cantons</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>peacekeeping</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hybridizing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>jubiles</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>embryologists fluffier disinterring</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pimply reincurs topsail</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hummingbirds ruminants</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>rankles radiobiology</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unshakable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>maturated calfs</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>borderers nitpickers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>hundredths intentional marriageability</literal>
+      </binding>
+      <binding name="comment">
+        <literal>prefects pseudoephedrine scurrilities fait scapegrace valence nonsmoker defensively adultness dozers innocently humidification ineligibles peregrination delimiting odysseys hairpiece exurban esophageal looks roilier eolith translates medalists schmaltz drakes allocations biffies pineries corrupted negators amias protonic aristocratically typhoids homogenized illuminates preconceive whomping fortresses jigsawed deadwoods nacelle renegading amidship whores chawing chaines disapprobation seesaw mercies papering remanufacture squalidly mercifully northwardly undertones canonizes dissatisfies startlers basketwork iconical unspoiled guarantied heaping wannesses reproductions maltreatment existentialist telecaster indurative sequentially primatial signalmen protracts goldarn rearrangements noisier hasted ventilator wrenches irreverences sootily absconds binders relaunders pipet whaler reinforces somatically promulgator teaser umpteen roundworms appreciatory quittances grocers crackerjack ethanols goggler culpableness</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ethicists crusted upswollen</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bedaub criticizers vulnerably</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hibernated fewness rectories earthling heading insurrectionaries madrases gateways eely woollen headmost redeemed sackbuts sunflowers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rallye scholastics technologically discernable execration kinesis antisocially vixenishly palominos summa</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mismatched caverning appetit tonnes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1028</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>spurning tongued podgily stompers wackiness statically elusively flippancy</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>skateboarder officered homesteaders positively restraighten muddler shrimping sprigger piezochemistries</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">419</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

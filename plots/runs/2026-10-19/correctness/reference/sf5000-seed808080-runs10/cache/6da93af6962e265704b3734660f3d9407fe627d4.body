@@ -1,0 +1,570 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>baptize toehold</literal>
+      </binding>
+      <binding name="comment">
+        <literal>neutered internodes stumping impugner thriftlessness geezers relieving globularness keepings fractionalized impertinences universalists heliports cosmisms fierceness lynchings unthroning cuke embowered concentration shivaree mayhemming alzheimer unblushingly wreathing overbearingly googlies mercaptan outleaped drays tufter rascality montanans incurable covetousness snorter sketched sleuthing voids scantily notarizations lulus unspiritual craver billing alphabetization ceilings biorhythm quoters swirls sexology bedlams cassino quackster ballpoints riblet kelvins shivah laciness satirizer repentance assimilative warmest returner photograph depraver warships stockcars meiotic hooligans arete clansmen salinized endorsing aikido purply iridescences textbooks uncovered hoarder bandied gauzy slugabed preteens anglians ascended compensated impersonality vincas garlanding lashes larkers blistered treacheries biological basinet ensphered globose chaptering reintroduced seamsters crazier proforma</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>viridians cardiotherapies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>orneriest cogitations beeper trumperies simplifies bibelot</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>hormonally reded dipt formalized nonprotectively hairsbreadths dyslexias abscesses condescended projections patchiness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>contortionist clericalist pliably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">526</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1284</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>baptize toehold</literal>
+      </binding>
+      <binding name="comment">
+        <literal>neutered internodes stumping impugner thriftlessness geezers relieving globularness keepings fractionalized impertinences universalists heliports cosmisms fierceness lynchings unthroning cuke embowered concentration shivaree mayhemming alzheimer unblushingly wreathing overbearingly googlies mercaptan outleaped drays tufter rascality montanans incurable covetousness snorter sketched sleuthing voids scantily notarizations lulus unspiritual craver billing alphabetization ceilings biorhythm quoters swirls sexology bedlams cassino quackster ballpoints riblet kelvins shivah laciness satirizer repentance assimilative warmest returner photograph depraver warships stockcars meiotic hooligans arete clansmen salinized endorsing aikido purply iridescences textbooks uncovered hoarder bandied gauzy slugabed preteens anglians ascended compensated impersonality vincas garlanding lashes larkers blistered treacheries biological basinet ensphered globose chaptering reintroduced seamsters crazier proforma</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>register</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>orneriest cogitations beeper trumperies simplifies bibelot</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>hormonally reded dipt formalized nonprotectively hairsbreadths dyslexias abscesses condescended projections patchiness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>contortionist clericalist pliably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">526</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1284</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>baptize toehold</literal>
+      </binding>
+      <binding name="comment">
+        <literal>neutered internodes stumping impugner thriftlessness geezers relieving globularness keepings fractionalized impertinences universalists heliports cosmisms fierceness lynchings unthroning cuke embowered concentration shivaree mayhemming alzheimer unblushingly wreathing overbearingly googlies mercaptan outleaped drays tufter rascality montanans incurable covetousness snorter sketched sleuthing voids scantily notarizations lulus unspiritual craver billing alphabetization ceilings biorhythm quoters swirls sexology bedlams cassino quackster ballpoints riblet kelvins shivah laciness satirizer repentance assimilative warmest returner photograph depraver warships stockcars meiotic hooligans arete clansmen salinized endorsing aikido purply iridescences textbooks uncovered hoarder bandied gauzy slugabed preteens anglians ascended compensated impersonality vincas garlanding lashes larkers blistered treacheries biological basinet ensphered globose chaptering reintroduced seamsters crazier proforma</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tarsals unhygienic</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>orneriest cogitations beeper trumperies simplifies bibelot</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>hormonally reded dipt formalized nonprotectively hairsbreadths dyslexias abscesses condescended projections patchiness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>contortionist clericalist pliably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">526</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1284</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>baptize toehold</literal>
+      </binding>
+      <binding name="comment">
+        <literal>neutered internodes stumping impugner thriftlessness geezers relieving globularness keepings fractionalized impertinences universalists heliports cosmisms fierceness lynchings unthroning cuke embowered concentration shivaree mayhemming alzheimer unblushingly wreathing overbearingly googlies mercaptan outleaped drays tufter rascality montanans incurable covetousness snorter sketched sleuthing voids scantily notarizations lulus unspiritual craver billing alphabetization ceilings biorhythm quoters swirls sexology bedlams cassino quackster ballpoints riblet kelvins shivah laciness satirizer repentance assimilative warmest returner photograph depraver warships stockcars meiotic hooligans arete clansmen salinized endorsing aikido purply iridescences textbooks uncovered hoarder bandied gauzy slugabed preteens anglians ascended compensated impersonality vincas garlanding lashes larkers blistered treacheries biological basinet ensphered globose chaptering reintroduced seamsters crazier proforma</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>wrongheadedly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>orneriest cogitations beeper trumperies simplifies bibelot</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>hormonally reded dipt formalized nonprotectively hairsbreadths dyslexias abscesses condescended projections patchiness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>contortionist clericalist pliably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">526</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1284</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>baptize toehold</literal>
+      </binding>
+      <binding name="comment">
+        <literal>neutered internodes stumping impugner thriftlessness geezers relieving globularness keepings fractionalized impertinences universalists heliports cosmisms fierceness lynchings unthroning cuke embowered concentration shivaree mayhemming alzheimer unblushingly wreathing overbearingly googlies mercaptan outleaped drays tufter rascality montanans incurable covetousness snorter sketched sleuthing voids scantily notarizations lulus unspiritual craver billing alphabetization ceilings biorhythm quoters swirls sexology bedlams cassino quackster ballpoints riblet kelvins shivah laciness satirizer repentance assimilative warmest returner photograph depraver warships stockcars meiotic hooligans arete clansmen salinized endorsing aikido purply iridescences textbooks uncovered hoarder bandied gauzy slugabed preteens anglians ascended compensated impersonality vincas garlanding lashes larkers blistered treacheries biological basinet ensphered globose chaptering reintroduced seamsters crazier proforma</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>busted twins</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>orneriest cogitations beeper trumperies simplifies bibelot</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>hormonally reded dipt formalized nonprotectively hairsbreadths dyslexias abscesses condescended projections patchiness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>contortionist clericalist pliably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">526</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1284</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>baptize toehold</literal>
+      </binding>
+      <binding name="comment">
+        <literal>neutered internodes stumping impugner thriftlessness geezers relieving globularness keepings fractionalized impertinences universalists heliports cosmisms fierceness lynchings unthroning cuke embowered concentration shivaree mayhemming alzheimer unblushingly wreathing overbearingly googlies mercaptan outleaped drays tufter rascality montanans incurable covetousness snorter sketched sleuthing voids scantily notarizations lulus unspiritual craver billing alphabetization ceilings biorhythm quoters swirls sexology bedlams cassino quackster ballpoints riblet kelvins shivah laciness satirizer repentance assimilative warmest returner photograph depraver warships stockcars meiotic hooligans arete clansmen salinized endorsing aikido purply iridescences textbooks uncovered hoarder bandied gauzy slugabed preteens anglians ascended compensated impersonality vincas garlanding lashes larkers blistered treacheries biological basinet ensphered globose chaptering reintroduced seamsters crazier proforma</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>whoring lasciviousness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>orneriest cogitations beeper trumperies simplifies bibelot</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>hormonally reded dipt formalized nonprotectively hairsbreadths dyslexias abscesses condescended projections patchiness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>contortionist clericalist pliably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">526</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1284</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>baptize toehold</literal>
+      </binding>
+      <binding name="comment">
+        <literal>neutered internodes stumping impugner thriftlessness geezers relieving globularness keepings fractionalized impertinences universalists heliports cosmisms fierceness lynchings unthroning cuke embowered concentration shivaree mayhemming alzheimer unblushingly wreathing overbearingly googlies mercaptan outleaped drays tufter rascality montanans incurable covetousness snorter sketched sleuthing voids scantily notarizations lulus unspiritual craver billing alphabetization ceilings biorhythm quoters swirls sexology bedlams cassino quackster ballpoints riblet kelvins shivah laciness satirizer repentance assimilative warmest returner photograph depraver warships stockcars meiotic hooligans arete clansmen salinized endorsing aikido purply iridescences textbooks uncovered hoarder bandied gauzy slugabed preteens anglians ascended compensated impersonality vincas garlanding lashes larkers blistered treacheries biological basinet ensphered globose chaptering reintroduced seamsters crazier proforma</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>marauded rescues uncial</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>orneriest cogitations beeper trumperies simplifies bibelot</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>hormonally reded dipt formalized nonprotectively hairsbreadths dyslexias abscesses condescended projections patchiness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>contortionist clericalist pliably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">526</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1284</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>baptize toehold</literal>
+      </binding>
+      <binding name="comment">
+        <literal>neutered internodes stumping impugner thriftlessness geezers relieving globularness keepings fractionalized impertinences universalists heliports cosmisms fierceness lynchings unthroning cuke embowered concentration shivaree mayhemming alzheimer unblushingly wreathing overbearingly googlies mercaptan outleaped drays tufter rascality montanans incurable covetousness snorter sketched sleuthing voids scantily notarizations lulus unspiritual craver billing alphabetization ceilings biorhythm quoters swirls sexology bedlams cassino quackster ballpoints riblet kelvins shivah laciness satirizer repentance assimilative warmest returner photograph depraver warships stockcars meiotic hooligans arete clansmen salinized endorsing aikido purply iridescences textbooks uncovered hoarder bandied gauzy slugabed preteens anglians ascended compensated impersonality vincas garlanding lashes larkers blistered treacheries biological basinet ensphered globose chaptering reintroduced seamsters crazier proforma</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>annotates largish</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>orneriest cogitations beeper trumperies simplifies bibelot</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>hormonally reded dipt formalized nonprotectively hairsbreadths dyslexias abscesses condescended projections patchiness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>contortionist clericalist pliably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">526</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1284</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>baptize toehold</literal>
+      </binding>
+      <binding name="comment">
+        <literal>neutered internodes stumping impugner thriftlessness geezers relieving globularness keepings fractionalized impertinences universalists heliports cosmisms fierceness lynchings unthroning cuke embowered concentration shivaree mayhemming alzheimer unblushingly wreathing overbearingly googlies mercaptan outleaped drays tufter rascality montanans incurable covetousness snorter sketched sleuthing voids scantily notarizations lulus unspiritual craver billing alphabetization ceilings biorhythm quoters swirls sexology bedlams cassino quackster ballpoints riblet kelvins shivah laciness satirizer repentance assimilative warmest returner photograph depraver warships stockcars meiotic hooligans arete clansmen salinized endorsing aikido purply iridescences textbooks uncovered hoarder bandied gauzy slugabed preteens anglians ascended compensated impersonality vincas garlanding lashes larkers blistered treacheries biological basinet ensphered globose chaptering reintroduced seamsters crazier proforma</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>grenadier fieriest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>orneriest cogitations beeper trumperies simplifies bibelot</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>hormonally reded dipt formalized nonprotectively hairsbreadths dyslexias abscesses condescended projections patchiness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>contortionist clericalist pliably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">526</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1284</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>baptize toehold</literal>
+      </binding>
+      <binding name="comment">
+        <literal>neutered internodes stumping impugner thriftlessness geezers relieving globularness keepings fractionalized impertinences universalists heliports cosmisms fierceness lynchings unthroning cuke embowered concentration shivaree mayhemming alzheimer unblushingly wreathing overbearingly googlies mercaptan outleaped drays tufter rascality montanans incurable covetousness snorter sketched sleuthing voids scantily notarizations lulus unspiritual craver billing alphabetization ceilings biorhythm quoters swirls sexology bedlams cassino quackster ballpoints riblet kelvins shivah laciness satirizer repentance assimilative warmest returner photograph depraver warships stockcars meiotic hooligans arete clansmen salinized endorsing aikido purply iridescences textbooks uncovered hoarder bandied gauzy slugabed preteens anglians ascended compensated impersonality vincas garlanding lashes larkers blistered treacheries biological basinet ensphered globose chaptering reintroduced seamsters crazier proforma</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>metastasis</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>orneriest cogitations beeper trumperies simplifies bibelot</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>hormonally reded dipt formalized nonprotectively hairsbreadths dyslexias abscesses condescended projections patchiness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>contortionist clericalist pliably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">526</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1284</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>baptize toehold</literal>
+      </binding>
+      <binding name="comment">
+        <literal>neutered internodes stumping impugner thriftlessness geezers relieving globularness keepings fractionalized impertinences universalists heliports cosmisms fierceness lynchings unthroning cuke embowered concentration shivaree mayhemming alzheimer unblushingly wreathing overbearingly googlies mercaptan outleaped drays tufter rascality montanans incurable covetousness snorter sketched sleuthing voids scantily notarizations lulus unspiritual craver billing alphabetization ceilings biorhythm quoters swirls sexology bedlams cassino quackster ballpoints riblet kelvins shivah laciness satirizer repentance assimilative warmest returner photograph depraver warships stockcars meiotic hooligans arete clansmen salinized endorsing aikido purply iridescences textbooks uncovered hoarder bandied gauzy slugabed preteens anglians ascended compensated impersonality vincas garlanding lashes larkers blistered treacheries biological basinet ensphered globose chaptering reintroduced seamsters crazier proforma</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>musketry cannabinol</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>orneriest cogitations beeper trumperies simplifies bibelot</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>hormonally reded dipt formalized nonprotectively hairsbreadths dyslexias abscesses condescended projections patchiness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>contortionist clericalist pliably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">526</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1284</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>baptize toehold</literal>
+      </binding>
+      <binding name="comment">
+        <literal>neutered internodes stumping impugner thriftlessness geezers relieving globularness keepings fractionalized impertinences universalists heliports cosmisms fierceness lynchings unthroning cuke embowered concentration shivaree mayhemming alzheimer unblushingly wreathing overbearingly googlies mercaptan outleaped drays tufter rascality montanans incurable covetousness snorter sketched sleuthing voids scantily notarizations lulus unspiritual craver billing alphabetization ceilings biorhythm quoters swirls sexology bedlams cassino quackster ballpoints riblet kelvins shivah laciness satirizer repentance assimilative warmest returner photograph depraver warships stockcars meiotic hooligans arete clansmen salinized endorsing aikido purply iridescences textbooks uncovered hoarder bandied gauzy slugabed preteens anglians ascended compensated impersonality vincas garlanding lashes larkers blistered treacheries biological basinet ensphered globose chaptering reintroduced seamsters crazier proforma</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>mispronunciations booteries</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>orneriest cogitations beeper trumperies simplifies bibelot</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>hormonally reded dipt formalized nonprotectively hairsbreadths dyslexias abscesses condescended projections patchiness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>contortionist clericalist pliably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">526</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1284</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>baptize toehold</literal>
+      </binding>
+      <binding name="comment">
+        <literal>neutered internodes stumping impugner thriftlessness geezers relieving globularness keepings fractionalized impertinences universalists heliports cosmisms fierceness lynchings unthroning cuke embowered concentration shivaree mayhemming alzheimer unblushingly wreathing overbearingly googlies mercaptan outleaped drays tufter rascality montanans incurable covetousness snorter sketched sleuthing voids scantily notarizations lulus unspiritual craver billing alphabetization ceilings biorhythm quoters swirls sexology bedlams cassino quackster ballpoints riblet kelvins shivah laciness satirizer repentance assimilative warmest returner photograph depraver warships stockcars meiotic hooligans arete clansmen salinized endorsing aikido purply iridescences textbooks uncovered hoarder bandied gauzy slugabed preteens anglians ascended compensated impersonality vincas garlanding lashes larkers blistered treacheries biological basinet ensphered globose chaptering reintroduced seamsters crazier proforma</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>reappraisals</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>orneriest cogitations beeper trumperies simplifies bibelot</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>hormonally reded dipt formalized nonprotectively hairsbreadths dyslexias abscesses condescended projections patchiness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>contortionist clericalist pliably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">526</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1284</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>baptize toehold</literal>
+      </binding>
+      <binding name="comment">
+        <literal>neutered internodes stumping impugner thriftlessness geezers relieving globularness keepings fractionalized impertinences universalists heliports cosmisms fierceness lynchings unthroning cuke embowered concentration shivaree mayhemming alzheimer unblushingly wreathing overbearingly googlies mercaptan outleaped drays tufter rascality montanans incurable covetousness snorter sketched sleuthing voids scantily notarizations lulus unspiritual craver billing alphabetization ceilings biorhythm quoters swirls sexology bedlams cassino quackster ballpoints riblet kelvins shivah laciness satirizer repentance assimilative warmest returner photograph depraver warships stockcars meiotic hooligans arete clansmen salinized endorsing aikido purply iridescences textbooks uncovered hoarder bandied gauzy slugabed preteens anglians ascended compensated impersonality vincas garlanding lashes larkers blistered treacheries biological basinet ensphered globose chaptering reintroduced seamsters crazier proforma</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>contentions writers erred</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>orneriest cogitations beeper trumperies simplifies bibelot</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>hormonally reded dipt formalized nonprotectively hairsbreadths dyslexias abscesses condescended projections patchiness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>contortionist clericalist pliably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">526</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1284</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>baptize toehold</literal>
+      </binding>
+      <binding name="comment">
+        <literal>neutered internodes stumping impugner thriftlessness geezers relieving globularness keepings fractionalized impertinences universalists heliports cosmisms fierceness lynchings unthroning cuke embowered concentration shivaree mayhemming alzheimer unblushingly wreathing overbearingly googlies mercaptan outleaped drays tufter rascality montanans incurable covetousness snorter sketched sleuthing voids scantily notarizations lulus unspiritual craver billing alphabetization ceilings biorhythm quoters swirls sexology bedlams cassino quackster ballpoints riblet kelvins shivah laciness satirizer repentance assimilative warmest returner photograph depraver warships stockcars meiotic hooligans arete clansmen salinized endorsing aikido purply iridescences textbooks uncovered hoarder bandied gauzy slugabed preteens anglians ascended compensated impersonality vincas garlanding lashes larkers blistered treacheries biological basinet ensphered globose chaptering reintroduced seamsters crazier proforma</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>decongestant feathered witherers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>orneriest cogitations beeper trumperies simplifies bibelot</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>hormonally reded dipt formalized nonprotectively hairsbreadths dyslexias abscesses condescended projections patchiness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>contortionist clericalist pliably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">526</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1284</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>baptize toehold</literal>
+      </binding>
+      <binding name="comment">
+        <literal>neutered internodes stumping impugner thriftlessness geezers relieving globularness keepings fractionalized impertinences universalists heliports cosmisms fierceness lynchings unthroning cuke embowered concentration shivaree mayhemming alzheimer unblushingly wreathing overbearingly googlies mercaptan outleaped drays tufter rascality montanans incurable covetousness snorter sketched sleuthing voids scantily notarizations lulus unspiritual craver billing alphabetization ceilings biorhythm quoters swirls sexology bedlams cassino quackster ballpoints riblet kelvins shivah laciness satirizer repentance assimilative warmest returner photograph depraver warships stockcars meiotic hooligans arete clansmen salinized endorsing aikido purply iridescences textbooks uncovered hoarder bandied gauzy slugabed preteens anglians ascended compensated impersonality vincas garlanding lashes larkers blistered treacheries biological basinet ensphered globose chaptering reintroduced seamsters crazier proforma</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>buffos gurus</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>orneriest cogitations beeper trumperies simplifies bibelot</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>hormonally reded dipt formalized nonprotectively hairsbreadths dyslexias abscesses condescended projections patchiness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>contortionist clericalist pliably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">526</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1284</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>baptize toehold</literal>
+      </binding>
+      <binding name="comment">
+        <literal>neutered internodes stumping impugner thriftlessness geezers relieving globularness keepings fractionalized impertinences universalists heliports cosmisms fierceness lynchings unthroning cuke embowered concentration shivaree mayhemming alzheimer unblushingly wreathing overbearingly googlies mercaptan outleaped drays tufter rascality montanans incurable covetousness snorter sketched sleuthing voids scantily notarizations lulus unspiritual craver billing alphabetization ceilings biorhythm quoters swirls sexology bedlams cassino quackster ballpoints riblet kelvins shivah laciness satirizer repentance assimilative warmest returner photograph depraver warships stockcars meiotic hooligans arete clansmen salinized endorsing aikido purply iridescences textbooks uncovered hoarder bandied gauzy slugabed preteens anglians ascended compensated impersonality vincas garlanding lashes larkers blistered treacheries biological basinet ensphered globose chaptering reintroduced seamsters crazier proforma</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>identification</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>orneriest cogitations beeper trumperies simplifies bibelot</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>hormonally reded dipt formalized nonprotectively hairsbreadths dyslexias abscesses condescended projections patchiness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>contortionist clericalist pliably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">526</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1284</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>baptize toehold</literal>
+      </binding>
+      <binding name="comment">
+        <literal>neutered internodes stumping impugner thriftlessness geezers relieving globularness keepings fractionalized impertinences universalists heliports cosmisms fierceness lynchings unthroning cuke embowered concentration shivaree mayhemming alzheimer unblushingly wreathing overbearingly googlies mercaptan outleaped drays tufter rascality montanans incurable covetousness snorter sketched sleuthing voids scantily notarizations lulus unspiritual craver billing alphabetization ceilings biorhythm quoters swirls sexology bedlams cassino quackster ballpoints riblet kelvins shivah laciness satirizer repentance assimilative warmest returner photograph depraver warships stockcars meiotic hooligans arete clansmen salinized endorsing aikido purply iridescences textbooks uncovered hoarder bandied gauzy slugabed preteens anglians ascended compensated impersonality vincas garlanding lashes larkers blistered treacheries biological basinet ensphered globose chaptering reintroduced seamsters crazier proforma</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>aboriginally schismatize</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>orneriest cogitations beeper trumperies simplifies bibelot</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>hormonally reded dipt formalized nonprotectively hairsbreadths dyslexias abscesses condescended projections patchiness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>contortionist clericalist pliably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">526</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1284</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>baptize toehold</literal>
+      </binding>
+      <binding name="comment">
+        <literal>neutered internodes stumping impugner thriftlessness geezers relieving globularness keepings fractionalized impertinences universalists heliports cosmisms fierceness lynchings unthroning cuke embowered concentration shivaree mayhemming alzheimer unblushingly wreathing overbearingly googlies mercaptan outleaped drays tufter rascality montanans incurable covetousness snorter sketched sleuthing voids scantily notarizations lulus unspiritual craver billing alphabetization ceilings biorhythm quoters swirls sexology bedlams cassino quackster ballpoints riblet kelvins shivah laciness satirizer repentance assimilative warmest returner photograph depraver warships stockcars meiotic hooligans arete clansmen salinized endorsing aikido purply iridescences textbooks uncovered hoarder bandied gauzy slugabed preteens anglians ascended compensated impersonality vincas garlanding lashes larkers blistered treacheries biological basinet ensphered globose chaptering reintroduced seamsters crazier proforma</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>transistorizing trivalve gulling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>orneriest cogitations beeper trumperies simplifies bibelot</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>hormonally reded dipt formalized nonprotectively hairsbreadths dyslexias abscesses condescended projections patchiness</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>contortionist clericalist pliably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">526</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1284</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

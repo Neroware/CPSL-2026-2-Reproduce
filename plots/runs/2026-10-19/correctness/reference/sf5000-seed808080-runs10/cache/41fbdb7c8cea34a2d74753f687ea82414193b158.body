@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="offer"/>
+    <variable name="price"/>
+  </head>
+  <results>
+    <result>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor2/Offer3080</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">2855.08</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor30/Offer56142</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">3303.03</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor30/Offer57195</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">4738.80</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor44/Offer91936</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">8022.69</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

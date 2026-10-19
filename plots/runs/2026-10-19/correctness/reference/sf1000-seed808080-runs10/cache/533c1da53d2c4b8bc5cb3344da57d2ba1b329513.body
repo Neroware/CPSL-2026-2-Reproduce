@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer9/Product426</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>airmailing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer11/Product510</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>alternated charities</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer3/Product105</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>harborless chuffing yawling</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer2/Product74</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>hausfrau fruitcake</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer18/Product829</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>painless</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

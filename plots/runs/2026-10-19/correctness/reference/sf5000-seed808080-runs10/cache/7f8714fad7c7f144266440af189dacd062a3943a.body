@@ -1,0 +1,362 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="productLabel"/>
+    <variable name="offer"/>
+    <variable name="price"/>
+    <variable name="vendor"/>
+    <variable name="vendorTitle"/>
+    <variable name="review"/>
+    <variable name="revTitle"/>
+    <variable name="reviewer"/>
+    <variable name="revName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+  </head>
+  <results>
+    <result>
+      <binding name="productLabel">
+        <literal>tuberoses outdodges handshaking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review471</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>braze mortared restraighten infecter ozonizers skirting galloped ringtails bookmaker stripling forks embitters</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer24</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Danja-Hroswitha</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>tuberoses outdodges handshaking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review5789</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>lunas mags nonsegregated coverings</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer281</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Pribyslava-Yong</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>tuberoses outdodges handshaking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8317</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>seasoned tarts imploration manics liberalness datelined devilishly stoutest priapism embar amniote cloaca fortuitus gestate</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer413</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Effi-Nashawn</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>tuberoses outdodges handshaking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Review12317</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>cannoneer bonding townies tankship unfortified tending plasterer fuzees straighteners pyric deionization positiver</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer627</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Naseeba</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>tuberoses outdodges handshaking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite3/Review26577</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>confuter octopi mentionable peroration bossier semicolon feinschmeckers enditing protoactinium scroggiest</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite3/Reviewer1349</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Salwa-Kuma</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>tuberoses outdodges handshaking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Review27732</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>correlation cardiologies diploids pierces germaneness inquisitory satirically gynarchy bodingly inditers gorgets variations uncombined funfair</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1411</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Zoey-Maliusha</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>tuberoses outdodges handshaking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Review30870</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>rascality grizzliest cesarean catenating racialist</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1570</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ragneda-Ulla</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>tuberoses outdodges handshaking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Review31154</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>lithographic duresses stows fifthly plonk excerpting sophistical bashing dimorphous tabs unassessed snappiest empiricist rigor</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1585</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Lyeta-Elissa</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>tuberoses outdodges handshaking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Review33521</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>millipedes swelling pseudoartistic hemming quintillionths disembarkation zealousness</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1706</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Hiroya-Volodimerna</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>tuberoses outdodges handshaking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Review35111</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>curlicues muzzling overexcitable nates recomposing carafe bantamweight palmettoes fungic nonaffiliated taker</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1791</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Gertrud-Karysha</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>tuberoses outdodges handshaking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Review40972</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>oddballs imported daintiness lorded spondaic renderer peneplain friableness transfiguring</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2083</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Israa-Liselott</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>tuberoses outdodges handshaking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Review41059</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>photocopy cutins enfolds bursary ricochets indiums anesthesiologist drinkable cashless hashheads damages longes noninterference edits</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2087</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Morawa</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>tuberoses outdodges handshaking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Review43654</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>whisked submerged shrubs fluctuations flawed scowled cropping rousers toke synched</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2221</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ludolfine-Jamee</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>tuberoses outdodges handshaking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Review45567</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>idolizers subduing padlocking fertilizing outgoings deltaic trollying unsatisfactory aerological miscarrying gurgled</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2319</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Gerburg-Masatake</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>tuberoses outdodges handshaking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Review47431</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>melodramatically homoerotic intricately jabot quarrelling moms alliterations infractor realities anisic teentsiest reaffirm gradated</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2421</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Akim-Dahlia</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>tuberoses outdodges handshaking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Review48508</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>tartly unwrinkling preform whappers lamentations getting peavy frolicking footstools kalifate overdrawing</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2475</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Enok-Lujan</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

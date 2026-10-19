@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="text"/>
+    <variable name="reviewDate"/>
+    <variable name="reviewer"/>
+    <variable name="reviewerName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+    <variable name="rating3"/>
+    <variable name="rating4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="title">
+        <literal>bhakti dishonoring flairs inculcates boxings potmen venally sophomorically friendlier stealths barges triarchy interact drunker</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">zunis sharpie drippiest intersession outwardly tzars trapeze broncs competes fadeaway tubed contumelious sciaticas guppy midyear tankship southwesters consolidations sultanic preestimate conditioners remonstration ciphers redbreasts bodyguards dominator unfermented monkhood connate firmed starches knowledged teemer retarders switching domestication bloomer seriating concerns joes ceremoniousness deadest satoris swankily ruining oftenness grandmothers spurned subunit allocating preaxially preeminently erythrocytes scowling mugged fees slaves sculked oxygenous presetting flowcharts conjunctivitis deselects invincibly loamier snubbiest soundless unburdens woodcuts archdeacons preventorium</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-03-06T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer414</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Rubaina-Bernadett</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>phlebotomy swearers squiring dimensional joked topper</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">kinships evokers submicroscopic seasider estimator eructate preplans uninspiring stateliness cappings cupping spumed bowstrings electropositive assassination decomposes papules subbing nudie perineum ochre brightens preinsert waddied glassiest rower unhurriedly overriding hyposensitive petrochemistry petter quencher mayoress whited mudfishes misreports ingeniously training defoliator malamute leviathans duellos solicitously labs rencounters humiliations rearrangements showdowns clapping lordlings mayapples blamelessness misunderstood pugs mateless hipparchs minded malodor indued presynaptically calibrated pettier cheerless bins interrelates franking gonadectomized churrs processions defraying tracings guars hypnoidal melamines keeps upheavals keister fearfully vandalized mullioned raciness enthronement purposing gustily agapae litoral selfdoms chileans pastils draftees</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-07-31T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2512</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Janeka-Elvis</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,9 @@
+{
+  "run_id": "20261019T082352Z-sf2000-custom",
+  "scale": "sf2000",
+  "db_dir": "/home/zebiscra/Documents/Workspace/cpsl-benchmark/data/db/sf2000",
+  "warmups": 5,
+  "reps": 20,
+  "files": ["queries/custom/sparql/join.sparql"],
+  "timestamp_utc": "2026-10-19T08:24:12Z"
+}

@@ -1,0 +1,9 @@
+{
+  "scale": "sf5000",
+  "product_count": 5000,
+  "seed": 808080,
+  "runs": 10,
+  "query_mix": "explore",
+  "reference_endpoint": "http://jena-fuseki:3030/ds/sparql",
+  "timestamp_utc": "2026-10-19T08:04:25Z"
+}

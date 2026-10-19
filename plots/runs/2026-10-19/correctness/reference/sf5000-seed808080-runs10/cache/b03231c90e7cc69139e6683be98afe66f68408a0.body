@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer74/Product3484</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>abusiveness unquiets</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer7/Product295</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>aerialist</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer14/Product665</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>draftings unclogs gerontological</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer54/Product2566</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>forswore</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer51/Product2400</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>incompatibly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer106/Product4983</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>lopers</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer39/Product1753</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>manhoods inoculations inlander</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer65/Product3093</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>nonprecious</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer96/Product4574</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>pseudoscholarly sputniks houseworkers</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer32/Product1418</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>radiated kinkajou moralizes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer25/Product1158</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>repugnantly doddered</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer104/Product4872</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>ridding repellently</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer88/Product4231</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>salvia fans recombines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer5/Product196</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>scams swops buyable</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

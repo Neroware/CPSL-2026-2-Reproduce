@@ -1,0 +1,929 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nonplusing smokepot wittily</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scrabbler stimulatingly forkedly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>wheelman</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>kneading hellholes thanking</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>resettled silkier parve</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>midwived cleavages reconquest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>exquisiteness alaskan</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>reassorted indicting intombs</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>astounds biomicroscope</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>letters</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>retsinas sheaving</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dietetics exposes daises</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>doltishly hulkier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>swimmers daubing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dehydrogenated guardians messmen</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>narrowing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>discerned grassers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>crisps</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>thwacking anguished knackeries</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inhabitants reticulated</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>concupiscence</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>vestiges recidivists eyecups</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>physicals tumor curber</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>spending pacifiers connective</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>mas acerbate</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tissued management wharfage</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lighter intones ultrasonically townswoman generator cordate evangelical ideas trudged sentineled monarchists suborbital fendered mercerized versified callboy gorger ecclesiastes peristalsis muzziest soppier hoboisms tzimmes semites exordia doing darkie requiem tweet overspent chromizes brambliest murderer wingspread amids vitalization lunkhead mollifies knickknack putters electees sutured hulky drabs missies coffs fructoses psychosomatics determinations bronchopneumonia tasselling depreciation catfishes crasher uncleanly twenties enzymically perturbational emanator curvaceously schoolmarms armatured subgum desiccant coiffeurs neonatology summerhouse somnambulists tuckered abeyancies tempura tapeworms cuteys felinity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>whored</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>schnook extricating reembody jamaican</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ethnoses proliferations rustles mirkily retrievers scavenged pelicans brigandage bundlers solicitress pinpricked chiasma pulpwood misleading</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tomfools cabinets leaguing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>kobold frowziness antiquation desisted extradites unwitted requisiteness dissemblingly sacristy biogenies construing acknowledgment</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">261</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,628 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tirelessness pesters brutishness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>maidhoods typographers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>yearling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>relegates boer linguinis</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>durnedest lops</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>observingly prythee</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>taxers militated</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sidesplitting nymphos seizable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>aunthood</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>murthered</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unpeople calendulas</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ileal samurais</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>restorativeness maximin reenforce</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>waiving</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>headspring treaters</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tendentious</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>retransferred</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nobilities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>replanted swooper</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>noncontradictory</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>imperils</literal>
+      </binding>
+      <binding name="comment">
+        <literal>trendiest mantlepieces earthiest deicer laundrywoman suspectable menstruum urinogenital untidied denoted criers electrifiers lurchers divvies telemetries chimbly artifices scruffiest cockaded dulling howling signori disembarked paychecks neutered bleared slabbering unchilled musketeer wrinkling divinities skepsises codefendant prosthetist sulkiness catchments paisanos marmoset racism corpulency orienting twines alcaldes companied ensures aureate untied seepy unproductiveness scrived digestant impersonalized brachiating woofers quickness postern boosters chirper regrooved</literal>
+      </binding>
+      <binding name="producer">
+        <literal>massless cynicisms</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>expiries mettles caricaturists</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>smatterings astronomical derestrict deckles beadily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>savourier reels theocracies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>savings invasiveness waywardly chawed composedness harpist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1025</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">621</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

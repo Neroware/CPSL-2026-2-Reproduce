@@ -1,0 +1,659 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inures overawed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lucifers yews crawdad</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>residuals redrafting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>predestinate pard</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tarsals unhygienic</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gluts barbering</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>marauded rescues uncial</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nonrestricted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hakeems fadeaways</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>monotones</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tiercels polygraph</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>rebelliously rigidities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>retro anatomist cedars</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>metastasis</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>reassure centaury realization</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>resonances</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>verminously</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>annealing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>repays refurnish</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fingernails cockbilled unwarned</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reenlightening chrysalides papules seedcakes deductibles wielders lickety hosp tumidity aspish fakirs trustily litheness caesareans hallmarked upends wresters studhorses temporariness thiamine vaccinee hurriedness vernaculars solvated inexplicably immeasurably photosensitized disseminated reproductions nutlet heaters blowfishes inmeshing guidances tautological abhorrers rom electrocution uncounted reconverts reassert lumpfish weaseling pussier roux boomage troglodytes imbroglios intermeshes disenfranchisements maidhood tempters parlays boatsman mousiness stickman corslet extemporized neurologized</literal>
+      </binding>
+      <binding name="producer">
+        <literal>distractibility rostrums instanced</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>coeditors attributives</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>calculational cyclotrons newspaperwoman prehistorically flippancy hierarchs dissenting polemically boutonniere spangled metastasizing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>personably pharisee stereoscope gurus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reacquisitions weltered stubbed unmapped greyish unsophisticatedly hertzes spaciously dogged awfullest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">232</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>escapisms recombines hefter zapped unexpressive searing respectable modulates berrying pintos relishing cragged bioscopes athenaeum</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

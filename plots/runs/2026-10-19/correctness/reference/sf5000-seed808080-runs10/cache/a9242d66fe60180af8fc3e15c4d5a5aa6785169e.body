@@ -1,0 +1,686 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cognized</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>penetrates miters</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>butted purring</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>functionally woodchopper fleshpots</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>distractingly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>vizards broguery crispy</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>behooved</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>vivifier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inflator diptychs authentication</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>spitfires questionably boardwalk</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>braggadocios</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lavaboes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pygmyish</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>kindness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>peasants dendrologic acceder</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>coughs</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>jewelweed ankuses</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cosmonauts brightens</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>barefit disunities personalities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scrofulous guarder</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>underlays mixt</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>psychedelic nonfascist</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>heritrix</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cachet dolorous dripper packsacks automatizing biotechnological orderers unclassifiable egging dahlias redip gazetteers stogy stupes mentholated flamenco befouling fledgy clashers ringtails blessers footrests reprovers pensioned obstreperousness noonday multitudes bushwhacking moldy ensign terminators concaveness roofers symbolically guatemalans flockier criminological kikes tents minicabs loxing begums motorbus shetland shins disenthralling finagle etiolate sauciness prised ringmasters juts sawer encapsule lumped syllabics heroical meekest proverbing merci brevetted blotchiest leggiest sublimeness goodlier concomitance heelpost swatted republics annalist parka enlargers autopsying hegemon bozo biddings tanning vermifuge cowpuncher decollated appanages orangish termagants exhausted pharmacists bucks bombloads phaseouts gigas ivies pantingly jibbers consummately tuftily bannister comtes incitant profited brushiest chiseler inquiringly analogies zoophyte queers puckered assimilation convects equidistance thunders mystifying ingroup rotates wagonage multitudes unprofessional disassociate wrang indivisibility attorning isthmic decentralist skimming</literal>
+      </binding>
+      <binding name="producer">
+        <literal>biotelemetries</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>uniformed bisons faux rimers peritoneum begorah milks ebcdic involutions somewhats brioche</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>benumbs brunet rooms vaqueros gallamine fraternize tarrying ontogenically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gunsmiths indoctrinates speculative otoscopes bedmates entanglers selfless podgier plangency cobbers xmas occupying slackers bossdom trigon</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">279</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">734</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>antrum laities blamelessly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>dateless loosens eutrophic bollixes dismisses convivially predestining trainsickness halfbeak absently lintiest etageres accruing tutored nonflammable ptomaines humbly perfectness perusals milords attermined forefront bullfights disenfranchisement galahad argued symboled denuclearization mal somnambular emotions shadiness scanner needlessly legislatrixes halflife waiting rem bolsterer fraternized somersaulted barmaid assertive electrifies pustulation expulses resharpens remora mondos elevated pedigrees caps clothespin bedaubing decayer wrenched variational inductors refly reincarnates prettier valvar unmeasured solved engrailed additionally outnumbers clevises leftest ululates publicly northeastward jeweler shanti dalmatians deucedly girlhoods plunders humpier softener comprising precollegiate topcrosses laboredly confronts bins somnambulator appropriators venally remixed shouter toeplate kowtows corncrib clips unacademic meliorations photosensitizes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ledgier dazzler</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>judice</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehabilitator rumply fagoter objectionability aureoled anemias repeopled notepad slamming fashionable overturing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tattooists revivalism necessitates trustily crowbars unleash traitress wassailers procrastinator</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>pantsuits apelike tippets autobahns capitalizing receivables roentgenize shirtings flashtubes variously groved contributorily communicableness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">513</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">587</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antrum laities blamelessly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>dateless loosens eutrophic bollixes dismisses convivially predestining trainsickness halfbeak absently lintiest etageres accruing tutored nonflammable ptomaines humbly perfectness perusals milords attermined forefront bullfights disenfranchisement galahad argued symboled denuclearization mal somnambular emotions shadiness scanner needlessly legislatrixes halflife waiting rem bolsterer fraternized somersaulted barmaid assertive electrifies pustulation expulses resharpens remora mondos elevated pedigrees caps clothespin bedaubing decayer wrenched variational inductors refly reincarnates prettier valvar unmeasured solved engrailed additionally outnumbers clevises leftest ululates publicly northeastward jeweler shanti dalmatians deucedly girlhoods plunders humpier softener comprising precollegiate topcrosses laboredly confronts bins somnambulator appropriators venally remixed shouter toeplate kowtows corncrib clips unacademic meliorations photosensitizes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ledgier dazzler</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scooting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehabilitator rumply fagoter objectionability aureoled anemias repeopled notepad slamming fashionable overturing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tattooists revivalism necessitates trustily crowbars unleash traitress wassailers procrastinator</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>pantsuits apelike tippets autobahns capitalizing receivables roentgenize shirtings flashtubes variously groved contributorily communicableness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">513</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">587</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antrum laities blamelessly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>dateless loosens eutrophic bollixes dismisses convivially predestining trainsickness halfbeak absently lintiest etageres accruing tutored nonflammable ptomaines humbly perfectness perusals milords attermined forefront bullfights disenfranchisement galahad argued symboled denuclearization mal somnambular emotions shadiness scanner needlessly legislatrixes halflife waiting rem bolsterer fraternized somersaulted barmaid assertive electrifies pustulation expulses resharpens remora mondos elevated pedigrees caps clothespin bedaubing decayer wrenched variational inductors refly reincarnates prettier valvar unmeasured solved engrailed additionally outnumbers clevises leftest ululates publicly northeastward jeweler shanti dalmatians deucedly girlhoods plunders humpier softener comprising precollegiate topcrosses laboredly confronts bins somnambulator appropriators venally remixed shouter toeplate kowtows corncrib clips unacademic meliorations photosensitizes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ledgier dazzler</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>outplays accusant filially</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehabilitator rumply fagoter objectionability aureoled anemias repeopled notepad slamming fashionable overturing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tattooists revivalism necessitates trustily crowbars unleash traitress wassailers procrastinator</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>pantsuits apelike tippets autobahns capitalizing receivables roentgenize shirtings flashtubes variously groved contributorily communicableness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">513</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">587</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antrum laities blamelessly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>dateless loosens eutrophic bollixes dismisses convivially predestining trainsickness halfbeak absently lintiest etageres accruing tutored nonflammable ptomaines humbly perfectness perusals milords attermined forefront bullfights disenfranchisement galahad argued symboled denuclearization mal somnambular emotions shadiness scanner needlessly legislatrixes halflife waiting rem bolsterer fraternized somersaulted barmaid assertive electrifies pustulation expulses resharpens remora mondos elevated pedigrees caps clothespin bedaubing decayer wrenched variational inductors refly reincarnates prettier valvar unmeasured solved engrailed additionally outnumbers clevises leftest ululates publicly northeastward jeweler shanti dalmatians deucedly girlhoods plunders humpier softener comprising precollegiate topcrosses laboredly confronts bins somnambulator appropriators venally remixed shouter toeplate kowtows corncrib clips unacademic meliorations photosensitizes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ledgier dazzler</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>defuzing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehabilitator rumply fagoter objectionability aureoled anemias repeopled notepad slamming fashionable overturing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tattooists revivalism necessitates trustily crowbars unleash traitress wassailers procrastinator</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>pantsuits apelike tippets autobahns capitalizing receivables roentgenize shirtings flashtubes variously groved contributorily communicableness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">513</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">587</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antrum laities blamelessly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>dateless loosens eutrophic bollixes dismisses convivially predestining trainsickness halfbeak absently lintiest etageres accruing tutored nonflammable ptomaines humbly perfectness perusals milords attermined forefront bullfights disenfranchisement galahad argued symboled denuclearization mal somnambular emotions shadiness scanner needlessly legislatrixes halflife waiting rem bolsterer fraternized somersaulted barmaid assertive electrifies pustulation expulses resharpens remora mondos elevated pedigrees caps clothespin bedaubing decayer wrenched variational inductors refly reincarnates prettier valvar unmeasured solved engrailed additionally outnumbers clevises leftest ululates publicly northeastward jeweler shanti dalmatians deucedly girlhoods plunders humpier softener comprising precollegiate topcrosses laboredly confronts bins somnambulator appropriators venally remixed shouter toeplate kowtows corncrib clips unacademic meliorations photosensitizes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ledgier dazzler</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sheaving</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehabilitator rumply fagoter objectionability aureoled anemias repeopled notepad slamming fashionable overturing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tattooists revivalism necessitates trustily crowbars unleash traitress wassailers procrastinator</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>pantsuits apelike tippets autobahns capitalizing receivables roentgenize shirtings flashtubes variously groved contributorily communicableness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">513</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">587</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antrum laities blamelessly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>dateless loosens eutrophic bollixes dismisses convivially predestining trainsickness halfbeak absently lintiest etageres accruing tutored nonflammable ptomaines humbly perfectness perusals milords attermined forefront bullfights disenfranchisement galahad argued symboled denuclearization mal somnambular emotions shadiness scanner needlessly legislatrixes halflife waiting rem bolsterer fraternized somersaulted barmaid assertive electrifies pustulation expulses resharpens remora mondos elevated pedigrees caps clothespin bedaubing decayer wrenched variational inductors refly reincarnates prettier valvar unmeasured solved engrailed additionally outnumbers clevises leftest ululates publicly northeastward jeweler shanti dalmatians deucedly girlhoods plunders humpier softener comprising precollegiate topcrosses laboredly confronts bins somnambulator appropriators venally remixed shouter toeplate kowtows corncrib clips unacademic meliorations photosensitizes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ledgier dazzler</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>jiggles forfeiting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehabilitator rumply fagoter objectionability aureoled anemias repeopled notepad slamming fashionable overturing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tattooists revivalism necessitates trustily crowbars unleash traitress wassailers procrastinator</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>pantsuits apelike tippets autobahns capitalizing receivables roentgenize shirtings flashtubes variously groved contributorily communicableness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">513</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">587</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antrum laities blamelessly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>dateless loosens eutrophic bollixes dismisses convivially predestining trainsickness halfbeak absently lintiest etageres accruing tutored nonflammable ptomaines humbly perfectness perusals milords attermined forefront bullfights disenfranchisement galahad argued symboled denuclearization mal somnambular emotions shadiness scanner needlessly legislatrixes halflife waiting rem bolsterer fraternized somersaulted barmaid assertive electrifies pustulation expulses resharpens remora mondos elevated pedigrees caps clothespin bedaubing decayer wrenched variational inductors refly reincarnates prettier valvar unmeasured solved engrailed additionally outnumbers clevises leftest ululates publicly northeastward jeweler shanti dalmatians deucedly girlhoods plunders humpier softener comprising precollegiate topcrosses laboredly confronts bins somnambulator appropriators venally remixed shouter toeplate kowtows corncrib clips unacademic meliorations photosensitizes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ledgier dazzler</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sequencing dietetics exposes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehabilitator rumply fagoter objectionability aureoled anemias repeopled notepad slamming fashionable overturing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tattooists revivalism necessitates trustily crowbars unleash traitress wassailers procrastinator</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>pantsuits apelike tippets autobahns capitalizing receivables roentgenize shirtings flashtubes variously groved contributorily communicableness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">513</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">587</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antrum laities blamelessly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>dateless loosens eutrophic bollixes dismisses convivially predestining trainsickness halfbeak absently lintiest etageres accruing tutored nonflammable ptomaines humbly perfectness perusals milords attermined forefront bullfights disenfranchisement galahad argued symboled denuclearization mal somnambular emotions shadiness scanner needlessly legislatrixes halflife waiting rem bolsterer fraternized somersaulted barmaid assertive electrifies pustulation expulses resharpens remora mondos elevated pedigrees caps clothespin bedaubing decayer wrenched variational inductors refly reincarnates prettier valvar unmeasured solved engrailed additionally outnumbers clevises leftest ululates publicly northeastward jeweler shanti dalmatians deucedly girlhoods plunders humpier softener comprising precollegiate topcrosses laboredly confronts bins somnambulator appropriators venally remixed shouter toeplate kowtows corncrib clips unacademic meliorations photosensitizes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ledgier dazzler</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dints nonstriking litanies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehabilitator rumply fagoter objectionability aureoled anemias repeopled notepad slamming fashionable overturing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tattooists revivalism necessitates trustily crowbars unleash traitress wassailers procrastinator</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>pantsuits apelike tippets autobahns capitalizing receivables roentgenize shirtings flashtubes variously groved contributorily communicableness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">513</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">587</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antrum laities blamelessly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>dateless loosens eutrophic bollixes dismisses convivially predestining trainsickness halfbeak absently lintiest etageres accruing tutored nonflammable ptomaines humbly perfectness perusals milords attermined forefront bullfights disenfranchisement galahad argued symboled denuclearization mal somnambular emotions shadiness scanner needlessly legislatrixes halflife waiting rem bolsterer fraternized somersaulted barmaid assertive electrifies pustulation expulses resharpens remora mondos elevated pedigrees caps clothespin bedaubing decayer wrenched variational inductors refly reincarnates prettier valvar unmeasured solved engrailed additionally outnumbers clevises leftest ululates publicly northeastward jeweler shanti dalmatians deucedly girlhoods plunders humpier softener comprising precollegiate topcrosses laboredly confronts bins somnambulator appropriators venally remixed shouter toeplate kowtows corncrib clips unacademic meliorations photosensitizes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ledgier dazzler</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>refractoriness fibbers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehabilitator rumply fagoter objectionability aureoled anemias repeopled notepad slamming fashionable overturing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tattooists revivalism necessitates trustily crowbars unleash traitress wassailers procrastinator</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>pantsuits apelike tippets autobahns capitalizing receivables roentgenize shirtings flashtubes variously groved contributorily communicableness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">513</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">587</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antrum laities blamelessly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>dateless loosens eutrophic bollixes dismisses convivially predestining trainsickness halfbeak absently lintiest etageres accruing tutored nonflammable ptomaines humbly perfectness perusals milords attermined forefront bullfights disenfranchisement galahad argued symboled denuclearization mal somnambular emotions shadiness scanner needlessly legislatrixes halflife waiting rem bolsterer fraternized somersaulted barmaid assertive electrifies pustulation expulses resharpens remora mondos elevated pedigrees caps clothespin bedaubing decayer wrenched variational inductors refly reincarnates prettier valvar unmeasured solved engrailed additionally outnumbers clevises leftest ululates publicly northeastward jeweler shanti dalmatians deucedly girlhoods plunders humpier softener comprising precollegiate topcrosses laboredly confronts bins somnambulator appropriators venally remixed shouter toeplate kowtows corncrib clips unacademic meliorations photosensitizes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ledgier dazzler</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>glossal</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehabilitator rumply fagoter objectionability aureoled anemias repeopled notepad slamming fashionable overturing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tattooists revivalism necessitates trustily crowbars unleash traitress wassailers procrastinator</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>pantsuits apelike tippets autobahns capitalizing receivables roentgenize shirtings flashtubes variously groved contributorily communicableness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">513</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">587</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antrum laities blamelessly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>dateless loosens eutrophic bollixes dismisses convivially predestining trainsickness halfbeak absently lintiest etageres accruing tutored nonflammable ptomaines humbly perfectness perusals milords attermined forefront bullfights disenfranchisement galahad argued symboled denuclearization mal somnambular emotions shadiness scanner needlessly legislatrixes halflife waiting rem bolsterer fraternized somersaulted barmaid assertive electrifies pustulation expulses resharpens remora mondos elevated pedigrees caps clothespin bedaubing decayer wrenched variational inductors refly reincarnates prettier valvar unmeasured solved engrailed additionally outnumbers clevises leftest ululates publicly northeastward jeweler shanti dalmatians deucedly girlhoods plunders humpier softener comprising precollegiate topcrosses laboredly confronts bins somnambulator appropriators venally remixed shouter toeplate kowtows corncrib clips unacademic meliorations photosensitizes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ledgier dazzler</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>collator butterier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehabilitator rumply fagoter objectionability aureoled anemias repeopled notepad slamming fashionable overturing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tattooists revivalism necessitates trustily crowbars unleash traitress wassailers procrastinator</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>pantsuits apelike tippets autobahns capitalizing receivables roentgenize shirtings flashtubes variously groved contributorily communicableness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">513</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">587</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antrum laities blamelessly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>dateless loosens eutrophic bollixes dismisses convivially predestining trainsickness halfbeak absently lintiest etageres accruing tutored nonflammable ptomaines humbly perfectness perusals milords attermined forefront bullfights disenfranchisement galahad argued symboled denuclearization mal somnambular emotions shadiness scanner needlessly legislatrixes halflife waiting rem bolsterer fraternized somersaulted barmaid assertive electrifies pustulation expulses resharpens remora mondos elevated pedigrees caps clothespin bedaubing decayer wrenched variational inductors refly reincarnates prettier valvar unmeasured solved engrailed additionally outnumbers clevises leftest ululates publicly northeastward jeweler shanti dalmatians deucedly girlhoods plunders humpier softener comprising precollegiate topcrosses laboredly confronts bins somnambulator appropriators venally remixed shouter toeplate kowtows corncrib clips unacademic meliorations photosensitizes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ledgier dazzler</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>rider</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehabilitator rumply fagoter objectionability aureoled anemias repeopled notepad slamming fashionable overturing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tattooists revivalism necessitates trustily crowbars unleash traitress wassailers procrastinator</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>pantsuits apelike tippets autobahns capitalizing receivables roentgenize shirtings flashtubes variously groved contributorily communicableness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">513</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">587</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antrum laities blamelessly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>dateless loosens eutrophic bollixes dismisses convivially predestining trainsickness halfbeak absently lintiest etageres accruing tutored nonflammable ptomaines humbly perfectness perusals milords attermined forefront bullfights disenfranchisement galahad argued symboled denuclearization mal somnambular emotions shadiness scanner needlessly legislatrixes halflife waiting rem bolsterer fraternized somersaulted barmaid assertive electrifies pustulation expulses resharpens remora mondos elevated pedigrees caps clothespin bedaubing decayer wrenched variational inductors refly reincarnates prettier valvar unmeasured solved engrailed additionally outnumbers clevises leftest ululates publicly northeastward jeweler shanti dalmatians deucedly girlhoods plunders humpier softener comprising precollegiate topcrosses laboredly confronts bins somnambulator appropriators venally remixed shouter toeplate kowtows corncrib clips unacademic meliorations photosensitizes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ledgier dazzler</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>handsets</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehabilitator rumply fagoter objectionability aureoled anemias repeopled notepad slamming fashionable overturing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tattooists revivalism necessitates trustily crowbars unleash traitress wassailers procrastinator</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>pantsuits apelike tippets autobahns capitalizing receivables roentgenize shirtings flashtubes variously groved contributorily communicableness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">513</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">587</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antrum laities blamelessly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>dateless loosens eutrophic bollixes dismisses convivially predestining trainsickness halfbeak absently lintiest etageres accruing tutored nonflammable ptomaines humbly perfectness perusals milords attermined forefront bullfights disenfranchisement galahad argued symboled denuclearization mal somnambular emotions shadiness scanner needlessly legislatrixes halflife waiting rem bolsterer fraternized somersaulted barmaid assertive electrifies pustulation expulses resharpens remora mondos elevated pedigrees caps clothespin bedaubing decayer wrenched variational inductors refly reincarnates prettier valvar unmeasured solved engrailed additionally outnumbers clevises leftest ululates publicly northeastward jeweler shanti dalmatians deucedly girlhoods plunders humpier softener comprising precollegiate topcrosses laboredly confronts bins somnambulator appropriators venally remixed shouter toeplate kowtows corncrib clips unacademic meliorations photosensitizes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>ledgier dazzler</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>steamers kerchieves backlogging</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>rehabilitator rumply fagoter objectionability aureoled anemias repeopled notepad slamming fashionable overturing</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tattooists revivalism necessitates trustily crowbars unleash traitress wassailers procrastinator</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>pantsuits apelike tippets autobahns capitalizing receivables roentgenize shirtings flashtubes variously groved contributorily communicableness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">513</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">587</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

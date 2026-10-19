@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="offer"/>
+    <variable name="price"/>
+  </head>
+  <results>
+    <result>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor41/Offer83807</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">4408.15</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor12/Offer21018</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">4840.23</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,628 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>doyenne tzars deflationary</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>oscillometer berlins smilax</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>intrenches</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>radons tabor miscellaneously</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>xanthochroid cartoned intersperses</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pinchers aethers disarticulated</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>reissue</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tuning</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>queerer concaveness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>seditionary uncurtained trundlers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>regretter douched</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dreidl</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>obeahs</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>linkers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>professing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dissipaters</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>brutalities consigning acrider</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>routinizes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>petals doblas cerebrum</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>interlocked infests</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unnavigable spiker philtred</literal>
+      </binding>
+      <binding name="comment">
+        <literal>masters pointedly filer metaphorical smouldered subjugating dunghill boyos unclench spewed meliorating omnium misunderstandingly crispers penalize forbad arboretums lucidity macrocephalous nominately reglues liq climaxed noisome unmanageable hypoergic outrunning printouts dieter quadrics rewax mistrustfully cuddies nonmalignant sativa uprooters election registrations brawls fumbled poolroom girded imps retranslations scuttler tripped protruded telling amerindians gawkish eterne perpetrators protestor cursively glamorizes federalized nonstrikers meditatively supersonically dimer plenipotentiaries intervened lithos fertilely zoologic hitter sugarplum tallymen upheaving hangared immoderately artificer supermarkets nonconcurrent whiter honkers reformated skidders marblings dundee shirring ratchets stanchers boroughs bacchant whorled bunkerage packsack noncancellable mopper kinsman snobbism unhonored shakeups collectivist airships medevac aguishly clamper</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lysing inapposite</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>tornadoes lockbox predomination reasserting incredibleness lobefin percentaged</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>chiselled misconception splenectomize crisscrosses catchers vrows overvalued rakes ladyfinger tsuris kinds fanaticize uncordial merrymaking</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sledged warped unspectacular snapdragons unzipping preferences mucklucks ignorer</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">237</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">921</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

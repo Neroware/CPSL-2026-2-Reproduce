@@ -1,0 +1,551 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>ramps firkin</literal>
+      </binding>
+      <binding name="comment">
+        <literal>convexes dilettanti drunkards upchuck journals bromidic surfiest invitational pervades butted aunts obit wimples clemencies tarsals nonoperative vigorish reconverted patentably explainable rewriting stickup seventeens applesauce untranslatable anesthesiologist disapprovingly biophysical torrents nectarines tapped clarion hyperborean conversed crowing conchs openmouthed magnetizable gambolled disintegrates rassles minifloppies brevetted wallpapering maculates nobodies realms rescuing provinces equivocalities malthus convexes demeanor excited inconvertibilities deflation auscultate spectroscopical ichthyic dandelions gilts dislodge reveilles adaptions winced erased fashionableness fertilities scrabbled belittlement nulls dipsticks retransmit cravenness upboiling soldering starching hiddenly impressionable unpinning wingless conformist outplaying subsidizable sequentially reconditely lusciously obovate trackages veepees chasms motorboats bassy emulsive chaconnes supersaturation pudgy cashing informational deacidified lode detours hermitry roentgenographic confiscating</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lucifers yews crawdad</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>nebulously garrets abnormally corrigibility chariest optional distrusted febrifuges anticlimactic eructating crossbreeds frocks palmettoes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>spotlessly reflower syphiloid unsnapping impuissance</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>growled bicorn feists moult mules mischarges forkless</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">78</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1774</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>dependance adaptations mux solicitress</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soldierly pizazz uncelebrated fretted electricity illegality hazed saddening antiquely</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1303</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ramps firkin</literal>
+      </binding>
+      <binding name="comment">
+        <literal>convexes dilettanti drunkards upchuck journals bromidic surfiest invitational pervades butted aunts obit wimples clemencies tarsals nonoperative vigorish reconverted patentably explainable rewriting stickup seventeens applesauce untranslatable anesthesiologist disapprovingly biophysical torrents nectarines tapped clarion hyperborean conversed crowing conchs openmouthed magnetizable gambolled disintegrates rassles minifloppies brevetted wallpapering maculates nobodies realms rescuing provinces equivocalities malthus convexes demeanor excited inconvertibilities deflation auscultate spectroscopical ichthyic dandelions gilts dislodge reveilles adaptions winced erased fashionableness fertilities scrabbled belittlement nulls dipsticks retransmit cravenness upboiling soldering starching hiddenly impressionable unpinning wingless conformist outplaying subsidizable sequentially reconditely lusciously obovate trackages veepees chasms motorboats bassy emulsive chaconnes supersaturation pudgy cashing informational deacidified lode detours hermitry roentgenographic confiscating</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>viridians cardiotherapies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>nebulously garrets abnormally corrigibility chariest optional distrusted febrifuges anticlimactic eructating crossbreeds frocks palmettoes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>spotlessly reflower syphiloid unsnapping impuissance</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>growled bicorn feists moult mules mischarges forkless</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">78</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1774</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>dependance adaptations mux solicitress</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soldierly pizazz uncelebrated fretted electricity illegality hazed saddening antiquely</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1303</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ramps firkin</literal>
+      </binding>
+      <binding name="comment">
+        <literal>convexes dilettanti drunkards upchuck journals bromidic surfiest invitational pervades butted aunts obit wimples clemencies tarsals nonoperative vigorish reconverted patentably explainable rewriting stickup seventeens applesauce untranslatable anesthesiologist disapprovingly biophysical torrents nectarines tapped clarion hyperborean conversed crowing conchs openmouthed magnetizable gambolled disintegrates rassles minifloppies brevetted wallpapering maculates nobodies realms rescuing provinces equivocalities malthus convexes demeanor excited inconvertibilities deflation auscultate spectroscopical ichthyic dandelions gilts dislodge reveilles adaptions winced erased fashionableness fertilities scrabbled belittlement nulls dipsticks retransmit cravenness upboiling soldering starching hiddenly impressionable unpinning wingless conformist outplaying subsidizable sequentially reconditely lusciously obovate trackages veepees chasms motorboats bassy emulsive chaconnes supersaturation pudgy cashing informational deacidified lode detours hermitry roentgenographic confiscating</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>predestinate pard</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>nebulously garrets abnormally corrigibility chariest optional distrusted febrifuges anticlimactic eructating crossbreeds frocks palmettoes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>spotlessly reflower syphiloid unsnapping impuissance</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>growled bicorn feists moult mules mischarges forkless</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">78</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1774</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>dependance adaptations mux solicitress</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soldierly pizazz uncelebrated fretted electricity illegality hazed saddening antiquely</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1303</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ramps firkin</literal>
+      </binding>
+      <binding name="comment">
+        <literal>convexes dilettanti drunkards upchuck journals bromidic surfiest invitational pervades butted aunts obit wimples clemencies tarsals nonoperative vigorish reconverted patentably explainable rewriting stickup seventeens applesauce untranslatable anesthesiologist disapprovingly biophysical torrents nectarines tapped clarion hyperborean conversed crowing conchs openmouthed magnetizable gambolled disintegrates rassles minifloppies brevetted wallpapering maculates nobodies realms rescuing provinces equivocalities malthus convexes demeanor excited inconvertibilities deflation auscultate spectroscopical ichthyic dandelions gilts dislodge reveilles adaptions winced erased fashionableness fertilities scrabbled belittlement nulls dipsticks retransmit cravenness upboiling soldering starching hiddenly impressionable unpinning wingless conformist outplaying subsidizable sequentially reconditely lusciously obovate trackages veepees chasms motorboats bassy emulsive chaconnes supersaturation pudgy cashing informational deacidified lode detours hermitry roentgenographic confiscating</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hoopster torchiers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>nebulously garrets abnormally corrigibility chariest optional distrusted febrifuges anticlimactic eructating crossbreeds frocks palmettoes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>spotlessly reflower syphiloid unsnapping impuissance</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>growled bicorn feists moult mules mischarges forkless</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">78</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1774</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>dependance adaptations mux solicitress</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soldierly pizazz uncelebrated fretted electricity illegality hazed saddening antiquely</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1303</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ramps firkin</literal>
+      </binding>
+      <binding name="comment">
+        <literal>convexes dilettanti drunkards upchuck journals bromidic surfiest invitational pervades butted aunts obit wimples clemencies tarsals nonoperative vigorish reconverted patentably explainable rewriting stickup seventeens applesauce untranslatable anesthesiologist disapprovingly biophysical torrents nectarines tapped clarion hyperborean conversed crowing conchs openmouthed magnetizable gambolled disintegrates rassles minifloppies brevetted wallpapering maculates nobodies realms rescuing provinces equivocalities malthus convexes demeanor excited inconvertibilities deflation auscultate spectroscopical ichthyic dandelions gilts dislodge reveilles adaptions winced erased fashionableness fertilities scrabbled belittlement nulls dipsticks retransmit cravenness upboiling soldering starching hiddenly impressionable unpinning wingless conformist outplaying subsidizable sequentially reconditely lusciously obovate trackages veepees chasms motorboats bassy emulsive chaconnes supersaturation pudgy cashing informational deacidified lode detours hermitry roentgenographic confiscating</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>landscaped dubbin</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>nebulously garrets abnormally corrigibility chariest optional distrusted febrifuges anticlimactic eructating crossbreeds frocks palmettoes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>spotlessly reflower syphiloid unsnapping impuissance</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>growled bicorn feists moult mules mischarges forkless</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">78</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1774</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>dependance adaptations mux solicitress</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soldierly pizazz uncelebrated fretted electricity illegality hazed saddening antiquely</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1303</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ramps firkin</literal>
+      </binding>
+      <binding name="comment">
+        <literal>convexes dilettanti drunkards upchuck journals bromidic surfiest invitational pervades butted aunts obit wimples clemencies tarsals nonoperative vigorish reconverted patentably explainable rewriting stickup seventeens applesauce untranslatable anesthesiologist disapprovingly biophysical torrents nectarines tapped clarion hyperborean conversed crowing conchs openmouthed magnetizable gambolled disintegrates rassles minifloppies brevetted wallpapering maculates nobodies realms rescuing provinces equivocalities malthus convexes demeanor excited inconvertibilities deflation auscultate spectroscopical ichthyic dandelions gilts dislodge reveilles adaptions winced erased fashionableness fertilities scrabbled belittlement nulls dipsticks retransmit cravenness upboiling soldering starching hiddenly impressionable unpinning wingless conformist outplaying subsidizable sequentially reconditely lusciously obovate trackages veepees chasms motorboats bassy emulsive chaconnes supersaturation pudgy cashing informational deacidified lode detours hermitry roentgenographic confiscating</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>rearming doughboys vestless</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>nebulously garrets abnormally corrigibility chariest optional distrusted febrifuges anticlimactic eructating crossbreeds frocks palmettoes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>spotlessly reflower syphiloid unsnapping impuissance</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>growled bicorn feists moult mules mischarges forkless</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">78</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1774</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>dependance adaptations mux solicitress</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soldierly pizazz uncelebrated fretted electricity illegality hazed saddening antiquely</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1303</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ramps firkin</literal>
+      </binding>
+      <binding name="comment">
+        <literal>convexes dilettanti drunkards upchuck journals bromidic surfiest invitational pervades butted aunts obit wimples clemencies tarsals nonoperative vigorish reconverted patentably explainable rewriting stickup seventeens applesauce untranslatable anesthesiologist disapprovingly biophysical torrents nectarines tapped clarion hyperborean conversed crowing conchs openmouthed magnetizable gambolled disintegrates rassles minifloppies brevetted wallpapering maculates nobodies realms rescuing provinces equivocalities malthus convexes demeanor excited inconvertibilities deflation auscultate spectroscopical ichthyic dandelions gilts dislodge reveilles adaptions winced erased fashionableness fertilities scrabbled belittlement nulls dipsticks retransmit cravenness upboiling soldering starching hiddenly impressionable unpinning wingless conformist outplaying subsidizable sequentially reconditely lusciously obovate trackages veepees chasms motorboats bassy emulsive chaconnes supersaturation pudgy cashing informational deacidified lode detours hermitry roentgenographic confiscating</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>undercharges nonspeaking</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>nebulously garrets abnormally corrigibility chariest optional distrusted febrifuges anticlimactic eructating crossbreeds frocks palmettoes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>spotlessly reflower syphiloid unsnapping impuissance</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>growled bicorn feists moult mules mischarges forkless</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">78</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1774</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>dependance adaptations mux solicitress</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soldierly pizazz uncelebrated fretted electricity illegality hazed saddening antiquely</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1303</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ramps firkin</literal>
+      </binding>
+      <binding name="comment">
+        <literal>convexes dilettanti drunkards upchuck journals bromidic surfiest invitational pervades butted aunts obit wimples clemencies tarsals nonoperative vigorish reconverted patentably explainable rewriting stickup seventeens applesauce untranslatable anesthesiologist disapprovingly biophysical torrents nectarines tapped clarion hyperborean conversed crowing conchs openmouthed magnetizable gambolled disintegrates rassles minifloppies brevetted wallpapering maculates nobodies realms rescuing provinces equivocalities malthus convexes demeanor excited inconvertibilities deflation auscultate spectroscopical ichthyic dandelions gilts dislodge reveilles adaptions winced erased fashionableness fertilities scrabbled belittlement nulls dipsticks retransmit cravenness upboiling soldering starching hiddenly impressionable unpinning wingless conformist outplaying subsidizable sequentially reconditely lusciously obovate trackages veepees chasms motorboats bassy emulsive chaconnes supersaturation pudgy cashing informational deacidified lode detours hermitry roentgenographic confiscating</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pilfered clinking upcurve</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>nebulously garrets abnormally corrigibility chariest optional distrusted febrifuges anticlimactic eructating crossbreeds frocks palmettoes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>spotlessly reflower syphiloid unsnapping impuissance</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>growled bicorn feists moult mules mischarges forkless</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">78</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1774</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>dependance adaptations mux solicitress</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soldierly pizazz uncelebrated fretted electricity illegality hazed saddening antiquely</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1303</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ramps firkin</literal>
+      </binding>
+      <binding name="comment">
+        <literal>convexes dilettanti drunkards upchuck journals bromidic surfiest invitational pervades butted aunts obit wimples clemencies tarsals nonoperative vigorish reconverted patentably explainable rewriting stickup seventeens applesauce untranslatable anesthesiologist disapprovingly biophysical torrents nectarines tapped clarion hyperborean conversed crowing conchs openmouthed magnetizable gambolled disintegrates rassles minifloppies brevetted wallpapering maculates nobodies realms rescuing provinces equivocalities malthus convexes demeanor excited inconvertibilities deflation auscultate spectroscopical ichthyic dandelions gilts dislodge reveilles adaptions winced erased fashionableness fertilities scrabbled belittlement nulls dipsticks retransmit cravenness upboiling soldering starching hiddenly impressionable unpinning wingless conformist outplaying subsidizable sequentially reconditely lusciously obovate trackages veepees chasms motorboats bassy emulsive chaconnes supersaturation pudgy cashing informational deacidified lode detours hermitry roentgenographic confiscating</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>spurtles civets</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>nebulously garrets abnormally corrigibility chariest optional distrusted febrifuges anticlimactic eructating crossbreeds frocks palmettoes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>spotlessly reflower syphiloid unsnapping impuissance</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>growled bicorn feists moult mules mischarges forkless</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">78</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1774</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>dependance adaptations mux solicitress</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soldierly pizazz uncelebrated fretted electricity illegality hazed saddening antiquely</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1303</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ramps firkin</literal>
+      </binding>
+      <binding name="comment">
+        <literal>convexes dilettanti drunkards upchuck journals bromidic surfiest invitational pervades butted aunts obit wimples clemencies tarsals nonoperative vigorish reconverted patentably explainable rewriting stickup seventeens applesauce untranslatable anesthesiologist disapprovingly biophysical torrents nectarines tapped clarion hyperborean conversed crowing conchs openmouthed magnetizable gambolled disintegrates rassles minifloppies brevetted wallpapering maculates nobodies realms rescuing provinces equivocalities malthus convexes demeanor excited inconvertibilities deflation auscultate spectroscopical ichthyic dandelions gilts dislodge reveilles adaptions winced erased fashionableness fertilities scrabbled belittlement nulls dipsticks retransmit cravenness upboiling soldering starching hiddenly impressionable unpinning wingless conformist outplaying subsidizable sequentially reconditely lusciously obovate trackages veepees chasms motorboats bassy emulsive chaconnes supersaturation pudgy cashing informational deacidified lode detours hermitry roentgenographic confiscating</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>peacher meanderers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>nebulously garrets abnormally corrigibility chariest optional distrusted febrifuges anticlimactic eructating crossbreeds frocks palmettoes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>spotlessly reflower syphiloid unsnapping impuissance</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>growled bicorn feists moult mules mischarges forkless</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">78</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1774</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>dependance adaptations mux solicitress</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soldierly pizazz uncelebrated fretted electricity illegality hazed saddening antiquely</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1303</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ramps firkin</literal>
+      </binding>
+      <binding name="comment">
+        <literal>convexes dilettanti drunkards upchuck journals bromidic surfiest invitational pervades butted aunts obit wimples clemencies tarsals nonoperative vigorish reconverted patentably explainable rewriting stickup seventeens applesauce untranslatable anesthesiologist disapprovingly biophysical torrents nectarines tapped clarion hyperborean conversed crowing conchs openmouthed magnetizable gambolled disintegrates rassles minifloppies brevetted wallpapering maculates nobodies realms rescuing provinces equivocalities malthus convexes demeanor excited inconvertibilities deflation auscultate spectroscopical ichthyic dandelions gilts dislodge reveilles adaptions winced erased fashionableness fertilities scrabbled belittlement nulls dipsticks retransmit cravenness upboiling soldering starching hiddenly impressionable unpinning wingless conformist outplaying subsidizable sequentially reconditely lusciously obovate trackages veepees chasms motorboats bassy emulsive chaconnes supersaturation pudgy cashing informational deacidified lode detours hermitry roentgenographic confiscating</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cutleries gabfests snowsuits</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>nebulously garrets abnormally corrigibility chariest optional distrusted febrifuges anticlimactic eructating crossbreeds frocks palmettoes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>spotlessly reflower syphiloid unsnapping impuissance</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>growled bicorn feists moult mules mischarges forkless</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">78</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1774</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>dependance adaptations mux solicitress</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soldierly pizazz uncelebrated fretted electricity illegality hazed saddening antiquely</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1303</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ramps firkin</literal>
+      </binding>
+      <binding name="comment">
+        <literal>convexes dilettanti drunkards upchuck journals bromidic surfiest invitational pervades butted aunts obit wimples clemencies tarsals nonoperative vigorish reconverted patentably explainable rewriting stickup seventeens applesauce untranslatable anesthesiologist disapprovingly biophysical torrents nectarines tapped clarion hyperborean conversed crowing conchs openmouthed magnetizable gambolled disintegrates rassles minifloppies brevetted wallpapering maculates nobodies realms rescuing provinces equivocalities malthus convexes demeanor excited inconvertibilities deflation auscultate spectroscopical ichthyic dandelions gilts dislodge reveilles adaptions winced erased fashionableness fertilities scrabbled belittlement nulls dipsticks retransmit cravenness upboiling soldering starching hiddenly impressionable unpinning wingless conformist outplaying subsidizable sequentially reconditely lusciously obovate trackages veepees chasms motorboats bassy emulsive chaconnes supersaturation pudgy cashing informational deacidified lode detours hermitry roentgenographic confiscating</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>repressiveness fortification</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>nebulously garrets abnormally corrigibility chariest optional distrusted febrifuges anticlimactic eructating crossbreeds frocks palmettoes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>spotlessly reflower syphiloid unsnapping impuissance</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>growled bicorn feists moult mules mischarges forkless</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">78</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1774</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>dependance adaptations mux solicitress</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soldierly pizazz uncelebrated fretted electricity illegality hazed saddening antiquely</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1303</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ramps firkin</literal>
+      </binding>
+      <binding name="comment">
+        <literal>convexes dilettanti drunkards upchuck journals bromidic surfiest invitational pervades butted aunts obit wimples clemencies tarsals nonoperative vigorish reconverted patentably explainable rewriting stickup seventeens applesauce untranslatable anesthesiologist disapprovingly biophysical torrents nectarines tapped clarion hyperborean conversed crowing conchs openmouthed magnetizable gambolled disintegrates rassles minifloppies brevetted wallpapering maculates nobodies realms rescuing provinces equivocalities malthus convexes demeanor excited inconvertibilities deflation auscultate spectroscopical ichthyic dandelions gilts dislodge reveilles adaptions winced erased fashionableness fertilities scrabbled belittlement nulls dipsticks retransmit cravenness upboiling soldering starching hiddenly impressionable unpinning wingless conformist outplaying subsidizable sequentially reconditely lusciously obovate trackages veepees chasms motorboats bassy emulsive chaconnes supersaturation pudgy cashing informational deacidified lode detours hermitry roentgenographic confiscating</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>failed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>nebulously garrets abnormally corrigibility chariest optional distrusted febrifuges anticlimactic eructating crossbreeds frocks palmettoes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>spotlessly reflower syphiloid unsnapping impuissance</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>growled bicorn feists moult mules mischarges forkless</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">78</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1774</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>dependance adaptations mux solicitress</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soldierly pizazz uncelebrated fretted electricity illegality hazed saddening antiquely</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1303</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ramps firkin</literal>
+      </binding>
+      <binding name="comment">
+        <literal>convexes dilettanti drunkards upchuck journals bromidic surfiest invitational pervades butted aunts obit wimples clemencies tarsals nonoperative vigorish reconverted patentably explainable rewriting stickup seventeens applesauce untranslatable anesthesiologist disapprovingly biophysical torrents nectarines tapped clarion hyperborean conversed crowing conchs openmouthed magnetizable gambolled disintegrates rassles minifloppies brevetted wallpapering maculates nobodies realms rescuing provinces equivocalities malthus convexes demeanor excited inconvertibilities deflation auscultate spectroscopical ichthyic dandelions gilts dislodge reveilles adaptions winced erased fashionableness fertilities scrabbled belittlement nulls dipsticks retransmit cravenness upboiling soldering starching hiddenly impressionable unpinning wingless conformist outplaying subsidizable sequentially reconditely lusciously obovate trackages veepees chasms motorboats bassy emulsive chaconnes supersaturation pudgy cashing informational deacidified lode detours hermitry roentgenographic confiscating</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>aliter</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>nebulously garrets abnormally corrigibility chariest optional distrusted febrifuges anticlimactic eructating crossbreeds frocks palmettoes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>spotlessly reflower syphiloid unsnapping impuissance</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>growled bicorn feists moult mules mischarges forkless</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">78</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1774</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>dependance adaptations mux solicitress</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soldierly pizazz uncelebrated fretted electricity illegality hazed saddening antiquely</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1303</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

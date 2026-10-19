@@ -1,0 +1,472 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="productLabel"/>
+    <variable name="offer"/>
+    <variable name="price"/>
+    <variable name="vendor"/>
+    <variable name="vendorTitle"/>
+    <variable name="review"/>
+    <variable name="revTitle"/>
+    <variable name="reviewer"/>
+    <variable name="revName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+  </head>
+  <results>
+    <result>
+      <binding name="productLabel">
+        <literal>manhoods inoculations inlander</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer64808</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">185.53</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review4723</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>prevue gothicize hulas peter</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer234</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Raktavira</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>manhoods inoculations inlander</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer64808</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">185.53</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review5049</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>exsert brownies hangaring verite pajama flavours vacuums foragers schillings</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer248</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Seiesnsui-Nakheel</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>manhoods inoculations inlander</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer64808</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">185.53</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6013</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>untidiest blinded vigilantly shelviest golliwogs modifies banditry keester debuts indemnities historiographer tungstens ceils</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer291</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Osana-Laomedon</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>manhoods inoculations inlander</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer64808</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">185.53</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8153</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>hafting roadwork crybabies bumps osculation horologes toxemias submachine pickerels oscillometric yielding rideable beachheads starlets</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer404</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Mathew-Tyricha</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>manhoods inoculations inlander</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer64808</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">185.53</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Review12957</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>bucked merchantries tourisms carollers</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer659</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Elishama-Ekiken</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>manhoods inoculations inlander</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer64808</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">185.53</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Review13143</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>coadmit purisms sandwiched elbowroom barmy feater drumsticks kampuchea renegers</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer667</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Muza-Nando</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>manhoods inoculations inlander</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer64808</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">185.53</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Review13680</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>signboards imitating jargoned maracas crumpets papain vagrancies</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer693</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Tuma</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>manhoods inoculations inlander</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer64808</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">185.53</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Review18148</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>buffo schizoids cameroon victualed octaval conservatively stapled polemicists preconcessions</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer923</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ingalill-Daisuke</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>manhoods inoculations inlander</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer64808</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">185.53</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Review28502</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>lopping escalloping shuddered ricocheting musher payback acne factitiousness uneconomical swimmily contestee reelecting</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1452</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Takanori-Cosme</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>manhoods inoculations inlander</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer64808</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">185.53</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Review37925</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>huguenot fiscally determinants doughtily monocotyledons booklore laciness</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1936</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Zelpha-Khvalibud</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>manhoods inoculations inlander</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer64808</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">185.53</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Review39578</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>unhooded aeronaut tenpences disproving bawlers</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2016</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Clea-Eudocia</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>manhoods inoculations inlander</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer64808</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">185.53</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Review39870</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>phalaropes solarizing directorship overassured inkles twiddled</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2032</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Zeruah-Fni</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>manhoods inoculations inlander</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer64808</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">185.53</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Review46318</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>satanophobia mahonia druidess diurnally procreative intrusted grainiest exiling assignment toxify</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2362</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Latreece</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>manhoods inoculations inlander</literal>
+      </binding>
+      <binding name="offer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Offer64808</uri>
+      </binding>
+      <binding name="price">
+        <literal datatype="http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/USD">185.53</literal>
+      </binding>
+      <binding name="vendor">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromVendor35/Vendor35</uri>
+      </binding>
+      <binding name="vendorTitle">
+        <literal>shucking</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Review49190</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>skywriting eaux goliaths girders amucks</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2511</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Yoshinori</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

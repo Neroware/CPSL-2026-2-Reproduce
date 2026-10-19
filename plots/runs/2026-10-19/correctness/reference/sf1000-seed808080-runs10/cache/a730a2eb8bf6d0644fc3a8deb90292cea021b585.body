@@ -1,0 +1,779 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>concretes beknighted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scalawags</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>widdle oozing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tincturing filterability</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>whitings</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dimmable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>conservators flivver merer</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pomades swells</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>snagged deliquescence</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>resoluteness multilingual</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pilafs toadfish</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>breeds dangs</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tailpiece overplayed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>japed offending orthopedics</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>anthills processional</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unships</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>robbed ads unflappability</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>wields</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>retry juxta</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>thrivers</literal>
+      </binding>
+      <binding name="comment">
+        <literal>calluses flexibility clangor integrations documents ravenings russians efferents reprint refuters peewits entailing provability nooks cunnilinguism nills contemporaneously wildwoods froggier bowfins seaports malignantly westernizes whirlier stethoscopes scabrously citizenship ozones kneeling hornlike overnice cuspidors vindication smugger irritability poufs subterraneously undiscernible speakings jardiniere unhinges philomel horas tarriest megadeaths reenforced encasing moralist chortlers piddler eulogize irreversibly reaccustomed cannibalized scalded slinky eagerer perfectability overachieving debiting falchion jibbers subcultures reform</literal>
+      </binding>
+      <binding name="producer">
+        <literal>antisubmarine</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>winsomer</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>derogated jadedness housings alleviators freezers shinney comities</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>earners obscurers farcing dingier interurban purplest philtres leos cassino frontlets calypsoes</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>emulsive necrophile snootily preconsultations leukemoid crimpy monseigneur parafoil tokened acquiesence slobbered acrobatically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1338</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">244</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>urbanists imperatively curetted tamales garnisheeing parities containership stultifying triples catholics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>unscholarly sousing biodynamics chancier whippers forfends chanted impreciseness shambling blitzkriegs screenings yuletide</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">219</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

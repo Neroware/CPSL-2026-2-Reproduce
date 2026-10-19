@@ -1,0 +1,393 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="productLabel"/>
+    <variable name="offer"/>
+    <variable name="price"/>
+    <variable name="vendor"/>
+    <variable name="vendorTitle"/>
+    <variable name="review"/>
+    <variable name="revTitle"/>
+    <variable name="reviewer"/>
+    <variable name="revName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+  </head>
+  <results>
+    <result>
+      <binding name="productLabel">
+        <literal>venezuelan heftily cognoscente</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review292</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>etched scandia juking exospheric northwestwardly alignment</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer16</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Viviane-Stephano</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>venezuelan heftily cognoscente</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review722</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>separation tovarishes ornamenting spokeswomen prewarm chorussed</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer37</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Sepat-Jelizaveta</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>venezuelan heftily cognoscente</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review937</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>spearfish tomtit voidance begrimmed</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer47</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Gebharde-Yumako</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>venezuelan heftily cognoscente</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review963</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>combustibly flutiest pokiness programed cattish hoarding filchers habilitation warmakers miscast</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer49</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Patrice-Aristea</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>venezuelan heftily cognoscente</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review1407</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>assumedly nonusers lewdest stumpiest seizins officiously clockers confirms magnetometer cubical uncool dolesome neurologies rescues</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer70</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Waseef-Damen</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>venezuelan heftily cognoscente</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review2351</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>bouts packthread inhabitress minimize</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer117</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Prebrana-Yayang</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>venezuelan heftily cognoscente</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review3120</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>hurtles singulars wadis therapeutically</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer154</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Salbatore-Israa</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>venezuelan heftily cognoscente</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review4271</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>conditions plates zoopathology limpness parathion overbaked retrogradely tulles avifauna brisling valvules pouffes assembly tetragons reaped</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer210</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Satomi-Shahaada</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>venezuelan heftily cognoscente</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review4641</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>disproportional traced quieta untired informalities stripped clairvoyance peaceably censored</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer229</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Gregg</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>venezuelan heftily cognoscente</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review5611</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>plunked nonabstainer nauseates recall tertians slipped voidable shrivelled disorganizes hazed newels snot sundae nervation</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer274</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Zaitoona-Mona</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>venezuelan heftily cognoscente</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6224</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>cookies reattempts colonialists middlebrows lopsidedness wiring cardinalate letups burgers gastroenterology fetcher shoulders footers</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer303</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Dakota-Dewey</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>venezuelan heftily cognoscente</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6390</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>stalinists preempting lithographic onanist</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer311</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Fiammetta-Phylo</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>venezuelan heftily cognoscente</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6426</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>liveliest undischarged nonstaining bicentennials postulates subcommittee unenforceable maydays vegans besmile nub intelligibility shelling crabgrass semicomatose</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer313</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Hulda-Brac</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>venezuelan heftily cognoscente</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6865</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>oxidizers gymnastics pealed farthingale negations compartments nabobery subordinately siltier crepier paralyze</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer337</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Afal-Lisebo</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>venezuelan heftily cognoscente</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6985</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>premixes burnoose reft standout</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer343</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Audra-Sonja</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>venezuelan heftily cognoscente</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8121</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>frazzles undesirability piteously desolating simplexes saltest resistantly communicably eyespots wirehairs secularism nonflammable traversed fantasm</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer402</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Cristine-Ericka</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>venezuelan heftily cognoscente</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8614</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>legibleness tilters joineries derailments screamer spurrers pauses</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer429</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Dantae</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>venezuelan heftily cognoscente</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8739</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>junctures resectabilities pharmacopoeias retranslating quarries conniver ambiverts burglarizing gyrates germfree tackles brightness osteitic beakier luxuriates</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer437</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Electra-Dietgard</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

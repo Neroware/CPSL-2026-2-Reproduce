@@ -1,0 +1,628 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>biographies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>maxillae bootstraps vies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lightest subcivilizations queerest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pleasantries steamering nouveaux</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>glaceed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nourishes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gladding generates nonmeasurable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>physiologist rearguing coccygeal</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dagobas</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>crawdad viridians</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>busted twins whoring</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>retractable buckaroos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>defamed preponderating worriment</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>reverberates</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>crystals encyclopedically pyrenes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>farmed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>subcompacts astragals</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>resituates smocking athenaeums</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>rehinge standings buenas</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>kevils larrups gradating</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>maiming mouldy</literal>
+      </binding>
+      <binding name="comment">
+        <literal>retransmissions oilseeds pinoles gawkier taller benefices ridded langsynes leveling grounds incubator antidepressive bedevilling crappiness recon finality interferometries babu torchier ideomotor insisting pulverize thorp scarifier undeceiving varlets unabridged noisiest bespread retrogressed jiber specialer vignettist misdo relaunders machismos echeloned recaning dilatoriness sulfurs painfuller arete whipcords salivates formalistic camouflaged venerating kaleidoscopically birthrights tranquilized livelily moisturizes lifelikeness topwork establishable polemicists gleefully withholds sheller trillers duplicator refiles someways lonely nonsporting trophies outputted excitability vociferated postconvalescent decapitating stenciling lilting reeved engross statutorily suboxides polyesters toed unicyclist verticalness enneagons inversive insolence drudger campers foulings misericordia granting habitants magnifico imploration prevailingly aridities filius diametrically unlovelier understates interlunar moonshiner rioting abluted aphorize stalely resisters abeyancy grazed sonde banged cussword execs haftorah forays</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>beauish</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>filches grievously encoded schlemiels misinterpretations</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>humours bugled preciosities adytum associated etherified prepared agglutinates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>chuckhole propagational jinn embargoing saunters separatists airfares vealy phonal silverfishes ptarmigans signorine meliorations</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">609</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">511</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

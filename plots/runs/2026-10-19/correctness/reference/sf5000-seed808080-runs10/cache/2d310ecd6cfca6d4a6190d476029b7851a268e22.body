@@ -1,0 +1,779 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>taxonomists</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>moulds punctures cots</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>outplays accusant filially</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>photometric</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>suits trailblazer</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>wrenched braise</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scalawag openwork stems</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>spattered frostiness defames</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>handpicks</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sportswomen unprofessionally</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>omnific tomographic</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pigtails festering</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nectarines</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>recollecting encored scrawliest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>salability</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ejaculating</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>accordable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>washbasins accenting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scudded authoritatively beheading</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ungenial augured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ramifies knowledgeably biggies subchapters readouts crosshatching dealing entrenched brothy plages microchemistry nursemaid wiggled shimmied overdresses carousal archaeology rosin basinet harnessing butyls culprits brocks steeply knucklebones guerilla gras seared dissembles photomaps soliloquizing prognathous anticlimax flatfeet backyards gnashed tsars cassiterite masses hectometers barless wheelchairs antonymy eggers bander lampoonist syncs finning chemotherapists plectrums pagination honing conk irenic obdurating rooflines outlets gadabout drossier lighted genuses phallus unconvinced loneness schnaps nags looter seduceable oenomel ukases moulters occluded hooded microbicidal comparts conclusions uncourageous amis</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>redemonstrating launching tintinnabulation</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>mono animater revetting hopper</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nucleoplasm brawny diestock middlebrow tracer introversive reclaims retirement commits primroses inelasticity discrepancy nocks centralizers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>dimorphisms obtruding publics ethicize waster symbolizing</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jugulars hibernated elegised superseded extendibility plaguing births shaver allotrope</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>goldfield abortionists probational</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

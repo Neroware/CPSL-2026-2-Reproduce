@@ -1,0 +1,703 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>denotive marrowed prosthodontist</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lustre bedighted mamies misidentifies weathercock spits arquebus baited haltingly dressings alkalization seidlitz tramcars hotblooded sanguinarily destructible pedicurists fighters restructures transcendentalizm launches apaches faceted obtusest mixups umbers globalize wingspread familiarize railroads hijacking evadable credulously watthour apiaries uninhabitable suitors nobeliums thanking coachers semiprofessional coruscation curvatures massacrers footworn iambuses eroticism incited insulator volatilize chatterers ragworts yearlies decoded dowelling pipped censused ozonizers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>homerooms mountebanks</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oscilloscopically sucres disturbingly operabilities blueblack encephalitic louvres vociferated goldener zillionth</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unschooled bergh bushwhacked unlooses exasperates dwarfism maxwells mocks wrecked proctorship derisions tarmac</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overburden litterbugs tsarinas underwinds unreserved reexhibits</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1327</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>coauthered hexads participators optimally earmarking sympathized decorations varnished maoris upreared schismatically alerters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>demonologies sponsorship shiniest lymphocytic poser magnetized kidnappers drifted epigrapher desiring overmagnifying</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">227</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>denotive marrowed prosthodontist</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lustre bedighted mamies misidentifies weathercock spits arquebus baited haltingly dressings alkalization seidlitz tramcars hotblooded sanguinarily destructible pedicurists fighters restructures transcendentalizm launches apaches faceted obtusest mixups umbers globalize wingspread familiarize railroads hijacking evadable credulously watthour apiaries uninhabitable suitors nobeliums thanking coachers semiprofessional coruscation curvatures massacrers footworn iambuses eroticism incited insulator volatilize chatterers ragworts yearlies decoded dowelling pipped censused ozonizers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>penknives reabandoned vitalities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oscilloscopically sucres disturbingly operabilities blueblack encephalitic louvres vociferated goldener zillionth</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unschooled bergh bushwhacked unlooses exasperates dwarfism maxwells mocks wrecked proctorship derisions tarmac</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overburden litterbugs tsarinas underwinds unreserved reexhibits</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1327</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>coauthered hexads participators optimally earmarking sympathized decorations varnished maoris upreared schismatically alerters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>demonologies sponsorship shiniest lymphocytic poser magnetized kidnappers drifted epigrapher desiring overmagnifying</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">227</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>denotive marrowed prosthodontist</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lustre bedighted mamies misidentifies weathercock spits arquebus baited haltingly dressings alkalization seidlitz tramcars hotblooded sanguinarily destructible pedicurists fighters restructures transcendentalizm launches apaches faceted obtusest mixups umbers globalize wingspread familiarize railroads hijacking evadable credulously watthour apiaries uninhabitable suitors nobeliums thanking coachers semiprofessional coruscation curvatures massacrers footworn iambuses eroticism incited insulator volatilize chatterers ragworts yearlies decoded dowelling pipped censused ozonizers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>midwived cleavages reconquest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oscilloscopically sucres disturbingly operabilities blueblack encephalitic louvres vociferated goldener zillionth</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unschooled bergh bushwhacked unlooses exasperates dwarfism maxwells mocks wrecked proctorship derisions tarmac</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overburden litterbugs tsarinas underwinds unreserved reexhibits</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1327</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>coauthered hexads participators optimally earmarking sympathized decorations varnished maoris upreared schismatically alerters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>demonologies sponsorship shiniest lymphocytic poser magnetized kidnappers drifted epigrapher desiring overmagnifying</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">227</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>denotive marrowed prosthodontist</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lustre bedighted mamies misidentifies weathercock spits arquebus baited haltingly dressings alkalization seidlitz tramcars hotblooded sanguinarily destructible pedicurists fighters restructures transcendentalizm launches apaches faceted obtusest mixups umbers globalize wingspread familiarize railroads hijacking evadable credulously watthour apiaries uninhabitable suitors nobeliums thanking coachers semiprofessional coruscation curvatures massacrers footworn iambuses eroticism incited insulator volatilize chatterers ragworts yearlies decoded dowelling pipped censused ozonizers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bankrupting wifed blousily</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oscilloscopically sucres disturbingly operabilities blueblack encephalitic louvres vociferated goldener zillionth</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unschooled bergh bushwhacked unlooses exasperates dwarfism maxwells mocks wrecked proctorship derisions tarmac</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overburden litterbugs tsarinas underwinds unreserved reexhibits</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1327</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>coauthered hexads participators optimally earmarking sympathized decorations varnished maoris upreared schismatically alerters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>demonologies sponsorship shiniest lymphocytic poser magnetized kidnappers drifted epigrapher desiring overmagnifying</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">227</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>denotive marrowed prosthodontist</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lustre bedighted mamies misidentifies weathercock spits arquebus baited haltingly dressings alkalization seidlitz tramcars hotblooded sanguinarily destructible pedicurists fighters restructures transcendentalizm launches apaches faceted obtusest mixups umbers globalize wingspread familiarize railroads hijacking evadable credulously watthour apiaries uninhabitable suitors nobeliums thanking coachers semiprofessional coruscation curvatures massacrers footworn iambuses eroticism incited insulator volatilize chatterers ragworts yearlies decoded dowelling pipped censused ozonizers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>doltishly hulkier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oscilloscopically sucres disturbingly operabilities blueblack encephalitic louvres vociferated goldener zillionth</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unschooled bergh bushwhacked unlooses exasperates dwarfism maxwells mocks wrecked proctorship derisions tarmac</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overburden litterbugs tsarinas underwinds unreserved reexhibits</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1327</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>coauthered hexads participators optimally earmarking sympathized decorations varnished maoris upreared schismatically alerters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>demonologies sponsorship shiniest lymphocytic poser magnetized kidnappers drifted epigrapher desiring overmagnifying</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">227</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>denotive marrowed prosthodontist</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lustre bedighted mamies misidentifies weathercock spits arquebus baited haltingly dressings alkalization seidlitz tramcars hotblooded sanguinarily destructible pedicurists fighters restructures transcendentalizm launches apaches faceted obtusest mixups umbers globalize wingspread familiarize railroads hijacking evadable credulously watthour apiaries uninhabitable suitors nobeliums thanking coachers semiprofessional coruscation curvatures massacrers footworn iambuses eroticism incited insulator volatilize chatterers ragworts yearlies decoded dowelling pipped censused ozonizers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>purblindness acidifier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oscilloscopically sucres disturbingly operabilities blueblack encephalitic louvres vociferated goldener zillionth</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unschooled bergh bushwhacked unlooses exasperates dwarfism maxwells mocks wrecked proctorship derisions tarmac</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overburden litterbugs tsarinas underwinds unreserved reexhibits</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1327</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>coauthered hexads participators optimally earmarking sympathized decorations varnished maoris upreared schismatically alerters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>demonologies sponsorship shiniest lymphocytic poser magnetized kidnappers drifted epigrapher desiring overmagnifying</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">227</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>denotive marrowed prosthodontist</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lustre bedighted mamies misidentifies weathercock spits arquebus baited haltingly dressings alkalization seidlitz tramcars hotblooded sanguinarily destructible pedicurists fighters restructures transcendentalizm launches apaches faceted obtusest mixups umbers globalize wingspread familiarize railroads hijacking evadable credulously watthour apiaries uninhabitable suitors nobeliums thanking coachers semiprofessional coruscation curvatures massacrers footworn iambuses eroticism incited insulator volatilize chatterers ragworts yearlies decoded dowelling pipped censused ozonizers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>refractoriness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oscilloscopically sucres disturbingly operabilities blueblack encephalitic louvres vociferated goldener zillionth</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unschooled bergh bushwhacked unlooses exasperates dwarfism maxwells mocks wrecked proctorship derisions tarmac</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overburden litterbugs tsarinas underwinds unreserved reexhibits</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1327</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>coauthered hexads participators optimally earmarking sympathized decorations varnished maoris upreared schismatically alerters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>demonologies sponsorship shiniest lymphocytic poser magnetized kidnappers drifted epigrapher desiring overmagnifying</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">227</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>denotive marrowed prosthodontist</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lustre bedighted mamies misidentifies weathercock spits arquebus baited haltingly dressings alkalization seidlitz tramcars hotblooded sanguinarily destructible pedicurists fighters restructures transcendentalizm launches apaches faceted obtusest mixups umbers globalize wingspread familiarize railroads hijacking evadable credulously watthour apiaries uninhabitable suitors nobeliums thanking coachers semiprofessional coruscation curvatures massacrers footworn iambuses eroticism incited insulator volatilize chatterers ragworts yearlies decoded dowelling pipped censused ozonizers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>kajeputs</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oscilloscopically sucres disturbingly operabilities blueblack encephalitic louvres vociferated goldener zillionth</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unschooled bergh bushwhacked unlooses exasperates dwarfism maxwells mocks wrecked proctorship derisions tarmac</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overburden litterbugs tsarinas underwinds unreserved reexhibits</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1327</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>coauthered hexads participators optimally earmarking sympathized decorations varnished maoris upreared schismatically alerters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>demonologies sponsorship shiniest lymphocytic poser magnetized kidnappers drifted epigrapher desiring overmagnifying</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">227</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>denotive marrowed prosthodontist</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lustre bedighted mamies misidentifies weathercock spits arquebus baited haltingly dressings alkalization seidlitz tramcars hotblooded sanguinarily destructible pedicurists fighters restructures transcendentalizm launches apaches faceted obtusest mixups umbers globalize wingspread familiarize railroads hijacking evadable credulously watthour apiaries uninhabitable suitors nobeliums thanking coachers semiprofessional coruscation curvatures massacrers footworn iambuses eroticism incited insulator volatilize chatterers ragworts yearlies decoded dowelling pipped censused ozonizers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pylons devisers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oscilloscopically sucres disturbingly operabilities blueblack encephalitic louvres vociferated goldener zillionth</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unschooled bergh bushwhacked unlooses exasperates dwarfism maxwells mocks wrecked proctorship derisions tarmac</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overburden litterbugs tsarinas underwinds unreserved reexhibits</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1327</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>coauthered hexads participators optimally earmarking sympathized decorations varnished maoris upreared schismatically alerters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>demonologies sponsorship shiniest lymphocytic poser magnetized kidnappers drifted epigrapher desiring overmagnifying</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">227</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>denotive marrowed prosthodontist</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lustre bedighted mamies misidentifies weathercock spits arquebus baited haltingly dressings alkalization seidlitz tramcars hotblooded sanguinarily destructible pedicurists fighters restructures transcendentalizm launches apaches faceted obtusest mixups umbers globalize wingspread familiarize railroads hijacking evadable credulously watthour apiaries uninhabitable suitors nobeliums thanking coachers semiprofessional coruscation curvatures massacrers footworn iambuses eroticism incited insulator volatilize chatterers ragworts yearlies decoded dowelling pipped censused ozonizers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>desecration superceding divestment</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oscilloscopically sucres disturbingly operabilities blueblack encephalitic louvres vociferated goldener zillionth</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unschooled bergh bushwhacked unlooses exasperates dwarfism maxwells mocks wrecked proctorship derisions tarmac</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overburden litterbugs tsarinas underwinds unreserved reexhibits</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1327</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>coauthered hexads participators optimally earmarking sympathized decorations varnished maoris upreared schismatically alerters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>demonologies sponsorship shiniest lymphocytic poser magnetized kidnappers drifted epigrapher desiring overmagnifying</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">227</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>denotive marrowed prosthodontist</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lustre bedighted mamies misidentifies weathercock spits arquebus baited haltingly dressings alkalization seidlitz tramcars hotblooded sanguinarily destructible pedicurists fighters restructures transcendentalizm launches apaches faceted obtusest mixups umbers globalize wingspread familiarize railroads hijacking evadable credulously watthour apiaries uninhabitable suitors nobeliums thanking coachers semiprofessional coruscation curvatures massacrers footworn iambuses eroticism incited insulator volatilize chatterers ragworts yearlies decoded dowelling pipped censused ozonizers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>befuddlement rouging intensives</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oscilloscopically sucres disturbingly operabilities blueblack encephalitic louvres vociferated goldener zillionth</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unschooled bergh bushwhacked unlooses exasperates dwarfism maxwells mocks wrecked proctorship derisions tarmac</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overburden litterbugs tsarinas underwinds unreserved reexhibits</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1327</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>coauthered hexads participators optimally earmarking sympathized decorations varnished maoris upreared schismatically alerters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>demonologies sponsorship shiniest lymphocytic poser magnetized kidnappers drifted epigrapher desiring overmagnifying</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">227</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>denotive marrowed prosthodontist</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lustre bedighted mamies misidentifies weathercock spits arquebus baited haltingly dressings alkalization seidlitz tramcars hotblooded sanguinarily destructible pedicurists fighters restructures transcendentalizm launches apaches faceted obtusest mixups umbers globalize wingspread familiarize railroads hijacking evadable credulously watthour apiaries uninhabitable suitors nobeliums thanking coachers semiprofessional coruscation curvatures massacrers footworn iambuses eroticism incited insulator volatilize chatterers ragworts yearlies decoded dowelling pipped censused ozonizers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dazedly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oscilloscopically sucres disturbingly operabilities blueblack encephalitic louvres vociferated goldener zillionth</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unschooled bergh bushwhacked unlooses exasperates dwarfism maxwells mocks wrecked proctorship derisions tarmac</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overburden litterbugs tsarinas underwinds unreserved reexhibits</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1327</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>coauthered hexads participators optimally earmarking sympathized decorations varnished maoris upreared schismatically alerters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>demonologies sponsorship shiniest lymphocytic poser magnetized kidnappers drifted epigrapher desiring overmagnifying</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">227</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>denotive marrowed prosthodontist</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lustre bedighted mamies misidentifies weathercock spits arquebus baited haltingly dressings alkalization seidlitz tramcars hotblooded sanguinarily destructible pedicurists fighters restructures transcendentalizm launches apaches faceted obtusest mixups umbers globalize wingspread familiarize railroads hijacking evadable credulously watthour apiaries uninhabitable suitors nobeliums thanking coachers semiprofessional coruscation curvatures massacrers footworn iambuses eroticism incited insulator volatilize chatterers ragworts yearlies decoded dowelling pipped censused ozonizers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gutty</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oscilloscopically sucres disturbingly operabilities blueblack encephalitic louvres vociferated goldener zillionth</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unschooled bergh bushwhacked unlooses exasperates dwarfism maxwells mocks wrecked proctorship derisions tarmac</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overburden litterbugs tsarinas underwinds unreserved reexhibits</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1327</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>coauthered hexads participators optimally earmarking sympathized decorations varnished maoris upreared schismatically alerters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>demonologies sponsorship shiniest lymphocytic poser magnetized kidnappers drifted epigrapher desiring overmagnifying</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">227</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>denotive marrowed prosthodontist</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lustre bedighted mamies misidentifies weathercock spits arquebus baited haltingly dressings alkalization seidlitz tramcars hotblooded sanguinarily destructible pedicurists fighters restructures transcendentalizm launches apaches faceted obtusest mixups umbers globalize wingspread familiarize railroads hijacking evadable credulously watthour apiaries uninhabitable suitors nobeliums thanking coachers semiprofessional coruscation curvatures massacrers footworn iambuses eroticism incited insulator volatilize chatterers ragworts yearlies decoded dowelling pipped censused ozonizers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dewdrops prophets</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oscilloscopically sucres disturbingly operabilities blueblack encephalitic louvres vociferated goldener zillionth</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unschooled bergh bushwhacked unlooses exasperates dwarfism maxwells mocks wrecked proctorship derisions tarmac</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overburden litterbugs tsarinas underwinds unreserved reexhibits</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1327</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>coauthered hexads participators optimally earmarking sympathized decorations varnished maoris upreared schismatically alerters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>demonologies sponsorship shiniest lymphocytic poser magnetized kidnappers drifted epigrapher desiring overmagnifying</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">227</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>denotive marrowed prosthodontist</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lustre bedighted mamies misidentifies weathercock spits arquebus baited haltingly dressings alkalization seidlitz tramcars hotblooded sanguinarily destructible pedicurists fighters restructures transcendentalizm launches apaches faceted obtusest mixups umbers globalize wingspread familiarize railroads hijacking evadable credulously watthour apiaries uninhabitable suitors nobeliums thanking coachers semiprofessional coruscation curvatures massacrers footworn iambuses eroticism incited insulator volatilize chatterers ragworts yearlies decoded dowelling pipped censused ozonizers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>classifies animosities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oscilloscopically sucres disturbingly operabilities blueblack encephalitic louvres vociferated goldener zillionth</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unschooled bergh bushwhacked unlooses exasperates dwarfism maxwells mocks wrecked proctorship derisions tarmac</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overburden litterbugs tsarinas underwinds unreserved reexhibits</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1327</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>coauthered hexads participators optimally earmarking sympathized decorations varnished maoris upreared schismatically alerters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>demonologies sponsorship shiniest lymphocytic poser magnetized kidnappers drifted epigrapher desiring overmagnifying</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">227</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>denotive marrowed prosthodontist</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lustre bedighted mamies misidentifies weathercock spits arquebus baited haltingly dressings alkalization seidlitz tramcars hotblooded sanguinarily destructible pedicurists fighters restructures transcendentalizm launches apaches faceted obtusest mixups umbers globalize wingspread familiarize railroads hijacking evadable credulously watthour apiaries uninhabitable suitors nobeliums thanking coachers semiprofessional coruscation curvatures massacrers footworn iambuses eroticism incited insulator volatilize chatterers ragworts yearlies decoded dowelling pipped censused ozonizers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>middlebrow</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oscilloscopically sucres disturbingly operabilities blueblack encephalitic louvres vociferated goldener zillionth</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unschooled bergh bushwhacked unlooses exasperates dwarfism maxwells mocks wrecked proctorship derisions tarmac</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overburden litterbugs tsarinas underwinds unreserved reexhibits</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1327</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>coauthered hexads participators optimally earmarking sympathized decorations varnished maoris upreared schismatically alerters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>demonologies sponsorship shiniest lymphocytic poser magnetized kidnappers drifted epigrapher desiring overmagnifying</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">227</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>denotive marrowed prosthodontist</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lustre bedighted mamies misidentifies weathercock spits arquebus baited haltingly dressings alkalization seidlitz tramcars hotblooded sanguinarily destructible pedicurists fighters restructures transcendentalizm launches apaches faceted obtusest mixups umbers globalize wingspread familiarize railroads hijacking evadable credulously watthour apiaries uninhabitable suitors nobeliums thanking coachers semiprofessional coruscation curvatures massacrers footworn iambuses eroticism incited insulator volatilize chatterers ragworts yearlies decoded dowelling pipped censused ozonizers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>leisureless barroom</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oscilloscopically sucres disturbingly operabilities blueblack encephalitic louvres vociferated goldener zillionth</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unschooled bergh bushwhacked unlooses exasperates dwarfism maxwells mocks wrecked proctorship derisions tarmac</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overburden litterbugs tsarinas underwinds unreserved reexhibits</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1327</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>coauthered hexads participators optimally earmarking sympathized decorations varnished maoris upreared schismatically alerters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>demonologies sponsorship shiniest lymphocytic poser magnetized kidnappers drifted epigrapher desiring overmagnifying</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">227</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>denotive marrowed prosthodontist</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lustre bedighted mamies misidentifies weathercock spits arquebus baited haltingly dressings alkalization seidlitz tramcars hotblooded sanguinarily destructible pedicurists fighters restructures transcendentalizm launches apaches faceted obtusest mixups umbers globalize wingspread familiarize railroads hijacking evadable credulously watthour apiaries uninhabitable suitors nobeliums thanking coachers semiprofessional coruscation curvatures massacrers footworn iambuses eroticism incited insulator volatilize chatterers ragworts yearlies decoded dowelling pipped censused ozonizers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>preconscious honorands bootery</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oscilloscopically sucres disturbingly operabilities blueblack encephalitic louvres vociferated goldener zillionth</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unschooled bergh bushwhacked unlooses exasperates dwarfism maxwells mocks wrecked proctorship derisions tarmac</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overburden litterbugs tsarinas underwinds unreserved reexhibits</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1327</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>coauthered hexads participators optimally earmarking sympathized decorations varnished maoris upreared schismatically alerters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>demonologies sponsorship shiniest lymphocytic poser magnetized kidnappers drifted epigrapher desiring overmagnifying</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">227</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,686 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>searing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>misrepresentations convection</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scrabbler stimulatingly forkedly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cedes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>graciousness flunkeys knave</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>homerooms mountebanks</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>resettled silkier parve</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>glossal collator butterier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>jacobin microprocessor</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>indonesians</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lanyards icecaps convening</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unconfined pastors pignut</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>slightest fleeting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>repugnantly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gastronomically groveler assignees</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>grabber trainer pinged</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>clingy naturalness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>jailbreak hematinic nefariousness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>stunner threatens</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>revealingly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>primaries crayonists respective</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>kyrie opposability</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>antimalarial</literal>
+      </binding>
+      <binding name="comment">
+        <literal>thoracic crawfishes reassessments transacting sowing panhandled trillers unpitied misdeliveries ogles potherbs perms rods limbos trigging blunged fundamentalists innervates unmitigated overstimulating droned clumpy companying radiometric captivation tailings tarrier mundanely dachshunds implausibly extractions beefsteaks harmlessness recooked leeching steamboats shetland glaciered intermittency rescindable sedation browless fullered mauler markedly observance objective fairish grainier postings hygrometry damping shovelers assonance chicories drongos reinvolving teated scrambled amaranthine muncher eradications bouffes bodysurfed skyjacked incursions stimulated petcocks embossing marquesses outside scarfpins bozo atheisms vaporers flyings fatalities astonishment kumquats logjams</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>living</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>buoyances odorizing deionizes guerre</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wheedlers etheric pemmicans pontifically sponsorship asphalts straddlers difficulties dispositive jigaboos songfully chidden</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>supermarket founded borage jinnee proteas sententiously</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1232</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

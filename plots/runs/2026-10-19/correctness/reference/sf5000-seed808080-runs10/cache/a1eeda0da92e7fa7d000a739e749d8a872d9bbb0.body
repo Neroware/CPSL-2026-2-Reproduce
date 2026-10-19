@@ -1,0 +1,744 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>byroads newswoman advocatory</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>chillum quitclaim fetted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ideogram banterer spellbinds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>butted purring</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>generates</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nonmeasurable physiologist</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pillions</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>covenanting economies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dentine installment anytime</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>conservators</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cubing intomb</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>caribous clients</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>empyrean separately</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>vulgarizes asserter resoluteness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pilafs toadfish uncivil</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>powerplants idealizations amtrac</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hoarser accrued scows</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>foldable encysts manometries</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>latents</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>solidification durra</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>trainsickness recked weazand</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>encroaching richly climatological</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>noons beekeeper woodworms</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tantrums googols jennies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>caudillo</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sealery rearranges calamint hydration phaeton rebidding noninjuriously trammeled sanitarian timelessly hibernal celebrationis paddling clubber saddlecloth yodlers funker sinking medullar overworks mainly outcropping sequestrating trebles codeines bombings refills stabler ostinatos bigger chippewas objicient bankrupts chartered restores llama urinaries favorableness corroborator apatites moorages cheeking debutant secretaries overbalances insusceptibility clucks stalkers knouting decertifying enqueue protestantism palpus accommodator dotes grants oversizes slitted sanitizing baywood gloomier kinghoods dispending advisability persisted respectable miscarriages hermetically alaskans overfeed stranglers dimming gaged raising disgusting enunciated spaciously pickers reposed chanteuse cordials flits overprices lith dictated paradoxically spectacularly unrewarded cropped abolitionist hatful</literal>
+      </binding>
+      <binding name="producer">
+        <literal>shushes canaling</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>decameter</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>goboes fizz viably umbeled</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>parlayed chevied reexamining quadruplicates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>heirship analects corpses porose clarion combings beaker discoursing scarceness draggles encipherments lakeports preteen chooser overflown</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1531</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

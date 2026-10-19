@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="text"/>
+    <variable name="reviewDate"/>
+    <variable name="reviewer"/>
+    <variable name="reviewerName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+    <variable name="rating3"/>
+    <variable name="rating4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="title">
+        <literal>conductivities oppressing inexcusableness somnambulated escorts hardily</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">extols complications problematical reminded disaffiliations knelled comities caraways antirevolutionary reenlargement sleepiest murderee preemie crystallographers mandrels forestays hedonic knifers bugseeds tasseling facades hobbles balling hoist behaver expectable preventing mendelianism atomised quicks midrib pesetas essays manned odoriferous tables bouts sherif traffickers sinless franciscans perfunctorily corncakes rationalizations lbs lifeful leastwise enflamed scything rotter reemerged thunderstorms esquires sherifs mambos droughts kvetches deluged vuggy mackinaws slurring equipage rictus vaporise commentators mechanizer impureness relight misanthropes vigorish xvii fitness overexposes confusing elucidators coaters evacuated outguesses dockyards capeskin odorant lites tailpipe goodwills replicated sweepstakes lunkers crazier intermediatory inebrious ballers unsecured erectly attended skiwears manageably bachelorhood triticale mangers melter steadies fallibility thuggish cadaveric servomotor surpluses figged embitterments spaniels elfish osages slangiest wigwags malconstruction bedspreads motorbike taciturn tattering nonimmunity unguarded foreordains spectates nictitating pimpernel properly zyzzyva diluter shovelling phylactery chalcedonies saltshaker opulency immix communicators commercialist muds kudus cookshops hydrogenates unbeknown carcinomas transmuted</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-06-18T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer947</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Reshay-Filippo</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>anklebone elflocks unitize droves acquirement kindling blurted refueling sitzmarks anteing stuffier predestine airships amerindian</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">palettes hindered crowdy comeuppances bubblies mushroomed outguess yachtsmanship mismatch weighting molters bandages unsteadies impostures exobiologist snuffily piecrust nervier glares maenadism suets amontillado repacks hematoma scrappers suspends passway bloodletting multiplied wisecracks singhalese temperateness deflorations crudities absently metamers ledgeless pastinas bursters restocking doges irising nucleal exoduses mouths noncausal fellies undefinably hilled rebounded gadding reassembled gutlessness aspersors grimy enticements reawakenings philtre changes satinwoods drypoints cockamamie supported apprehensibly explicitly breaststrokes adjudging winnowers lawfully mothy propmistresses fibrillation disproportionate predominates snowbelt unemployment leadership restating</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-03-21T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer820</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Ladonne-Gavrila</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

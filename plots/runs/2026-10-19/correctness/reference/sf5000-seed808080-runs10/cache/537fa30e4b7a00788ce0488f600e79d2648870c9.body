@@ -1,0 +1,915 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inures overawed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>register</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scholarship</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hoopster torchiers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>babblings mise</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unperjured domiciled cuddies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>untried appose greatened</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>operas depicts andante</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>servings</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>monogram privateers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>functionally nameless paraffined</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>recency corpuscles unhandy</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>spined profiteered</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sacerdotally hagiography</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sibilating</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tex mousse</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>foretop rhumba lidar</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>solemnness remuneration cousinly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>presidencies overlapping</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>iamb</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>curvy blent blushing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>empoisoned ghettoes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>condemnor</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>threeping</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>accommodator</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>shotes liquefying sensational</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gipper unpens</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gringos beards</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tetracycline peignoirs metamorphisms connived temporizing mopeders thwarted craziness divulger impersonally reoccupy misbehavior bedizens nurser forefront pharmaceutics brownier breather barreled punchiest browser pled ministering mists intercalary blades princedom hierarch whipworm commonest resuscitation seizes telemetric fainest underskirt uncomprehendingly freaky photographing turnstiles shaggier opaquely puniness circularizations downstrokes numbskull papain spinally biennia caduceus griot heifers yappers objectives vibration woozier para despoliations incontestabilities undisciplinable repetitiveness revertible gnus honeybun fractions storefronts amphorae flooey shylocking gamings blossoming bireme decorously nosed vibrancy swigged straightedge metalled arbutuses apperceiving locator pavlovian scurvier manicuring biologically recontests veins uruguayan starkly haplessness centralist increased steadiest epigrammatist babuls ledges skewers chowed wenches unluckiest farinaceous encounters unassuming smiths tenantship racecourse blether undercharged precivilization seltzers endued troikas horning bended psychoquackeries ladylove nonvocational somberness guarders hodgepodges abatis midbrain</literal>
+      </binding>
+      <binding name="producer">
+        <literal>untangled gals overbore</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>streptobacillus</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>midribs illuminist fracturing narcissists unevenness glowers gripiest beasts toggery rammed verbalized shinleaf pedigrees concupiscent pilgrimages</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fossils pardoned mohammed noting conscripttion flexes dietetically manses visualizer tangles</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>discountenancing acknowledged estrangement directors defacing optionees junketed buttocks menially humpier decisiveness mugger milliners auctions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">938</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">101</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cooers rockiness vets intrusts foreshortening preblessed withholds stranding</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

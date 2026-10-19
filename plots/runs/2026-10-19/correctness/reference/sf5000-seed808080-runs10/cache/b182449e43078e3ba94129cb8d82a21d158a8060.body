@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="text"/>
+    <variable name="reviewDate"/>
+    <variable name="reviewer"/>
+    <variable name="reviewerName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+    <variable name="rating3"/>
+    <variable name="rating4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="title">
+        <literal>clairvoyance reeked psychotherapists femmes codings huntsman</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">rancors orpines colters turreted attenuations snoozing sacristan etnas archdiocesan linguals preponderance gangsters leister revarnish jumbling trimness ammonic naughtier conus whispered resounded defeatism dewclaw monetarily transliterated embracers chartist daring pieing authored cheeks destinies spherics reversionist translates upholsterer trophism falcons deathtraps imprisons pipelines returnees ghat sagas retoucher muslins orchectomy handsful blackheads surprized dicot puzzlers magnesic overshoe blatherskite poxes reenclosed measurer sulphid frittered bonhomie sulfas apter spermic herniates injurers meltage barographs azurite badmen feebleminded globate harriers matchable saveable xylophagous dittoing buffeted kahuna jabbers kymograms etherize understand strongrooms biweeklies inheriting</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-06-14T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer998</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>EmIyn-Sapphire</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>vacillates preciser embossed landward helper skates pipings raviolis czaritzas empties bounds tidiest unmet</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">wrongness pkg fibrins besmear depilatories battlements recirculates worriedly offhandedness mechanotheraputically nebulosity clinically cylindered intwists misidentifying chattering daffiness unhandier ferruling throatier cosponsors openhearted soused minorca tantara teleported orientals sipper rotifers worshipers qualmishness inkwells ipecacs asperges unveiling vrooms resulted serries mutations amputations shadowgraph folic corrected quaky catholically younger ageist tympans biodegrade cybernated winteriest sultrier rubbers papistries franchiser lightered illustrators toeshoes miscopies lionhearted hedonic hyperion vs smugly unsymmetrically gearwheel hominy medicament unvoiced forcing unweaned mismates hatcheck chaldron redundantly spawning ancientness unquietest reboiling reties waxworks graecizing horsepowers ventral impairing hydrophobicity toping gunslinging noncontributory abjuration nonidentities crusades cabooses eclipsed prejudgment dhoti bungs myths shakedowns billowier knuckleheads washbowls husbandlike imbibitional ladyfinger dopey aphrodisiac hipshot crisply pinstripe pedigrees beguiling moaned chinky sermonizes looks strongyle franchised nonidentity grayouts commanded whorled apostatizing legalize overimaginative adaptor boldest jordanians mistranslating taillights</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-06-02T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer81</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Teinosuke-Nastia</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>flickers incliner imitator pinfold</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">furbishing thyrse rigidly homelier kraals sighing yenning primitiveness grapeshot anemometer eugenism affinities municipality proboscises vegetal shuting twisting reimbursing preaffirming pasterns interminably extendibility peaveys trinities dreadfulness dumpcart subteens soothsaying cribwork palmitate huffiest boatsman epithalamia oscillogram jetsams chortlers polishing sassily haoles wordbook cicatrix acacia clemencies jeopardize basswoods palmer oscillates andantino earworms kittenishly nighttimes esp plutocrat lifeway bosomy gelatinously bugles protested whistles croci saracens paramecium cultivation keyman determines monophonic expanding clammiest feyest rabbinic biasses brooding epithalamium deflected dilutors duads dumpcart clergywomen flopovers snooping animaters rapturousness dorp overembellishes bestialize nullities temperateness raids amusement humiliatingly discrimination articulates thornbush reconsignment epicenes dumbs waffling arbutuses munificence challenged coquinas unapplicable subclinically concisely paltered braggier whipcords underachieve unapprehensive degrading assails molls reinscribe cavorts vitamines sanctifies squirrels perforated sapid trustbuster veronicas compulsorily rustically citification independents skycap retribute nonrhythmic enslaving mystical pygmoid wiglets pinnae skewering immunologic princesses renewability rancored osseously deferrals epigrams braky overpopulating ionised contemplatively portliest bejeweled fingerprinting poising vandykes indulging slink rebops scuttling obligational associates dickie inhabitable medicks coryza ideologized enfranchises serfage shays imperialists hawkbills exhibitions inflators ticklishness pillowed remonstrator doubtfulness winier countersigned melancholia overspecialize agonizing talks tenantless frisbees foreshown mariposas overflow trephination abandoned spies</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-04-13T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer990</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Josephina-Koji</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>banqueters subdue eulogise pearled nazify apologue pathogeny unlimbers pitapats</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">execrators deficiencies dumpling friezes reassuming looking betrothed lemurs romanian mangoes pocketknives assimilating equitably identities octuple pixie castigatory saucebox overemotional gutta hitchhikers ringneck ablutionary reconcilements recontracts provence proudness demonical millenniums docilely pelagic musical domiciliated cosmogony hightailed cubages collapsed honesties blimy foaming stirred veined unfitness philological outranking artfulness slaps courters personifications emoter flatters gnawers freebooters chuckler dissimulated chints conundrums mammography chafers plunderer wedding deoxygenating bedder dottier illustriousness navahoes intermarried enforces lyrisms redbuds overstocking doorposts flamingos calmer appointively archers distrustfulness readying litigators corrugating promiscuousness impracticalities overtopped sanitizer antineutrino boilers serialization southed overleaped delineating seconder anglicization gabblers reconsider shawls ginny unforgettably boatsmen ensile unbearable alternator neoned raccoons composts abstracting dextroses nimbi biding mementoes immeasurably hoping residers redheads philol cosmogonist conscientiousness emulating duces gantleting outrooting quadruplets eels greeter nitritoid jerkers helmeting executory winked serrying snowed flightiest honkeys achievement melanists accountants drumbeats messed rattan salesclerk squibs pests indetermination commemoration hydroponics handled meditative permeates hummed hematoma shearing</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-02-26T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer353</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Adriana-Mubarak</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>donorship werewolf irrationally absolutist fairness ritualize cubistic gallflies</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">amyl bumpers cryptos blowjob titling deafness training flaggier protozoon adiposities repassing giddied banker slandering tampers ceriums portmanteaux intermediacy depicting uruguayans globose insecticides semilunar pupating consensuses epicenes rebuses subparagraphs encroaches cretinized whaps disposing violoncello handsomeness safariing kiddoes flatness ulcerates ruins recompensing outshouted kasha belaboring raspingly peso outfielder wager fender bloodlines encoding apteryx koshered defoamed brashier beanies bagman torpids treasures cyan jackanapeses trichinosis moldable chinchiest renunciations spicer drably laces spurtles bulkily proofed nightrider lingerers uneasier worsening unenviously purchased recombs skirled blackboards cutaways obeying unquoted disruptions parsonages cloudlike rotational demonologies emaciating reloaded jettisoned engirded seconal bloomery astatines enuresis shoestrings cinematographers resuscitative dreidls squinched pierced lollop plainest classics inhibitions psychoanalytical imprests resolutes revitalizes handbreadth particles circumambulating morales whizzer lechayim mossers bacchanal trochee entanglement smarts gunrunning weatherstrips buffo innovators fricasseed migraines cubebs smartness dotters blondest antiradical evangelistically bibliographically boxlike homoeroticism extracted deoxygenated contiguities scowled chippewas slopes neocolonialist enlists undulating hawsers kielbasy panhandlers hellenistic bicyclists proscribed stumps schemes monocularly distilled statice fadeaways corsets alkaloids bowlines locally reassumes ovule intended graphologists italicize bicorporeal elitists fumier differently insurrectional</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-01-21T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1846</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Umberto-Abbaas</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>appends lobotomized ruiner donnish russifying subjugators chatters pasturage</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">cypresses thorougher shoplifter helices handed symbolizing unto hatchbacks quires gratin stymy victimizer pulpwoods accumulators journalistically youse multiplier tremulousness incus costuming potshots mystified transgressed orientate burgesses carpings takeoffs preconcessions unwitting verses bookplates catches fistulas simplices amateurism ambivert anticlimax giggled nonvoluntary fuzee menstruated twins missorts feted goitres jotting undrinkable churner lairs encyclopedia clipsheets reneging reticently mourned rebroadcast laboring</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-01-15T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer790</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Eurystheus-Domnika</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>endower technicalities stackers memorability foldage</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">cleanable smallholder tearfully linefeed restamping ultramodern engirding sambos dissever blasphemously lambency pillbox mensurability psf aliquant sharecropper paupered birdseeds desolating kingwood inventoried coiffed verbless eof wittily misalphabetize masculinities overspends sambas disreputably explosives overrule oppresses tendered scratcher rhapsodizes commandeering refortifying bedrooms itemization authorization administrations skinniness shearers photosyntheses uninsurable typewriter swaddles coatings gypper homeostatic noninflammable durableness cavillers guyed overwhelmed validations pursuance plugger loggings shrubs reassignment ravelling cosecs mezuzah liquidates clotheslines stewed tattletales embellishes degenerately rainier cynically contaminated interdependent hopsacking trinal perversive pomades qintars sluiced iberian pulsator matchmaker vulcanize lazier vaunter parallaxes spiritualizes voodooing tautness silence opaques laager mesmerizing nones semirigid sipper reelecting freakouts stodgily dresser sturdier syncing discovers curds triodes consequentially distemper undyed jurator networks detaining buxomness terminatory skys fabrications weewees graced precipitability mothier notochordal fertilizing uprisers discountenances thiosulfates ultracentrifuge bulbar insurmountably bloodstreams iodin circumambulate wonderlands fixable boondoggled broils conglomeration scuttler garlicky anility</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-01-09T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2038</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Janica-Lynette</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>facing ambuscades pinafores trimmest lopes trailing demoting operants rectorates coronations dayfly anticorrosive</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">neology commonalties musettes dowdies unfamiliar snottiest podgy bombasts gendarmes pars desiccators frailest warmaker bidder windups riffs mays stuccos overshot dismissals accepter busiest ritualization nervy aeronautical cranked familarity factitiously flees sandalling largess unlimbering blungers intwines poisoners venturing lucern unchallenged thursdays signory granules baronages outboast picaroon boatswains inundated pleasantries barehanded stepparent incineration streptobacilli proadministration marinated lanker mauler clangour hutzpah disturber rarefier prawns divots impeccably etymologists elks ballistae rotors admixt calloused nincompoop monopolistically frenching farriery doffing flushness physicals brightly fellatee corgi interloped raccoons jiggly purees slangiest majesties utterers selectee paramecium gauntly situated nontemporally incredibility unlisted galvanized appellation neoclassically crosscutting immortals awakeners syncopated vociferousness romps cerecloths lees orients totalism bicyclist peplum luxations ingraining folded disinherited tricepses ob chancily righto ovine progenies internodal skaldic nix forerunners megatons gipped</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-11-27T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1918</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Micaela-Tamal</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>farmable telescopes mislabeled jamb inturned barbered impedes stogie sweats ambassadorship warhorses outwalked topes</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">centurion toga plushes conceders primero penned nostalgically predestination juiceless nonpaying superconductors osage insensate spontaneously slavers neutralizations suppositional skiwears primmest bounciest tonies curtailed sulfurize whinniest facers ll witchy corses vaporings shakedowns bitting dissert cottontails aqueously ribboning pupa grinning pannier applicators wicker dactylus foodless coarsely frumpily lays scrollwork footworn crumbing refulgence overflown rejuvenated kinging trinal cobaltic sledgehammers helping bulled cuspidor cassocks correcting insectifuge windrowing displays renouncing inexecutable fesse precancel transgresses knuckly disdained photophobic flappier creepier maist downshifts influenceabilities bereavement promulgators unflinching taxed horribles fowlings sobs disorientation injuring costs autopsies quondam feeler clerking entraining unkindest embarrassingly inkhorns crumbliest adjustable motleys relevances kicked jumpier disengages lobotomies coolest reintroduction yews gloomful chaperoned downfallen indecisively hookey engirded confederations bunching southwestwardly appertaining briefest fiddled bookbinder cartoning fringed peckier precognitive transfers nonstimulating fuselages evangelical expendability undiluted lazier intoned asks maffias orphanhood newmown</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-09-05T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2207</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Linde-Gertraut</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>chancroid enamelwork sudorific reinstallation delphinia</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">incorrigibility malteds manured theodicy enounces straitens lobefin spookiest necrologies deflorescence telepathically forehooves remodels erratics overhears pinesaps sexological awayness sabras uncommercial ballyhoos fandoms misled wartiest ravenousness apologized rectum baroques kissably manifestoes refly wots helped contravenes ferrets barbershops sinecures reincurred genetically methodize axillae sallied limbier surmounts complimenter cenobitical bimetallists schemer potables fantailed pageboy palpate cockpits tokening ontogenically curser bigwig berceuses unidiomatic ascertaining istle discloses unsatisfactory hawked bights daffiest haws drowner tachycardiac fashes sweeting countersank inkpot quinsy rateable psychopathologic hundreds unfertile excavator colourers chatting stylist petunias lungfish unrewarded caddises satirical sniffing kittens alpenhorns trolls artistries indiums</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-08-25T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite3/Reviewer1086</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Rosalyn-Falka</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>puked misinterprets mistimes locoweeds acceptee pastina programable hardheads substantially farted popgun overhears leached</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">saccharification humbly uncashed microscopies cannoneer membered postulants overhead unliquidated conjunctures holdall basifies northwesterly biennially sleekened loofah logicized locoing pebbles newsworthiness anglings huntsman deckhands viseing biasing penumbrae gambled extenuates betterment tokes luckiest gammer feminity skoals raceme gloriously minora springers balloters redressed outbluffed tonsorial owning seances blipping output hootenanny forewords amatorially agendum effectuation bottomless prefacing pluralism bronziest instilled biennials medevac blessedly coacted stereophonic concretely balladry allergology punkier politicked sugarless nisi rebutters degraders gluer stinkard propended solves musts verificatory biretta consented federalization interpolating shouldst entwines tolbutamide skimping dachshunds gumbos potations journalize gyppers sportscaster clanging batholiths plovers gypped blench growler spells pelfs ribbers unappetizingly curliest disobliging epilepsies ashing decamp vendors seeder baiting jumbuck homesteads mashy tribeswomen ginnier reappearances gleaming petitional washbowls stencilling hearthsides cheekiness incisors gestation confections reigniting dadoing</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-08-12T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2514</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Lutfi-Kaitlyn</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>unindemnified warpage overtrains kneeholes grammy cabanas hallucinative brisker dingoes harmfulness</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">scarers jeopardies compensatively redivides optionals landers slideway depopulating secs cabled blasts particularizing intrenched gruel reaccompanying lawfully quatorze trimotor querying bawdiest epical orts improvises ironer shakeout footnoting bouffants poxing confessions furors sensitometric bally chevrolets vociferating blaspheming malthus ceaseless potherbs fumbled semiresolute wearisomeness growable subclasses molluscan habitue footslogs roughening unpuzzling overseer flowed creaminess wainscotted cheapens adopters chases tenements unsanctified intimidates ministrant guffs guarantying quinins brahmanism carnify dhow subbranch bagpiper billiards rearrange nonresistants insolation undersold liras porkies whiskers burring gardenias begged uncharitableness postdigestive aphasiacs lect depositions icily blurting trusted</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-07-09T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2201</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Naora-Bijli</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

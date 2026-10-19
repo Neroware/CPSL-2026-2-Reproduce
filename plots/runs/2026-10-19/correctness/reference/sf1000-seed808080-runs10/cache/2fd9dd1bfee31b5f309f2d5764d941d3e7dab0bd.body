@@ -1,0 +1,802 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>concretes beknighted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>risings corncobs</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gaunter misdefined</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>undisplayed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>antiphony cutie</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inwardly mangey</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>recalcitrancy folksiest nutter</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>supplicants creosotes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hoarser accrued</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scows foldable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>babus unstacks hatreds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>removes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>rubberneck</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>luckiest despoliation</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>canner chervils arrests</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gonofs papules interstate</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ganglands skinfuls</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>votaries</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>peptic graspable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>apogees</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>paratyphoid</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>uncage antidotal transitiveness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>stolons floating prevocational</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hwy noncelestial</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>signposts</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>blears</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>eradicated resonantly</literal>
+      </binding>
+      <binding name="comment">
+        <literal>niblicks hiccupped provider endplate metroliners limitations decomposing edger clubroots cordate immaterialness weekdays substituting jumped funning ponderously benzol fishwives anemometers demonian distillates wafting gynecologist defoamed jackstraws turndown coppersmith autolyze flapless hexad chains disowns descriers officiating chollas hypertonicity annealers lagoonal lugubrious lowlier intimidatory configured teamworks titer acidifying leafing imperviously seaboards antineutrino pelted doters piranas disarmament colorer dystrophies perambulations drearier lifeguards immensest outlast tarrier redistributes truer contouring circumcised photocopying heedfully reconsecration strolling nitpicks repowering stealthiness lounging bangkoks</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>refractorily bemata</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>oaten ripplers reexported corvee asymmetrically clarifications besot herpetologic reviles gabardines trollopy orbitally nictation enslaving</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>billers gagger satieties telephoto categorizer bemired clacks taoists nasturtiums unavailing mannerisms superjets ghostier nonequivalent</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>catchier truculency farced</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">149</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

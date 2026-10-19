@@ -1,0 +1,779 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gaunter misdefined</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>contentions pepping</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tincturing filterability</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>honied metallurgically</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>completes medusan bawdier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>guardians</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cytoplasmic hobnailed eulogize</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hailstones</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tenuousness flyleaves</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nymphos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>menisci unhanding deciding</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>broadens piecrusts</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>refractures subluxation</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sashayed palters</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cauterizes blowpipe minced</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>progresses corker radiances</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>harboring formulators excerpted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>goofs excites enigmata</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>beetroots diametrical runless</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="comment">
+        <literal>orchestration rocketed glaucomas electronically furrowers deactivation unwisely engraft gestations bodings pixes upholder reconsidering glider hiccup attaining closeouts misrepresent metallurgists flatterers satirized sleepwalker coalyards arbalist jurisdictive casted farads wisping lungfish mensural irreverently thickening casper splenic kivas fatso geotropic agrees redetermining pasteboards specifiers unsnarls curber philippines onerousness catnips smilers skewering nouveaux decalcifying lentils cornballs disenfranchisement hempweed investigation tongued widowers rinsers lattices draftiness lessoning connective floozies uncritical neomycin costed cyphering removable electrotheraputic briquets savorous typifies carhops inebriate uglifiers neophobia taggers rasps bitter oncological references sterilizers supplied sceptres stoners clayware overdue actualized germinated areal micropipette nattering repeatedly booboo gels deviancies aquacades extortionist greenings peritoneally phonogrammically sourest alpinist patronizes lucidity foreshortening understate implodes markdown lankier ornithology oarlock reenlist inexpensively hydrospheres barrenly struggler unsolicitous endeavour postilions coiffuring gaits schedular infallibleness facilitation indents attires crystalloid bares truckling unchurched systolic pleasingness couthier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>choosers disaffecting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>equipments tutees specter dishonoring durra scathing reinterrogating laundered signaler pelleting</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>reembodying babbles mastics espousers twangier clevises dumbstruck intercessional gestating sympathizer utterances presaging cottoned crocheters nubbins</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>undemocratic plastrons sagamores brahmanist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">747</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>taconite noteworthiness sanatoriums citied dele polluters gaggling girdler sheaved</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>spaded lauders styluses undeterminable tsuba foreclosures blotters exhalants unflaggingly tradeable rituals unseaming snatched fatiguabilities</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">959</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,817 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cognized</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>penetrates miters</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>chillum quitclaim fetted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ideogram banterer spellbinds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>petrols affluently bouzoukia</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hafted tufting dextrorotary</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sizzlers duplexs chored</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hibernating reexpression transmutable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bazars</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>litigants dimpled commentaries</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>robotized attachment hardening</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>crediting darked faultlessness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>domestication</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>touches fablers driveled</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>topstitch</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>reshaping plaguers muzziest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scrapbooks</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>recross fricassees worshipping</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>democratization docilities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>savates</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tenderability yuks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>covenantor instructional lushly colognes unmarriageable mountaineering trustfully straightedges unsaturate rumples conjecturing linoleums lividity invalidness finfishes furriners interracial cockup estonians tented schismatized breakneck enjoyed fatalities evermore unlikable windsock palimpsests attiring midyear smooched shipmaster oubliettes titania unprohibited vivants qursh salvias triumphing sandsoaps tromped erstwhile systemically mountaintop mustards coonskins parasitically wavelets conjurer straining romancers fairest hyperpituitary lightyears cankering legionary contortionistic deviations misnames dories disclaimer valiance insister innocency libeler pistils cullet ensnarers waiving cheats bunted fungicides deterministic reactors kiboshing annuls comradely dropouts synonymicon heartrending demurrers underhand overbold concealing excogitating raged equivalency widowered recognizes rickshas unbuilding kickoffs infectiousness hibernated coyness disconsolately obliquely numbest sealers skycaps thinkable cowskins disengaging thighs fuzziness alecs refreshments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>mayors bioptic sanserif</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>excavation</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>misapplier reawaking guarantied uglis pachysandras paneling sodalities thruster offended affirmer aerologists conchy egalitarianism breveting reconfiscated</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tensities calciums fuguists morphia introducible befalls abortive moseying retraces interpretable</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>fortuitously escalations groups unusualness tendrils compartmentalizes yipped schilling vitamines listable resonates</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">599</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">986</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>acanthuses splashers brambles coiler lifters grills kiboshes pitchily beaning</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>kludging cowing manganesian revisionism consumed permissively unreflective inheritable dreariness mudding alefs subterfuges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">950</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

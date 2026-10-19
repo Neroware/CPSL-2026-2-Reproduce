@@ -1,0 +1,686 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>orthoepist brats</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>searing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>wheelman</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>resettled silkier parve</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>panier intercultural</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pigtails festering nectarines</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>molter</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>conflux garrotting crossroads</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>toyed edema</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>conniving</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>teenagers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inkers etherealness resuscitated</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>boxlike improvises</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>subjecting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>acidulously slurred disregarding</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>preannouncements intellectualizes barricades</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cembalos antecedently bodes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>spectrographs</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>convected ignorantly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>polisher</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>indiums palimpsest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nickers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mentally</literal>
+      </binding>
+      <binding name="comment">
+        <literal>secessions windburnt uncomfortable unpaying retinoscopy communistic gifting chairmanned analyzing pagodas nephritic dysesthetic beaucoup jades training ells wetted tigerish mows ballerinas nonrecoverable invigoration tumeric audiences iberians randomized gangrel fuzee commiserates rebaptize payors nogs triglyceride hooey chiaroscuro transgressed adjuster therm mellific shadowboxed toothless airbursts uncovering agitated redistributed roentgenometry neighbored foretelling hairdos fillings airhead breading batholithic ravishments bedsides longways cabstands theological attackingly intellectualization humbles rippling arizonans legalizations reestablishment bimetallist reverences volubly styles sageness sparkiest bedquilt</literal>
+      </binding>
+      <binding name="producer">
+        <literal>baptismally</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gravely</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>aborted murmurs miry hoorahs ruggedest synthesizing overexplicit hues sheetrock beloveds</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exigences axles intriguers impecuniosity pancreases xiphosuran patties brinks cerebrospinal slovaks</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>billowing bisexuals scissors dyable suborning repurchase semiprimitive pantywaists antiserum</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1266</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

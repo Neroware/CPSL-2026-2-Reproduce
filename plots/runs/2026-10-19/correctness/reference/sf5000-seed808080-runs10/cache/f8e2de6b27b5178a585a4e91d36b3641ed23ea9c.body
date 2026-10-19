@@ -1,0 +1,570 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>unoccupied overprecisely uncensured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>imperials cd sparser benefactions slimed hypothecates ricer misjudges ironwoods plyers gadflies seldomness vigorously pointedness tentier infers suitcases dewlaps menstruating shellac entreating disabilities poohing heterosis ornithological promulgated curbed condemnor contrarieties doublers coffeecakes jumpoffs boilermakers dullard consumptions standardizable pretentiousness stroker atoner remonstrative swounds sponsorships prompting oomph swimmily hawkshaws ignoramuses embarrassments aiming potashes gelignite misreporting crumped waifing dilatate colloquiums intermarry percussing instigating hyphened outgas aspersed cumulatively endues wantoned minnesotan commander barbel calcimined landslides challises afterlives spiels promotable fogless stereoisomer undetected turgidly whickered caverning baked furless prerecords cascades peristaltic vivant booklore lethals gallivants skulduggery shepherding simplifications seeding garniture variorums nighs miscopied corners sociocentricity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dropworts rebec shapeable</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>frilliest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>churchier fainters blighty furnisher jazzier theremin glyceryl outbargained flints laminator disgracefully towaways pericardium</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>graphological snooking diffusely inletting laughters kinked impiousness ringworm blippers unofficially overcompensating</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overboard soonest jolter stints expectative confluence stipulating tatted maoism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">236</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">681</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unoccupied overprecisely uncensured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>imperials cd sparser benefactions slimed hypothecates ricer misjudges ironwoods plyers gadflies seldomness vigorously pointedness tentier infers suitcases dewlaps menstruating shellac entreating disabilities poohing heterosis ornithological promulgated curbed condemnor contrarieties doublers coffeecakes jumpoffs boilermakers dullard consumptions standardizable pretentiousness stroker atoner remonstrative swounds sponsorships prompting oomph swimmily hawkshaws ignoramuses embarrassments aiming potashes gelignite misreporting crumped waifing dilatate colloquiums intermarry percussing instigating hyphened outgas aspersed cumulatively endues wantoned minnesotan commander barbel calcimined landslides challises afterlives spiels promotable fogless stereoisomer undetected turgidly whickered caverning baked furless prerecords cascades peristaltic vivant booklore lethals gallivants skulduggery shepherding simplifications seeding garniture variorums nighs miscopied corners sociocentricity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dropworts rebec shapeable</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nonmeasurable physiologist</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>churchier fainters blighty furnisher jazzier theremin glyceryl outbargained flints laminator disgracefully towaways pericardium</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>graphological snooking diffusely inletting laughters kinked impiousness ringworm blippers unofficially overcompensating</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overboard soonest jolter stints expectative confluence stipulating tatted maoism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">236</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">681</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unoccupied overprecisely uncensured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>imperials cd sparser benefactions slimed hypothecates ricer misjudges ironwoods plyers gadflies seldomness vigorously pointedness tentier infers suitcases dewlaps menstruating shellac entreating disabilities poohing heterosis ornithological promulgated curbed condemnor contrarieties doublers coffeecakes jumpoffs boilermakers dullard consumptions standardizable pretentiousness stroker atoner remonstrative swounds sponsorships prompting oomph swimmily hawkshaws ignoramuses embarrassments aiming potashes gelignite misreporting crumped waifing dilatate colloquiums intermarry percussing instigating hyphened outgas aspersed cumulatively endues wantoned minnesotan commander barbel calcimined landslides challises afterlives spiels promotable fogless stereoisomer undetected turgidly whickered caverning baked furless prerecords cascades peristaltic vivant booklore lethals gallivants skulduggery shepherding simplifications seeding garniture variorums nighs miscopied corners sociocentricity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dropworts rebec shapeable</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>alzheimer sleighers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>churchier fainters blighty furnisher jazzier theremin glyceryl outbargained flints laminator disgracefully towaways pericardium</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>graphological snooking diffusely inletting laughters kinked impiousness ringworm blippers unofficially overcompensating</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overboard soonest jolter stints expectative confluence stipulating tatted maoism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">236</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">681</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unoccupied overprecisely uncensured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>imperials cd sparser benefactions slimed hypothecates ricer misjudges ironwoods plyers gadflies seldomness vigorously pointedness tentier infers suitcases dewlaps menstruating shellac entreating disabilities poohing heterosis ornithological promulgated curbed condemnor contrarieties doublers coffeecakes jumpoffs boilermakers dullard consumptions standardizable pretentiousness stroker atoner remonstrative swounds sponsorships prompting oomph swimmily hawkshaws ignoramuses embarrassments aiming potashes gelignite misreporting crumped waifing dilatate colloquiums intermarry percussing instigating hyphened outgas aspersed cumulatively endues wantoned minnesotan commander barbel calcimined landslides challises afterlives spiels promotable fogless stereoisomer undetected turgidly whickered caverning baked furless prerecords cascades peristaltic vivant booklore lethals gallivants skulduggery shepherding simplifications seeding garniture variorums nighs miscopied corners sociocentricity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dropworts rebec shapeable</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>helmets abaser</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>churchier fainters blighty furnisher jazzier theremin glyceryl outbargained flints laminator disgracefully towaways pericardium</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>graphological snooking diffusely inletting laughters kinked impiousness ringworm blippers unofficially overcompensating</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overboard soonest jolter stints expectative confluence stipulating tatted maoism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">236</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">681</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unoccupied overprecisely uncensured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>imperials cd sparser benefactions slimed hypothecates ricer misjudges ironwoods plyers gadflies seldomness vigorously pointedness tentier infers suitcases dewlaps menstruating shellac entreating disabilities poohing heterosis ornithological promulgated curbed condemnor contrarieties doublers coffeecakes jumpoffs boilermakers dullard consumptions standardizable pretentiousness stroker atoner remonstrative swounds sponsorships prompting oomph swimmily hawkshaws ignoramuses embarrassments aiming potashes gelignite misreporting crumped waifing dilatate colloquiums intermarry percussing instigating hyphened outgas aspersed cumulatively endues wantoned minnesotan commander barbel calcimined landslides challises afterlives spiels promotable fogless stereoisomer undetected turgidly whickered caverning baked furless prerecords cascades peristaltic vivant booklore lethals gallivants skulduggery shepherding simplifications seeding garniture variorums nighs miscopied corners sociocentricity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dropworts rebec shapeable</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>adjuror violoncellos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>churchier fainters blighty furnisher jazzier theremin glyceryl outbargained flints laminator disgracefully towaways pericardium</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>graphological snooking diffusely inletting laughters kinked impiousness ringworm blippers unofficially overcompensating</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overboard soonest jolter stints expectative confluence stipulating tatted maoism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">236</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">681</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unoccupied overprecisely uncensured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>imperials cd sparser benefactions slimed hypothecates ricer misjudges ironwoods plyers gadflies seldomness vigorously pointedness tentier infers suitcases dewlaps menstruating shellac entreating disabilities poohing heterosis ornithological promulgated curbed condemnor contrarieties doublers coffeecakes jumpoffs boilermakers dullard consumptions standardizable pretentiousness stroker atoner remonstrative swounds sponsorships prompting oomph swimmily hawkshaws ignoramuses embarrassments aiming potashes gelignite misreporting crumped waifing dilatate colloquiums intermarry percussing instigating hyphened outgas aspersed cumulatively endues wantoned minnesotan commander barbel calcimined landslides challises afterlives spiels promotable fogless stereoisomer undetected turgidly whickered caverning baked furless prerecords cascades peristaltic vivant booklore lethals gallivants skulduggery shepherding simplifications seeding garniture variorums nighs miscopied corners sociocentricity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dropworts rebec shapeable</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>teemers uprights</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>churchier fainters blighty furnisher jazzier theremin glyceryl outbargained flints laminator disgracefully towaways pericardium</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>graphological snooking diffusely inletting laughters kinked impiousness ringworm blippers unofficially overcompensating</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overboard soonest jolter stints expectative confluence stipulating tatted maoism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">236</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">681</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unoccupied overprecisely uncensured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>imperials cd sparser benefactions slimed hypothecates ricer misjudges ironwoods plyers gadflies seldomness vigorously pointedness tentier infers suitcases dewlaps menstruating shellac entreating disabilities poohing heterosis ornithological promulgated curbed condemnor contrarieties doublers coffeecakes jumpoffs boilermakers dullard consumptions standardizable pretentiousness stroker atoner remonstrative swounds sponsorships prompting oomph swimmily hawkshaws ignoramuses embarrassments aiming potashes gelignite misreporting crumped waifing dilatate colloquiums intermarry percussing instigating hyphened outgas aspersed cumulatively endues wantoned minnesotan commander barbel calcimined landslides challises afterlives spiels promotable fogless stereoisomer undetected turgidly whickered caverning baked furless prerecords cascades peristaltic vivant booklore lethals gallivants skulduggery shepherding simplifications seeding garniture variorums nighs miscopied corners sociocentricity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dropworts rebec shapeable</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>necklaces</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>churchier fainters blighty furnisher jazzier theremin glyceryl outbargained flints laminator disgracefully towaways pericardium</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>graphological snooking diffusely inletting laughters kinked impiousness ringworm blippers unofficially overcompensating</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overboard soonest jolter stints expectative confluence stipulating tatted maoism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">236</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">681</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unoccupied overprecisely uncensured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>imperials cd sparser benefactions slimed hypothecates ricer misjudges ironwoods plyers gadflies seldomness vigorously pointedness tentier infers suitcases dewlaps menstruating shellac entreating disabilities poohing heterosis ornithological promulgated curbed condemnor contrarieties doublers coffeecakes jumpoffs boilermakers dullard consumptions standardizable pretentiousness stroker atoner remonstrative swounds sponsorships prompting oomph swimmily hawkshaws ignoramuses embarrassments aiming potashes gelignite misreporting crumped waifing dilatate colloquiums intermarry percussing instigating hyphened outgas aspersed cumulatively endues wantoned minnesotan commander barbel calcimined landslides challises afterlives spiels promotable fogless stereoisomer undetected turgidly whickered caverning baked furless prerecords cascades peristaltic vivant booklore lethals gallivants skulduggery shepherding simplifications seeding garniture variorums nighs miscopied corners sociocentricity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dropworts rebec shapeable</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hangfire retitles embowelled</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>churchier fainters blighty furnisher jazzier theremin glyceryl outbargained flints laminator disgracefully towaways pericardium</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>graphological snooking diffusely inletting laughters kinked impiousness ringworm blippers unofficially overcompensating</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overboard soonest jolter stints expectative confluence stipulating tatted maoism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">236</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">681</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unoccupied overprecisely uncensured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>imperials cd sparser benefactions slimed hypothecates ricer misjudges ironwoods plyers gadflies seldomness vigorously pointedness tentier infers suitcases dewlaps menstruating shellac entreating disabilities poohing heterosis ornithological promulgated curbed condemnor contrarieties doublers coffeecakes jumpoffs boilermakers dullard consumptions standardizable pretentiousness stroker atoner remonstrative swounds sponsorships prompting oomph swimmily hawkshaws ignoramuses embarrassments aiming potashes gelignite misreporting crumped waifing dilatate colloquiums intermarry percussing instigating hyphened outgas aspersed cumulatively endues wantoned minnesotan commander barbel calcimined landslides challises afterlives spiels promotable fogless stereoisomer undetected turgidly whickered caverning baked furless prerecords cascades peristaltic vivant booklore lethals gallivants skulduggery shepherding simplifications seeding garniture variorums nighs miscopied corners sociocentricity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dropworts rebec shapeable</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ministrants</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>churchier fainters blighty furnisher jazzier theremin glyceryl outbargained flints laminator disgracefully towaways pericardium</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>graphological snooking diffusely inletting laughters kinked impiousness ringworm blippers unofficially overcompensating</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overboard soonest jolter stints expectative confluence stipulating tatted maoism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">236</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">681</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unoccupied overprecisely uncensured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>imperials cd sparser benefactions slimed hypothecates ricer misjudges ironwoods plyers gadflies seldomness vigorously pointedness tentier infers suitcases dewlaps menstruating shellac entreating disabilities poohing heterosis ornithological promulgated curbed condemnor contrarieties doublers coffeecakes jumpoffs boilermakers dullard consumptions standardizable pretentiousness stroker atoner remonstrative swounds sponsorships prompting oomph swimmily hawkshaws ignoramuses embarrassments aiming potashes gelignite misreporting crumped waifing dilatate colloquiums intermarry percussing instigating hyphened outgas aspersed cumulatively endues wantoned minnesotan commander barbel calcimined landslides challises afterlives spiels promotable fogless stereoisomer undetected turgidly whickered caverning baked furless prerecords cascades peristaltic vivant booklore lethals gallivants skulduggery shepherding simplifications seeding garniture variorums nighs miscopied corners sociocentricity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dropworts rebec shapeable</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>laminator hatted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>churchier fainters blighty furnisher jazzier theremin glyceryl outbargained flints laminator disgracefully towaways pericardium</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>graphological snooking diffusely inletting laughters kinked impiousness ringworm blippers unofficially overcompensating</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overboard soonest jolter stints expectative confluence stipulating tatted maoism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">236</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">681</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unoccupied overprecisely uncensured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>imperials cd sparser benefactions slimed hypothecates ricer misjudges ironwoods plyers gadflies seldomness vigorously pointedness tentier infers suitcases dewlaps menstruating shellac entreating disabilities poohing heterosis ornithological promulgated curbed condemnor contrarieties doublers coffeecakes jumpoffs boilermakers dullard consumptions standardizable pretentiousness stroker atoner remonstrative swounds sponsorships prompting oomph swimmily hawkshaws ignoramuses embarrassments aiming potashes gelignite misreporting crumped waifing dilatate colloquiums intermarry percussing instigating hyphened outgas aspersed cumulatively endues wantoned minnesotan commander barbel calcimined landslides challises afterlives spiels promotable fogless stereoisomer undetected turgidly whickered caverning baked furless prerecords cascades peristaltic vivant booklore lethals gallivants skulduggery shepherding simplifications seeding garniture variorums nighs miscopied corners sociocentricity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dropworts rebec shapeable</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>phobia</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>churchier fainters blighty furnisher jazzier theremin glyceryl outbargained flints laminator disgracefully towaways pericardium</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>graphological snooking diffusely inletting laughters kinked impiousness ringworm blippers unofficially overcompensating</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overboard soonest jolter stints expectative confluence stipulating tatted maoism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">236</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">681</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unoccupied overprecisely uncensured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>imperials cd sparser benefactions slimed hypothecates ricer misjudges ironwoods plyers gadflies seldomness vigorously pointedness tentier infers suitcases dewlaps menstruating shellac entreating disabilities poohing heterosis ornithological promulgated curbed condemnor contrarieties doublers coffeecakes jumpoffs boilermakers dullard consumptions standardizable pretentiousness stroker atoner remonstrative swounds sponsorships prompting oomph swimmily hawkshaws ignoramuses embarrassments aiming potashes gelignite misreporting crumped waifing dilatate colloquiums intermarry percussing instigating hyphened outgas aspersed cumulatively endues wantoned minnesotan commander barbel calcimined landslides challises afterlives spiels promotable fogless stereoisomer undetected turgidly whickered caverning baked furless prerecords cascades peristaltic vivant booklore lethals gallivants skulduggery shepherding simplifications seeding garniture variorums nighs miscopied corners sociocentricity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dropworts rebec shapeable</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>subdirector</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>churchier fainters blighty furnisher jazzier theremin glyceryl outbargained flints laminator disgracefully towaways pericardium</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>graphological snooking diffusely inletting laughters kinked impiousness ringworm blippers unofficially overcompensating</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overboard soonest jolter stints expectative confluence stipulating tatted maoism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">236</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">681</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unoccupied overprecisely uncensured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>imperials cd sparser benefactions slimed hypothecates ricer misjudges ironwoods plyers gadflies seldomness vigorously pointedness tentier infers suitcases dewlaps menstruating shellac entreating disabilities poohing heterosis ornithological promulgated curbed condemnor contrarieties doublers coffeecakes jumpoffs boilermakers dullard consumptions standardizable pretentiousness stroker atoner remonstrative swounds sponsorships prompting oomph swimmily hawkshaws ignoramuses embarrassments aiming potashes gelignite misreporting crumped waifing dilatate colloquiums intermarry percussing instigating hyphened outgas aspersed cumulatively endues wantoned minnesotan commander barbel calcimined landslides challises afterlives spiels promotable fogless stereoisomer undetected turgidly whickered caverning baked furless prerecords cascades peristaltic vivant booklore lethals gallivants skulduggery shepherding simplifications seeding garniture variorums nighs miscopied corners sociocentricity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dropworts rebec shapeable</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>visceromotor subsegment</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>churchier fainters blighty furnisher jazzier theremin glyceryl outbargained flints laminator disgracefully towaways pericardium</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>graphological snooking diffusely inletting laughters kinked impiousness ringworm blippers unofficially overcompensating</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overboard soonest jolter stints expectative confluence stipulating tatted maoism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">236</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">681</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unoccupied overprecisely uncensured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>imperials cd sparser benefactions slimed hypothecates ricer misjudges ironwoods plyers gadflies seldomness vigorously pointedness tentier infers suitcases dewlaps menstruating shellac entreating disabilities poohing heterosis ornithological promulgated curbed condemnor contrarieties doublers coffeecakes jumpoffs boilermakers dullard consumptions standardizable pretentiousness stroker atoner remonstrative swounds sponsorships prompting oomph swimmily hawkshaws ignoramuses embarrassments aiming potashes gelignite misreporting crumped waifing dilatate colloquiums intermarry percussing instigating hyphened outgas aspersed cumulatively endues wantoned minnesotan commander barbel calcimined landslides challises afterlives spiels promotable fogless stereoisomer undetected turgidly whickered caverning baked furless prerecords cascades peristaltic vivant booklore lethals gallivants skulduggery shepherding simplifications seeding garniture variorums nighs miscopied corners sociocentricity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dropworts rebec shapeable</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>assignat</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>churchier fainters blighty furnisher jazzier theremin glyceryl outbargained flints laminator disgracefully towaways pericardium</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>graphological snooking diffusely inletting laughters kinked impiousness ringworm blippers unofficially overcompensating</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overboard soonest jolter stints expectative confluence stipulating tatted maoism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">236</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">681</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unoccupied overprecisely uncensured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>imperials cd sparser benefactions slimed hypothecates ricer misjudges ironwoods plyers gadflies seldomness vigorously pointedness tentier infers suitcases dewlaps menstruating shellac entreating disabilities poohing heterosis ornithological promulgated curbed condemnor contrarieties doublers coffeecakes jumpoffs boilermakers dullard consumptions standardizable pretentiousness stroker atoner remonstrative swounds sponsorships prompting oomph swimmily hawkshaws ignoramuses embarrassments aiming potashes gelignite misreporting crumped waifing dilatate colloquiums intermarry percussing instigating hyphened outgas aspersed cumulatively endues wantoned minnesotan commander barbel calcimined landslides challises afterlives spiels promotable fogless stereoisomer undetected turgidly whickered caverning baked furless prerecords cascades peristaltic vivant booklore lethals gallivants skulduggery shepherding simplifications seeding garniture variorums nighs miscopied corners sociocentricity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dropworts rebec shapeable</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>disrobe</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>churchier fainters blighty furnisher jazzier theremin glyceryl outbargained flints laminator disgracefully towaways pericardium</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>graphological snooking diffusely inletting laughters kinked impiousness ringworm blippers unofficially overcompensating</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overboard soonest jolter stints expectative confluence stipulating tatted maoism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">236</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">681</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unoccupied overprecisely uncensured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>imperials cd sparser benefactions slimed hypothecates ricer misjudges ironwoods plyers gadflies seldomness vigorously pointedness tentier infers suitcases dewlaps menstruating shellac entreating disabilities poohing heterosis ornithological promulgated curbed condemnor contrarieties doublers coffeecakes jumpoffs boilermakers dullard consumptions standardizable pretentiousness stroker atoner remonstrative swounds sponsorships prompting oomph swimmily hawkshaws ignoramuses embarrassments aiming potashes gelignite misreporting crumped waifing dilatate colloquiums intermarry percussing instigating hyphened outgas aspersed cumulatively endues wantoned minnesotan commander barbel calcimined landslides challises afterlives spiels promotable fogless stereoisomer undetected turgidly whickered caverning baked furless prerecords cascades peristaltic vivant booklore lethals gallivants skulduggery shepherding simplifications seeding garniture variorums nighs miscopied corners sociocentricity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dropworts rebec shapeable</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>fizzes trickishly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>churchier fainters blighty furnisher jazzier theremin glyceryl outbargained flints laminator disgracefully towaways pericardium</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>graphological snooking diffusely inletting laughters kinked impiousness ringworm blippers unofficially overcompensating</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overboard soonest jolter stints expectative confluence stipulating tatted maoism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">236</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">681</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unoccupied overprecisely uncensured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>imperials cd sparser benefactions slimed hypothecates ricer misjudges ironwoods plyers gadflies seldomness vigorously pointedness tentier infers suitcases dewlaps menstruating shellac entreating disabilities poohing heterosis ornithological promulgated curbed condemnor contrarieties doublers coffeecakes jumpoffs boilermakers dullard consumptions standardizable pretentiousness stroker atoner remonstrative swounds sponsorships prompting oomph swimmily hawkshaws ignoramuses embarrassments aiming potashes gelignite misreporting crumped waifing dilatate colloquiums intermarry percussing instigating hyphened outgas aspersed cumulatively endues wantoned minnesotan commander barbel calcimined landslides challises afterlives spiels promotable fogless stereoisomer undetected turgidly whickered caverning baked furless prerecords cascades peristaltic vivant booklore lethals gallivants skulduggery shepherding simplifications seeding garniture variorums nighs miscopied corners sociocentricity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dropworts rebec shapeable</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>adumbrative bundlers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>churchier fainters blighty furnisher jazzier theremin glyceryl outbargained flints laminator disgracefully towaways pericardium</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>graphological snooking diffusely inletting laughters kinked impiousness ringworm blippers unofficially overcompensating</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overboard soonest jolter stints expectative confluence stipulating tatted maoism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">236</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">681</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unoccupied overprecisely uncensured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>imperials cd sparser benefactions slimed hypothecates ricer misjudges ironwoods plyers gadflies seldomness vigorously pointedness tentier infers suitcases dewlaps menstruating shellac entreating disabilities poohing heterosis ornithological promulgated curbed condemnor contrarieties doublers coffeecakes jumpoffs boilermakers dullard consumptions standardizable pretentiousness stroker atoner remonstrative swounds sponsorships prompting oomph swimmily hawkshaws ignoramuses embarrassments aiming potashes gelignite misreporting crumped waifing dilatate colloquiums intermarry percussing instigating hyphened outgas aspersed cumulatively endues wantoned minnesotan commander barbel calcimined landslides challises afterlives spiels promotable fogless stereoisomer undetected turgidly whickered caverning baked furless prerecords cascades peristaltic vivant booklore lethals gallivants skulduggery shepherding simplifications seeding garniture variorums nighs miscopied corners sociocentricity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dropworts rebec shapeable</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>muckraker originating permuted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>churchier fainters blighty furnisher jazzier theremin glyceryl outbargained flints laminator disgracefully towaways pericardium</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>graphological snooking diffusely inletting laughters kinked impiousness ringworm blippers unofficially overcompensating</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overboard soonest jolter stints expectative confluence stipulating tatted maoism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">236</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">681</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unoccupied overprecisely uncensured</literal>
+      </binding>
+      <binding name="comment">
+        <literal>imperials cd sparser benefactions slimed hypothecates ricer misjudges ironwoods plyers gadflies seldomness vigorously pointedness tentier infers suitcases dewlaps menstruating shellac entreating disabilities poohing heterosis ornithological promulgated curbed condemnor contrarieties doublers coffeecakes jumpoffs boilermakers dullard consumptions standardizable pretentiousness stroker atoner remonstrative swounds sponsorships prompting oomph swimmily hawkshaws ignoramuses embarrassments aiming potashes gelignite misreporting crumped waifing dilatate colloquiums intermarry percussing instigating hyphened outgas aspersed cumulatively endues wantoned minnesotan commander barbel calcimined landslides challises afterlives spiels promotable fogless stereoisomer undetected turgidly whickered caverning baked furless prerecords cascades peristaltic vivant booklore lethals gallivants skulduggery shepherding simplifications seeding garniture variorums nighs miscopied corners sociocentricity</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dropworts rebec shapeable</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ergotized</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>churchier fainters blighty furnisher jazzier theremin glyceryl outbargained flints laminator disgracefully towaways pericardium</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>graphological snooking diffusely inletting laughters kinked impiousness ringworm blippers unofficially overcompensating</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>overboard soonest jolter stints expectative confluence stipulating tatted maoism</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">236</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">681</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

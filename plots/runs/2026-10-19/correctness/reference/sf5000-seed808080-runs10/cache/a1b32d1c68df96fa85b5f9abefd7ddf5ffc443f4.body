@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="label"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer16/Product745</uri>
+      </binding>
+      <binding name="label">
+        <literal>carmaker walkovers reintrenchment</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer23/Product1071</uri>
+      </binding>
+      <binding name="label">
+        <literal>uninterestedly iceless</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

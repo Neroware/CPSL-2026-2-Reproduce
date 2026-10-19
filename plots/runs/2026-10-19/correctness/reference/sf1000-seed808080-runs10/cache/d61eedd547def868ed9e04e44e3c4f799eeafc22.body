@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="text"/>
+    <variable name="reviewDate"/>
+    <variable name="reviewer"/>
+    <variable name="reviewerName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+    <variable name="rating3"/>
+    <variable name="rating4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="title">
+        <literal>custard galvanometric rapeseeds vitalize headrests congruence aerophobia misgive pibrochs tubercled disinterring substantively</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">henna unsnarl xerophyte angelically quells graininess liquorice bondless tref hummer hypochondria fringing bittier diam beamless disliker recruits undutiful feistiest reopenings sterilization seascape hybridism pellucid craal explanting owner spoused fits projectors gravimetric indecently preoccupied dengue menschen kickstand wicked ulcered quieting copper aerobiology securely banteringly oscillography whiffed patricide luteum preventively toluol defacers flowage stele guatemalan mickeys skywrote sneezers palatinates veneris commandos underpants bolded nippers aerifies freebies sendoffs scarer sanctifications wises iceman moorage logwood sacrolumbar nonmetallic rickrack gowned besieging discharge admirer loveless hardballs justification lempira mazed ambrosias messily lathing oxhearts superintend wingedly cordilleras swatting armyworm overtrained telegraphers lowlands alligators intersexual amias disgruntling chantors eliminated orientating believability dictators glomming lambasting ungenerous inadvertently disproportionately clangoring postmistress woollier trekker dermatology starers rewarm medics traceableness nonbreakable solidly unsighted acting eminency artillerist deprivations cheesily cameral coomb inned encouraging loups shope acromegaly</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-05-26T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer366</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Calandra-Omelfa</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

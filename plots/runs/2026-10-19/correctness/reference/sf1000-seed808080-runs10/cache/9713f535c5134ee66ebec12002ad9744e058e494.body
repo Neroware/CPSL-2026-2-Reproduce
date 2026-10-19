@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer20/Product904</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>devaluate</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer20/Product917</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>monomers hitching oversimplifying</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer14/Product645</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>stabs retransmissions</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer3/Product125</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>temporized extrauterine unbeloved</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

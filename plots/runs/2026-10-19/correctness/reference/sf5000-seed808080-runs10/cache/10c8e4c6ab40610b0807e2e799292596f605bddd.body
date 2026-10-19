@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer103/Product4845</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>absinths flanging industrialized</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer69/Product3250</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>affusions</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer61/Product2861</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>chickweeds spader</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer28/Product1287</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>hypodermics valour</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer53/Product2502</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>imagination</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer69/Product3232</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>infallibly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer60/Product2773</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>jumpiness heatstrokes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer83/Product3922</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>kinematical</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer61/Product2798</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>optionally whiffers rowels</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer55/Product2612</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>ordains snoozier exteriorize</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer67/Product3154</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>scintillated</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer76/Product3590</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>sicknesses radiosondes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer98/Product4650</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>underarm handcrafted repellently</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer85/Product4048</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>zizzle</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,275 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="productLabel"/>
+    <variable name="offer"/>
+    <variable name="price"/>
+    <variable name="vendor"/>
+    <variable name="vendorTitle"/>
+    <variable name="review"/>
+    <variable name="revTitle"/>
+    <variable name="reviewer"/>
+    <variable name="revName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+  </head>
+  <results>
+    <result>
+      <binding name="productLabel">
+        <literal>labelling putterers</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review149</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>tuques faultlessly individualities broomiest reclean bated trisect bubbles nothings codeins fumbler nickered fossils allelic hostels</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer8</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Linda-Nada</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>labelling putterers</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review1608</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>skimpiness gravitative stewarded heisted wrappings sculpting pulques nevus imploringly nitpicker bespangled hunchbacked moleskins overrighteous</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer82</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Haranobu-Seanna</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>labelling putterers</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review1631</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>relining proved survivers pitheads caucused ensky equidistantly wangler sauteing plodders</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer83</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Lal-Lindtraud</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>labelling putterers</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review2627</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>impermanent freeholder lewdness tenanting colocate</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer130</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Thanos-Selyf</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>labelling putterers</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review4081</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>wonderfully seditionists osmiums impoverishes residua brocaded chekhov unconventionally centerboards soapmaking appetizingly skirter connectors</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer201</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Goncalo-Khynika</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>labelling putterers</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review4300</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>scoots displaces expounding kvetching rebounding blazers lingula incapability moronically insets spaller agueweed restores</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer212</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Mae-Rio</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>labelling putterers</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review4362</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>moralistic hematologies civets fatiguability sphinxes antagonizes prosthetist slatting preappearances schizophrenics sags</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer214</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Rigmora-Svetocha</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>labelling putterers</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6168</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>yakking abstentions grubbing druthers underclad indulgers unartfully analyzer coaxing embodies disheveling caudated anaemic accelerating gruels</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer300</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Tulia-Lizanne</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>labelling putterers</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6841</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>mensal oracularly argosy nitpicks oscillated forensics submersions relighting prickliest innervations</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer337</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Afal-Lisebo</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>labelling putterers</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review7327</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>deselects abidance semicivilized feudists</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer360</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Amana-Josep</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>labelling putterers</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review7811</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>recontracting secretor trajects roundest amenders</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer385</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Toshiki-Agafya</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>labelling putterers</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8460</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>wiggery seawall arnica stitches piccalilli</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer422</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Carlie-Izar</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>labelling putterers</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review9696</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>escheated victualer tunably jugsful parboils zemstvos ens mouthing minutely cavilled tupped charlatanries resummoning nankins quaker</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer489</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Min-Vantrice</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

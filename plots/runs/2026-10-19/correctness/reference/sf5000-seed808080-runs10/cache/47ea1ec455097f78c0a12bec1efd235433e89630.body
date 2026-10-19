@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer61/Product2823</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>baboo</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer55/Product2614</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>furriery radiographs</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer8/Product336</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>hierarchism</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer16/Product723</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>inspectorial</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer50/Product2320</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>kingfishes unconsenting corvine</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer73/Product3427</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>midsts ransomers</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer88/Product4222</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>moaning hypodermatically misdefined</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer51/Product2415</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>nearness brandies</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer13/Product622</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>speediness</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer50/Product2376</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>unpedigreed steadying unspecialized</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

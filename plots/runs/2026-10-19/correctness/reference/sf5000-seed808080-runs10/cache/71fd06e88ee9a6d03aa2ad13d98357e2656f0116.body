@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="text"/>
+    <variable name="reviewDate"/>
+    <variable name="reviewer"/>
+    <variable name="reviewerName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+    <variable name="rating3"/>
+    <variable name="rating4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="title">
+        <literal>hitches gulch debtee giddying fretwork uplinking corer conformationally absenting caponize expwy runtiness effendi whippers</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">xerographic calcification boxful adventuresome nonexclusive equities czechs zincoid mainlands dirties lodgements bruised snottiest sateen savoured tiered showboats amasser wellsprings paganist denudes geishas reinterpret clansmen remolding communism relights beepers factoring doxology pated resummon hazarded prosing impeaches singled vouching bombe asyndeta vellums unappreciated lackeyed redeveloper blandishment familiarized uglily motioner lairs flinches shiftiness experts underplaying correspondence draggier woolie caymans dealership sprightliness outsmarts headstands waitings droughts umpires gassiest frescoed gullibly stagily convoked renovating lacrimal angelically routed supposedly awed civilities bylaws bushido perjurious fattest hypothecate ophthalmoscopes gated copulatively burlesques hymnodies powdering petulancy daystars gibbeted reliance preventions skoals tittie quailing poulticed inculpating agonize sporulate fps tollers analemma caviling replier capsuled kingship paraffined nonmystically extincts trolled serval undependable prompting dehumidification taels scalpers conforming imports ectoplasmatic olympians outwore fadings frolicker throwers heartthrob leavier blackhead coolish philosophers sumps schoolmistresses pickling radiotherapists fizgigs roentgenoscopy</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-08-29T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1663</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Amaya-Presthlava</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

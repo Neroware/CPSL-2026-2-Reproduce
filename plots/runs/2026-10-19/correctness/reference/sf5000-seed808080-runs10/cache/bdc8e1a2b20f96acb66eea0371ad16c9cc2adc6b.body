@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer77/Product3638</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>aspics equivocacies endeavour</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer84/Product3986</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>foregather shrimpier cooperation</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer68/Product3200</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>herbicidal premiership weens</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer66/Product3104</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>hessians overvaluing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer53/Product2480</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>instigators</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

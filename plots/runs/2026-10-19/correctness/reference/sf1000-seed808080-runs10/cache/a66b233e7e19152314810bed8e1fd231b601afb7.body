@@ -1,0 +1,390 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="productLabel"/>
+    <variable name="offer"/>
+    <variable name="price"/>
+    <variable name="vendor"/>
+    <variable name="vendorTitle"/>
+    <variable name="review"/>
+    <variable name="revTitle"/>
+    <variable name="reviewer"/>
+    <variable name="revName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+  </head>
+  <results>
+    <result>
+      <binding name="productLabel">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review723</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>polarizations disadvantaged lisles debated overcoming argufy</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer37</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Sepat-Jelizaveta</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review853</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>garths outwalking shrewishness marxism habitude</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer44</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ignacia</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review1123</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>breathtakingly toothpicks hutzpah catcalling redescribing</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer55</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ziven</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review3004</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>levelness nonradical instructorships ochreous</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer149</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Moesen-AbdusSamad</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review3411</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>moronisms copulations expressionless globalists</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer170</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Toyozo-Zainab</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review5589</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>underacted failed kike verbals ghettoize resolder candler capability craver orientation</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer273</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Amphiaraus-Vaughn</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6393</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>sabers legitimation spiritually standishes tyros dissonance madders congeals insignificance sniffy forefoot convoking unanswerable panoplies</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer311</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Fiammetta-Phylo</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6737</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>beadiest chittering enunciations publicity vaunty equities sadnesses sunderers misdoing tractions reutilized</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer329</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Mako-Hilderun</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review7365</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>garlanding phototropic begird undecayed monadisms backpacks ingraining chuffed dogsbodies tagalogs skippered</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer362</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Paolo</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review7630</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>linens coshes congeniality encrusting morassy</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer375</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Avimelech-Bhuvana</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8103</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>ashes quadrated retrospectively locators charlatanry gemutlich sexualized exteriorized haggled overachieve forwhy</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer402</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Cristine-Ericka</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8242</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>intends coifs wight subcategories pangs pacers nativism commercialization typewrote redemanded tribulations gallops</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer409</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Abigayle-Chad</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review9030</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>outboasting fustic spondaics scags leucoma upholder pollens lanker gumtree philandering antivivisectionists pleadings supernal rated littering</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer455</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Deejay</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review9313</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>cheers overstretches coppices plumbing maters demineralizing meteoroids cemented reallocated kiddy forwardest oversimplified citified enameled</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer469</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Nanie-Vitalis</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review9357</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>dislodging perfumers carpals filliped antidepressive tenderizing overselling glaucomatous greasier unmatched vandalize statutableness baklavas armorers</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer472</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Hareem-Rgine</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review9418</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>daylong hypertrophic mixers dipterous uptilts hyperacidity gushy exhilarating hoorays</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer475</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Joerg-Niklaus</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review9913</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>blintzes hippocratism parasitologic footier modulatory undeclared</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer499</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Tawheed-Janceena</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>skidooed finales noisemaker</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review9938</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>sanitoria saber infusions centres gantries darkening shirring ordination</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer500</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Takechi-Ianka</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

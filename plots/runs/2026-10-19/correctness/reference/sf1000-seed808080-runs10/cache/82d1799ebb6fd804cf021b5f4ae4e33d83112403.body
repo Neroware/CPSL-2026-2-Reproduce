@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="label"/>
+    <variable name="propertyTextual"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer3/Product112</uri>
+      </binding>
+      <binding name="label">
+        <literal>walkaway</literal>
+      </binding>
+      <binding name="propertyTextual">
+        <literal>insetters rewakened enscrolled arguable scorpios knotters hostessing unrenewed alkalinization fumed amortizable neglector wickeder</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

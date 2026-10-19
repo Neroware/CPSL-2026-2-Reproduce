@@ -1,0 +1,831 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>orthoepist brats</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nonplusing smokepot wittily</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>misrepresentations convection</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scrabbler stimulatingly forkedly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>penknives reabandoned vitalities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>resettled silkier parve</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inaudibly permanents</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>clack sprightlier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>craggier undraping songwriters</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>enginery oilseeds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>loran</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>reheat</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>treader nonconfidence</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>brasserie eyeballed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>assuredly cloaca overbore</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ventrally undersea</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lignifies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>winterizes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>refilling atropins mingling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>clerkship sequencer overdramatized</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>breakfront lustre capons</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>rims invagination calculations</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>slugger</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bookrack unpossessive</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unacclimatized scents</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>alkalies yelped vitrification</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>potentiation chintzy</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untastefully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>oeuvres shoetree noshed mistrustfulness awfuller metaphors jujutsu craziness standpat sublethal headachy fomentations ozones squooshing halfbeaks octad acuities focusing woodsheds bulldogging swigs categorizations acceptable scabbarded exaltations cantering overcooks cataleptically carcinomas coonskin romping threader visitress thinkings thearchies jutty silkier coprocessing earthlier cankerous ugli bloating carbonation tenderers tiara durations codal penuries tourmaline estoppage maypop reaming protestors behaver skirted anoints zori triumviri indigently campcraft overshoes regeneracy eavesdrops taverner softballs patently ascribed perhapses eroding evasiveness cannonade gushier premixed pneuma huskies flaggiest transplantations invading antihumanism cooeyed faceted silenter patrolwomen courter innateness bort jammers quintuplicated humanitarians curveted lids tunny dulcetly initiating loutishly usages androgynism permanence outperformed waved preferentially hotline fosterer payloads deflagrates skittered bossier rethink bicornes hawker poxing paintings blunting facilitating enshrines coatracks consignors parlayed ragtags evildoers crimpiest whiskery airworthy amender culmination fragmental penetrations</literal>
+      </binding>
+      <binding name="producer">
+        <literal>named</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bootjack</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>shelver etatist unquotes ridiculing overlapping thoughts atheneum</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interclass thurible extrauterine hawknoses lichening bibliographies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>tyrannis ennead unthriftily blistered smocking reflected hocusing consummations nonprejudicial enactors elevons abstrusely bowery</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1418</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">671</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

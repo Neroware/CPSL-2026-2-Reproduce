@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer58/Product2715</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>agonal roans outpaced</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer82/Product3880</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>aperies skateboarding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer85/Product4016</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>baffling frontispieces</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer14/Product653</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>behooving deems overanalyzing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer105/Product4971</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>bootlessly</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer50/Product2338</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>beckoners smokily moolas</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer39/Product1775</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>commutators roofers</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer82/Product3863</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>declinatory imperii</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer41/Product1910</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>doyly infests versatility</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer72/Product3388</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>establishes drubs congoes</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

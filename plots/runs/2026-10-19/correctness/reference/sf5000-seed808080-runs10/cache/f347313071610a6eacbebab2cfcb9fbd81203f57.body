@@ -1,0 +1,627 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>teentsy nonscholastic disentailment</literal>
+      </binding>
+      <binding name="comment">
+        <literal>crampons drayed ergot jaybirds otologically stele elusory affixes spalled ghostwrote coronations navvy maundered unreality forging keyman sensitively doorstop opaquely trifurcated crooks hedges disinterred overmans banns carryalls collat monitored unborn sweetener kegs civilians poler josher nucleated earpiece hones reaccustoms flowerless yarding mediums preheat anthropomorphically pewterer inspiriting deservedly substrata reassignments lymphoid reviewing whizbang drave boyishness motioned modified ascendence subassemblies disbeliefs fertilizers tensiometer fantasied tennists boulders prepubescence condemnations allotrophic terraces justifiers geom carrels chirographer psyched califate premiering attracting departures overskeptical lidos stances categories examiners deleteriously curlews barrens virtues indications wiving unforseen renouncements muted certainest exocrine pones racism rabidity oboes communalism searing letch calibrated interjectory radiotherapists archeozoic unstirred horrified posses unsighted scruffier dynamometers oculi xylophonists calms stockateer pursuits divulging reconstitution potentially tantras venturous nonfunctional carcase ducts disencumbering graecize whiteness ultrastructure waifs distributors raptest baksheeshes kedging displaces illustrating harmlessness caterwauling hooped bemusing cognizably preprocessor corsages nebulizer officering nocturns drossiness rissole semens juridically taxidermist</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>crooned</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>jitterbugs describes bumpkins fellowly auroral canvases marrows jockos</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>orbed amnesiacs constabularies savannahs tardier sharesman unapparent figurations</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>promises cesarean prevocational tweedled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">67</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1308</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>preponderantly trammels steelier promonarchists lords swatches rehammered recreational commuters cheeseburger intimidator fluidics legitimacies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>penthouses moonlets menage stubbing hayers lasciviously moodily pedagogues critical rebuild overgeneralize droners</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">648</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>teentsy nonscholastic disentailment</literal>
+      </binding>
+      <binding name="comment">
+        <literal>crampons drayed ergot jaybirds otologically stele elusory affixes spalled ghostwrote coronations navvy maundered unreality forging keyman sensitively doorstop opaquely trifurcated crooks hedges disinterred overmans banns carryalls collat monitored unborn sweetener kegs civilians poler josher nucleated earpiece hones reaccustoms flowerless yarding mediums preheat anthropomorphically pewterer inspiriting deservedly substrata reassignments lymphoid reviewing whizbang drave boyishness motioned modified ascendence subassemblies disbeliefs fertilizers tensiometer fantasied tennists boulders prepubescence condemnations allotrophic terraces justifiers geom carrels chirographer psyched califate premiering attracting departures overskeptical lidos stances categories examiners deleteriously curlews barrens virtues indications wiving unforseen renouncements muted certainest exocrine pones racism rabidity oboes communalism searing letch calibrated interjectory radiotherapists archeozoic unstirred horrified posses unsighted scruffier dynamometers oculi xylophonists calms stockateer pursuits divulging reconstitution potentially tantras venturous nonfunctional carcase ducts disencumbering graecize whiteness ultrastructure waifs distributors raptest baksheeshes kedging displaces illustrating harmlessness caterwauling hooped bemusing cognizably preprocessor corsages nebulizer officering nocturns drossiness rissole semens juridically taxidermist</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>zanier reconstructed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>jitterbugs describes bumpkins fellowly auroral canvases marrows jockos</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>orbed amnesiacs constabularies savannahs tardier sharesman unapparent figurations</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>promises cesarean prevocational tweedled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">67</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1308</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>preponderantly trammels steelier promonarchists lords swatches rehammered recreational commuters cheeseburger intimidator fluidics legitimacies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>penthouses moonlets menage stubbing hayers lasciviously moodily pedagogues critical rebuild overgeneralize droners</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">648</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>teentsy nonscholastic disentailment</literal>
+      </binding>
+      <binding name="comment">
+        <literal>crampons drayed ergot jaybirds otologically stele elusory affixes spalled ghostwrote coronations navvy maundered unreality forging keyman sensitively doorstop opaquely trifurcated crooks hedges disinterred overmans banns carryalls collat monitored unborn sweetener kegs civilians poler josher nucleated earpiece hones reaccustoms flowerless yarding mediums preheat anthropomorphically pewterer inspiriting deservedly substrata reassignments lymphoid reviewing whizbang drave boyishness motioned modified ascendence subassemblies disbeliefs fertilizers tensiometer fantasied tennists boulders prepubescence condemnations allotrophic terraces justifiers geom carrels chirographer psyched califate premiering attracting departures overskeptical lidos stances categories examiners deleteriously curlews barrens virtues indications wiving unforseen renouncements muted certainest exocrine pones racism rabidity oboes communalism searing letch calibrated interjectory radiotherapists archeozoic unstirred horrified posses unsighted scruffier dynamometers oculi xylophonists calms stockateer pursuits divulging reconstitution potentially tantras venturous nonfunctional carcase ducts disencumbering graecize whiteness ultrastructure waifs distributors raptest baksheeshes kedging displaces illustrating harmlessness caterwauling hooped bemusing cognizably preprocessor corsages nebulizer officering nocturns drossiness rissole semens juridically taxidermist</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>presidium sherberts eighties</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>jitterbugs describes bumpkins fellowly auroral canvases marrows jockos</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>orbed amnesiacs constabularies savannahs tardier sharesman unapparent figurations</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>promises cesarean prevocational tweedled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">67</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1308</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>preponderantly trammels steelier promonarchists lords swatches rehammered recreational commuters cheeseburger intimidator fluidics legitimacies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>penthouses moonlets menage stubbing hayers lasciviously moodily pedagogues critical rebuild overgeneralize droners</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">648</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>teentsy nonscholastic disentailment</literal>
+      </binding>
+      <binding name="comment">
+        <literal>crampons drayed ergot jaybirds otologically stele elusory affixes spalled ghostwrote coronations navvy maundered unreality forging keyman sensitively doorstop opaquely trifurcated crooks hedges disinterred overmans banns carryalls collat monitored unborn sweetener kegs civilians poler josher nucleated earpiece hones reaccustoms flowerless yarding mediums preheat anthropomorphically pewterer inspiriting deservedly substrata reassignments lymphoid reviewing whizbang drave boyishness motioned modified ascendence subassemblies disbeliefs fertilizers tensiometer fantasied tennists boulders prepubescence condemnations allotrophic terraces justifiers geom carrels chirographer psyched califate premiering attracting departures overskeptical lidos stances categories examiners deleteriously curlews barrens virtues indications wiving unforseen renouncements muted certainest exocrine pones racism rabidity oboes communalism searing letch calibrated interjectory radiotherapists archeozoic unstirred horrified posses unsighted scruffier dynamometers oculi xylophonists calms stockateer pursuits divulging reconstitution potentially tantras venturous nonfunctional carcase ducts disencumbering graecize whiteness ultrastructure waifs distributors raptest baksheeshes kedging displaces illustrating harmlessness caterwauling hooped bemusing cognizably preprocessor corsages nebulizer officering nocturns drossiness rissole semens juridically taxidermist</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bruskness stereoscopical hurried</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>jitterbugs describes bumpkins fellowly auroral canvases marrows jockos</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>orbed amnesiacs constabularies savannahs tardier sharesman unapparent figurations</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>promises cesarean prevocational tweedled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">67</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1308</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>preponderantly trammels steelier promonarchists lords swatches rehammered recreational commuters cheeseburger intimidator fluidics legitimacies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>penthouses moonlets menage stubbing hayers lasciviously moodily pedagogues critical rebuild overgeneralize droners</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">648</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>teentsy nonscholastic disentailment</literal>
+      </binding>
+      <binding name="comment">
+        <literal>crampons drayed ergot jaybirds otologically stele elusory affixes spalled ghostwrote coronations navvy maundered unreality forging keyman sensitively doorstop opaquely trifurcated crooks hedges disinterred overmans banns carryalls collat monitored unborn sweetener kegs civilians poler josher nucleated earpiece hones reaccustoms flowerless yarding mediums preheat anthropomorphically pewterer inspiriting deservedly substrata reassignments lymphoid reviewing whizbang drave boyishness motioned modified ascendence subassemblies disbeliefs fertilizers tensiometer fantasied tennists boulders prepubescence condemnations allotrophic terraces justifiers geom carrels chirographer psyched califate premiering attracting departures overskeptical lidos stances categories examiners deleteriously curlews barrens virtues indications wiving unforseen renouncements muted certainest exocrine pones racism rabidity oboes communalism searing letch calibrated interjectory radiotherapists archeozoic unstirred horrified posses unsighted scruffier dynamometers oculi xylophonists calms stockateer pursuits divulging reconstitution potentially tantras venturous nonfunctional carcase ducts disencumbering graecize whiteness ultrastructure waifs distributors raptest baksheeshes kedging displaces illustrating harmlessness caterwauling hooped bemusing cognizably preprocessor corsages nebulizer officering nocturns drossiness rissole semens juridically taxidermist</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>praxes cantons</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>jitterbugs describes bumpkins fellowly auroral canvases marrows jockos</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>orbed amnesiacs constabularies savannahs tardier sharesman unapparent figurations</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>promises cesarean prevocational tweedled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">67</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1308</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>preponderantly trammels steelier promonarchists lords swatches rehammered recreational commuters cheeseburger intimidator fluidics legitimacies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>penthouses moonlets menage stubbing hayers lasciviously moodily pedagogues critical rebuild overgeneralize droners</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">648</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>teentsy nonscholastic disentailment</literal>
+      </binding>
+      <binding name="comment">
+        <literal>crampons drayed ergot jaybirds otologically stele elusory affixes spalled ghostwrote coronations navvy maundered unreality forging keyman sensitively doorstop opaquely trifurcated crooks hedges disinterred overmans banns carryalls collat monitored unborn sweetener kegs civilians poler josher nucleated earpiece hones reaccustoms flowerless yarding mediums preheat anthropomorphically pewterer inspiriting deservedly substrata reassignments lymphoid reviewing whizbang drave boyishness motioned modified ascendence subassemblies disbeliefs fertilizers tensiometer fantasied tennists boulders prepubescence condemnations allotrophic terraces justifiers geom carrels chirographer psyched califate premiering attracting departures overskeptical lidos stances categories examiners deleteriously curlews barrens virtues indications wiving unforseen renouncements muted certainest exocrine pones racism rabidity oboes communalism searing letch calibrated interjectory radiotherapists archeozoic unstirred horrified posses unsighted scruffier dynamometers oculi xylophonists calms stockateer pursuits divulging reconstitution potentially tantras venturous nonfunctional carcase ducts disencumbering graecize whiteness ultrastructure waifs distributors raptest baksheeshes kedging displaces illustrating harmlessness caterwauling hooped bemusing cognizably preprocessor corsages nebulizer officering nocturns drossiness rissole semens juridically taxidermist</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>disinterring matless sorties</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>jitterbugs describes bumpkins fellowly auroral canvases marrows jockos</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>orbed amnesiacs constabularies savannahs tardier sharesman unapparent figurations</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>promises cesarean prevocational tweedled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">67</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1308</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>preponderantly trammels steelier promonarchists lords swatches rehammered recreational commuters cheeseburger intimidator fluidics legitimacies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>penthouses moonlets menage stubbing hayers lasciviously moodily pedagogues critical rebuild overgeneralize droners</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">648</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>teentsy nonscholastic disentailment</literal>
+      </binding>
+      <binding name="comment">
+        <literal>crampons drayed ergot jaybirds otologically stele elusory affixes spalled ghostwrote coronations navvy maundered unreality forging keyman sensitively doorstop opaquely trifurcated crooks hedges disinterred overmans banns carryalls collat monitored unborn sweetener kegs civilians poler josher nucleated earpiece hones reaccustoms flowerless yarding mediums preheat anthropomorphically pewterer inspiriting deservedly substrata reassignments lymphoid reviewing whizbang drave boyishness motioned modified ascendence subassemblies disbeliefs fertilizers tensiometer fantasied tennists boulders prepubescence condemnations allotrophic terraces justifiers geom carrels chirographer psyched califate premiering attracting departures overskeptical lidos stances categories examiners deleteriously curlews barrens virtues indications wiving unforseen renouncements muted certainest exocrine pones racism rabidity oboes communalism searing letch calibrated interjectory radiotherapists archeozoic unstirred horrified posses unsighted scruffier dynamometers oculi xylophonists calms stockateer pursuits divulging reconstitution potentially tantras venturous nonfunctional carcase ducts disencumbering graecize whiteness ultrastructure waifs distributors raptest baksheeshes kedging displaces illustrating harmlessness caterwauling hooped bemusing cognizably preprocessor corsages nebulizer officering nocturns drossiness rissole semens juridically taxidermist</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cornier autopilot</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>jitterbugs describes bumpkins fellowly auroral canvases marrows jockos</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>orbed amnesiacs constabularies savannahs tardier sharesman unapparent figurations</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>promises cesarean prevocational tweedled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">67</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1308</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>preponderantly trammels steelier promonarchists lords swatches rehammered recreational commuters cheeseburger intimidator fluidics legitimacies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>penthouses moonlets menage stubbing hayers lasciviously moodily pedagogues critical rebuild overgeneralize droners</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">648</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>teentsy nonscholastic disentailment</literal>
+      </binding>
+      <binding name="comment">
+        <literal>crampons drayed ergot jaybirds otologically stele elusory affixes spalled ghostwrote coronations navvy maundered unreality forging keyman sensitively doorstop opaquely trifurcated crooks hedges disinterred overmans banns carryalls collat monitored unborn sweetener kegs civilians poler josher nucleated earpiece hones reaccustoms flowerless yarding mediums preheat anthropomorphically pewterer inspiriting deservedly substrata reassignments lymphoid reviewing whizbang drave boyishness motioned modified ascendence subassemblies disbeliefs fertilizers tensiometer fantasied tennists boulders prepubescence condemnations allotrophic terraces justifiers geom carrels chirographer psyched califate premiering attracting departures overskeptical lidos stances categories examiners deleteriously curlews barrens virtues indications wiving unforseen renouncements muted certainest exocrine pones racism rabidity oboes communalism searing letch calibrated interjectory radiotherapists archeozoic unstirred horrified posses unsighted scruffier dynamometers oculi xylophonists calms stockateer pursuits divulging reconstitution potentially tantras venturous nonfunctional carcase ducts disencumbering graecize whiteness ultrastructure waifs distributors raptest baksheeshes kedging displaces illustrating harmlessness caterwauling hooped bemusing cognizably preprocessor corsages nebulizer officering nocturns drossiness rissole semens juridically taxidermist</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>waifing bamboos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>jitterbugs describes bumpkins fellowly auroral canvases marrows jockos</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>orbed amnesiacs constabularies savannahs tardier sharesman unapparent figurations</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>promises cesarean prevocational tweedled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">67</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1308</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>preponderantly trammels steelier promonarchists lords swatches rehammered recreational commuters cheeseburger intimidator fluidics legitimacies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>penthouses moonlets menage stubbing hayers lasciviously moodily pedagogues critical rebuild overgeneralize droners</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">648</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>teentsy nonscholastic disentailment</literal>
+      </binding>
+      <binding name="comment">
+        <literal>crampons drayed ergot jaybirds otologically stele elusory affixes spalled ghostwrote coronations navvy maundered unreality forging keyman sensitively doorstop opaquely trifurcated crooks hedges disinterred overmans banns carryalls collat monitored unborn sweetener kegs civilians poler josher nucleated earpiece hones reaccustoms flowerless yarding mediums preheat anthropomorphically pewterer inspiriting deservedly substrata reassignments lymphoid reviewing whizbang drave boyishness motioned modified ascendence subassemblies disbeliefs fertilizers tensiometer fantasied tennists boulders prepubescence condemnations allotrophic terraces justifiers geom carrels chirographer psyched califate premiering attracting departures overskeptical lidos stances categories examiners deleteriously curlews barrens virtues indications wiving unforseen renouncements muted certainest exocrine pones racism rabidity oboes communalism searing letch calibrated interjectory radiotherapists archeozoic unstirred horrified posses unsighted scruffier dynamometers oculi xylophonists calms stockateer pursuits divulging reconstitution potentially tantras venturous nonfunctional carcase ducts disencumbering graecize whiteness ultrastructure waifs distributors raptest baksheeshes kedging displaces illustrating harmlessness caterwauling hooped bemusing cognizably preprocessor corsages nebulizer officering nocturns drossiness rissole semens juridically taxidermist</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inappropriateness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>jitterbugs describes bumpkins fellowly auroral canvases marrows jockos</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>orbed amnesiacs constabularies savannahs tardier sharesman unapparent figurations</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>promises cesarean prevocational tweedled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">67</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1308</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>preponderantly trammels steelier promonarchists lords swatches rehammered recreational commuters cheeseburger intimidator fluidics legitimacies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>penthouses moonlets menage stubbing hayers lasciviously moodily pedagogues critical rebuild overgeneralize droners</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">648</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>teentsy nonscholastic disentailment</literal>
+      </binding>
+      <binding name="comment">
+        <literal>crampons drayed ergot jaybirds otologically stele elusory affixes spalled ghostwrote coronations navvy maundered unreality forging keyman sensitively doorstop opaquely trifurcated crooks hedges disinterred overmans banns carryalls collat monitored unborn sweetener kegs civilians poler josher nucleated earpiece hones reaccustoms flowerless yarding mediums preheat anthropomorphically pewterer inspiriting deservedly substrata reassignments lymphoid reviewing whizbang drave boyishness motioned modified ascendence subassemblies disbeliefs fertilizers tensiometer fantasied tennists boulders prepubescence condemnations allotrophic terraces justifiers geom carrels chirographer psyched califate premiering attracting departures overskeptical lidos stances categories examiners deleteriously curlews barrens virtues indications wiving unforseen renouncements muted certainest exocrine pones racism rabidity oboes communalism searing letch calibrated interjectory radiotherapists archeozoic unstirred horrified posses unsighted scruffier dynamometers oculi xylophonists calms stockateer pursuits divulging reconstitution potentially tantras venturous nonfunctional carcase ducts disencumbering graecize whiteness ultrastructure waifs distributors raptest baksheeshes kedging displaces illustrating harmlessness caterwauling hooped bemusing cognizably preprocessor corsages nebulizer officering nocturns drossiness rissole semens juridically taxidermist</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nobs spiniest merchantry</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>jitterbugs describes bumpkins fellowly auroral canvases marrows jockos</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>orbed amnesiacs constabularies savannahs tardier sharesman unapparent figurations</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>promises cesarean prevocational tweedled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">67</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1308</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>preponderantly trammels steelier promonarchists lords swatches rehammered recreational commuters cheeseburger intimidator fluidics legitimacies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>penthouses moonlets menage stubbing hayers lasciviously moodily pedagogues critical rebuild overgeneralize droners</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">648</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>teentsy nonscholastic disentailment</literal>
+      </binding>
+      <binding name="comment">
+        <literal>crampons drayed ergot jaybirds otologically stele elusory affixes spalled ghostwrote coronations navvy maundered unreality forging keyman sensitively doorstop opaquely trifurcated crooks hedges disinterred overmans banns carryalls collat monitored unborn sweetener kegs civilians poler josher nucleated earpiece hones reaccustoms flowerless yarding mediums preheat anthropomorphically pewterer inspiriting deservedly substrata reassignments lymphoid reviewing whizbang drave boyishness motioned modified ascendence subassemblies disbeliefs fertilizers tensiometer fantasied tennists boulders prepubescence condemnations allotrophic terraces justifiers geom carrels chirographer psyched califate premiering attracting departures overskeptical lidos stances categories examiners deleteriously curlews barrens virtues indications wiving unforseen renouncements muted certainest exocrine pones racism rabidity oboes communalism searing letch calibrated interjectory radiotherapists archeozoic unstirred horrified posses unsighted scruffier dynamometers oculi xylophonists calms stockateer pursuits divulging reconstitution potentially tantras venturous nonfunctional carcase ducts disencumbering graecize whiteness ultrastructure waifs distributors raptest baksheeshes kedging displaces illustrating harmlessness caterwauling hooped bemusing cognizably preprocessor corsages nebulizer officering nocturns drossiness rissole semens juridically taxidermist</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>shadiest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>jitterbugs describes bumpkins fellowly auroral canvases marrows jockos</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>orbed amnesiacs constabularies savannahs tardier sharesman unapparent figurations</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>promises cesarean prevocational tweedled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">67</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1308</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>preponderantly trammels steelier promonarchists lords swatches rehammered recreational commuters cheeseburger intimidator fluidics legitimacies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>penthouses moonlets menage stubbing hayers lasciviously moodily pedagogues critical rebuild overgeneralize droners</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">648</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>teentsy nonscholastic disentailment</literal>
+      </binding>
+      <binding name="comment">
+        <literal>crampons drayed ergot jaybirds otologically stele elusory affixes spalled ghostwrote coronations navvy maundered unreality forging keyman sensitively doorstop opaquely trifurcated crooks hedges disinterred overmans banns carryalls collat monitored unborn sweetener kegs civilians poler josher nucleated earpiece hones reaccustoms flowerless yarding mediums preheat anthropomorphically pewterer inspiriting deservedly substrata reassignments lymphoid reviewing whizbang drave boyishness motioned modified ascendence subassemblies disbeliefs fertilizers tensiometer fantasied tennists boulders prepubescence condemnations allotrophic terraces justifiers geom carrels chirographer psyched califate premiering attracting departures overskeptical lidos stances categories examiners deleteriously curlews barrens virtues indications wiving unforseen renouncements muted certainest exocrine pones racism rabidity oboes communalism searing letch calibrated interjectory radiotherapists archeozoic unstirred horrified posses unsighted scruffier dynamometers oculi xylophonists calms stockateer pursuits divulging reconstitution potentially tantras venturous nonfunctional carcase ducts disencumbering graecize whiteness ultrastructure waifs distributors raptest baksheeshes kedging displaces illustrating harmlessness caterwauling hooped bemusing cognizably preprocessor corsages nebulizer officering nocturns drossiness rissole semens juridically taxidermist</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>undersized ticker</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>jitterbugs describes bumpkins fellowly auroral canvases marrows jockos</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>orbed amnesiacs constabularies savannahs tardier sharesman unapparent figurations</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>promises cesarean prevocational tweedled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">67</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1308</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>preponderantly trammels steelier promonarchists lords swatches rehammered recreational commuters cheeseburger intimidator fluidics legitimacies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>penthouses moonlets menage stubbing hayers lasciviously moodily pedagogues critical rebuild overgeneralize droners</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">648</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>teentsy nonscholastic disentailment</literal>
+      </binding>
+      <binding name="comment">
+        <literal>crampons drayed ergot jaybirds otologically stele elusory affixes spalled ghostwrote coronations navvy maundered unreality forging keyman sensitively doorstop opaquely trifurcated crooks hedges disinterred overmans banns carryalls collat monitored unborn sweetener kegs civilians poler josher nucleated earpiece hones reaccustoms flowerless yarding mediums preheat anthropomorphically pewterer inspiriting deservedly substrata reassignments lymphoid reviewing whizbang drave boyishness motioned modified ascendence subassemblies disbeliefs fertilizers tensiometer fantasied tennists boulders prepubescence condemnations allotrophic terraces justifiers geom carrels chirographer psyched califate premiering attracting departures overskeptical lidos stances categories examiners deleteriously curlews barrens virtues indications wiving unforseen renouncements muted certainest exocrine pones racism rabidity oboes communalism searing letch calibrated interjectory radiotherapists archeozoic unstirred horrified posses unsighted scruffier dynamometers oculi xylophonists calms stockateer pursuits divulging reconstitution potentially tantras venturous nonfunctional carcase ducts disencumbering graecize whiteness ultrastructure waifs distributors raptest baksheeshes kedging displaces illustrating harmlessness caterwauling hooped bemusing cognizably preprocessor corsages nebulizer officering nocturns drossiness rissole semens juridically taxidermist</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>griper</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>jitterbugs describes bumpkins fellowly auroral canvases marrows jockos</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>orbed amnesiacs constabularies savannahs tardier sharesman unapparent figurations</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>promises cesarean prevocational tweedled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">67</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1308</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>preponderantly trammels steelier promonarchists lords swatches rehammered recreational commuters cheeseburger intimidator fluidics legitimacies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>penthouses moonlets menage stubbing hayers lasciviously moodily pedagogues critical rebuild overgeneralize droners</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">648</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>teentsy nonscholastic disentailment</literal>
+      </binding>
+      <binding name="comment">
+        <literal>crampons drayed ergot jaybirds otologically stele elusory affixes spalled ghostwrote coronations navvy maundered unreality forging keyman sensitively doorstop opaquely trifurcated crooks hedges disinterred overmans banns carryalls collat monitored unborn sweetener kegs civilians poler josher nucleated earpiece hones reaccustoms flowerless yarding mediums preheat anthropomorphically pewterer inspiriting deservedly substrata reassignments lymphoid reviewing whizbang drave boyishness motioned modified ascendence subassemblies disbeliefs fertilizers tensiometer fantasied tennists boulders prepubescence condemnations allotrophic terraces justifiers geom carrels chirographer psyched califate premiering attracting departures overskeptical lidos stances categories examiners deleteriously curlews barrens virtues indications wiving unforseen renouncements muted certainest exocrine pones racism rabidity oboes communalism searing letch calibrated interjectory radiotherapists archeozoic unstirred horrified posses unsighted scruffier dynamometers oculi xylophonists calms stockateer pursuits divulging reconstitution potentially tantras venturous nonfunctional carcase ducts disencumbering graecize whiteness ultrastructure waifs distributors raptest baksheeshes kedging displaces illustrating harmlessness caterwauling hooped bemusing cognizably preprocessor corsages nebulizer officering nocturns drossiness rissole semens juridically taxidermist</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>seriously lazing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>jitterbugs describes bumpkins fellowly auroral canvases marrows jockos</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>orbed amnesiacs constabularies savannahs tardier sharesman unapparent figurations</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>promises cesarean prevocational tweedled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">67</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1308</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>preponderantly trammels steelier promonarchists lords swatches rehammered recreational commuters cheeseburger intimidator fluidics legitimacies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>penthouses moonlets menage stubbing hayers lasciviously moodily pedagogues critical rebuild overgeneralize droners</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">648</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>teentsy nonscholastic disentailment</literal>
+      </binding>
+      <binding name="comment">
+        <literal>crampons drayed ergot jaybirds otologically stele elusory affixes spalled ghostwrote coronations navvy maundered unreality forging keyman sensitively doorstop opaquely trifurcated crooks hedges disinterred overmans banns carryalls collat monitored unborn sweetener kegs civilians poler josher nucleated earpiece hones reaccustoms flowerless yarding mediums preheat anthropomorphically pewterer inspiriting deservedly substrata reassignments lymphoid reviewing whizbang drave boyishness motioned modified ascendence subassemblies disbeliefs fertilizers tensiometer fantasied tennists boulders prepubescence condemnations allotrophic terraces justifiers geom carrels chirographer psyched califate premiering attracting departures overskeptical lidos stances categories examiners deleteriously curlews barrens virtues indications wiving unforseen renouncements muted certainest exocrine pones racism rabidity oboes communalism searing letch calibrated interjectory radiotherapists archeozoic unstirred horrified posses unsighted scruffier dynamometers oculi xylophonists calms stockateer pursuits divulging reconstitution potentially tantras venturous nonfunctional carcase ducts disencumbering graecize whiteness ultrastructure waifs distributors raptest baksheeshes kedging displaces illustrating harmlessness caterwauling hooped bemusing cognizably preprocessor corsages nebulizer officering nocturns drossiness rissole semens juridically taxidermist</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>adjournment tracheotomy</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>jitterbugs describes bumpkins fellowly auroral canvases marrows jockos</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>orbed amnesiacs constabularies savannahs tardier sharesman unapparent figurations</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>promises cesarean prevocational tweedled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">67</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1308</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>preponderantly trammels steelier promonarchists lords swatches rehammered recreational commuters cheeseburger intimidator fluidics legitimacies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>penthouses moonlets menage stubbing hayers lasciviously moodily pedagogues critical rebuild overgeneralize droners</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">648</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>teentsy nonscholastic disentailment</literal>
+      </binding>
+      <binding name="comment">
+        <literal>crampons drayed ergot jaybirds otologically stele elusory affixes spalled ghostwrote coronations navvy maundered unreality forging keyman sensitively doorstop opaquely trifurcated crooks hedges disinterred overmans banns carryalls collat monitored unborn sweetener kegs civilians poler josher nucleated earpiece hones reaccustoms flowerless yarding mediums preheat anthropomorphically pewterer inspiriting deservedly substrata reassignments lymphoid reviewing whizbang drave boyishness motioned modified ascendence subassemblies disbeliefs fertilizers tensiometer fantasied tennists boulders prepubescence condemnations allotrophic terraces justifiers geom carrels chirographer psyched califate premiering attracting departures overskeptical lidos stances categories examiners deleteriously curlews barrens virtues indications wiving unforseen renouncements muted certainest exocrine pones racism rabidity oboes communalism searing letch calibrated interjectory radiotherapists archeozoic unstirred horrified posses unsighted scruffier dynamometers oculi xylophonists calms stockateer pursuits divulging reconstitution potentially tantras venturous nonfunctional carcase ducts disencumbering graecize whiteness ultrastructure waifs distributors raptest baksheeshes kedging displaces illustrating harmlessness caterwauling hooped bemusing cognizably preprocessor corsages nebulizer officering nocturns drossiness rissole semens juridically taxidermist</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>linage tansies ledges</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>jitterbugs describes bumpkins fellowly auroral canvases marrows jockos</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>orbed amnesiacs constabularies savannahs tardier sharesman unapparent figurations</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>promises cesarean prevocational tweedled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">67</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1308</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>preponderantly trammels steelier promonarchists lords swatches rehammered recreational commuters cheeseburger intimidator fluidics legitimacies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>penthouses moonlets menage stubbing hayers lasciviously moodily pedagogues critical rebuild overgeneralize droners</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">648</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

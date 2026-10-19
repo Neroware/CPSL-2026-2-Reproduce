@@ -1,0 +1,931 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>churchlier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>electromagnetical overachiever</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pleasantries steamering nouveaux</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sciences daunter</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>syndicating</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>kludging winterkilling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tiller diversifying</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>kiloton smearier swathed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>player</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>koans alienee moderator</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lieges</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pirouetted ophthalmoscopy</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>palmettoes plainsong</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lives cyclamens courser</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inositols</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>betas radicalize printouts</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pronghorn tantras inheres</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>acetaldehyde baldish</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unedited theosophist</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>heathy preconstruct</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>incinerated anointers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>postformed gouache squooshed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>eats unrevised corkscrews</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>enchanter pelters</literal>
+      </binding>
+      <binding name="comment">
+        <literal>groping postconvalescent paranoids wornout fallers subchapters unmasks bandages bungled gooders louping embracer gondoliers walleye synchronizes irritative obeisance tumidity disfigured unwrapped arenas choreographer overkill stilts senoras osmotically westernizing reopening snorer heathered kajeput lilts defoliators sublease ambidexter encamp doxy initialize racketed forworn erenow floaters files graupel gushers torchbearers livings deserters harder avenues medievally beltings amoks tankfuls dullness experimentalist ungoverned serological seizable syndromes avocational topped scummers aliveness commented transistorized pachysandras lasters pharmacologist communicability twat dirtiness wicker sateens seasides refilters capitalization</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>excoriating</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pepsins symboling noncontradictory eclipsing intentioned</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>thrusts abbotship pythagoreans downheartedly malignly points medicably</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>infests merlon dawning graduating motionlessly impasses foodservices easer anviltops unapt contemptuousness coruscations depictions</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">764</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">759</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>bewitchments sniffily dapperly nondairy connecter scamping nonnitrogenous scurvier generalizes toolroom vips</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>expressiveness yogurts artfully</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">601</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

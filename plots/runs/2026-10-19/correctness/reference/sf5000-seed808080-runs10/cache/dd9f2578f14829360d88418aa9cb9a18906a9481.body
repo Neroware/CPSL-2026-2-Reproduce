@@ -1,0 +1,779 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>byroads newswoman advocatory</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ideogram banterer spellbinds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>butted purring</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nonmeasurable physiologist</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>afrikaans naiads</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>oversimplify</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tenacities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>chaldron compiles</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dioxides molto</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>adjuror violoncellos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>indians</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cunnings unsafely</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>reinvolve humanistically</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>spatular</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cherisher</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>entrapped gelatinize</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>immovability creatively</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>raised fortresses intangibilities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>daleths</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>filigreeing ashlar</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glycerols purposefully towages futilely bacchanalias disallowed bouncingly fandom fingernails solves hesitantly hearting tubercle filmier righted departures workings glops piecings tinkly kithara nicely idealism fractionalizing pharisaical sluggishly shelves polecats girns descendants presell exogenously preinserting clerkly excepting copyboys bridges heroizes oleanders echoers eses composted plunking junkyards brickyard aggregational lawed townsfolk involver shrugs facials nonconformism</literal>
+      </binding>
+      <binding name="producer">
+        <literal>contentiously portcullis spotlights</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>shopgirl innovations colly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>casement hotted unquestionable unhitching nonacid bosomy clarifiable cuspids configurational impetigo amphitheaters inveigling conversationally foretasted debriefings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>forded shellack resumes ringnecks gimleted deliberating censuses waked</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>redacted nonessentials delicatessens</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">371</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>allotropy elms cruet coveralls pschent crispest procreative cussedly quadrics</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>intrusively presumably bumpered chams rearrested eolith machines undersells informs pressor leukocytes retook subdefinition scattiest</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1373</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

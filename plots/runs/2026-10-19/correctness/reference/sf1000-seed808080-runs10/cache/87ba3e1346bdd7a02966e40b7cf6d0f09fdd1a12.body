@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="productLabel"/>
+    <variable name="offer"/>
+    <variable name="price"/>
+    <variable name="vendor"/>
+    <variable name="vendorTitle"/>
+    <variable name="review"/>
+    <variable name="revTitle"/>
+    <variable name="reviewer"/>
+    <variable name="revName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+  </head>
+  <results>
+    <result>
+      <binding name="productLabel">
+        <literal>immunizing incommodious woolly</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review45</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>glowflies immigration mendicants freeheartedly disfranchises huffiest straggliest jangles loftiness pyrogen misemploys psoriases</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer3</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Danijela-Adalbrand</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>immunizing incommodious woolly</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review343</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>unthought forested favouring reflux defensibility nereis unassumingly subcommissioners guns ctrl twirp</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer18</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Emmy</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>immunizing incommodious woolly</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review1320</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>hospitalizations cellblocks gnotobiotic tangs uninvitingly gimp oblongs mycologist samisen accessability nagger dimities</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer66</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ulrich-Lambertinae</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>immunizing incommodious woolly</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review2137</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>misadvising immuring housecleaned scriving repetitiously filicides cribbed leasable censed daises</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer107</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Kimberly-Katsuyuki</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>immunizing incommodious woolly</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review5003</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>sessional reusableness superber windrowing woodworms perfectibility</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer245</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Marionilla-Cheri</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>immunizing incommodious woolly</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review5623</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>unicycles pelters douses antifascists renegotiate jacketless schoolchild</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer274</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Zaitoona-Mona</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>immunizing incommodious woolly</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6491</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>fender slunk physiques necrotize redwoods tackier complimenters postfixes furlers mony salesroom relet appellors</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer316</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Carrola</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>immunizing incommodious woolly</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review7203</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>clabbered fatteners hypnotize laboratorially bleaches orchestrated direfully enfettered airfields dredgers fawns</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer353</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Adriana-Mubarak</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>immunizing incommodious woolly</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8440</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>gyration potterer extranuclear sofas libretti punners poopsie clans utilitarianism indentor cleaner torpidly sashays coheres bordures</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer420</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Garrett-Myshka</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

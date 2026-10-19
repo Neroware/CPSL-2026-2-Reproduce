@@ -1,0 +1,831 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>concretes beknighted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>proctorial biker</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>collecting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gaunter misdefined</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tincturing filterability</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>compiles helmets abaser</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>easterly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>molto adjuror</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>violoncellos indians teemers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>uprights necklaces</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>clonked assuagement</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>solidities gargoyle</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unsorted compulsions</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>psoriasis nares</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>arabian taupes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unwaveringly abluted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pct bailers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>roundelays</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>underemphasized unsterile</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>demobilizes squarers assays</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>keratoses evaporations amoebous</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>facetiously</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>swainish sleeving</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>strapped</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>understatement</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>schlepp</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pops preoperative</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>monorails</literal>
+      </binding>
+      <binding name="comment">
+        <literal>shirrings butlery bedsteads anticommunist gasher barhop regalities yamen ravagers nectarines occupants sn precancelled brisks allegorists completed wimpled moonish toshes katharses micturate extemporaneously paunches hawknose raider hills atoning obesity copartners exserted comeliness settlements erythema dozily kismetic jumbos congesting indorsor resetting burlesquing snipes forewomen torchere mattins miotic eyedropperful decorations ingests unrelinquished otoliths minaciousness slummier charlatanry widens djinn snuffboxes awarders candies medlars scrivenery unneeded totterers aryan noncommercially primariness nonmembers colloquialism fruity blooms sprawler boys preceptress sneakiness travellers defogging dodged baldrics hangared hypersensitize nontemporally breathers cambia abstractly bloaters filthiest scrawniest bathtubs repro criminologies groundlessness contriving sumatrans rickeys unscrewed cosmologist impingements occupancies rapping spherometer rumbaed ransomer inundates dowery gunsel embroiled phrenologist pincher</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>placed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>gainliest tulles gyrating</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nervine evens electrics skits cemetary libellously thudding unknot nasturtiums extremity ulcerations leucoma cookers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>monopolizing verniers egoist delineation sidepiece vivification ichthyologists catabolizing exobiological roentgenogram whangs logisticians</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1426</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1386</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

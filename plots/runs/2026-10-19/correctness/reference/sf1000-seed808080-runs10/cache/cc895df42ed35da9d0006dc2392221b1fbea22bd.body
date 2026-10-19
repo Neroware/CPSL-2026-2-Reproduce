@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="text"/>
+    <variable name="reviewDate"/>
+    <variable name="reviewer"/>
+    <variable name="reviewerName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+    <variable name="rating3"/>
+    <variable name="rating4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="title">
+        <literal>pilloried overprinted shoaliest burliest unspecified icinesses cheesed brie</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">provolone entrancements kowtowed hefters ingle discountable preempted hyperactivities simplifiers gamy unsparingly sandstorm dreariest rears barmen mystifications fritters enc warbler underemphasizes longing odorizing replans viewfinders narcotizes substitutional opacify negotiatrix daisies retrogressing tootler chiseled hematologies bossism jotted conceivers gonopores manufactory recants plangency sarcomas inexpressibly outshone muckraked selfdom wheelbarrows coshing begum meatiness ped followed vastness staphylococcal afb enormously grammy antinucleon rubberized aneurism tourer telegraphed restart wabbly excreted bittier respondencies zetas noisily heired accretes antiradicals lavalava alkalies frivoler unbrushed contaminating funnily protocols arithmetically criticizing encephalomyelitis punchy sidelights untypical roofers triangulation pilchard tankships sightly excavating lightheartedness underflow</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-07-22T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer358</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Amana</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

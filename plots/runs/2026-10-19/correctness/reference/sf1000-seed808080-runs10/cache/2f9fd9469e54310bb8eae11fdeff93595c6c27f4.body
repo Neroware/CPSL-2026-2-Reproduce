@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer16/Product750</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>acids jests parodying</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer10/Product466</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>actuality</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer3/Product126</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>audads</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer20/Product911</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>bastioned ubiquities</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer7/Product312</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>commandeers aspiration zwiebacks</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer14/Product647</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>cutlery reconverted</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer9/Product449</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>defensively</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer15/Product694</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>nahuatls terrifiers direr</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer9/Product432</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>premeditates</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer2/Product62</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>seminarians</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer7/Product279</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>shopgirl innovations colly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer18/Product840</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>sucking voidable</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

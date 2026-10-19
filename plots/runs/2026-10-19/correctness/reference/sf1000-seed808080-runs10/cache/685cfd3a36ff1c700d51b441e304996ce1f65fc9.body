@@ -1,0 +1,659 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>typebar secludedness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sheaves benchmarked</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>matureness formless</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>harpooning properties tropia</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>fantasizing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>injured canard fauvists</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tiercels</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cedars iambics</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inducting spurted knucklebones</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>fieriest metastasis</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>realization musketry cannabinol</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inquisitors primevally reparations</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>riders fatherlands</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cadency drizzled brigading</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>fawning separableness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>slinks murmurs</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>obstructor qual icecaps</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>containers pailful</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>filially</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>packthreads vegetal complimentarily</literal>
+      </binding>
+      <binding name="comment">
+        <literal>contingents wrasses reexamining smiting dognaper sunroof obscurantism shreds ambulators forjudged guttered inflated reformating hafts debunking caitiffs invitations sarcasms imprecations bibliographers litterateurs combaters intermediacy wobbliest revellings punishing murker undertone jimmying presidents latinizing devastator burnishes parietal visitatorial sallied rejudge fleabitten misgive unfixed bigly blameworthiness screwiest civilise splenectomize jackal follicles adamantine solaria shellacked underfinances dulcify fixe dishevelments corking epilogs stroked lollies senna verniers hamperers stingingly frequenter nonperformance walleyed princeling enlightening brontosaurs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>grantees carols beastly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>xx browned sumos discoursing kins feminacies gipsied</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>innholder lidar cumulonimbus</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>inadmissibility reconverts lengthens apelike recombines revivals herefords replated oversights</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1114</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1218</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>caldron cheapskate confines</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

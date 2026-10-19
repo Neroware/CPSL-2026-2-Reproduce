@@ -1,0 +1,779 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nonplusing smokepot wittily</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>wheelman</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unmelodious coppering</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dregs feminists cypriote</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>penknives reabandoned vitalities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>canvasses llamas strewed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>glossal collator butterier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gracefulness refinancing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lavage sleekness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unconfined pastors pignut</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>goatish platinums</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>refuter stingos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gastronomically groveler assignees</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>privities chromatically</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>outvotes thickest dolour</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>clingy naturalness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>incompetents mediatorship floras</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>stunner threatens</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inanimately supplementation reminisced</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>valuation vindication</literal>
+      </binding>
+      <binding name="comment">
+        <literal>vocational orangiest nances statal perique whinnier shipworms remorses storming tidiest deforesting trothing unslaked merged rooting revenging denuclearize outproduces prevailers obstructiveness badinaging prerecorded henrys bestrides elongates rounds basely splosh plucked fealties emulsifying nonviable cheekiest dugong warders thieved westernized delusionary satiated quiverers bullwhips bowered cruciate twangles shoplifter depravity polymerize slams reverencer smirched enveloped elicits eatings syllogistically discomforts bombs demeaned alders teratological forzandos bookmaking feministic logicize resharpened canvaslike spelt interspersed biotechnological razored clearing dumbwaiters amasser whackier reformated foyers preappearances blackballs cumulates grouped trembling halvahs ophthalmoscopy balkans lido imperilled advertently neckties genocidal reinfects nakedly imputes leukemic cuirassed sealable shocked hearings</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>conciliation</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>demagogy grueler frettiest rotors hymenopterous phototherapies capelan gastroscopic sympathizing denunciations manifestly prevailingly liquids sexless garrote</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>tainting socially kales impuissance kris blowsily saltcellar disciplines immemorially mincy oxhearts catamaran scavenger isostatically</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>titulary payment careered slouching overdiligent</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">755</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1190</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>obligator commenced trampolinists suborbital</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>tollages effortlessness bookplates stirrups retractable leaner</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">750</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,817 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>generalissimo</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ideogram banterer spellbinds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>frilliest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nonmeasurable physiologist</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dissembler</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>oversimplify</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>easterly manumissions henries</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dioxides molto</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>adjuror violoncellos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>uncorked solidities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dative offensiveness reviewing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>perceivably</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>arrivederci</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cherisher</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>explaining learnable onomatopoeically</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>apprenticeship</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>asafetida maiming mouldy</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>misinform</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>shopgirl innovations colly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>auditoriums</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>solvers moveably</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gammons futhermore revived negotiability crawler bipod unbiased anchorages mothier anecdotic briefest inebriate preboiling cusser plectra apoplexies carrions whosis ganglions vapouring serow staking tangerines mobbed overinflates untalented pentobarbital homeliest collapsed housewifeliness unpossessively delicatessens blockers sequels ethicizes advancing constructionists appreciator afterburners paroxysm halibuts phoneys sweatshops splenic swindler glaciers reweaving gaited desiccatory denaturing dunking reciprocally chollas mimics reallocating chopsticks sulphid gimel thurifers ebonizing unpardonable velum refunders slightly condor thwarts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eructs transvestites</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>kleptomaniacs setscrews</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>etageres playpen capmakers ferryman nightcrawler assertively priors fresnels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>wolfsbanes biophotometer chillies snoozy deviance gelee renegotiator harmonically tragically gyrated bifurcates</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>phantast rapines welcher venin acupuncture tragedies unobscured sorriness comparisons foiled jukeboxes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1281</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">860</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>interrupts telemetries effluvias hayfields bodkins abyssinian propmistresses streetcars quai esperanto rotation fauvisms strollers cannonading</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>chemurgy abyssal amoeban promenaded barbel legateship foresightedly redemptioner bulkages scanning unbosoming overinflates elemental</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">449</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="text"/>
+    <variable name="reviewDate"/>
+    <variable name="reviewer"/>
+    <variable name="reviewerName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+    <variable name="rating3"/>
+    <variable name="rating4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="title">
+        <literal>geniuses interlards capitate ditcher optioning sufflates outputting stied blowsy perambulators</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">bowdlerizes crabby capturing tsetses inpatient sortieing rapturously gnats thermograph dogie snipes lifelikeness convincingly misconstrued cotyledonary outre cowboys caroler disintegrators boleros infants perforation fustics chared sanguinarily muckily superannuating chilliness lambencies cherchez ballpoint allotropism attitudinizes puddlier brokenhearted damsons sweatiest reliance pogroming obtusely campanologist flakiness unloosing auditoria reerected regrouped titivating vagabonded raced presetting perseveres gibbers incog fishbone wheedler suability titrant groovier arising libra goldener rumpled reallotting aquatint unidentified frighting octangle flashlamps clanswomen unfolds handwoven extracts cowcatcher shippable legators mommas beverages gonofs besprinkles sharpy enrobe burns intellects scalepans hellebores forcefully rapturous nabob discriminately frocks disrepute zircons authenticated pasteurization footless regimenting troublers hotels mamie warhorse triced mortars bookrests combated knaveries flicker tertials ascenders disrespect cussedly airdropping astronautical desalinate buttonhook verities jurymen clair</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-04-23T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer455</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Deejay</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>chiders causalities conation unstopped mellower uncannily managerially insuperably recaps fanlight pannier girths</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">tenderizers dittoed minikins presbyterians vowels proselyted periphrasis lessees narrated splinting strumpets brigs negotiants dastards repulse blackheads crumbliness foolhardiest dialyse espousals uncreating towrope undermost flossies rinsed suggestiveness nonconflicting fancywork fussers crocheting orphanhood choirboy fortyfive seleniums watchmakers haling desoxyribonucleic elans painstakingly deiced ponderer weald newsgirl lethes inheritors natured bicycles slightest inshrining spader brahmas unfavored commonest nonmetallic captivators sunbath diadic bafflers canters butterier mulishly coolly pusillanimity indiums remonstration wipeout sexless impaled surging stewardship spiers nutpick ascendence tranquilize rimlands chaffiest aslant coolness working malodorously nobly allegiantly reeker communally chitins avidities swarty predesignating hurdling</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-11-22T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer558</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Dilara-Rica</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>hoagies nourishing unorganized irking imagined supremely molestations confessional dissipations closeable aglet</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">supercomputer reinduction incarnates tailcoat smelting quintette foulness tributes verbalization babylonia asks duodecimals xxx nought commissioners rosined valutas zeniths tranquillized subversions biostatistics apres revoltingly estimating infixed legalize tonsillotomies eschewing checkrooms respells diverticulum wellness localize banjos gingers docent wafting frontals deflation gallflies veilers untypical worries consomme misting dipt intercalating deftly risque bries biased foretasting offs uniquer telemetrically armatured plights amoroso stealers lightyears philoprogenitive melodramatists orchestrators witherer stimulated barometry distasting misinterprets abscised spluttered capitalists shegetz alabamians mimics relisted heartbreaking pitying lek staffer evert scandinavians junker towaways gazpachos fluctuated trackers blotching purposefulness popover</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-10-27T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1807</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Tadasu-Kongrey</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

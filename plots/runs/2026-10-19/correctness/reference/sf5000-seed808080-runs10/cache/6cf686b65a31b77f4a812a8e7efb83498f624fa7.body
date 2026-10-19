@@ -1,0 +1,628 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cognized</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>rearguing coccygeal dagobas</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>headlands</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bunko pseudointellectuals</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>diopters bettas swerved</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>defused botanies niters</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>polyethylene</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>anesthesiologist preadolescents</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unlettable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>flexibly undervalue</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>channels</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>enspheres</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>extincting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>kip maladministering wingbacks</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>counterpoises trysted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>uroscopic gyrations</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bugbearish sulphurs bedders</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>indued counter portiered</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unpardonably gauntest denominationally</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>oilcup disturbances compartmentalize</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deltaic hackie</literal>
+      </binding>
+      <binding name="comment">
+        <literal>flexes unintellectual metricating sackcloth manifestations faqirs unperturbed injuries woodmen electrified supplementation catsups demagnetizing spongins endomorphic revivals tanglier arthrography unmanning unmolded omicrons goatees nepenthes types colonization recommit grottos whoresons chidden unquestionably bilateralities tannings scarcely oilskin bulldogging boyfriends emboldened propensities campings laywomen logistical nitpicking gooks wallowed mussier vixens endeavoured trueness blazoner subprovinces gillnets meteoroids chintzier stepups draftsmanship pterodactyls quarterbacks unobtrusive absorbencies planish photophobic eyestrain ensnarled nonexistence yawner ejaculating fishtailing ensured blatancy allotments avions midges grandioseness formulates kooky twigs greeds scorcher keelhaul shoeing cogway unharnessed swimmy resettings tapered timer wenchers haplessly steaded pistoling levering approver nitration maladjustment skag explanations entrain pricy nuttiest pigeonholing accommodators hauntingly externs bogeyman agility catechizes reamer sophist mismarriage forming perspiry scintillated says undercharges iterative coagent cheekiest vips conventual martins</literal>
+      </binding>
+      <binding name="producer">
+        <literal>consultations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pensioner muskmelons</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>predestining overemphasized bocks athenaeums atelier seacoasts homelands pinkishness pools arisings plausibility</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>genteelness sneeringly automatize chekhov henrys horning macs fluorescing reappraisement charnel</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quakes outgrowths humanization bonding enfranchisement budges loaner coif</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">557</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">147</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

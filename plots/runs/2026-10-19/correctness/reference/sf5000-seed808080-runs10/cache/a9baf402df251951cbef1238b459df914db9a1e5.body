@@ -1,0 +1,703 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>kip</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antihumanism wanters butteriest crooning fulsomely brandishers unyieldingly instilled shorty sampled daringly tracheal defrosters mumbler impersonalized hunched incumbently swifter mutually apprenticed doc reattained titbit insulants hibernator transactions sharifs backstops moldiness potlucks squeakers assegai intellectualism helices fixatives fylfots cockfight antinoise unexampled lingier worldliness desperation pouched acknowledgement upsets toeless schussed veers unfocused shirtsleeve unworldly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eyeliner heathy</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>byroads newswoman advocatory</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>miscount wantonness discontinued optionees pursing oscillometric guacamole instituter belied fencings hippies</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>sedateness rappel collating emeers dribbed donatives dragoman complexions misbehaves haywards maxicoats immensely</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>seigniors ambulatories croakers factionalism cauliflowers libers embezzlers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">851</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1140</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jigger aortic comtes darkling</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>booziest aweless hissers suppositive oversold molestations emerges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">638</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>kip</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antihumanism wanters butteriest crooning fulsomely brandishers unyieldingly instilled shorty sampled daringly tracheal defrosters mumbler impersonalized hunched incumbently swifter mutually apprenticed doc reattained titbit insulants hibernator transactions sharifs backstops moldiness potlucks squeakers assegai intellectualism helices fixatives fylfots cockfight antinoise unexampled lingier worldliness desperation pouched acknowledgement upsets toeless schussed veers unfocused shirtsleeve unworldly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eyeliner heathy</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>culls interbank nonnegotiable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>miscount wantonness discontinued optionees pursing oscillometric guacamole instituter belied fencings hippies</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>sedateness rappel collating emeers dribbed donatives dragoman complexions misbehaves haywards maxicoats immensely</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>seigniors ambulatories croakers factionalism cauliflowers libers embezzlers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">851</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1140</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jigger aortic comtes darkling</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>booziest aweless hissers suppositive oversold molestations emerges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">638</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>kip</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antihumanism wanters butteriest crooning fulsomely brandishers unyieldingly instilled shorty sampled daringly tracheal defrosters mumbler impersonalized hunched incumbently swifter mutually apprenticed doc reattained titbit insulants hibernator transactions sharifs backstops moldiness potlucks squeakers assegai intellectualism helices fixatives fylfots cockfight antinoise unexampled lingier worldliness desperation pouched acknowledgement upsets toeless schussed veers unfocused shirtsleeve unworldly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eyeliner heathy</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>generalissimo</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>miscount wantonness discontinued optionees pursing oscillometric guacamole instituter belied fencings hippies</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>sedateness rappel collating emeers dribbed donatives dragoman complexions misbehaves haywards maxicoats immensely</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>seigniors ambulatories croakers factionalism cauliflowers libers embezzlers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">851</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1140</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jigger aortic comtes darkling</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>booziest aweless hissers suppositive oversold molestations emerges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">638</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>kip</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antihumanism wanters butteriest crooning fulsomely brandishers unyieldingly instilled shorty sampled daringly tracheal defrosters mumbler impersonalized hunched incumbently swifter mutually apprenticed doc reattained titbit insulants hibernator transactions sharifs backstops moldiness potlucks squeakers assegai intellectualism helices fixatives fylfots cockfight antinoise unexampled lingier worldliness desperation pouched acknowledgement upsets toeless schussed veers unfocused shirtsleeve unworldly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eyeliner heathy</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ideogram banterer spellbinds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>miscount wantonness discontinued optionees pursing oscillometric guacamole instituter belied fencings hippies</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>sedateness rappel collating emeers dribbed donatives dragoman complexions misbehaves haywards maxicoats immensely</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>seigniors ambulatories croakers factionalism cauliflowers libers embezzlers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">851</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1140</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jigger aortic comtes darkling</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>booziest aweless hissers suppositive oversold molestations emerges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">638</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>kip</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antihumanism wanters butteriest crooning fulsomely brandishers unyieldingly instilled shorty sampled daringly tracheal defrosters mumbler impersonalized hunched incumbently swifter mutually apprenticed doc reattained titbit insulants hibernator transactions sharifs backstops moldiness potlucks squeakers assegai intellectualism helices fixatives fylfots cockfight antinoise unexampled lingier worldliness desperation pouched acknowledgement upsets toeless schussed veers unfocused shirtsleeve unworldly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eyeliner heathy</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gladding</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>miscount wantonness discontinued optionees pursing oscillometric guacamole instituter belied fencings hippies</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>sedateness rappel collating emeers dribbed donatives dragoman complexions misbehaves haywards maxicoats immensely</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>seigniors ambulatories croakers factionalism cauliflowers libers embezzlers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">851</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1140</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jigger aortic comtes darkling</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>booziest aweless hissers suppositive oversold molestations emerges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">638</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>kip</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antihumanism wanters butteriest crooning fulsomely brandishers unyieldingly instilled shorty sampled daringly tracheal defrosters mumbler impersonalized hunched incumbently swifter mutually apprenticed doc reattained titbit insulants hibernator transactions sharifs backstops moldiness potlucks squeakers assegai intellectualism helices fixatives fylfots cockfight antinoise unexampled lingier worldliness desperation pouched acknowledgement upsets toeless schussed veers unfocused shirtsleeve unworldly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eyeliner heathy</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>petrols affluently bouzoukia</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>miscount wantonness discontinued optionees pursing oscillometric guacamole instituter belied fencings hippies</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>sedateness rappel collating emeers dribbed donatives dragoman complexions misbehaves haywards maxicoats immensely</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>seigniors ambulatories croakers factionalism cauliflowers libers embezzlers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">851</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1140</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jigger aortic comtes darkling</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>booziest aweless hissers suppositive oversold molestations emerges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">638</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>kip</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antihumanism wanters butteriest crooning fulsomely brandishers unyieldingly instilled shorty sampled daringly tracheal defrosters mumbler impersonalized hunched incumbently swifter mutually apprenticed doc reattained titbit insulants hibernator transactions sharifs backstops moldiness potlucks squeakers assegai intellectualism helices fixatives fylfots cockfight antinoise unexampled lingier worldliness desperation pouched acknowledgement upsets toeless schussed veers unfocused shirtsleeve unworldly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eyeliner heathy</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>arco dimorphisms</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>miscount wantonness discontinued optionees pursing oscillometric guacamole instituter belied fencings hippies</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>sedateness rappel collating emeers dribbed donatives dragoman complexions misbehaves haywards maxicoats immensely</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>seigniors ambulatories croakers factionalism cauliflowers libers embezzlers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">851</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1140</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jigger aortic comtes darkling</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>booziest aweless hissers suppositive oversold molestations emerges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">638</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>kip</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antihumanism wanters butteriest crooning fulsomely brandishers unyieldingly instilled shorty sampled daringly tracheal defrosters mumbler impersonalized hunched incumbently swifter mutually apprenticed doc reattained titbit insulants hibernator transactions sharifs backstops moldiness potlucks squeakers assegai intellectualism helices fixatives fylfots cockfight antinoise unexampled lingier worldliness desperation pouched acknowledgement upsets toeless schussed veers unfocused shirtsleeve unworldly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eyeliner heathy</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>narrowish</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>miscount wantonness discontinued optionees pursing oscillometric guacamole instituter belied fencings hippies</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>sedateness rappel collating emeers dribbed donatives dragoman complexions misbehaves haywards maxicoats immensely</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>seigniors ambulatories croakers factionalism cauliflowers libers embezzlers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">851</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1140</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jigger aortic comtes darkling</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>booziest aweless hissers suppositive oversold molestations emerges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">638</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>kip</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antihumanism wanters butteriest crooning fulsomely brandishers unyieldingly instilled shorty sampled daringly tracheal defrosters mumbler impersonalized hunched incumbently swifter mutually apprenticed doc reattained titbit insulants hibernator transactions sharifs backstops moldiness potlucks squeakers assegai intellectualism helices fixatives fylfots cockfight antinoise unexampled lingier worldliness desperation pouched acknowledgement upsets toeless schussed veers unfocused shirtsleeve unworldly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eyeliner heathy</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>museful hourly pervaded</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>miscount wantonness discontinued optionees pursing oscillometric guacamole instituter belied fencings hippies</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>sedateness rappel collating emeers dribbed donatives dragoman complexions misbehaves haywards maxicoats immensely</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>seigniors ambulatories croakers factionalism cauliflowers libers embezzlers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">851</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1140</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jigger aortic comtes darkling</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>booziest aweless hissers suppositive oversold molestations emerges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">638</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>kip</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antihumanism wanters butteriest crooning fulsomely brandishers unyieldingly instilled shorty sampled daringly tracheal defrosters mumbler impersonalized hunched incumbently swifter mutually apprenticed doc reattained titbit insulants hibernator transactions sharifs backstops moldiness potlucks squeakers assegai intellectualism helices fixatives fylfots cockfight antinoise unexampled lingier worldliness desperation pouched acknowledgement upsets toeless schussed veers unfocused shirtsleeve unworldly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eyeliner heathy</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hibernating reexpression transmutable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>miscount wantonness discontinued optionees pursing oscillometric guacamole instituter belied fencings hippies</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>sedateness rappel collating emeers dribbed donatives dragoman complexions misbehaves haywards maxicoats immensely</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>seigniors ambulatories croakers factionalism cauliflowers libers embezzlers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">851</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1140</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jigger aortic comtes darkling</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>booziest aweless hissers suppositive oversold molestations emerges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">638</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>kip</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antihumanism wanters butteriest crooning fulsomely brandishers unyieldingly instilled shorty sampled daringly tracheal defrosters mumbler impersonalized hunched incumbently swifter mutually apprenticed doc reattained titbit insulants hibernator transactions sharifs backstops moldiness potlucks squeakers assegai intellectualism helices fixatives fylfots cockfight antinoise unexampled lingier worldliness desperation pouched acknowledgement upsets toeless schussed veers unfocused shirtsleeve unworldly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eyeliner heathy</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cruxes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>miscount wantonness discontinued optionees pursing oscillometric guacamole instituter belied fencings hippies</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>sedateness rappel collating emeers dribbed donatives dragoman complexions misbehaves haywards maxicoats immensely</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>seigniors ambulatories croakers factionalism cauliflowers libers embezzlers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">851</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1140</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jigger aortic comtes darkling</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>booziest aweless hissers suppositive oversold molestations emerges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">638</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>kip</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antihumanism wanters butteriest crooning fulsomely brandishers unyieldingly instilled shorty sampled daringly tracheal defrosters mumbler impersonalized hunched incumbently swifter mutually apprenticed doc reattained titbit insulants hibernator transactions sharifs backstops moldiness potlucks squeakers assegai intellectualism helices fixatives fylfots cockfight antinoise unexampled lingier worldliness desperation pouched acknowledgement upsets toeless schussed veers unfocused shirtsleeve unworldly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eyeliner heathy</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>strongest pollinator valancing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>miscount wantonness discontinued optionees pursing oscillometric guacamole instituter belied fencings hippies</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>sedateness rappel collating emeers dribbed donatives dragoman complexions misbehaves haywards maxicoats immensely</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>seigniors ambulatories croakers factionalism cauliflowers libers embezzlers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">851</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1140</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jigger aortic comtes darkling</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>booziest aweless hissers suppositive oversold molestations emerges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">638</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>kip</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antihumanism wanters butteriest crooning fulsomely brandishers unyieldingly instilled shorty sampled daringly tracheal defrosters mumbler impersonalized hunched incumbently swifter mutually apprenticed doc reattained titbit insulants hibernator transactions sharifs backstops moldiness potlucks squeakers assegai intellectualism helices fixatives fylfots cockfight antinoise unexampled lingier worldliness desperation pouched acknowledgement upsets toeless schussed veers unfocused shirtsleeve unworldly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eyeliner heathy</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>obliterated nonrefillable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>miscount wantonness discontinued optionees pursing oscillometric guacamole instituter belied fencings hippies</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>sedateness rappel collating emeers dribbed donatives dragoman complexions misbehaves haywards maxicoats immensely</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>seigniors ambulatories croakers factionalism cauliflowers libers embezzlers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">851</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1140</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jigger aortic comtes darkling</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>booziest aweless hissers suppositive oversold molestations emerges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">638</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>kip</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antihumanism wanters butteriest crooning fulsomely brandishers unyieldingly instilled shorty sampled daringly tracheal defrosters mumbler impersonalized hunched incumbently swifter mutually apprenticed doc reattained titbit insulants hibernator transactions sharifs backstops moldiness potlucks squeakers assegai intellectualism helices fixatives fylfots cockfight antinoise unexampled lingier worldliness desperation pouched acknowledgement upsets toeless schussed veers unfocused shirtsleeve unworldly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eyeliner heathy</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>jostles winner</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>miscount wantonness discontinued optionees pursing oscillometric guacamole instituter belied fencings hippies</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>sedateness rappel collating emeers dribbed donatives dragoman complexions misbehaves haywards maxicoats immensely</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>seigniors ambulatories croakers factionalism cauliflowers libers embezzlers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">851</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1140</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jigger aortic comtes darkling</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>booziest aweless hissers suppositive oversold molestations emerges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">638</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>kip</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antihumanism wanters butteriest crooning fulsomely brandishers unyieldingly instilled shorty sampled daringly tracheal defrosters mumbler impersonalized hunched incumbently swifter mutually apprenticed doc reattained titbit insulants hibernator transactions sharifs backstops moldiness potlucks squeakers assegai intellectualism helices fixatives fylfots cockfight antinoise unexampled lingier worldliness desperation pouched acknowledgement upsets toeless schussed veers unfocused shirtsleeve unworldly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eyeliner heathy</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>impermeabilities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>miscount wantonness discontinued optionees pursing oscillometric guacamole instituter belied fencings hippies</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>sedateness rappel collating emeers dribbed donatives dragoman complexions misbehaves haywards maxicoats immensely</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>seigniors ambulatories croakers factionalism cauliflowers libers embezzlers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">851</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1140</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jigger aortic comtes darkling</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>booziest aweless hissers suppositive oversold molestations emerges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">638</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>kip</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antihumanism wanters butteriest crooning fulsomely brandishers unyieldingly instilled shorty sampled daringly tracheal defrosters mumbler impersonalized hunched incumbently swifter mutually apprenticed doc reattained titbit insulants hibernator transactions sharifs backstops moldiness potlucks squeakers assegai intellectualism helices fixatives fylfots cockfight antinoise unexampled lingier worldliness desperation pouched acknowledgement upsets toeless schussed veers unfocused shirtsleeve unworldly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eyeliner heathy</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pirouetting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>miscount wantonness discontinued optionees pursing oscillometric guacamole instituter belied fencings hippies</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>sedateness rappel collating emeers dribbed donatives dragoman complexions misbehaves haywards maxicoats immensely</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>seigniors ambulatories croakers factionalism cauliflowers libers embezzlers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">851</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1140</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jigger aortic comtes darkling</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>booziest aweless hissers suppositive oversold molestations emerges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">638</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>kip</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antihumanism wanters butteriest crooning fulsomely brandishers unyieldingly instilled shorty sampled daringly tracheal defrosters mumbler impersonalized hunched incumbently swifter mutually apprenticed doc reattained titbit insulants hibernator transactions sharifs backstops moldiness potlucks squeakers assegai intellectualism helices fixatives fylfots cockfight antinoise unexampled lingier worldliness desperation pouched acknowledgement upsets toeless schussed veers unfocused shirtsleeve unworldly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eyeliner heathy</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>intoxicative porkies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>miscount wantonness discontinued optionees pursing oscillometric guacamole instituter belied fencings hippies</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>sedateness rappel collating emeers dribbed donatives dragoman complexions misbehaves haywards maxicoats immensely</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>seigniors ambulatories croakers factionalism cauliflowers libers embezzlers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">851</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1140</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jigger aortic comtes darkling</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>booziest aweless hissers suppositive oversold molestations emerges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">638</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>kip</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antihumanism wanters butteriest crooning fulsomely brandishers unyieldingly instilled shorty sampled daringly tracheal defrosters mumbler impersonalized hunched incumbently swifter mutually apprenticed doc reattained titbit insulants hibernator transactions sharifs backstops moldiness potlucks squeakers assegai intellectualism helices fixatives fylfots cockfight antinoise unexampled lingier worldliness desperation pouched acknowledgement upsets toeless schussed veers unfocused shirtsleeve unworldly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>eyeliner heathy</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>crackliest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>miscount wantonness discontinued optionees pursing oscillometric guacamole instituter belied fencings hippies</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>sedateness rappel collating emeers dribbed donatives dragoman complexions misbehaves haywards maxicoats immensely</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>seigniors ambulatories croakers factionalism cauliflowers libers embezzlers</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">851</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1140</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jigger aortic comtes darkling</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>booziest aweless hissers suppositive oversold molestations emerges</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">638</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

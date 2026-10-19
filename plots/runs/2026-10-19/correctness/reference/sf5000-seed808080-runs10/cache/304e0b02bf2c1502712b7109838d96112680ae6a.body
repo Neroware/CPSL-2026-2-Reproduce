@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="label"/>
+    <variable name="propertyTextual"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer105/Product4968</uri>
+      </binding>
+      <binding name="label">
+        <literal>algorisms packinghouse</literal>
+      </binding>
+      <binding name="propertyTextual">
+        <literal>unacknowledged almonry settlement gazers idyls deadeye whisted chumping slubbings girlishness verminous</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer35/Product1562</uri>
+      </binding>
+      <binding name="label">
+        <literal>nurtures</literal>
+      </binding>
+      <binding name="propertyTextual">
+        <literal>reset makeable pleuras unpens optionees capitalizers jato milliners superintends ballpoint lasing nuggets</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="label"/>
+    <variable name="propertyTextual"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer12/Product551</uri>
+      </binding>
+      <binding name="label">
+        <literal>cannelon madding</literal>
+      </binding>
+      <binding name="propertyTextual">
+        <literal>astounds recruiting treasuries copulatively succour</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer23/Product1087</uri>
+      </binding>
+      <binding name="label">
+        <literal>coded provincially nounal</literal>
+      </binding>
+      <binding name="propertyTextual">
+        <literal>chemically southron somnambulation resubscribe serin thickener unregistered</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer43/Product2053</uri>
+      </binding>
+      <binding name="label">
+        <literal>underexposes</literal>
+      </binding>
+      <binding name="propertyTextual">
+        <literal>nonprotectively kilovolt retarders wearying sections luminesced</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

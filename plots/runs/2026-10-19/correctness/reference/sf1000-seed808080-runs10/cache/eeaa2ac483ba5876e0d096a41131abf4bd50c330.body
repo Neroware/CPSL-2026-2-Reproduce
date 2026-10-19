@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="text"/>
+    <variable name="reviewDate"/>
+    <variable name="reviewer"/>
+    <variable name="reviewerName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+    <variable name="rating3"/>
+    <variable name="rating4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="title">
+        <literal>threatens dingbat expurgating revolutionaries tympanum dixit planing curtained nationalizations uncertainties retying reweaving engager interpreter pins</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">pinesap adamantine posturer summer squirrelled diebacks fortyfive beckoned abstraction hogged atriums forgoer ploughers darkish moonstones woenesses disport quires scruffier hymnaries divisors photocells dusts incitement jingoes augmenter stepbrother photons cyclically assassination mummifying corniced horticulturist suffrages mechanization buttoner rookery faddists animated valveless unclogging catholics agonic cults spitballs classifier reliantly wretchedness pretor maintainer hinnied remonstrative hardtacks overdramatized discourteous furbelows lungee smelteries rester berrying nineteens stoically obbligati purger unmerchantable erroneousness dolomites burglarized coiffeur ungovernability prevented privateers joiners pinheads circlets subcontracts mechanotherapist nonmilitants grouched revilement igniters clogs devilishly unsteadies cradlesongs hagiographers overpowers conflicted maximizing cataloging ponton contingently mesmerizer retitles catamount quagga preciosity levered atomising antinomianism abolishes indonesian asslike aureateness bradawls repeople oversight medicated casteisms surrendering tradesfolk bibelot interleaf curser cosponsoring kilty ambulances sensations muskegs wisest recorders autodidacts granddads orthopaedic dissimulates housemaid feudally eddies cerebrates fanzine overgraze continuable outrage watermarked unregistered presentment outfittings wabbler quester midtown snapdragons clabber ghosted opprobriously clairvoyants ped paretic ablation designating disabuse namely imam dragoman doers</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-11-11T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer281</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Pribyslava-Yong</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,715 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ophthalmoscopic rotationally anality</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>poles</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dominium hyperkinesis</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sheaves benchmarked</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>jurors submarine</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>soapsuds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>appreciated usability</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>doltishly polygram lockages</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>mousiness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>harpooning properties tropia</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gipsying snakes landscaped</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>extincting staled</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pilfered</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>frostbites forages</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cutleries gabfests snowsuits</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>indulgers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>butteriest incises</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>septical</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>shrugs requirement</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>studiousness comfortless rationalistically</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>exactingly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pimpled</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sloughiest sirups geeing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>prestidigitator kindredless</literal>
+      </binding>
+      <binding name="comment">
+        <literal>aerating caponizing wayfarers decorators panocha bluffest semicircular lapsus erecter evokes mirv artworks rhizomes midtowns cypriotes quarrier remigrations greatens figments acclimatized divans scabies lubricants achiness aloofly monkeyed wealthiness winoes supplementer filibusters demonstrators hokypoky panchromatic resting wagger continuances cabinetwork abjectness stabilities displacement indifference praxeological overvalues ores shielders enflamed physiognomical catmint vocalizes ladders constructionist beekeeper naturalist paraffined censoriously valvular dowagers tabaret camps unburied lased apologues underran exhibits sissier arrowing vestured monopoles allurements metre banishments canniness limned heftiest spherometer slenderizing cheesily lichening grandness tillage handless marshaling hooter canonical ironworkers ceremoniousness fordless dimities bunkoed heirdom rued anaesthetist multimedia marinading reglaze intersocietal rattraps vacuumed shorties dysenteric preintimation florets ungulates electricians gussies</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gonofs predators</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>elongated autoregulatory constructions superficiary malefactions enterer colorless enwheeling deliriant mohairs graduals parsers</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>dippiest huffy platitudinously jaegars toothy awfuller rebater carouses towheads rheniums heartens airports</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>nosology blastoffs stipulation cannily speedboats cubicle</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">157</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">465</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

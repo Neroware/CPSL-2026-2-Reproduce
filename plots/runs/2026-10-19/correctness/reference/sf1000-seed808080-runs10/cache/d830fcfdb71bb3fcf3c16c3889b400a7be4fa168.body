@@ -1,0 +1,817 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>orthoepist brats</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>graciousness flunkeys knave</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>penknives reabandoned vitalities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>temporizes skyjacked</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>brooming viburnums enamour</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>narcotizes primogenitor</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>toolholder cotans perturbational</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>heliotherapy preprinted northwardly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ketonuria</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>albumens</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>transceivers interpolations</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>carnaubas</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>accursed curlews tideways</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>kicky</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>reexpressing artifices</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pubescence asked</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nonstaining</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ruminations quitrents proletarian</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>closing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>posthumously narcoleptic</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>microdissection unpeg</literal>
+      </binding>
+      <binding name="comment">
+        <literal>exotoxic maven excessiveness reprocesses patriarchs evolutionists discuses allured aluminic intellectualization queerer blowers unaimed scintillatingly potteries muddier deathless exsert unassailable extruder vegan heptanes uglily hypnotically legality hitcher drowses reinstated isthmuses geckoes lately votarists indefinitely islets keyster mutilator exhalant logy undiscernibly decorums underbidders fantail eventually rotative shysters zeroing statisms originated arcadian ambergris unscreened battlefields iodides flemishes showing cartooned bimetals bargee adulterating forearmed unbecomingly swarming populates popularizations upshifts cees sanitoria wirepuller carbonators marcs joshers ensheathes cay blats retreat reentrance evaporated rayed incrementing intentional asterisks framable biogeochemistry bosomy musks desecration bummest virally benefiting numbed uneventfully endearments sleepiest thorniest sender tattooist legalist musings inhabitance fictional carotin argyll battlefields mistaught sitcoms dekagram stagflation printouts reflex scorbutic tables scowls reinscribing defectiveness erotize cheeks reappropriating mercurialness bigoted shoplifter chastities clausal savorer mollycoddling indivisibly concussively troubleshooting tapholes saving inliers squabblers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>geodesics poorhouses</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bulldogging knuckliest hairdresser</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>ineloquent macrostructural innovators tenderized fertileness terrariums resounding snowballs</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>alkalies mopping redistributed communicated echelons frogeyed spiriting splintering stilettoed beneficence unreported novelize unpressed</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>sufflated unmanageably nostalgically nineteens articulates telemetrically hutment bindweeds masturbated sequesters reinfusion</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">529</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1402</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cursedness loaner lampers bossing pita coronachs capitate checkbooks</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>overflows qualmishly czechoslovak wheelchairs heretically spriest wednesdays</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1162</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

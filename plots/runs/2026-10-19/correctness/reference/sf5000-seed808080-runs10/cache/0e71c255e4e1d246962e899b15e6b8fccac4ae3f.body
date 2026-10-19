@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="text"/>
+    <variable name="reviewDate"/>
+    <variable name="reviewer"/>
+    <variable name="reviewerName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+    <variable name="rating3"/>
+    <variable name="rating4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="title">
+        <literal>backlashed anatomized lobbyist pokeys</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">drawled ghosted stencilled overdramatized dosimetric spongins adjuror folders entree quadrantal conformity unspeaking quinins reobtained viewpoints hollowly compliantly overemphasized filespec forzando newsboys volunteering nam whooper retarders repressively redissolved jollily deair warehouser resubscription transformers floodgates overimpressing handsbreadth bobbies syntalities neocolonialists centralize maimers rustily charlatans vivacities refly reefs calfs realer secretness crippled prostyles romanism deriders slabbers circumscribing entendres reengaged complemental seabed supping furzy placket alphabetizers equivocalness rightness tablets jitneys nuisances reproductively incarnating solfeggi unalarmed guiltier titrates archenemies tunned conflicts unpiled rocker caveator protectionists hooted compatibilities cramping pleasured glassing pirouetted uninitiated libellee snootier escars belabour schismatically solipsistic enlisting astrobiologist gestured reviewability reconvenes warcrafts delectation paradoxical mariachis meniscoid blossoms jerkin prejudiced mulla roadwork tzarina narthexes gazetteers segos clavichordist enlighten emblazoned sprawly taping veins injections beechier recleaned ponds tolerances recognizing uninjured transformer legitimizes pachyderms bracted governs schnauzer huskiness shined kookaburra glassies onces furriness bobwhites revilers paginating mystical reinscribe veinal distilleries nonexplosives raggle orogeny lites cattiest dampness circumambulated flutists wholewheat detachments township fistular candlesticks oeuvres vivider prohibited decapitates demotions unruliest germination wormers syndicating curlers displease fleshpots sweepy sundered cindering autogeneses curer hammerers wader</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-05-19T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite3/Reviewer1286</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Humberto-Ikuko</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>neutralization flyblows limped deposes</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">mer tragediennes trounced linac fictions unrecorded browbeats esc wiser garbler fulfilling wryer refrainment appositeness bortz eases subdebutantes limekilns frapped agrarianism conjugations sleepers beadlike bongs idiogram manipulation facedown diarchy garmenting floorwalker defiances reconstructions futurities emblazing duelled bannocks subordinations landownership phototropic abductions anemic steering fielders peacekeeping accusant intromittent galumph calicos superintending defaults showoffs pistons showers decliners reciprocated swilling tolbutamide assayer beetling harassed fusibly airier cines emetics marshiness commandants homogenize incision repays sauntering conceivably brimless crooks hemlocks overdrawing piteously freelance refine madeiras unheard lovemaking serialists jettied salines pastels serviceability appraisement determinableness sheikdoms pardoned touter meandering heels ganef hepatics nelsons confabbed detacher refreezes yawp coughs preannounced baaing biomass biogenies tahitian votarist forsythia preluder theocratically opaquing golfers nonempty reassimilated indoctrinating sumpters uncool gothics goals surprisers centare budlike poltergeists insubordination napped damselfly unrefreshed monasticism heelings outlines innholder administerings bulling hobbling overweeningly nonsupport certainness remodifying husked hinds hums afterthoughts fainters evaporated earning relocate frustrates reassemblies joshers hues honorless dissociates slingers hokypoky coder preparations pipier amoks redetermination expellees epicentral polys underexposures polliwog overplaying benighted scoured baggie grindings documentable preinstruct slimness outperform recalculations okayed reemphasizing duplexs detentes colder extemporized dissolving blimy checksums primogenitors sofar immediately nightmares</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-01-30T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1427</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Reidel-Bertida</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

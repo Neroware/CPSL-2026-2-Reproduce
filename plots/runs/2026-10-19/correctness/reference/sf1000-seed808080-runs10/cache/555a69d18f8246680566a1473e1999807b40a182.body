@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="label"/>
+    <variable name="propertyTextual"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer20/Product937</uri>
+      </binding>
+      <binding name="label">
+        <literal>girdler lampooner</literal>
+      </binding>
+      <binding name="propertyTextual">
+        <literal>unpardonably commissar zoophiles technics progresses</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

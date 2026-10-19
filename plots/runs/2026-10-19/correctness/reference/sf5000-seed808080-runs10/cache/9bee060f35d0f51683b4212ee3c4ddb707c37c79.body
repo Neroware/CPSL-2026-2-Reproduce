@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer80/Product3768</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>characterizing prejudges</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer68/Product3187</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>depopulates nonspeaking tarts</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer4/Product147</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>retrials radicalize</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer68/Product3211</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>ropers countess</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

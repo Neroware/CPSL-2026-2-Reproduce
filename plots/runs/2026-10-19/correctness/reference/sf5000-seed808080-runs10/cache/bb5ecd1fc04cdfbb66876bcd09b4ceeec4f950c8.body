@@ -1,0 +1,703 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>unaccustomed outfoxing chicories</literal>
+      </binding>
+      <binding name="comment">
+        <literal>stockinette undergird reliquidation saggier whipsawing geometry seigniors varlet hooka unhoused outcomes transferer tumbles lightest pederast evolvement vowelize holeproof aweless whites dominus boll pimpling foreshadower ferns crankier stagehands blasting yearner pulverization belied plonking gypsyism moulded spinnings temps compassing attributing cardinalate corgis thanes disinterred unproductive nonflowering overshoe humiliation dentinal claudius idealities curiae regularizing fixups</literal>
+      </binding>
+      <binding name="producer">
+        <literal>wrynecks kissers bargees</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>comminatory outfielded</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>suffering tenser fireplug presentable unseaworthiness flemishes unexplicit trembliest unoriginal</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>jarsful contradicted orbitally uniques overreactions</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cohabitation gomorrah recyclability incumbencies autobiographically regretter</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">135</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>insupportably shew snookers lauded greenroom</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>attractively rerecorded caressed smoothens theosophist disemploys</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1160</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unaccustomed outfoxing chicories</literal>
+      </binding>
+      <binding name="comment">
+        <literal>stockinette undergird reliquidation saggier whipsawing geometry seigniors varlet hooka unhoused outcomes transferer tumbles lightest pederast evolvement vowelize holeproof aweless whites dominus boll pimpling foreshadower ferns crankier stagehands blasting yearner pulverization belied plonking gypsyism moulded spinnings temps compassing attributing cardinalate corgis thanes disinterred unproductive nonflowering overshoe humiliation dentinal claudius idealities curiae regularizing fixups</literal>
+      </binding>
+      <binding name="producer">
+        <literal>wrynecks kissers bargees</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>immobilized misguide impoundments</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>suffering tenser fireplug presentable unseaworthiness flemishes unexplicit trembliest unoriginal</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>jarsful contradicted orbitally uniques overreactions</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cohabitation gomorrah recyclability incumbencies autobiographically regretter</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">135</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>insupportably shew snookers lauded greenroom</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>attractively rerecorded caressed smoothens theosophist disemploys</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1160</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unaccustomed outfoxing chicories</literal>
+      </binding>
+      <binding name="comment">
+        <literal>stockinette undergird reliquidation saggier whipsawing geometry seigniors varlet hooka unhoused outcomes transferer tumbles lightest pederast evolvement vowelize holeproof aweless whites dominus boll pimpling foreshadower ferns crankier stagehands blasting yearner pulverization belied plonking gypsyism moulded spinnings temps compassing attributing cardinalate corgis thanes disinterred unproductive nonflowering overshoe humiliation dentinal claudius idealities curiae regularizing fixups</literal>
+      </binding>
+      <binding name="producer">
+        <literal>wrynecks kissers bargees</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>menologies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>suffering tenser fireplug presentable unseaworthiness flemishes unexplicit trembliest unoriginal</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>jarsful contradicted orbitally uniques overreactions</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cohabitation gomorrah recyclability incumbencies autobiographically regretter</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">135</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>insupportably shew snookers lauded greenroom</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>attractively rerecorded caressed smoothens theosophist disemploys</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1160</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unaccustomed outfoxing chicories</literal>
+      </binding>
+      <binding name="comment">
+        <literal>stockinette undergird reliquidation saggier whipsawing geometry seigniors varlet hooka unhoused outcomes transferer tumbles lightest pederast evolvement vowelize holeproof aweless whites dominus boll pimpling foreshadower ferns crankier stagehands blasting yearner pulverization belied plonking gypsyism moulded spinnings temps compassing attributing cardinalate corgis thanes disinterred unproductive nonflowering overshoe humiliation dentinal claudius idealities curiae regularizing fixups</literal>
+      </binding>
+      <binding name="producer">
+        <literal>wrynecks kissers bargees</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>densest weeds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>suffering tenser fireplug presentable unseaworthiness flemishes unexplicit trembliest unoriginal</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>jarsful contradicted orbitally uniques overreactions</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cohabitation gomorrah recyclability incumbencies autobiographically regretter</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">135</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>insupportably shew snookers lauded greenroom</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>attractively rerecorded caressed smoothens theosophist disemploys</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1160</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unaccustomed outfoxing chicories</literal>
+      </binding>
+      <binding name="comment">
+        <literal>stockinette undergird reliquidation saggier whipsawing geometry seigniors varlet hooka unhoused outcomes transferer tumbles lightest pederast evolvement vowelize holeproof aweless whites dominus boll pimpling foreshadower ferns crankier stagehands blasting yearner pulverization belied plonking gypsyism moulded spinnings temps compassing attributing cardinalate corgis thanes disinterred unproductive nonflowering overshoe humiliation dentinal claudius idealities curiae regularizing fixups</literal>
+      </binding>
+      <binding name="producer">
+        <literal>wrynecks kissers bargees</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>wotted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>suffering tenser fireplug presentable unseaworthiness flemishes unexplicit trembliest unoriginal</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>jarsful contradicted orbitally uniques overreactions</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cohabitation gomorrah recyclability incumbencies autobiographically regretter</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">135</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>insupportably shew snookers lauded greenroom</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>attractively rerecorded caressed smoothens theosophist disemploys</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1160</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unaccustomed outfoxing chicories</literal>
+      </binding>
+      <binding name="comment">
+        <literal>stockinette undergird reliquidation saggier whipsawing geometry seigniors varlet hooka unhoused outcomes transferer tumbles lightest pederast evolvement vowelize holeproof aweless whites dominus boll pimpling foreshadower ferns crankier stagehands blasting yearner pulverization belied plonking gypsyism moulded spinnings temps compassing attributing cardinalate corgis thanes disinterred unproductive nonflowering overshoe humiliation dentinal claudius idealities curiae regularizing fixups</literal>
+      </binding>
+      <binding name="producer">
+        <literal>wrynecks kissers bargees</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>peculators</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>suffering tenser fireplug presentable unseaworthiness flemishes unexplicit trembliest unoriginal</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>jarsful contradicted orbitally uniques overreactions</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cohabitation gomorrah recyclability incumbencies autobiographically regretter</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">135</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>insupportably shew snookers lauded greenroom</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>attractively rerecorded caressed smoothens theosophist disemploys</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1160</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unaccustomed outfoxing chicories</literal>
+      </binding>
+      <binding name="comment">
+        <literal>stockinette undergird reliquidation saggier whipsawing geometry seigniors varlet hooka unhoused outcomes transferer tumbles lightest pederast evolvement vowelize holeproof aweless whites dominus boll pimpling foreshadower ferns crankier stagehands blasting yearner pulverization belied plonking gypsyism moulded spinnings temps compassing attributing cardinalate corgis thanes disinterred unproductive nonflowering overshoe humiliation dentinal claudius idealities curiae regularizing fixups</literal>
+      </binding>
+      <binding name="producer">
+        <literal>wrynecks kissers bargees</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>thanatoses</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>suffering tenser fireplug presentable unseaworthiness flemishes unexplicit trembliest unoriginal</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>jarsful contradicted orbitally uniques overreactions</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cohabitation gomorrah recyclability incumbencies autobiographically regretter</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">135</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>insupportably shew snookers lauded greenroom</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>attractively rerecorded caressed smoothens theosophist disemploys</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1160</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unaccustomed outfoxing chicories</literal>
+      </binding>
+      <binding name="comment">
+        <literal>stockinette undergird reliquidation saggier whipsawing geometry seigniors varlet hooka unhoused outcomes transferer tumbles lightest pederast evolvement vowelize holeproof aweless whites dominus boll pimpling foreshadower ferns crankier stagehands blasting yearner pulverization belied plonking gypsyism moulded spinnings temps compassing attributing cardinalate corgis thanes disinterred unproductive nonflowering overshoe humiliation dentinal claudius idealities curiae regularizing fixups</literal>
+      </binding>
+      <binding name="producer">
+        <literal>wrynecks kissers bargees</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tootsy regain</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>suffering tenser fireplug presentable unseaworthiness flemishes unexplicit trembliest unoriginal</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>jarsful contradicted orbitally uniques overreactions</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cohabitation gomorrah recyclability incumbencies autobiographically regretter</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">135</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>insupportably shew snookers lauded greenroom</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>attractively rerecorded caressed smoothens theosophist disemploys</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1160</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unaccustomed outfoxing chicories</literal>
+      </binding>
+      <binding name="comment">
+        <literal>stockinette undergird reliquidation saggier whipsawing geometry seigniors varlet hooka unhoused outcomes transferer tumbles lightest pederast evolvement vowelize holeproof aweless whites dominus boll pimpling foreshadower ferns crankier stagehands blasting yearner pulverization belied plonking gypsyism moulded spinnings temps compassing attributing cardinalate corgis thanes disinterred unproductive nonflowering overshoe humiliation dentinal claudius idealities curiae regularizing fixups</literal>
+      </binding>
+      <binding name="producer">
+        <literal>wrynecks kissers bargees</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sleekening lastingly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>suffering tenser fireplug presentable unseaworthiness flemishes unexplicit trembliest unoriginal</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>jarsful contradicted orbitally uniques overreactions</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cohabitation gomorrah recyclability incumbencies autobiographically regretter</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">135</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>insupportably shew snookers lauded greenroom</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>attractively rerecorded caressed smoothens theosophist disemploys</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1160</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unaccustomed outfoxing chicories</literal>
+      </binding>
+      <binding name="comment">
+        <literal>stockinette undergird reliquidation saggier whipsawing geometry seigniors varlet hooka unhoused outcomes transferer tumbles lightest pederast evolvement vowelize holeproof aweless whites dominus boll pimpling foreshadower ferns crankier stagehands blasting yearner pulverization belied plonking gypsyism moulded spinnings temps compassing attributing cardinalate corgis thanes disinterred unproductive nonflowering overshoe humiliation dentinal claudius idealities curiae regularizing fixups</literal>
+      </binding>
+      <binding name="producer">
+        <literal>wrynecks kissers bargees</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bundling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>suffering tenser fireplug presentable unseaworthiness flemishes unexplicit trembliest unoriginal</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>jarsful contradicted orbitally uniques overreactions</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cohabitation gomorrah recyclability incumbencies autobiographically regretter</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">135</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>insupportably shew snookers lauded greenroom</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>attractively rerecorded caressed smoothens theosophist disemploys</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1160</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unaccustomed outfoxing chicories</literal>
+      </binding>
+      <binding name="comment">
+        <literal>stockinette undergird reliquidation saggier whipsawing geometry seigniors varlet hooka unhoused outcomes transferer tumbles lightest pederast evolvement vowelize holeproof aweless whites dominus boll pimpling foreshadower ferns crankier stagehands blasting yearner pulverization belied plonking gypsyism moulded spinnings temps compassing attributing cardinalate corgis thanes disinterred unproductive nonflowering overshoe humiliation dentinal claudius idealities curiae regularizing fixups</literal>
+      </binding>
+      <binding name="producer">
+        <literal>wrynecks kissers bargees</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>edger</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>suffering tenser fireplug presentable unseaworthiness flemishes unexplicit trembliest unoriginal</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>jarsful contradicted orbitally uniques overreactions</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cohabitation gomorrah recyclability incumbencies autobiographically regretter</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">135</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>insupportably shew snookers lauded greenroom</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>attractively rerecorded caressed smoothens theosophist disemploys</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1160</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unaccustomed outfoxing chicories</literal>
+      </binding>
+      <binding name="comment">
+        <literal>stockinette undergird reliquidation saggier whipsawing geometry seigniors varlet hooka unhoused outcomes transferer tumbles lightest pederast evolvement vowelize holeproof aweless whites dominus boll pimpling foreshadower ferns crankier stagehands blasting yearner pulverization belied plonking gypsyism moulded spinnings temps compassing attributing cardinalate corgis thanes disinterred unproductive nonflowering overshoe humiliation dentinal claudius idealities curiae regularizing fixups</literal>
+      </binding>
+      <binding name="producer">
+        <literal>wrynecks kissers bargees</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hedonically</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>suffering tenser fireplug presentable unseaworthiness flemishes unexplicit trembliest unoriginal</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>jarsful contradicted orbitally uniques overreactions</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cohabitation gomorrah recyclability incumbencies autobiographically regretter</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">135</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>insupportably shew snookers lauded greenroom</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>attractively rerecorded caressed smoothens theosophist disemploys</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1160</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unaccustomed outfoxing chicories</literal>
+      </binding>
+      <binding name="comment">
+        <literal>stockinette undergird reliquidation saggier whipsawing geometry seigniors varlet hooka unhoused outcomes transferer tumbles lightest pederast evolvement vowelize holeproof aweless whites dominus boll pimpling foreshadower ferns crankier stagehands blasting yearner pulverization belied plonking gypsyism moulded spinnings temps compassing attributing cardinalate corgis thanes disinterred unproductive nonflowering overshoe humiliation dentinal claudius idealities curiae regularizing fixups</literal>
+      </binding>
+      <binding name="producer">
+        <literal>wrynecks kissers bargees</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>wastery languidly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>suffering tenser fireplug presentable unseaworthiness flemishes unexplicit trembliest unoriginal</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>jarsful contradicted orbitally uniques overreactions</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cohabitation gomorrah recyclability incumbencies autobiographically regretter</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">135</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>insupportably shew snookers lauded greenroom</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>attractively rerecorded caressed smoothens theosophist disemploys</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1160</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unaccustomed outfoxing chicories</literal>
+      </binding>
+      <binding name="comment">
+        <literal>stockinette undergird reliquidation saggier whipsawing geometry seigniors varlet hooka unhoused outcomes transferer tumbles lightest pederast evolvement vowelize holeproof aweless whites dominus boll pimpling foreshadower ferns crankier stagehands blasting yearner pulverization belied plonking gypsyism moulded spinnings temps compassing attributing cardinalate corgis thanes disinterred unproductive nonflowering overshoe humiliation dentinal claudius idealities curiae regularizing fixups</literal>
+      </binding>
+      <binding name="producer">
+        <literal>wrynecks kissers bargees</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>caterwauling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>suffering tenser fireplug presentable unseaworthiness flemishes unexplicit trembliest unoriginal</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>jarsful contradicted orbitally uniques overreactions</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cohabitation gomorrah recyclability incumbencies autobiographically regretter</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">135</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>insupportably shew snookers lauded greenroom</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>attractively rerecorded caressed smoothens theosophist disemploys</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1160</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unaccustomed outfoxing chicories</literal>
+      </binding>
+      <binding name="comment">
+        <literal>stockinette undergird reliquidation saggier whipsawing geometry seigniors varlet hooka unhoused outcomes transferer tumbles lightest pederast evolvement vowelize holeproof aweless whites dominus boll pimpling foreshadower ferns crankier stagehands blasting yearner pulverization belied plonking gypsyism moulded spinnings temps compassing attributing cardinalate corgis thanes disinterred unproductive nonflowering overshoe humiliation dentinal claudius idealities curiae regularizing fixups</literal>
+      </binding>
+      <binding name="producer">
+        <literal>wrynecks kissers bargees</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>shampoos cremators</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>suffering tenser fireplug presentable unseaworthiness flemishes unexplicit trembliest unoriginal</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>jarsful contradicted orbitally uniques overreactions</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cohabitation gomorrah recyclability incumbencies autobiographically regretter</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">135</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>insupportably shew snookers lauded greenroom</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>attractively rerecorded caressed smoothens theosophist disemploys</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1160</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unaccustomed outfoxing chicories</literal>
+      </binding>
+      <binding name="comment">
+        <literal>stockinette undergird reliquidation saggier whipsawing geometry seigniors varlet hooka unhoused outcomes transferer tumbles lightest pederast evolvement vowelize holeproof aweless whites dominus boll pimpling foreshadower ferns crankier stagehands blasting yearner pulverization belied plonking gypsyism moulded spinnings temps compassing attributing cardinalate corgis thanes disinterred unproductive nonflowering overshoe humiliation dentinal claudius idealities curiae regularizing fixups</literal>
+      </binding>
+      <binding name="producer">
+        <literal>wrynecks kissers bargees</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cents</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>suffering tenser fireplug presentable unseaworthiness flemishes unexplicit trembliest unoriginal</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>jarsful contradicted orbitally uniques overreactions</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cohabitation gomorrah recyclability incumbencies autobiographically regretter</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">135</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>insupportably shew snookers lauded greenroom</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>attractively rerecorded caressed smoothens theosophist disemploys</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1160</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unaccustomed outfoxing chicories</literal>
+      </binding>
+      <binding name="comment">
+        <literal>stockinette undergird reliquidation saggier whipsawing geometry seigniors varlet hooka unhoused outcomes transferer tumbles lightest pederast evolvement vowelize holeproof aweless whites dominus boll pimpling foreshadower ferns crankier stagehands blasting yearner pulverization belied plonking gypsyism moulded spinnings temps compassing attributing cardinalate corgis thanes disinterred unproductive nonflowering overshoe humiliation dentinal claudius idealities curiae regularizing fixups</literal>
+      </binding>
+      <binding name="producer">
+        <literal>wrynecks kissers bargees</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>vicinities unworkably</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>suffering tenser fireplug presentable unseaworthiness flemishes unexplicit trembliest unoriginal</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>jarsful contradicted orbitally uniques overreactions</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cohabitation gomorrah recyclability incumbencies autobiographically regretter</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">135</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>insupportably shew snookers lauded greenroom</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>attractively rerecorded caressed smoothens theosophist disemploys</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1160</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unaccustomed outfoxing chicories</literal>
+      </binding>
+      <binding name="comment">
+        <literal>stockinette undergird reliquidation saggier whipsawing geometry seigniors varlet hooka unhoused outcomes transferer tumbles lightest pederast evolvement vowelize holeproof aweless whites dominus boll pimpling foreshadower ferns crankier stagehands blasting yearner pulverization belied plonking gypsyism moulded spinnings temps compassing attributing cardinalate corgis thanes disinterred unproductive nonflowering overshoe humiliation dentinal claudius idealities curiae regularizing fixups</literal>
+      </binding>
+      <binding name="producer">
+        <literal>wrynecks kissers bargees</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>babied</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>suffering tenser fireplug presentable unseaworthiness flemishes unexplicit trembliest unoriginal</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>jarsful contradicted orbitally uniques overreactions</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cohabitation gomorrah recyclability incumbencies autobiographically regretter</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">330</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">135</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>insupportably shew snookers lauded greenroom</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>attractively rerecorded caressed smoothens theosophist disemploys</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1160</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

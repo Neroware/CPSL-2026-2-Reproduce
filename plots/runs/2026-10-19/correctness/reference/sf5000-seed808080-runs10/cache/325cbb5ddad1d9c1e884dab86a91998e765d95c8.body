@@ -1,0 +1,855 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>malfunctions suggestiveness snoopers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>canzoni</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>writeoff</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>briquettes weirdie</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>uranous</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>calories</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hexarchies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>etherealness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>improvises midwived cleavages</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>reassorted indicting intombs</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>medication</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sequencer overdramatized contaminating</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>leukocyte pounds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>charwomen breakfront</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bobbling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bookrack</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unpossessive negativeness unacclimatized</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>subverted towing faucets</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>selvedges erectile</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unproductiveness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>stickers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>oftener</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sourish madwomen focuser autodialed statically scufflers incorruptibility plumier rehandling uplifted ideograms egoisms infertility simulcasting evacuators preconstruction portiere sweepingly worrier clammily muster adventurously substantiable transsexuals shacked popularized laryngitis slackness frailties sandpapers limeade enlistment sinisterly forsworn furriners romancer wigeons sippy improvability coxwains ungently recharging daphnias acidy lockouts pronunciamento fares tropes trusting stapler moiler incongruence quakily plugger obsoletely pedantries hosiers anemometers misstates untying charged pontoons promisor unemployable caciques bountiful humanisms jugula disturbing massless appetizingly premises preponderantly microbiologic fillips briefs</literal>
+      </binding>
+      <binding name="producer">
+        <literal>heterosexuality bioluminescence contemnor</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>interrogee overrated</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>insobriety atmas caduceus glassblowing monkeries helotry emulation breachers ledges plastrons defog interorbitally innovative opposes</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>resubmitted footless pouncer entrenched palpitations unmade fixers snicked adiposity recalled keyway</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>mythologist clads wigmakers hospitalizing badinaging clammiest subspecies godlier inturn</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">968</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">388</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>prostration subcategory metonymy weightiest repressively repressively zincifies</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>oyer subscribed graveless weavers scriber redcap vicomte overeducated quartos subendorsing crocheter kentuckians docimasia</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">300</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

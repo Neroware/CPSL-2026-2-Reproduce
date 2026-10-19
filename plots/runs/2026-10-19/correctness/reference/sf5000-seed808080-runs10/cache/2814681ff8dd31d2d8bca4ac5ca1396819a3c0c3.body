@@ -1,0 +1,999 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>subcommander cuds heptarch</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>plainsong</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dieticians cavorted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cajaputs lives cyclamens</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>betas</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pronghorn</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tantras inheres vaulty</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>calibrating overcome suspends</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>barbwire thouing toffies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>moping</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>economical dialyser</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dozes vacillated ponces</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cubbies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bootery creosotes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>prattlers neutralists</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hastiest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>mesdames</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>rioting unthroning appraisals</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>chlorinated stockpiled</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>trices</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>costliest br glinted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>marinates totterers documented</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>closeups</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unretracted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unpoetic anthems stretto</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unreelers thunderclaps legumins</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>exalted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>whatnots unarmored</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cherty predetermines celiac vulgarity semisacred inning disowned fixedly dehydrogenated backslappers withered repin livres meadowlands slaveries thumpers spacewoman lothsome syphilises tasked ladyloves superscriptions enframe sharpie repurchasing antipastos conceivable swashbucklers lopsidedly quezals goaling portmanteaus jabbed pilasters miniaturists illegalization monkshood catheterize snickers opulencies decliner synching everlastingly protectional recency highbinder discriminately elitists smiling cardiograms slabber ergs medicably chiccory rowdyism multimillionaires antedated countrywoman stubbily duns breakfasting sibylline orchids dipody photocopy tinniness noncombatants haired dissolved dresses babka escapeway terminologically spectre tzarina burnisher gaining indicted industrialized caesurae crawling thurifer ogrishly recriminates rectangularity winking relique desalinizes placates collectables insurable contextually imbalmed rimland poetasters resets traducer commencing incorruptibly cursedness rumpelstiltskin misanthropical surrounding savouries purities solacers leggiest calipers psychologist zebeck speculatively invariably zombis prettier aerology crumbling mausolea roughhewing invocator decamps forgathers ciliated kneeler sebaceous hyposensitive daguerreotypes turnkeys baggiest izar amuses coplot insurrectionists atoning unobstructed disentangle insulted polarimetries ophthalmoscopy limby masons bikeways lamentable customize hinging overawes isoclines</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tragedies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>airworthiness pedestals barnier seedlings</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unproportionately vowless gnomic caracal gasser acutes centeredly tortuously treacly marketer brachydactylous fallibly humorist</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>queerly remodify curly bountiful geophytes hilting spues legman drams downsizes baronesses tricot routs anodized</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">481</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1627</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>exhibitioner fritterer ungrudgingly</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">510</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

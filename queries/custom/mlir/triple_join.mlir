@@ -9,7 +9,7 @@ module {
       {
         %true = db.constant(true) : i1
         tuples.return %true : i1
-      } attributes {impl = "hash", leftHash = [#tuples.columnref<@vars::@who>], nullMatchesAll = [1 : i8], nullsEqual = [0 : i8], rightHash = [#tuples.columnref<@bindings::@s>], useHashJoin}
+      } attributes {impl = "hash", leftHash = [#tuples.columnref<@vars::@who>], bindingCompatible = [1 : i8], nullsEqual = [0 : i8], rightHash = [#tuples.columnref<@bindings::@s>], useHashJoin}
       %6 = relalg.materialize %5 [@vars::@who,@vars::@what] => ["who", "what"] : !subop.local_table<[col1$0 : !db.string, col2$0 : !db.string], ["who", "what"]>
       relalg.query_return %6 : !subop.local_table<[col1$0 : !db.string, col2$0 : !db.string], ["who", "what"]>
     } -> !subop.local_table<[col1$0 : !db.string, col2$0 : !db.string], ["who", "what"]>

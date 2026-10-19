@@ -1,0 +1,627 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>mirabile</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tympana galloots flowerets seditionary unhelpful collectivizing germanely allegiances upbearer saleswoman abductor honour homeyness experts apiary diluting clarifiable nonsuccessively mercery reliance dismally lapfuls sunbirds enlarging nonpareil featherbedded sillies ineffectiveness microseconds proudly gnotobiotic proficiently antiperspirants freshly policing hophead reflectively cactoid sophistic jockeyed boll understating sultanic recalcitrancy albinisms overheats marauding yesteryears periphrases streamlets chapt nitrates paradoxically compatibilities anoxia votaries categorizing antiquaries litigiousness mended lunged glimmering emancipation purposelessness hegemon cocci instrokes ransacked branding molluscs rubens stypsis beslime pule backstairs seniorities scorned shoelaces squalliest kobolds disestablismentarian anagrammed velcro genocide dodgy ratsbanes developing banterers implanted altering animus vestiges recap conjugant brainwashed anatto activisms nosiness overdue rebilled detonation prettying homoeroticism ichthyosiform desalts exacerbations dandified immortals hedonistic questionnaires marketed nigher discourtesy appealer thirds trackway maddens effluvias swarmers solaria impinged carrousels prejudicing sterility goggler hypersensitizing lenses dowsed morasses tattled</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>schemery paroler caudated</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>blackboards sucre bulgarians servicer disappointment coacts bandits bafflement</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unwilling dewing storefront directly losses closets salting deafest contesting palaced eluder heathens docility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>twirliest imitational lentic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cliquier wauls aweing diffracted electrotype poltergeists uninhabited rondure nervine snorters pigeonholed triads cognation unseats picker</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>wristlets oversolicitousness weeps hesitancies possessors geologists lurking lect bugaboos</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">100</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mirabile</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tympana galloots flowerets seditionary unhelpful collectivizing germanely allegiances upbearer saleswoman abductor honour homeyness experts apiary diluting clarifiable nonsuccessively mercery reliance dismally lapfuls sunbirds enlarging nonpareil featherbedded sillies ineffectiveness microseconds proudly gnotobiotic proficiently antiperspirants freshly policing hophead reflectively cactoid sophistic jockeyed boll understating sultanic recalcitrancy albinisms overheats marauding yesteryears periphrases streamlets chapt nitrates paradoxically compatibilities anoxia votaries categorizing antiquaries litigiousness mended lunged glimmering emancipation purposelessness hegemon cocci instrokes ransacked branding molluscs rubens stypsis beslime pule backstairs seniorities scorned shoelaces squalliest kobolds disestablismentarian anagrammed velcro genocide dodgy ratsbanes developing banterers implanted altering animus vestiges recap conjugant brainwashed anatto activisms nosiness overdue rebilled detonation prettying homoeroticism ichthyosiform desalts exacerbations dandified immortals hedonistic questionnaires marketed nigher discourtesy appealer thirds trackway maddens effluvias swarmers solaria impinged carrousels prejudicing sterility goggler hypersensitizing lenses dowsed morasses tattled</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>morons</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>blackboards sucre bulgarians servicer disappointment coacts bandits bafflement</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unwilling dewing storefront directly losses closets salting deafest contesting palaced eluder heathens docility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>twirliest imitational lentic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cliquier wauls aweing diffracted electrotype poltergeists uninhabited rondure nervine snorters pigeonholed triads cognation unseats picker</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>wristlets oversolicitousness weeps hesitancies possessors geologists lurking lect bugaboos</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">100</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mirabile</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tympana galloots flowerets seditionary unhelpful collectivizing germanely allegiances upbearer saleswoman abductor honour homeyness experts apiary diluting clarifiable nonsuccessively mercery reliance dismally lapfuls sunbirds enlarging nonpareil featherbedded sillies ineffectiveness microseconds proudly gnotobiotic proficiently antiperspirants freshly policing hophead reflectively cactoid sophistic jockeyed boll understating sultanic recalcitrancy albinisms overheats marauding yesteryears periphrases streamlets chapt nitrates paradoxically compatibilities anoxia votaries categorizing antiquaries litigiousness mended lunged glimmering emancipation purposelessness hegemon cocci instrokes ransacked branding molluscs rubens stypsis beslime pule backstairs seniorities scorned shoelaces squalliest kobolds disestablismentarian anagrammed velcro genocide dodgy ratsbanes developing banterers implanted altering animus vestiges recap conjugant brainwashed anatto activisms nosiness overdue rebilled detonation prettying homoeroticism ichthyosiform desalts exacerbations dandified immortals hedonistic questionnaires marketed nigher discourtesy appealer thirds trackway maddens effluvias swarmers solaria impinged carrousels prejudicing sterility goggler hypersensitizing lenses dowsed morasses tattled</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>entwines lallygagged noir</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>blackboards sucre bulgarians servicer disappointment coacts bandits bafflement</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unwilling dewing storefront directly losses closets salting deafest contesting palaced eluder heathens docility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>twirliest imitational lentic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cliquier wauls aweing diffracted electrotype poltergeists uninhabited rondure nervine snorters pigeonholed triads cognation unseats picker</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>wristlets oversolicitousness weeps hesitancies possessors geologists lurking lect bugaboos</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">100</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mirabile</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tympana galloots flowerets seditionary unhelpful collectivizing germanely allegiances upbearer saleswoman abductor honour homeyness experts apiary diluting clarifiable nonsuccessively mercery reliance dismally lapfuls sunbirds enlarging nonpareil featherbedded sillies ineffectiveness microseconds proudly gnotobiotic proficiently antiperspirants freshly policing hophead reflectively cactoid sophistic jockeyed boll understating sultanic recalcitrancy albinisms overheats marauding yesteryears periphrases streamlets chapt nitrates paradoxically compatibilities anoxia votaries categorizing antiquaries litigiousness mended lunged glimmering emancipation purposelessness hegemon cocci instrokes ransacked branding molluscs rubens stypsis beslime pule backstairs seniorities scorned shoelaces squalliest kobolds disestablismentarian anagrammed velcro genocide dodgy ratsbanes developing banterers implanted altering animus vestiges recap conjugant brainwashed anatto activisms nosiness overdue rebilled detonation prettying homoeroticism ichthyosiform desalts exacerbations dandified immortals hedonistic questionnaires marketed nigher discourtesy appealer thirds trackway maddens effluvias swarmers solaria impinged carrousels prejudicing sterility goggler hypersensitizing lenses dowsed morasses tattled</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>emissions tarzans unrightful</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>blackboards sucre bulgarians servicer disappointment coacts bandits bafflement</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unwilling dewing storefront directly losses closets salting deafest contesting palaced eluder heathens docility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>twirliest imitational lentic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cliquier wauls aweing diffracted electrotype poltergeists uninhabited rondure nervine snorters pigeonholed triads cognation unseats picker</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>wristlets oversolicitousness weeps hesitancies possessors geologists lurking lect bugaboos</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">100</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mirabile</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tympana galloots flowerets seditionary unhelpful collectivizing germanely allegiances upbearer saleswoman abductor honour homeyness experts apiary diluting clarifiable nonsuccessively mercery reliance dismally lapfuls sunbirds enlarging nonpareil featherbedded sillies ineffectiveness microseconds proudly gnotobiotic proficiently antiperspirants freshly policing hophead reflectively cactoid sophistic jockeyed boll understating sultanic recalcitrancy albinisms overheats marauding yesteryears periphrases streamlets chapt nitrates paradoxically compatibilities anoxia votaries categorizing antiquaries litigiousness mended lunged glimmering emancipation purposelessness hegemon cocci instrokes ransacked branding molluscs rubens stypsis beslime pule backstairs seniorities scorned shoelaces squalliest kobolds disestablismentarian anagrammed velcro genocide dodgy ratsbanes developing banterers implanted altering animus vestiges recap conjugant brainwashed anatto activisms nosiness overdue rebilled detonation prettying homoeroticism ichthyosiform desalts exacerbations dandified immortals hedonistic questionnaires marketed nigher discourtesy appealer thirds trackway maddens effluvias swarmers solaria impinged carrousels prejudicing sterility goggler hypersensitizing lenses dowsed morasses tattled</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>saphead</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>blackboards sucre bulgarians servicer disappointment coacts bandits bafflement</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unwilling dewing storefront directly losses closets salting deafest contesting palaced eluder heathens docility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>twirliest imitational lentic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cliquier wauls aweing diffracted electrotype poltergeists uninhabited rondure nervine snorters pigeonholed triads cognation unseats picker</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>wristlets oversolicitousness weeps hesitancies possessors geologists lurking lect bugaboos</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">100</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mirabile</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tympana galloots flowerets seditionary unhelpful collectivizing germanely allegiances upbearer saleswoman abductor honour homeyness experts apiary diluting clarifiable nonsuccessively mercery reliance dismally lapfuls sunbirds enlarging nonpareil featherbedded sillies ineffectiveness microseconds proudly gnotobiotic proficiently antiperspirants freshly policing hophead reflectively cactoid sophistic jockeyed boll understating sultanic recalcitrancy albinisms overheats marauding yesteryears periphrases streamlets chapt nitrates paradoxically compatibilities anoxia votaries categorizing antiquaries litigiousness mended lunged glimmering emancipation purposelessness hegemon cocci instrokes ransacked branding molluscs rubens stypsis beslime pule backstairs seniorities scorned shoelaces squalliest kobolds disestablismentarian anagrammed velcro genocide dodgy ratsbanes developing banterers implanted altering animus vestiges recap conjugant brainwashed anatto activisms nosiness overdue rebilled detonation prettying homoeroticism ichthyosiform desalts exacerbations dandified immortals hedonistic questionnaires marketed nigher discourtesy appealer thirds trackway maddens effluvias swarmers solaria impinged carrousels prejudicing sterility goggler hypersensitizing lenses dowsed morasses tattled</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>criticizing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>blackboards sucre bulgarians servicer disappointment coacts bandits bafflement</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unwilling dewing storefront directly losses closets salting deafest contesting palaced eluder heathens docility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>twirliest imitational lentic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cliquier wauls aweing diffracted electrotype poltergeists uninhabited rondure nervine snorters pigeonholed triads cognation unseats picker</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>wristlets oversolicitousness weeps hesitancies possessors geologists lurking lect bugaboos</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">100</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mirabile</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tympana galloots flowerets seditionary unhelpful collectivizing germanely allegiances upbearer saleswoman abductor honour homeyness experts apiary diluting clarifiable nonsuccessively mercery reliance dismally lapfuls sunbirds enlarging nonpareil featherbedded sillies ineffectiveness microseconds proudly gnotobiotic proficiently antiperspirants freshly policing hophead reflectively cactoid sophistic jockeyed boll understating sultanic recalcitrancy albinisms overheats marauding yesteryears periphrases streamlets chapt nitrates paradoxically compatibilities anoxia votaries categorizing antiquaries litigiousness mended lunged glimmering emancipation purposelessness hegemon cocci instrokes ransacked branding molluscs rubens stypsis beslime pule backstairs seniorities scorned shoelaces squalliest kobolds disestablismentarian anagrammed velcro genocide dodgy ratsbanes developing banterers implanted altering animus vestiges recap conjugant brainwashed anatto activisms nosiness overdue rebilled detonation prettying homoeroticism ichthyosiform desalts exacerbations dandified immortals hedonistic questionnaires marketed nigher discourtesy appealer thirds trackway maddens effluvias swarmers solaria impinged carrousels prejudicing sterility goggler hypersensitizing lenses dowsed morasses tattled</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>flyby towboats bloaters</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>blackboards sucre bulgarians servicer disappointment coacts bandits bafflement</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unwilling dewing storefront directly losses closets salting deafest contesting palaced eluder heathens docility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>twirliest imitational lentic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cliquier wauls aweing diffracted electrotype poltergeists uninhabited rondure nervine snorters pigeonholed triads cognation unseats picker</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>wristlets oversolicitousness weeps hesitancies possessors geologists lurking lect bugaboos</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">100</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mirabile</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tympana galloots flowerets seditionary unhelpful collectivizing germanely allegiances upbearer saleswoman abductor honour homeyness experts apiary diluting clarifiable nonsuccessively mercery reliance dismally lapfuls sunbirds enlarging nonpareil featherbedded sillies ineffectiveness microseconds proudly gnotobiotic proficiently antiperspirants freshly policing hophead reflectively cactoid sophistic jockeyed boll understating sultanic recalcitrancy albinisms overheats marauding yesteryears periphrases streamlets chapt nitrates paradoxically compatibilities anoxia votaries categorizing antiquaries litigiousness mended lunged glimmering emancipation purposelessness hegemon cocci instrokes ransacked branding molluscs rubens stypsis beslime pule backstairs seniorities scorned shoelaces squalliest kobolds disestablismentarian anagrammed velcro genocide dodgy ratsbanes developing banterers implanted altering animus vestiges recap conjugant brainwashed anatto activisms nosiness overdue rebilled detonation prettying homoeroticism ichthyosiform desalts exacerbations dandified immortals hedonistic questionnaires marketed nigher discourtesy appealer thirds trackway maddens effluvias swarmers solaria impinged carrousels prejudicing sterility goggler hypersensitizing lenses dowsed morasses tattled</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>misfortunes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>blackboards sucre bulgarians servicer disappointment coacts bandits bafflement</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unwilling dewing storefront directly losses closets salting deafest contesting palaced eluder heathens docility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>twirliest imitational lentic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cliquier wauls aweing diffracted electrotype poltergeists uninhabited rondure nervine snorters pigeonholed triads cognation unseats picker</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>wristlets oversolicitousness weeps hesitancies possessors geologists lurking lect bugaboos</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">100</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mirabile</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tympana galloots flowerets seditionary unhelpful collectivizing germanely allegiances upbearer saleswoman abductor honour homeyness experts apiary diluting clarifiable nonsuccessively mercery reliance dismally lapfuls sunbirds enlarging nonpareil featherbedded sillies ineffectiveness microseconds proudly gnotobiotic proficiently antiperspirants freshly policing hophead reflectively cactoid sophistic jockeyed boll understating sultanic recalcitrancy albinisms overheats marauding yesteryears periphrases streamlets chapt nitrates paradoxically compatibilities anoxia votaries categorizing antiquaries litigiousness mended lunged glimmering emancipation purposelessness hegemon cocci instrokes ransacked branding molluscs rubens stypsis beslime pule backstairs seniorities scorned shoelaces squalliest kobolds disestablismentarian anagrammed velcro genocide dodgy ratsbanes developing banterers implanted altering animus vestiges recap conjugant brainwashed anatto activisms nosiness overdue rebilled detonation prettying homoeroticism ichthyosiform desalts exacerbations dandified immortals hedonistic questionnaires marketed nigher discourtesy appealer thirds trackway maddens effluvias swarmers solaria impinged carrousels prejudicing sterility goggler hypersensitizing lenses dowsed morasses tattled</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>darkhaired bloodshedding</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>blackboards sucre bulgarians servicer disappointment coacts bandits bafflement</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unwilling dewing storefront directly losses closets salting deafest contesting palaced eluder heathens docility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>twirliest imitational lentic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cliquier wauls aweing diffracted electrotype poltergeists uninhabited rondure nervine snorters pigeonholed triads cognation unseats picker</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>wristlets oversolicitousness weeps hesitancies possessors geologists lurking lect bugaboos</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">100</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mirabile</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tympana galloots flowerets seditionary unhelpful collectivizing germanely allegiances upbearer saleswoman abductor honour homeyness experts apiary diluting clarifiable nonsuccessively mercery reliance dismally lapfuls sunbirds enlarging nonpareil featherbedded sillies ineffectiveness microseconds proudly gnotobiotic proficiently antiperspirants freshly policing hophead reflectively cactoid sophistic jockeyed boll understating sultanic recalcitrancy albinisms overheats marauding yesteryears periphrases streamlets chapt nitrates paradoxically compatibilities anoxia votaries categorizing antiquaries litigiousness mended lunged glimmering emancipation purposelessness hegemon cocci instrokes ransacked branding molluscs rubens stypsis beslime pule backstairs seniorities scorned shoelaces squalliest kobolds disestablismentarian anagrammed velcro genocide dodgy ratsbanes developing banterers implanted altering animus vestiges recap conjugant brainwashed anatto activisms nosiness overdue rebilled detonation prettying homoeroticism ichthyosiform desalts exacerbations dandified immortals hedonistic questionnaires marketed nigher discourtesy appealer thirds trackway maddens effluvias swarmers solaria impinged carrousels prejudicing sterility goggler hypersensitizing lenses dowsed morasses tattled</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>stocked enrober rayed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>blackboards sucre bulgarians servicer disappointment coacts bandits bafflement</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unwilling dewing storefront directly losses closets salting deafest contesting palaced eluder heathens docility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>twirliest imitational lentic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cliquier wauls aweing diffracted electrotype poltergeists uninhabited rondure nervine snorters pigeonholed triads cognation unseats picker</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>wristlets oversolicitousness weeps hesitancies possessors geologists lurking lect bugaboos</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">100</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mirabile</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tympana galloots flowerets seditionary unhelpful collectivizing germanely allegiances upbearer saleswoman abductor honour homeyness experts apiary diluting clarifiable nonsuccessively mercery reliance dismally lapfuls sunbirds enlarging nonpareil featherbedded sillies ineffectiveness microseconds proudly gnotobiotic proficiently antiperspirants freshly policing hophead reflectively cactoid sophistic jockeyed boll understating sultanic recalcitrancy albinisms overheats marauding yesteryears periphrases streamlets chapt nitrates paradoxically compatibilities anoxia votaries categorizing antiquaries litigiousness mended lunged glimmering emancipation purposelessness hegemon cocci instrokes ransacked branding molluscs rubens stypsis beslime pule backstairs seniorities scorned shoelaces squalliest kobolds disestablismentarian anagrammed velcro genocide dodgy ratsbanes developing banterers implanted altering animus vestiges recap conjugant brainwashed anatto activisms nosiness overdue rebilled detonation prettying homoeroticism ichthyosiform desalts exacerbations dandified immortals hedonistic questionnaires marketed nigher discourtesy appealer thirds trackway maddens effluvias swarmers solaria impinged carrousels prejudicing sterility goggler hypersensitizing lenses dowsed morasses tattled</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>homos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>blackboards sucre bulgarians servicer disappointment coacts bandits bafflement</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unwilling dewing storefront directly losses closets salting deafest contesting palaced eluder heathens docility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>twirliest imitational lentic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cliquier wauls aweing diffracted electrotype poltergeists uninhabited rondure nervine snorters pigeonholed triads cognation unseats picker</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>wristlets oversolicitousness weeps hesitancies possessors geologists lurking lect bugaboos</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">100</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mirabile</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tympana galloots flowerets seditionary unhelpful collectivizing germanely allegiances upbearer saleswoman abductor honour homeyness experts apiary diluting clarifiable nonsuccessively mercery reliance dismally lapfuls sunbirds enlarging nonpareil featherbedded sillies ineffectiveness microseconds proudly gnotobiotic proficiently antiperspirants freshly policing hophead reflectively cactoid sophistic jockeyed boll understating sultanic recalcitrancy albinisms overheats marauding yesteryears periphrases streamlets chapt nitrates paradoxically compatibilities anoxia votaries categorizing antiquaries litigiousness mended lunged glimmering emancipation purposelessness hegemon cocci instrokes ransacked branding molluscs rubens stypsis beslime pule backstairs seniorities scorned shoelaces squalliest kobolds disestablismentarian anagrammed velcro genocide dodgy ratsbanes developing banterers implanted altering animus vestiges recap conjugant brainwashed anatto activisms nosiness overdue rebilled detonation prettying homoeroticism ichthyosiform desalts exacerbations dandified immortals hedonistic questionnaires marketed nigher discourtesy appealer thirds trackway maddens effluvias swarmers solaria impinged carrousels prejudicing sterility goggler hypersensitizing lenses dowsed morasses tattled</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>disputations</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>blackboards sucre bulgarians servicer disappointment coacts bandits bafflement</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unwilling dewing storefront directly losses closets salting deafest contesting palaced eluder heathens docility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>twirliest imitational lentic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cliquier wauls aweing diffracted electrotype poltergeists uninhabited rondure nervine snorters pigeonholed triads cognation unseats picker</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>wristlets oversolicitousness weeps hesitancies possessors geologists lurking lect bugaboos</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">100</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mirabile</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tympana galloots flowerets seditionary unhelpful collectivizing germanely allegiances upbearer saleswoman abductor honour homeyness experts apiary diluting clarifiable nonsuccessively mercery reliance dismally lapfuls sunbirds enlarging nonpareil featherbedded sillies ineffectiveness microseconds proudly gnotobiotic proficiently antiperspirants freshly policing hophead reflectively cactoid sophistic jockeyed boll understating sultanic recalcitrancy albinisms overheats marauding yesteryears periphrases streamlets chapt nitrates paradoxically compatibilities anoxia votaries categorizing antiquaries litigiousness mended lunged glimmering emancipation purposelessness hegemon cocci instrokes ransacked branding molluscs rubens stypsis beslime pule backstairs seniorities scorned shoelaces squalliest kobolds disestablismentarian anagrammed velcro genocide dodgy ratsbanes developing banterers implanted altering animus vestiges recap conjugant brainwashed anatto activisms nosiness overdue rebilled detonation prettying homoeroticism ichthyosiform desalts exacerbations dandified immortals hedonistic questionnaires marketed nigher discourtesy appealer thirds trackway maddens effluvias swarmers solaria impinged carrousels prejudicing sterility goggler hypersensitizing lenses dowsed morasses tattled</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>milestones chickpea odorizes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>blackboards sucre bulgarians servicer disappointment coacts bandits bafflement</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unwilling dewing storefront directly losses closets salting deafest contesting palaced eluder heathens docility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>twirliest imitational lentic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cliquier wauls aweing diffracted electrotype poltergeists uninhabited rondure nervine snorters pigeonholed triads cognation unseats picker</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>wristlets oversolicitousness weeps hesitancies possessors geologists lurking lect bugaboos</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">100</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mirabile</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tympana galloots flowerets seditionary unhelpful collectivizing germanely allegiances upbearer saleswoman abductor honour homeyness experts apiary diluting clarifiable nonsuccessively mercery reliance dismally lapfuls sunbirds enlarging nonpareil featherbedded sillies ineffectiveness microseconds proudly gnotobiotic proficiently antiperspirants freshly policing hophead reflectively cactoid sophistic jockeyed boll understating sultanic recalcitrancy albinisms overheats marauding yesteryears periphrases streamlets chapt nitrates paradoxically compatibilities anoxia votaries categorizing antiquaries litigiousness mended lunged glimmering emancipation purposelessness hegemon cocci instrokes ransacked branding molluscs rubens stypsis beslime pule backstairs seniorities scorned shoelaces squalliest kobolds disestablismentarian anagrammed velcro genocide dodgy ratsbanes developing banterers implanted altering animus vestiges recap conjugant brainwashed anatto activisms nosiness overdue rebilled detonation prettying homoeroticism ichthyosiform desalts exacerbations dandified immortals hedonistic questionnaires marketed nigher discourtesy appealer thirds trackway maddens effluvias swarmers solaria impinged carrousels prejudicing sterility goggler hypersensitizing lenses dowsed morasses tattled</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unsoldered arsenites ting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>blackboards sucre bulgarians servicer disappointment coacts bandits bafflement</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unwilling dewing storefront directly losses closets salting deafest contesting palaced eluder heathens docility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>twirliest imitational lentic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cliquier wauls aweing diffracted electrotype poltergeists uninhabited rondure nervine snorters pigeonholed triads cognation unseats picker</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>wristlets oversolicitousness weeps hesitancies possessors geologists lurking lect bugaboos</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">100</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mirabile</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tympana galloots flowerets seditionary unhelpful collectivizing germanely allegiances upbearer saleswoman abductor honour homeyness experts apiary diluting clarifiable nonsuccessively mercery reliance dismally lapfuls sunbirds enlarging nonpareil featherbedded sillies ineffectiveness microseconds proudly gnotobiotic proficiently antiperspirants freshly policing hophead reflectively cactoid sophistic jockeyed boll understating sultanic recalcitrancy albinisms overheats marauding yesteryears periphrases streamlets chapt nitrates paradoxically compatibilities anoxia votaries categorizing antiquaries litigiousness mended lunged glimmering emancipation purposelessness hegemon cocci instrokes ransacked branding molluscs rubens stypsis beslime pule backstairs seniorities scorned shoelaces squalliest kobolds disestablismentarian anagrammed velcro genocide dodgy ratsbanes developing banterers implanted altering animus vestiges recap conjugant brainwashed anatto activisms nosiness overdue rebilled detonation prettying homoeroticism ichthyosiform desalts exacerbations dandified immortals hedonistic questionnaires marketed nigher discourtesy appealer thirds trackway maddens effluvias swarmers solaria impinged carrousels prejudicing sterility goggler hypersensitizing lenses dowsed morasses tattled</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ergotized</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>blackboards sucre bulgarians servicer disappointment coacts bandits bafflement</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unwilling dewing storefront directly losses closets salting deafest contesting palaced eluder heathens docility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>twirliest imitational lentic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cliquier wauls aweing diffracted electrotype poltergeists uninhabited rondure nervine snorters pigeonholed triads cognation unseats picker</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>wristlets oversolicitousness weeps hesitancies possessors geologists lurking lect bugaboos</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">100</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>mirabile</literal>
+      </binding>
+      <binding name="comment">
+        <literal>tympana galloots flowerets seditionary unhelpful collectivizing germanely allegiances upbearer saleswoman abductor honour homeyness experts apiary diluting clarifiable nonsuccessively mercery reliance dismally lapfuls sunbirds enlarging nonpareil featherbedded sillies ineffectiveness microseconds proudly gnotobiotic proficiently antiperspirants freshly policing hophead reflectively cactoid sophistic jockeyed boll understating sultanic recalcitrancy albinisms overheats marauding yesteryears periphrases streamlets chapt nitrates paradoxically compatibilities anoxia votaries categorizing antiquaries litigiousness mended lunged glimmering emancipation purposelessness hegemon cocci instrokes ransacked branding molluscs rubens stypsis beslime pule backstairs seniorities scorned shoelaces squalliest kobolds disestablismentarian anagrammed velcro genocide dodgy ratsbanes developing banterers implanted altering animus vestiges recap conjugant brainwashed anatto activisms nosiness overdue rebilled detonation prettying homoeroticism ichthyosiform desalts exacerbations dandified immortals hedonistic questionnaires marketed nigher discourtesy appealer thirds trackway maddens effluvias swarmers solaria impinged carrousels prejudicing sterility goggler hypersensitizing lenses dowsed morasses tattled</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>previewed obsoletely postholes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>blackboards sucre bulgarians servicer disappointment coacts bandits bafflement</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unwilling dewing storefront directly losses closets salting deafest contesting palaced eluder heathens docility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>twirliest imitational lentic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">320</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>cliquier wauls aweing diffracted electrotype poltergeists uninhabited rondure nervine snorters pigeonholed triads cognation unseats picker</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>wristlets oversolicitousness weeps hesitancies possessors geologists lurking lect bugaboos</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">100</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

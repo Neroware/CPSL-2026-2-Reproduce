@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer67/Product3142</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>basifying</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer32/Product1452</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>coacting embers</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer13/Product602</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>harmlessly spitted toited</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer62/Product2940</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>iconical</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer76/Product3604</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>nonideological oxidations</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer26/Product1230</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>opportunity</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer32/Product1467</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>philatelic warpath</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer81/Product3830</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>premeditated artier</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer67/Product3120</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>robotism dithering doomed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer34/Product1546</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>sonnetted inadmissibility slumbering</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer54/Product2536</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>tabor</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer20/Product916</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>upstaging</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer53/Product2501</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>weewee taking nominator</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

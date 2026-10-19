@@ -1,0 +1,17 @@
+== Correctness check (20261019T080524Z-sf1000-correctness) ==
+reference: http://jena-fuseki:3030/ds/sparql
+test:      http://gengodb:8890/sparql
+(correct = match + match_modulo_ties; [i] = informational, see check-correctness.py)
+
+query      type       total      correct_pct  match      match_modulo_ties  wrong_order  unsupported  content_mismatch  count_mismatch  wrong_vars  error    
+1          SELECT     10         100.0        10         0                  0            0            0                 0               0           0        
+2          SELECT     60         100.0        60         0                  0            0            0                 0               0           0        
+3          SELECT     10         100.0        10         0                  0            0            0                 0               0           0        
+4          SELECT     10         100.0        10         0                  0            0            0                 0               0           0        
+5          SELECT     20         100.0        20         0                  0            0            0                 0               0           0        
+7          SELECT     40         100.0        40         0                  0            0            0                 0               0           0        
+8          SELECT     20         100.0        20         0                  0            0            0                 0               0           0        
+10         SELECT     20         100.0        20         0                  0            0            0                 0               0           0        
+11         SELECT     10         100.0        10         0                  0            0            0                 0               0           0        
+
+Overall (non-informational): 200/200 correct (100.0%)

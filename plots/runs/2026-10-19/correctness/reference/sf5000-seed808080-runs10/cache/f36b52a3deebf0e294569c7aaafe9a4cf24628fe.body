@@ -1,0 +1,513 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>bricked</literal>
+      </binding>
+      <binding name="comment">
+        <literal>jaggedly wrier stomachaches reposed admirably electronarcosis stickum counterplotting crappers finking disclosing dangled jiggered friskiness enjoyed faunae readdresses smoldering meditating denazify monetize adductor opens becomings hydrants chloric reddens amnesty unlikelihood subnormally gentler unattainable coarsening globalists individually melding czechoslovakian coiffeur consortiums almsman bonbon winterizes leveraging bloodying stadiums shiftiness peeking objective chilies causers axils pewterers grapery overtrains damosel marblings earthwork bookshop macaws retests dreamers gobbets theater chunks mainlining gobbler geologists determining foxily phonophotography ordinands unreasonable surceases scandalizing premises butter ballista advancements undersigned recombination abnormally strays cringers sugarless aerosolize adeptly chasings semitone womby sicklier ensiles reanimates trows cellists bulled subindexes bankbook deplanes uncleaned acknowledgedly dislodges underdog subordinations affected hitless toughest disseminated overeasy chemotherapies draught condor antiabortion undersecretary microclimates dogged lancelot buckled posterns distresses savourers biens reference meditations runtish honorands rudest volente animation metameric cooperatives futility</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>taxonomists</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lysins nonfactual vehemently connects kwachas presumptuousness flatting unpleasing antacids</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>carageen wiretapped incurving symptomatological posits daubing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>predesignating dispirited furriness etiolate peeress poetically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1970</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>daylily canter appetizers mainsprings withers bakings reemployed arrestor bifurcating</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>nonclinically greenflies polydactylous mattresses</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bricked</literal>
+      </binding>
+      <binding name="comment">
+        <literal>jaggedly wrier stomachaches reposed admirably electronarcosis stickum counterplotting crappers finking disclosing dangled jiggered friskiness enjoyed faunae readdresses smoldering meditating denazify monetize adductor opens becomings hydrants chloric reddens amnesty unlikelihood subnormally gentler unattainable coarsening globalists individually melding czechoslovakian coiffeur consortiums almsman bonbon winterizes leveraging bloodying stadiums shiftiness peeking objective chilies causers axils pewterers grapery overtrains damosel marblings earthwork bookshop macaws retests dreamers gobbets theater chunks mainlining gobbler geologists determining foxily phonophotography ordinands unreasonable surceases scandalizing premises butter ballista advancements undersigned recombination abnormally strays cringers sugarless aerosolize adeptly chasings semitone womby sicklier ensiles reanimates trows cellists bulled subindexes bankbook deplanes uncleaned acknowledgedly dislodges underdog subordinations affected hitless toughest disseminated overeasy chemotherapies draught condor antiabortion undersecretary microclimates dogged lancelot buckled posterns distresses savourers biens reference meditations runtish honorands rudest volente animation metameric cooperatives futility</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scooting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lysins nonfactual vehemently connects kwachas presumptuousness flatting unpleasing antacids</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>carageen wiretapped incurving symptomatological posits daubing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>predesignating dispirited furriness etiolate peeress poetically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1970</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>daylily canter appetizers mainsprings withers bakings reemployed arrestor bifurcating</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>nonclinically greenflies polydactylous mattresses</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bricked</literal>
+      </binding>
+      <binding name="comment">
+        <literal>jaggedly wrier stomachaches reposed admirably electronarcosis stickum counterplotting crappers finking disclosing dangled jiggered friskiness enjoyed faunae readdresses smoldering meditating denazify monetize adductor opens becomings hydrants chloric reddens amnesty unlikelihood subnormally gentler unattainable coarsening globalists individually melding czechoslovakian coiffeur consortiums almsman bonbon winterizes leveraging bloodying stadiums shiftiness peeking objective chilies causers axils pewterers grapery overtrains damosel marblings earthwork bookshop macaws retests dreamers gobbets theater chunks mainlining gobbler geologists determining foxily phonophotography ordinands unreasonable surceases scandalizing premises butter ballista advancements undersigned recombination abnormally strays cringers sugarless aerosolize adeptly chasings semitone womby sicklier ensiles reanimates trows cellists bulled subindexes bankbook deplanes uncleaned acknowledgedly dislodges underdog subordinations affected hitless toughest disseminated overeasy chemotherapies draught condor antiabortion undersecretary microclimates dogged lancelot buckled posterns distresses savourers biens reference meditations runtish honorands rudest volente animation metameric cooperatives futility</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>submerges sorrowed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lysins nonfactual vehemently connects kwachas presumptuousness flatting unpleasing antacids</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>carageen wiretapped incurving symptomatological posits daubing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>predesignating dispirited furriness etiolate peeress poetically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1970</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>daylily canter appetizers mainsprings withers bakings reemployed arrestor bifurcating</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>nonclinically greenflies polydactylous mattresses</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bricked</literal>
+      </binding>
+      <binding name="comment">
+        <literal>jaggedly wrier stomachaches reposed admirably electronarcosis stickum counterplotting crappers finking disclosing dangled jiggered friskiness enjoyed faunae readdresses smoldering meditating denazify monetize adductor opens becomings hydrants chloric reddens amnesty unlikelihood subnormally gentler unattainable coarsening globalists individually melding czechoslovakian coiffeur consortiums almsman bonbon winterizes leveraging bloodying stadiums shiftiness peeking objective chilies causers axils pewterers grapery overtrains damosel marblings earthwork bookshop macaws retests dreamers gobbets theater chunks mainlining gobbler geologists determining foxily phonophotography ordinands unreasonable surceases scandalizing premises butter ballista advancements undersigned recombination abnormally strays cringers sugarless aerosolize adeptly chasings semitone womby sicklier ensiles reanimates trows cellists bulled subindexes bankbook deplanes uncleaned acknowledgedly dislodges underdog subordinations affected hitless toughest disseminated overeasy chemotherapies draught condor antiabortion undersecretary microclimates dogged lancelot buckled posterns distresses savourers biens reference meditations runtish honorands rudest volente animation metameric cooperatives futility</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>writeoff</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lysins nonfactual vehemently connects kwachas presumptuousness flatting unpleasing antacids</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>carageen wiretapped incurving symptomatological posits daubing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>predesignating dispirited furriness etiolate peeress poetically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1970</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>daylily canter appetizers mainsprings withers bakings reemployed arrestor bifurcating</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>nonclinically greenflies polydactylous mattresses</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bricked</literal>
+      </binding>
+      <binding name="comment">
+        <literal>jaggedly wrier stomachaches reposed admirably electronarcosis stickum counterplotting crappers finking disclosing dangled jiggered friskiness enjoyed faunae readdresses smoldering meditating denazify monetize adductor opens becomings hydrants chloric reddens amnesty unlikelihood subnormally gentler unattainable coarsening globalists individually melding czechoslovakian coiffeur consortiums almsman bonbon winterizes leveraging bloodying stadiums shiftiness peeking objective chilies causers axils pewterers grapery overtrains damosel marblings earthwork bookshop macaws retests dreamers gobbets theater chunks mainlining gobbler geologists determining foxily phonophotography ordinands unreasonable surceases scandalizing premises butter ballista advancements undersigned recombination abnormally strays cringers sugarless aerosolize adeptly chasings semitone womby sicklier ensiles reanimates trows cellists bulled subindexes bankbook deplanes uncleaned acknowledgedly dislodges underdog subordinations affected hitless toughest disseminated overeasy chemotherapies draught condor antiabortion undersecretary microclimates dogged lancelot buckled posterns distresses savourers biens reference meditations runtish honorands rudest volente animation metameric cooperatives futility</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pourer advancement supplicated</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lysins nonfactual vehemently connects kwachas presumptuousness flatting unpleasing antacids</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>carageen wiretapped incurving symptomatological posits daubing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>predesignating dispirited furriness etiolate peeress poetically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1970</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>daylily canter appetizers mainsprings withers bakings reemployed arrestor bifurcating</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>nonclinically greenflies polydactylous mattresses</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bricked</literal>
+      </binding>
+      <binding name="comment">
+        <literal>jaggedly wrier stomachaches reposed admirably electronarcosis stickum counterplotting crappers finking disclosing dangled jiggered friskiness enjoyed faunae readdresses smoldering meditating denazify monetize adductor opens becomings hydrants chloric reddens amnesty unlikelihood subnormally gentler unattainable coarsening globalists individually melding czechoslovakian coiffeur consortiums almsman bonbon winterizes leveraging bloodying stadiums shiftiness peeking objective chilies causers axils pewterers grapery overtrains damosel marblings earthwork bookshop macaws retests dreamers gobbets theater chunks mainlining gobbler geologists determining foxily phonophotography ordinands unreasonable surceases scandalizing premises butter ballista advancements undersigned recombination abnormally strays cringers sugarless aerosolize adeptly chasings semitone womby sicklier ensiles reanimates trows cellists bulled subindexes bankbook deplanes uncleaned acknowledgedly dislodges underdog subordinations affected hitless toughest disseminated overeasy chemotherapies draught condor antiabortion undersecretary microclimates dogged lancelot buckled posterns distresses savourers biens reference meditations runtish honorands rudest volente animation metameric cooperatives futility</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>motioned rediscovery outfaces</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lysins nonfactual vehemently connects kwachas presumptuousness flatting unpleasing antacids</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>carageen wiretapped incurving symptomatological posits daubing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>predesignating dispirited furriness etiolate peeress poetically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1970</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>daylily canter appetizers mainsprings withers bakings reemployed arrestor bifurcating</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>nonclinically greenflies polydactylous mattresses</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bricked</literal>
+      </binding>
+      <binding name="comment">
+        <literal>jaggedly wrier stomachaches reposed admirably electronarcosis stickum counterplotting crappers finking disclosing dangled jiggered friskiness enjoyed faunae readdresses smoldering meditating denazify monetize adductor opens becomings hydrants chloric reddens amnesty unlikelihood subnormally gentler unattainable coarsening globalists individually melding czechoslovakian coiffeur consortiums almsman bonbon winterizes leveraging bloodying stadiums shiftiness peeking objective chilies causers axils pewterers grapery overtrains damosel marblings earthwork bookshop macaws retests dreamers gobbets theater chunks mainlining gobbler geologists determining foxily phonophotography ordinands unreasonable surceases scandalizing premises butter ballista advancements undersigned recombination abnormally strays cringers sugarless aerosolize adeptly chasings semitone womby sicklier ensiles reanimates trows cellists bulled subindexes bankbook deplanes uncleaned acknowledgedly dislodges underdog subordinations affected hitless toughest disseminated overeasy chemotherapies draught condor antiabortion undersecretary microclimates dogged lancelot buckled posterns distresses savourers biens reference meditations runtish honorands rudest volente animation metameric cooperatives futility</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>rifflers presbyter grippes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lysins nonfactual vehemently connects kwachas presumptuousness flatting unpleasing antacids</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>carageen wiretapped incurving symptomatological posits daubing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>predesignating dispirited furriness etiolate peeress poetically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1970</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>daylily canter appetizers mainsprings withers bakings reemployed arrestor bifurcating</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>nonclinically greenflies polydactylous mattresses</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bricked</literal>
+      </binding>
+      <binding name="comment">
+        <literal>jaggedly wrier stomachaches reposed admirably electronarcosis stickum counterplotting crappers finking disclosing dangled jiggered friskiness enjoyed faunae readdresses smoldering meditating denazify monetize adductor opens becomings hydrants chloric reddens amnesty unlikelihood subnormally gentler unattainable coarsening globalists individually melding czechoslovakian coiffeur consortiums almsman bonbon winterizes leveraging bloodying stadiums shiftiness peeking objective chilies causers axils pewterers grapery overtrains damosel marblings earthwork bookshop macaws retests dreamers gobbets theater chunks mainlining gobbler geologists determining foxily phonophotography ordinands unreasonable surceases scandalizing premises butter ballista advancements undersigned recombination abnormally strays cringers sugarless aerosolize adeptly chasings semitone womby sicklier ensiles reanimates trows cellists bulled subindexes bankbook deplanes uncleaned acknowledgedly dislodges underdog subordinations affected hitless toughest disseminated overeasy chemotherapies draught condor antiabortion undersecretary microclimates dogged lancelot buckled posterns distresses savourers biens reference meditations runtish honorands rudest volente animation metameric cooperatives futility</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>fleabitten amirate diadic</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lysins nonfactual vehemently connects kwachas presumptuousness flatting unpleasing antacids</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>carageen wiretapped incurving symptomatological posits daubing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>predesignating dispirited furriness etiolate peeress poetically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1970</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>daylily canter appetizers mainsprings withers bakings reemployed arrestor bifurcating</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>nonclinically greenflies polydactylous mattresses</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bricked</literal>
+      </binding>
+      <binding name="comment">
+        <literal>jaggedly wrier stomachaches reposed admirably electronarcosis stickum counterplotting crappers finking disclosing dangled jiggered friskiness enjoyed faunae readdresses smoldering meditating denazify monetize adductor opens becomings hydrants chloric reddens amnesty unlikelihood subnormally gentler unattainable coarsening globalists individually melding czechoslovakian coiffeur consortiums almsman bonbon winterizes leveraging bloodying stadiums shiftiness peeking objective chilies causers axils pewterers grapery overtrains damosel marblings earthwork bookshop macaws retests dreamers gobbets theater chunks mainlining gobbler geologists determining foxily phonophotography ordinands unreasonable surceases scandalizing premises butter ballista advancements undersigned recombination abnormally strays cringers sugarless aerosolize adeptly chasings semitone womby sicklier ensiles reanimates trows cellists bulled subindexes bankbook deplanes uncleaned acknowledgedly dislodges underdog subordinations affected hitless toughest disseminated overeasy chemotherapies draught condor antiabortion undersecretary microclimates dogged lancelot buckled posterns distresses savourers biens reference meditations runtish honorands rudest volente animation metameric cooperatives futility</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>downswings</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lysins nonfactual vehemently connects kwachas presumptuousness flatting unpleasing antacids</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>carageen wiretapped incurving symptomatological posits daubing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>predesignating dispirited furriness etiolate peeress poetically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1970</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>daylily canter appetizers mainsprings withers bakings reemployed arrestor bifurcating</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>nonclinically greenflies polydactylous mattresses</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bricked</literal>
+      </binding>
+      <binding name="comment">
+        <literal>jaggedly wrier stomachaches reposed admirably electronarcosis stickum counterplotting crappers finking disclosing dangled jiggered friskiness enjoyed faunae readdresses smoldering meditating denazify monetize adductor opens becomings hydrants chloric reddens amnesty unlikelihood subnormally gentler unattainable coarsening globalists individually melding czechoslovakian coiffeur consortiums almsman bonbon winterizes leveraging bloodying stadiums shiftiness peeking objective chilies causers axils pewterers grapery overtrains damosel marblings earthwork bookshop macaws retests dreamers gobbets theater chunks mainlining gobbler geologists determining foxily phonophotography ordinands unreasonable surceases scandalizing premises butter ballista advancements undersigned recombination abnormally strays cringers sugarless aerosolize adeptly chasings semitone womby sicklier ensiles reanimates trows cellists bulled subindexes bankbook deplanes uncleaned acknowledgedly dislodges underdog subordinations affected hitless toughest disseminated overeasy chemotherapies draught condor antiabortion undersecretary microclimates dogged lancelot buckled posterns distresses savourers biens reference meditations runtish honorands rudest volente animation metameric cooperatives futility</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>motorways</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lysins nonfactual vehemently connects kwachas presumptuousness flatting unpleasing antacids</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>carageen wiretapped incurving symptomatological posits daubing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>predesignating dispirited furriness etiolate peeress poetically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1970</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>daylily canter appetizers mainsprings withers bakings reemployed arrestor bifurcating</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>nonclinically greenflies polydactylous mattresses</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bricked</literal>
+      </binding>
+      <binding name="comment">
+        <literal>jaggedly wrier stomachaches reposed admirably electronarcosis stickum counterplotting crappers finking disclosing dangled jiggered friskiness enjoyed faunae readdresses smoldering meditating denazify monetize adductor opens becomings hydrants chloric reddens amnesty unlikelihood subnormally gentler unattainable coarsening globalists individually melding czechoslovakian coiffeur consortiums almsman bonbon winterizes leveraging bloodying stadiums shiftiness peeking objective chilies causers axils pewterers grapery overtrains damosel marblings earthwork bookshop macaws retests dreamers gobbets theater chunks mainlining gobbler geologists determining foxily phonophotography ordinands unreasonable surceases scandalizing premises butter ballista advancements undersigned recombination abnormally strays cringers sugarless aerosolize adeptly chasings semitone womby sicklier ensiles reanimates trows cellists bulled subindexes bankbook deplanes uncleaned acknowledgedly dislodges underdog subordinations affected hitless toughest disseminated overeasy chemotherapies draught condor antiabortion undersecretary microclimates dogged lancelot buckled posterns distresses savourers biens reference meditations runtish honorands rudest volente animation metameric cooperatives futility</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>riggings failings gangplow</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lysins nonfactual vehemently connects kwachas presumptuousness flatting unpleasing antacids</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>carageen wiretapped incurving symptomatological posits daubing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>predesignating dispirited furriness etiolate peeress poetically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1970</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>daylily canter appetizers mainsprings withers bakings reemployed arrestor bifurcating</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>nonclinically greenflies polydactylous mattresses</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bricked</literal>
+      </binding>
+      <binding name="comment">
+        <literal>jaggedly wrier stomachaches reposed admirably electronarcosis stickum counterplotting crappers finking disclosing dangled jiggered friskiness enjoyed faunae readdresses smoldering meditating denazify monetize adductor opens becomings hydrants chloric reddens amnesty unlikelihood subnormally gentler unattainable coarsening globalists individually melding czechoslovakian coiffeur consortiums almsman bonbon winterizes leveraging bloodying stadiums shiftiness peeking objective chilies causers axils pewterers grapery overtrains damosel marblings earthwork bookshop macaws retests dreamers gobbets theater chunks mainlining gobbler geologists determining foxily phonophotography ordinands unreasonable surceases scandalizing premises butter ballista advancements undersigned recombination abnormally strays cringers sugarless aerosolize adeptly chasings semitone womby sicklier ensiles reanimates trows cellists bulled subindexes bankbook deplanes uncleaned acknowledgedly dislodges underdog subordinations affected hitless toughest disseminated overeasy chemotherapies draught condor antiabortion undersecretary microclimates dogged lancelot buckled posterns distresses savourers biens reference meditations runtish honorands rudest volente animation metameric cooperatives futility</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>outtrumped</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lysins nonfactual vehemently connects kwachas presumptuousness flatting unpleasing antacids</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>carageen wiretapped incurving symptomatological posits daubing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>predesignating dispirited furriness etiolate peeress poetically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1970</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>daylily canter appetizers mainsprings withers bakings reemployed arrestor bifurcating</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>nonclinically greenflies polydactylous mattresses</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bricked</literal>
+      </binding>
+      <binding name="comment">
+        <literal>jaggedly wrier stomachaches reposed admirably electronarcosis stickum counterplotting crappers finking disclosing dangled jiggered friskiness enjoyed faunae readdresses smoldering meditating denazify monetize adductor opens becomings hydrants chloric reddens amnesty unlikelihood subnormally gentler unattainable coarsening globalists individually melding czechoslovakian coiffeur consortiums almsman bonbon winterizes leveraging bloodying stadiums shiftiness peeking objective chilies causers axils pewterers grapery overtrains damosel marblings earthwork bookshop macaws retests dreamers gobbets theater chunks mainlining gobbler geologists determining foxily phonophotography ordinands unreasonable surceases scandalizing premises butter ballista advancements undersigned recombination abnormally strays cringers sugarless aerosolize adeptly chasings semitone womby sicklier ensiles reanimates trows cellists bulled subindexes bankbook deplanes uncleaned acknowledgedly dislodges underdog subordinations affected hitless toughest disseminated overeasy chemotherapies draught condor antiabortion undersecretary microclimates dogged lancelot buckled posterns distresses savourers biens reference meditations runtish honorands rudest volente animation metameric cooperatives futility</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unacceptable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lysins nonfactual vehemently connects kwachas presumptuousness flatting unpleasing antacids</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>carageen wiretapped incurving symptomatological posits daubing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>predesignating dispirited furriness etiolate peeress poetically</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1332</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1970</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>daylily canter appetizers mainsprings withers bakings reemployed arrestor bifurcating</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>nonclinically greenflies polydactylous mattresses</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">107</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

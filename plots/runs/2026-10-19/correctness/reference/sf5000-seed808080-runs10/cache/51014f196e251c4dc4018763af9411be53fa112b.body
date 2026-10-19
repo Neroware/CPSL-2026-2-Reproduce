@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer103/Product4845</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>absinths flanging industrialized</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer69/Product3250</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>affusions</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer61/Product2861</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>chickweeds spader</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer28/Product1287</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>hypodermics valour</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer53/Product2502</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>imagination</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

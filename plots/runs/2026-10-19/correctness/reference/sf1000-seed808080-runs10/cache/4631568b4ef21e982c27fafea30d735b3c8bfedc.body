@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer21/Product969</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>antimalarial</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer1/Product56</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>caterwauls</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer19/Product857</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>countries</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer3/Product100</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>himalayan ends</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer6/Product218</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>overemotional ctg volplaning</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer20/Product932</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>rhapsodists</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer16/Product775</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>romancer debasing overcompensate</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer9/Product390</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>sorghums pirana</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

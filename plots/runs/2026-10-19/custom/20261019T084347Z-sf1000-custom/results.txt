@@ -1,0 +1,5 @@
+== Custom module timing summary (20261019T084347Z-sf1000-custom) ==
+(all times in ms - see lingodb::execution::TimingPrinter; mean over successful reps, blank = phase not used)
+
+file                    type  warmups  reps_requested  reps_ok  status  271_mean  lowerRelAlg_mean  lowerSubOp_mean  lowerDB_mean  lowerArrow_mean  lowerToLLVM_mean  baselineLowering_mean  toLLVMIR_mean  llvmOptimize_mean  llvmCodeGen_mean  baselineCodeGen_mean  baselineEmit_mean  executionTime_mean  total_mean  executionTime_min  executionTime_max  total_min  total_max
+triple_join_subop.mlir  mlir  5        20              20       OK      0.7857    0.1016            1.05735          1.5765        0.38815          5.7999                                   0.8159         3.84845            17.5701                                                    2.33445             37.179      2.323              2.349              36.98      37.349

@@ -1,0 +1,851 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>premiss untaxed sexiness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>culls interbank nonnegotiable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>generalissimo</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ideogram banterer spellbinds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>frilliest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>iguanas</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>semiautonomous uncounted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>anodizes expender</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>elaborately gunned ghostiest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>anoraks mousses</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>wineskins banded crc</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>distance outreasons exactness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>remigrates unmoved smothered</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>trilateral</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dovish microstate</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pressrun irredeemability poops</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>causes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>thinned wheelwrights</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>extraterritorial</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>brutishness forseen</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>midden</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>buenas</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>photoflash suckled</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lyrebirds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>awes flab</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>frumpish</literal>
+      </binding>
+      <binding name="comment">
+        <literal>reflective barbers slued radiuses sustaining baedeker adumbration rams renewability creakiest merchandises murphies endues pastils trainmaster isomorphs elflock teletypewriter distance circum cassavas renouncer ferried rusting genteelness octogenarians preoccupies diddled catabolized aha hognose steering snorkeled roentgenography diathermic solicited defamers contumelious repartees disquieted overmodifies scubas reedited deserters barters detachable shales voices potentiometers hypoglycemia tulles hisser meteorologists disappointments militating commodities seaters pairings originating bobbysoxers crabby minimizes taillight overlay vandalizes ceremonials donjon intones robuster sterna imprisoned exploiters crusaded dyeweed nailsets rubbing immaculacy atonics jutes aftermarket advertising unscientific internally biocycles hurried agora affirmably unconfused argentines outboasts remelted coincidence cuticular subchief huffily trepans keratomas porker</literal>
+      </binding>
+      <binding name="producer">
+        <literal>troubadour</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ends perjuriously</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>minutia nontenure brittles</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>recompounding relist neocolonialists humidifier carats caulks liberalizations burbly wrinkling repressibility</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cultivar motives litigator subprovinces bulbuls surpassing expectorator defoliate overcrowding flagship convection</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">525</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">106</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>scraggiest goodwills declassification sitar camouflaged</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

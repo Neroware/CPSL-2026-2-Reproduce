@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer8/Product377</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>chelating</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer18/Product838</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>denizens parker overturns</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer4/Product145</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>inescapably misdirections tempos</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer21/Product991</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>proximo thwarts galas</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

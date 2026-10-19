@@ -1,0 +1,773 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>biographies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>yodeller</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>stroboscopes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>primitivity</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>doyennes stakeouts densest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>drover</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>koans alienee moderator</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lieges</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ladylove</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>palmettoes plainsong</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lander chinchillas inconsolably</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>durn buboes aerosolize</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pronghorn tantras inheres</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>amoks grins</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>petulancy hiller</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>necessaries dipstick</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>variegating</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>upchucked keenly picked</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>circumsolar craggiest hollowly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>subcommanders</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>deeds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>blightingly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>expatriations turnstile ululation</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unpopulated</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>spends</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>subtracted woolens typeable</literal>
+      </binding>
+      <binding name="comment">
+        <literal>acquired imploded smoked indowed strikeout vivendi tope concentrated continuance gallanting bifold browses subversives candidacies snookers sauropods reheat histologist sanitizer iowans industrialize musclebound sublessor disparaging citrines loutish faithless pays pleads tragedies violating thurifers tortilla plash taoism recirculations inferrers outreaches freakily sensational spittoon stealer phantasmagoric urination veep encyclopedically breweries kinghoods contractile azoic abashes tyres mixer umbellate whizzer condoned uberrima letch prewar resections ransacks correspondingly missorts awns gloomed soldierly quarries houseclean chagrins stumpier cordwoods presetting saltest prorogues nonsuches gyroidal cuckolded gamecocks clonking sailors benzocaine flauntier toddlers befriending ricking gorblimy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>seedily bottlesful</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>autocrats piteousness renames rooter</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>disreputably revocability novembers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>wrongfulness knighted portrays cuspidal aglow supportless cretinize tillages flays samariums potters mugginess hauteurs dominicans clair</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">123</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">98</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

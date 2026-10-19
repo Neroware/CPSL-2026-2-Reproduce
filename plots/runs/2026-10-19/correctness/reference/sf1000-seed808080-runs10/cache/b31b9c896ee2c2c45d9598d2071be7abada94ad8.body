@@ -1,0 +1,802 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tuners sticked</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>housebreaker</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sheaves benchmarked</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>jurors submarine</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>happenings</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>appreciated usability</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>doltishly polygram lockages</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>delegation slotting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>guarantying</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>royalisms sulpha</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>intersexual</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>blushing coopers epigrammatically</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>redeemed gasped splints</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>preannouncement</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>uprear</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>choremen</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>stonishing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>smote nonconfidence</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>measuring oftest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>downheartedly chemosensitive</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tbsp enfeoffment</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>recreates precipitately mutes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>shrewishness embracing lacily</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>warns telephonist interreligious</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hooping vampish</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ventilates</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jingoism</literal>
+      </binding>
+      <binding name="comment">
+        <literal>owlets alibied nonmoral floured indorsing zealousness deformers soundboard bursted beveled smothery distinctly ponds buckles drummer flyleaf knapper noodles geodesists adversities odder reproaches peregrins inspirer maxims plays emoter proprietresses cannabinol mellifluent demitasses mikvah stoutly tweeting vibrancy debtless warrantee mer adhered rethreading civilizing exotisms safeguards runrounds yahoo pintas unquestionable dowser vapour lambdas purveyed ginny interdictory digitally unmourned conceptualizes depredatory fulvous coveters spindlier subtend pings pantomiming sculler amplifiable tourers cataleptic flexing buoyage farthermost impregnations cantinas tills quirted venters ruptured piton shunpiker deludingly barbershops snot tiptop gauchest loader goads medically intermarries sonneted indicated amassment lama bongos possessed unclouded dighted microbus heraldists enfolded trundling larcenists immitigable chammied toolless soundproofing erectors fallacies unknotting sports tennises opacities quotational thrawed firma decompensated kenyans ictus posthumously administratrices</literal>
+      </binding>
+      <binding name="producer">
+        <literal>suckled flintlocks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tits</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hailstones redrills untended unpremeditated barbecued incriminator maculates veinings knotting vapory possessable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>overdraw habaneras schoolmasters hermaphrodite presold protracts generates archfiends cubics overleap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>appending hundredweight moneymakers promulgates handicappers ways muss biffins farmed</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">468</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1015</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

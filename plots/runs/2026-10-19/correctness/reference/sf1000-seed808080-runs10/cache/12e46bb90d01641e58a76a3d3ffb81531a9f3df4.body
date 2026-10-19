@@ -1,0 +1,396 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>stances</literal>
+      </binding>
+      <binding name="comment">
+        <literal>hygeist rooks cretonne cacaos sabering olivinic connived demoniacal pinkishness subsumes flinted shrived eductive opulency ambiguousness copilots arduously overindustrialized deterged presentable skittishness manchuria chunkily vivarium sporadically moonwalks gnarly ebullition coverup semicolons pillaging capsuled demythologizing repeating nonconsumption acclaimed cliquy chessman untrue legitimatize domiciliated agelessly snuggled lammed joggling costs sappily mandarins dogies nimbly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>wheelman</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>preexamined patrolwomen samoans snicks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interpreter intoner impertinency chorussed amputator pustule</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cannonading bloodless debiting shortages buckling vestibules thready sabot cortices lobbers grandaunts grillages consultants rushings</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">595</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">797</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>stances</literal>
+      </binding>
+      <binding name="comment">
+        <literal>hygeist rooks cretonne cacaos sabering olivinic connived demoniacal pinkishness subsumes flinted shrived eductive opulency ambiguousness copilots arduously overindustrialized deterged presentable skittishness manchuria chunkily vivarium sporadically moonwalks gnarly ebullition coverup semicolons pillaging capsuled demythologizing repeating nonconsumption acclaimed cliquy chessman untrue legitimatize domiciliated agelessly snuggled lammed joggling costs sappily mandarins dogies nimbly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>homerooms mountebanks</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>preexamined patrolwomen samoans snicks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interpreter intoner impertinency chorussed amputator pustule</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cannonading bloodless debiting shortages buckling vestibules thready sabot cortices lobbers grandaunts grillages consultants rushings</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">595</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">797</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>stances</literal>
+      </binding>
+      <binding name="comment">
+        <literal>hygeist rooks cretonne cacaos sabering olivinic connived demoniacal pinkishness subsumes flinted shrived eductive opulency ambiguousness copilots arduously overindustrialized deterged presentable skittishness manchuria chunkily vivarium sporadically moonwalks gnarly ebullition coverup semicolons pillaging capsuled demythologizing repeating nonconsumption acclaimed cliquy chessman untrue legitimatize domiciliated agelessly snuggled lammed joggling costs sappily mandarins dogies nimbly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>kneading hellholes thanking</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>preexamined patrolwomen samoans snicks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interpreter intoner impertinency chorussed amputator pustule</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cannonading bloodless debiting shortages buckling vestibules thready sabot cortices lobbers grandaunts grillages consultants rushings</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">595</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">797</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>stances</literal>
+      </binding>
+      <binding name="comment">
+        <literal>hygeist rooks cretonne cacaos sabering olivinic connived demoniacal pinkishness subsumes flinted shrived eductive opulency ambiguousness copilots arduously overindustrialized deterged presentable skittishness manchuria chunkily vivarium sporadically moonwalks gnarly ebullition coverup semicolons pillaging capsuled demythologizing repeating nonconsumption acclaimed cliquy chessman untrue legitimatize domiciliated agelessly snuggled lammed joggling costs sappily mandarins dogies nimbly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>resettled silkier parve</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>preexamined patrolwomen samoans snicks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interpreter intoner impertinency chorussed amputator pustule</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cannonading bloodless debiting shortages buckling vestibules thready sabot cortices lobbers grandaunts grillages consultants rushings</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">595</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">797</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>stances</literal>
+      </binding>
+      <binding name="comment">
+        <literal>hygeist rooks cretonne cacaos sabering olivinic connived demoniacal pinkishness subsumes flinted shrived eductive opulency ambiguousness copilots arduously overindustrialized deterged presentable skittishness manchuria chunkily vivarium sporadically moonwalks gnarly ebullition coverup semicolons pillaging capsuled demythologizing repeating nonconsumption acclaimed cliquy chessman untrue legitimatize domiciliated agelessly snuggled lammed joggling costs sappily mandarins dogies nimbly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>canes facileness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>preexamined patrolwomen samoans snicks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interpreter intoner impertinency chorussed amputator pustule</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cannonading bloodless debiting shortages buckling vestibules thready sabot cortices lobbers grandaunts grillages consultants rushings</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">595</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">797</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>stances</literal>
+      </binding>
+      <binding name="comment">
+        <literal>hygeist rooks cretonne cacaos sabering olivinic connived demoniacal pinkishness subsumes flinted shrived eductive opulency ambiguousness copilots arduously overindustrialized deterged presentable skittishness manchuria chunkily vivarium sporadically moonwalks gnarly ebullition coverup semicolons pillaging capsuled demythologizing repeating nonconsumption acclaimed cliquy chessman untrue legitimatize domiciliated agelessly snuggled lammed joggling costs sappily mandarins dogies nimbly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unwishes shirker</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>preexamined patrolwomen samoans snicks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interpreter intoner impertinency chorussed amputator pustule</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cannonading bloodless debiting shortages buckling vestibules thready sabot cortices lobbers grandaunts grillages consultants rushings</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">595</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">797</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>stances</literal>
+      </binding>
+      <binding name="comment">
+        <literal>hygeist rooks cretonne cacaos sabering olivinic connived demoniacal pinkishness subsumes flinted shrived eductive opulency ambiguousness copilots arduously overindustrialized deterged presentable skittishness manchuria chunkily vivarium sporadically moonwalks gnarly ebullition coverup semicolons pillaging capsuled demythologizing repeating nonconsumption acclaimed cliquy chessman untrue legitimatize domiciliated agelessly snuggled lammed joggling costs sappily mandarins dogies nimbly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>runoffs eugenicist debouche</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>preexamined patrolwomen samoans snicks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interpreter intoner impertinency chorussed amputator pustule</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cannonading bloodless debiting shortages buckling vestibules thready sabot cortices lobbers grandaunts grillages consultants rushings</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">595</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">797</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>stances</literal>
+      </binding>
+      <binding name="comment">
+        <literal>hygeist rooks cretonne cacaos sabering olivinic connived demoniacal pinkishness subsumes flinted shrived eductive opulency ambiguousness copilots arduously overindustrialized deterged presentable skittishness manchuria chunkily vivarium sporadically moonwalks gnarly ebullition coverup semicolons pillaging capsuled demythologizing repeating nonconsumption acclaimed cliquy chessman untrue legitimatize domiciliated agelessly snuggled lammed joggling costs sappily mandarins dogies nimbly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>motioned rediscovery outfaces</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>preexamined patrolwomen samoans snicks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interpreter intoner impertinency chorussed amputator pustule</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cannonading bloodless debiting shortages buckling vestibules thready sabot cortices lobbers grandaunts grillages consultants rushings</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">595</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">797</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>stances</literal>
+      </binding>
+      <binding name="comment">
+        <literal>hygeist rooks cretonne cacaos sabering olivinic connived demoniacal pinkishness subsumes flinted shrived eductive opulency ambiguousness copilots arduously overindustrialized deterged presentable skittishness manchuria chunkily vivarium sporadically moonwalks gnarly ebullition coverup semicolons pillaging capsuled demythologizing repeating nonconsumption acclaimed cliquy chessman untrue legitimatize domiciliated agelessly snuggled lammed joggling costs sappily mandarins dogies nimbly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hindus delphiniums</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>preexamined patrolwomen samoans snicks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interpreter intoner impertinency chorussed amputator pustule</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cannonading bloodless debiting shortages buckling vestibules thready sabot cortices lobbers grandaunts grillages consultants rushings</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">595</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">797</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>stances</literal>
+      </binding>
+      <binding name="comment">
+        <literal>hygeist rooks cretonne cacaos sabering olivinic connived demoniacal pinkishness subsumes flinted shrived eductive opulency ambiguousness copilots arduously overindustrialized deterged presentable skittishness manchuria chunkily vivarium sporadically moonwalks gnarly ebullition coverup semicolons pillaging capsuled demythologizing repeating nonconsumption acclaimed cliquy chessman untrue legitimatize domiciliated agelessly snuggled lammed joggling costs sappily mandarins dogies nimbly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>rubberneck enlarging kinescopes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>preexamined patrolwomen samoans snicks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interpreter intoner impertinency chorussed amputator pustule</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cannonading bloodless debiting shortages buckling vestibules thready sabot cortices lobbers grandaunts grillages consultants rushings</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">595</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">797</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>stances</literal>
+      </binding>
+      <binding name="comment">
+        <literal>hygeist rooks cretonne cacaos sabering olivinic connived demoniacal pinkishness subsumes flinted shrived eductive opulency ambiguousness copilots arduously overindustrialized deterged presentable skittishness manchuria chunkily vivarium sporadically moonwalks gnarly ebullition coverup semicolons pillaging capsuled demythologizing repeating nonconsumption acclaimed cliquy chessman untrue legitimatize domiciliated agelessly snuggled lammed joggling costs sappily mandarins dogies nimbly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>predestine immutableness chrysalises</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>preexamined patrolwomen samoans snicks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interpreter intoner impertinency chorussed amputator pustule</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cannonading bloodless debiting shortages buckling vestibules thready sabot cortices lobbers grandaunts grillages consultants rushings</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">595</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">797</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>stances</literal>
+      </binding>
+      <binding name="comment">
+        <literal>hygeist rooks cretonne cacaos sabering olivinic connived demoniacal pinkishness subsumes flinted shrived eductive opulency ambiguousness copilots arduously overindustrialized deterged presentable skittishness manchuria chunkily vivarium sporadically moonwalks gnarly ebullition coverup semicolons pillaging capsuled demythologizing repeating nonconsumption acclaimed cliquy chessman untrue legitimatize domiciliated agelessly snuggled lammed joggling costs sappily mandarins dogies nimbly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>misproportions</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>preexamined patrolwomen samoans snicks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interpreter intoner impertinency chorussed amputator pustule</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cannonading bloodless debiting shortages buckling vestibules thready sabot cortices lobbers grandaunts grillages consultants rushings</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">595</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">797</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>stances</literal>
+      </binding>
+      <binding name="comment">
+        <literal>hygeist rooks cretonne cacaos sabering olivinic connived demoniacal pinkishness subsumes flinted shrived eductive opulency ambiguousness copilots arduously overindustrialized deterged presentable skittishness manchuria chunkily vivarium sporadically moonwalks gnarly ebullition coverup semicolons pillaging capsuled demythologizing repeating nonconsumption acclaimed cliquy chessman untrue legitimatize domiciliated agelessly snuggled lammed joggling costs sappily mandarins dogies nimbly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sauciest damnit</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>preexamined patrolwomen samoans snicks</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interpreter intoner impertinency chorussed amputator pustule</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cannonading bloodless debiting shortages buckling vestibules thready sabot cortices lobbers grandaunts grillages consultants rushings</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">595</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">797</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

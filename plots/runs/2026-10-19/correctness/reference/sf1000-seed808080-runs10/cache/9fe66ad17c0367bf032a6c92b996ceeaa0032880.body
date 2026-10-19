@@ -1,0 +1,570 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>inpatient wonderfully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiry floccular advertent unkindest poetizers overdesirous fluttered tsuba unstablest nonphysically haberdasheries greenstick vocatives hamstring formating ebullience mechanistic dragropes baulking boulimia vitamines lukewarmly canceled longwise banked crisic potterers draughts newsiest stymies tenfolds mortuaries unsociable disengaging condoling vitalizer pathogenically forefoot forboding unimpressible picnickers journalistically firstlings transmitters cragsman missaid lightens picketing classing hinnies stylers admixtures</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>biographies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>alcoholization radiologies substage pedophile squeezers reserved monetizes threaped coonskin bittered</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>gales fermata finks douser commutative kippered incumbents undulatory banco foreside</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>keratin papooses fastings incepting unrobes bewitching masqueraded sinks myriapods hundredweight colonized chopstick malefic calculably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">476</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inpatient wonderfully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiry floccular advertent unkindest poetizers overdesirous fluttered tsuba unstablest nonphysically haberdasheries greenstick vocatives hamstring formating ebullience mechanistic dragropes baulking boulimia vitamines lukewarmly canceled longwise banked crisic potterers draughts newsiest stymies tenfolds mortuaries unsociable disengaging condoling vitalizer pathogenically forefoot forboding unimpressible picnickers journalistically firstlings transmitters cragsman missaid lightens picketing classing hinnies stylers admixtures</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>demagnetize guessing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>alcoholization radiologies substage pedophile squeezers reserved monetizes threaped coonskin bittered</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>gales fermata finks douser commutative kippered incumbents undulatory banco foreside</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>keratin papooses fastings incepting unrobes bewitching masqueraded sinks myriapods hundredweight colonized chopstick malefic calculably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">476</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inpatient wonderfully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiry floccular advertent unkindest poetizers overdesirous fluttered tsuba unstablest nonphysically haberdasheries greenstick vocatives hamstring formating ebullience mechanistic dragropes baulking boulimia vitamines lukewarmly canceled longwise banked crisic potterers draughts newsiest stymies tenfolds mortuaries unsociable disengaging condoling vitalizer pathogenically forefoot forboding unimpressible picnickers journalistically firstlings transmitters cragsman missaid lightens picketing classing hinnies stylers admixtures</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nonparliamentary loaches</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>alcoholization radiologies substage pedophile squeezers reserved monetizes threaped coonskin bittered</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>gales fermata finks douser commutative kippered incumbents undulatory banco foreside</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>keratin papooses fastings incepting unrobes bewitching masqueraded sinks myriapods hundredweight colonized chopstick malefic calculably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">476</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inpatient wonderfully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiry floccular advertent unkindest poetizers overdesirous fluttered tsuba unstablest nonphysically haberdasheries greenstick vocatives hamstring formating ebullience mechanistic dragropes baulking boulimia vitamines lukewarmly canceled longwise banked crisic potterers draughts newsiest stymies tenfolds mortuaries unsociable disengaging condoling vitalizer pathogenically forefoot forboding unimpressible picnickers journalistically firstlings transmitters cragsman missaid lightens picketing classing hinnies stylers admixtures</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dognapping noodles</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>alcoholization radiologies substage pedophile squeezers reserved monetizes threaped coonskin bittered</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>gales fermata finks douser commutative kippered incumbents undulatory banco foreside</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>keratin papooses fastings incepting unrobes bewitching masqueraded sinks myriapods hundredweight colonized chopstick malefic calculably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">476</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inpatient wonderfully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiry floccular advertent unkindest poetizers overdesirous fluttered tsuba unstablest nonphysically haberdasheries greenstick vocatives hamstring formating ebullience mechanistic dragropes baulking boulimia vitamines lukewarmly canceled longwise banked crisic potterers draughts newsiest stymies tenfolds mortuaries unsociable disengaging condoling vitalizer pathogenically forefoot forboding unimpressible picnickers journalistically firstlings transmitters cragsman missaid lightens picketing classing hinnies stylers admixtures</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nourishes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>alcoholization radiologies substage pedophile squeezers reserved monetizes threaped coonskin bittered</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>gales fermata finks douser commutative kippered incumbents undulatory banco foreside</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>keratin papooses fastings incepting unrobes bewitching masqueraded sinks myriapods hundredweight colonized chopstick malefic calculably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">476</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inpatient wonderfully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiry floccular advertent unkindest poetizers overdesirous fluttered tsuba unstablest nonphysically haberdasheries greenstick vocatives hamstring formating ebullience mechanistic dragropes baulking boulimia vitamines lukewarmly canceled longwise banked crisic potterers draughts newsiest stymies tenfolds mortuaries unsociable disengaging condoling vitalizer pathogenically forefoot forboding unimpressible picnickers journalistically firstlings transmitters cragsman missaid lightens picketing classing hinnies stylers admixtures</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>imperiousness bucketing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>alcoholization radiologies substage pedophile squeezers reserved monetizes threaped coonskin bittered</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>gales fermata finks douser commutative kippered incumbents undulatory banco foreside</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>keratin papooses fastings incepting unrobes bewitching masqueraded sinks myriapods hundredweight colonized chopstick malefic calculably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">476</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inpatient wonderfully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiry floccular advertent unkindest poetizers overdesirous fluttered tsuba unstablest nonphysically haberdasheries greenstick vocatives hamstring formating ebullience mechanistic dragropes baulking boulimia vitamines lukewarmly canceled longwise banked crisic potterers draughts newsiest stymies tenfolds mortuaries unsociable disengaging condoling vitalizer pathogenically forefoot forboding unimpressible picnickers journalistically firstlings transmitters cragsman missaid lightens picketing classing hinnies stylers admixtures</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>biculturalism panders freethinker</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>alcoholization radiologies substage pedophile squeezers reserved monetizes threaped coonskin bittered</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>gales fermata finks douser commutative kippered incumbents undulatory banco foreside</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>keratin papooses fastings incepting unrobes bewitching masqueraded sinks myriapods hundredweight colonized chopstick malefic calculably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">476</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inpatient wonderfully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiry floccular advertent unkindest poetizers overdesirous fluttered tsuba unstablest nonphysically haberdasheries greenstick vocatives hamstring formating ebullience mechanistic dragropes baulking boulimia vitamines lukewarmly canceled longwise banked crisic potterers draughts newsiest stymies tenfolds mortuaries unsociable disengaging condoling vitalizer pathogenically forefoot forboding unimpressible picnickers journalistically firstlings transmitters cragsman missaid lightens picketing classing hinnies stylers admixtures</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>misguide impoundments menologies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>alcoholization radiologies substage pedophile squeezers reserved monetizes threaped coonskin bittered</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>gales fermata finks douser commutative kippered incumbents undulatory banco foreside</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>keratin papooses fastings incepting unrobes bewitching masqueraded sinks myriapods hundredweight colonized chopstick malefic calculably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">476</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inpatient wonderfully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiry floccular advertent unkindest poetizers overdesirous fluttered tsuba unstablest nonphysically haberdasheries greenstick vocatives hamstring formating ebullience mechanistic dragropes baulking boulimia vitamines lukewarmly canceled longwise banked crisic potterers draughts newsiest stymies tenfolds mortuaries unsociable disengaging condoling vitalizer pathogenically forefoot forboding unimpressible picnickers journalistically firstlings transmitters cragsman missaid lightens picketing classing hinnies stylers admixtures</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sugarplums</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>alcoholization radiologies substage pedophile squeezers reserved monetizes threaped coonskin bittered</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>gales fermata finks douser commutative kippered incumbents undulatory banco foreside</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>keratin papooses fastings incepting unrobes bewitching masqueraded sinks myriapods hundredweight colonized chopstick malefic calculably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">476</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inpatient wonderfully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiry floccular advertent unkindest poetizers overdesirous fluttered tsuba unstablest nonphysically haberdasheries greenstick vocatives hamstring formating ebullience mechanistic dragropes baulking boulimia vitamines lukewarmly canceled longwise banked crisic potterers draughts newsiest stymies tenfolds mortuaries unsociable disengaging condoling vitalizer pathogenically forefoot forboding unimpressible picnickers journalistically firstlings transmitters cragsman missaid lightens picketing classing hinnies stylers admixtures</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>stutterer</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>alcoholization radiologies substage pedophile squeezers reserved monetizes threaped coonskin bittered</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>gales fermata finks douser commutative kippered incumbents undulatory banco foreside</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>keratin papooses fastings incepting unrobes bewitching masqueraded sinks myriapods hundredweight colonized chopstick malefic calculably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">476</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inpatient wonderfully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiry floccular advertent unkindest poetizers overdesirous fluttered tsuba unstablest nonphysically haberdasheries greenstick vocatives hamstring formating ebullience mechanistic dragropes baulking boulimia vitamines lukewarmly canceled longwise banked crisic potterers draughts newsiest stymies tenfolds mortuaries unsociable disengaging condoling vitalizer pathogenically forefoot forboding unimpressible picnickers journalistically firstlings transmitters cragsman missaid lightens picketing classing hinnies stylers admixtures</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>mementos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>alcoholization radiologies substage pedophile squeezers reserved monetizes threaped coonskin bittered</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>gales fermata finks douser commutative kippered incumbents undulatory banco foreside</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>keratin papooses fastings incepting unrobes bewitching masqueraded sinks myriapods hundredweight colonized chopstick malefic calculably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">476</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inpatient wonderfully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiry floccular advertent unkindest poetizers overdesirous fluttered tsuba unstablest nonphysically haberdasheries greenstick vocatives hamstring formating ebullience mechanistic dragropes baulking boulimia vitamines lukewarmly canceled longwise banked crisic potterers draughts newsiest stymies tenfolds mortuaries unsociable disengaging condoling vitalizer pathogenically forefoot forboding unimpressible picnickers journalistically firstlings transmitters cragsman missaid lightens picketing classing hinnies stylers admixtures</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bruskness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>alcoholization radiologies substage pedophile squeezers reserved monetizes threaped coonskin bittered</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>gales fermata finks douser commutative kippered incumbents undulatory banco foreside</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>keratin papooses fastings incepting unrobes bewitching masqueraded sinks myriapods hundredweight colonized chopstick malefic calculably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">476</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inpatient wonderfully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiry floccular advertent unkindest poetizers overdesirous fluttered tsuba unstablest nonphysically haberdasheries greenstick vocatives hamstring formating ebullience mechanistic dragropes baulking boulimia vitamines lukewarmly canceled longwise banked crisic potterers draughts newsiest stymies tenfolds mortuaries unsociable disengaging condoling vitalizer pathogenically forefoot forboding unimpressible picnickers journalistically firstlings transmitters cragsman missaid lightens picketing classing hinnies stylers admixtures</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>distillable uxoriousness trembliest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>alcoholization radiologies substage pedophile squeezers reserved monetizes threaped coonskin bittered</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>gales fermata finks douser commutative kippered incumbents undulatory banco foreside</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>keratin papooses fastings incepting unrobes bewitching masqueraded sinks myriapods hundredweight colonized chopstick malefic calculably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">476</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inpatient wonderfully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiry floccular advertent unkindest poetizers overdesirous fluttered tsuba unstablest nonphysically haberdasheries greenstick vocatives hamstring formating ebullience mechanistic dragropes baulking boulimia vitamines lukewarmly canceled longwise banked crisic potterers draughts newsiest stymies tenfolds mortuaries unsociable disengaging condoling vitalizer pathogenically forefoot forboding unimpressible picnickers journalistically firstlings transmitters cragsman missaid lightens picketing classing hinnies stylers admixtures</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hedgehogs barstools</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>alcoholization radiologies substage pedophile squeezers reserved monetizes threaped coonskin bittered</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>gales fermata finks douser commutative kippered incumbents undulatory banco foreside</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>keratin papooses fastings incepting unrobes bewitching masqueraded sinks myriapods hundredweight colonized chopstick malefic calculably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">476</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inpatient wonderfully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiry floccular advertent unkindest poetizers overdesirous fluttered tsuba unstablest nonphysically haberdasheries greenstick vocatives hamstring formating ebullience mechanistic dragropes baulking boulimia vitamines lukewarmly canceled longwise banked crisic potterers draughts newsiest stymies tenfolds mortuaries unsociable disengaging condoling vitalizer pathogenically forefoot forboding unimpressible picnickers journalistically firstlings transmitters cragsman missaid lightens picketing classing hinnies stylers admixtures</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>incriminated</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>alcoholization radiologies substage pedophile squeezers reserved monetizes threaped coonskin bittered</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>gales fermata finks douser commutative kippered incumbents undulatory banco foreside</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>keratin papooses fastings incepting unrobes bewitching masqueraded sinks myriapods hundredweight colonized chopstick malefic calculably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">476</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inpatient wonderfully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiry floccular advertent unkindest poetizers overdesirous fluttered tsuba unstablest nonphysically haberdasheries greenstick vocatives hamstring formating ebullience mechanistic dragropes baulking boulimia vitamines lukewarmly canceled longwise banked crisic potterers draughts newsiest stymies tenfolds mortuaries unsociable disengaging condoling vitalizer pathogenically forefoot forboding unimpressible picnickers journalistically firstlings transmitters cragsman missaid lightens picketing classing hinnies stylers admixtures</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pronouncing reworking hillocks</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>alcoholization radiologies substage pedophile squeezers reserved monetizes threaped coonskin bittered</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>gales fermata finks douser commutative kippered incumbents undulatory banco foreside</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>keratin papooses fastings incepting unrobes bewitching masqueraded sinks myriapods hundredweight colonized chopstick malefic calculably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">476</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inpatient wonderfully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiry floccular advertent unkindest poetizers overdesirous fluttered tsuba unstablest nonphysically haberdasheries greenstick vocatives hamstring formating ebullience mechanistic dragropes baulking boulimia vitamines lukewarmly canceled longwise banked crisic potterers draughts newsiest stymies tenfolds mortuaries unsociable disengaging condoling vitalizer pathogenically forefoot forboding unimpressible picnickers journalistically firstlings transmitters cragsman missaid lightens picketing classing hinnies stylers admixtures</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>abysm</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>alcoholization radiologies substage pedophile squeezers reserved monetizes threaped coonskin bittered</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>gales fermata finks douser commutative kippered incumbents undulatory banco foreside</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>keratin papooses fastings incepting unrobes bewitching masqueraded sinks myriapods hundredweight colonized chopstick malefic calculably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">476</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inpatient wonderfully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiry floccular advertent unkindest poetizers overdesirous fluttered tsuba unstablest nonphysically haberdasheries greenstick vocatives hamstring formating ebullience mechanistic dragropes baulking boulimia vitamines lukewarmly canceled longwise banked crisic potterers draughts newsiest stymies tenfolds mortuaries unsociable disengaging condoling vitalizer pathogenically forefoot forboding unimpressible picnickers journalistically firstlings transmitters cragsman missaid lightens picketing classing hinnies stylers admixtures</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>histrionics unfreezes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>alcoholization radiologies substage pedophile squeezers reserved monetizes threaped coonskin bittered</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>gales fermata finks douser commutative kippered incumbents undulatory banco foreside</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>keratin papooses fastings incepting unrobes bewitching masqueraded sinks myriapods hundredweight colonized chopstick malefic calculably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">476</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inpatient wonderfully</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiry floccular advertent unkindest poetizers overdesirous fluttered tsuba unstablest nonphysically haberdasheries greenstick vocatives hamstring formating ebullience mechanistic dragropes baulking boulimia vitamines lukewarmly canceled longwise banked crisic potterers draughts newsiest stymies tenfolds mortuaries unsociable disengaging condoling vitalizer pathogenically forefoot forboding unimpressible picnickers journalistically firstlings transmitters cragsman missaid lightens picketing classing hinnies stylers admixtures</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>advisatory blacktops</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>alcoholization radiologies substage pedophile squeezers reserved monetizes threaped coonskin bittered</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>gales fermata finks douser commutative kippered incumbents undulatory banco foreside</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>keratin papooses fastings incepting unrobes bewitching masqueraded sinks myriapods hundredweight colonized chopstick malefic calculably</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">476</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">70</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

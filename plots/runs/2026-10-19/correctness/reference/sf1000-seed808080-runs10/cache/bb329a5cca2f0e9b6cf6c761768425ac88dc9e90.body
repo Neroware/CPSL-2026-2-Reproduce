@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="text"/>
+    <variable name="reviewDate"/>
+    <variable name="reviewer"/>
+    <variable name="reviewerName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+    <variable name="rating3"/>
+    <variable name="rating4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="title">
+        <literal>unconscientiously voile mitzvah epigrammatical vinosity funfair eulogists supports sodas goony cadged maleficence</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">skydiver coenamored bistros yes pasteurizers draftiest haying glorifier hurraying concelebrations superficiality spinsters gunwale emceeing dialectical maximals generated sinfulness gladding asexually centimos exhorted quiches subtract lintel repacking dapples junkers functionalist naphthols intoxicatedly nearness eliminators malfunctioned contusing somnambulant noncontradictory irreducibilities harrumph disguise noddy inhabitance diuretics appointive outrage weirdie opiates instating grabbing excessiveness toads twittery browbeats acerber deeming amiable undocumented doves nonallergenic delicates chirography hardshell blasphemes warlord downshift purifies intimates boundless cosiest finagler</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-07-15T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer220</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Zettica-Kyrilla</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

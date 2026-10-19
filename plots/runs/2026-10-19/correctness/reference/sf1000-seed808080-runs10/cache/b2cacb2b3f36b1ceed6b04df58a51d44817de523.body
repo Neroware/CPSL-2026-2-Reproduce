@@ -1,0 +1,851 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>demagnetize guessing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pleasantries steamering nouveaux</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>keloids</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>patenting misdeals</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>quitclaim fetted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>generalissimo ideogram banterer</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dagobas</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>overawed lucifers yews</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>residuals</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>regally execeptional tarsals</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>preaccepted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>neurologies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>retractable buckaroos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>irregulars exospheres</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>fusser</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>idiotically</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gushiest loaned</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lichting presupposes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>noncommittally sorriness interpretable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>farmed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>resituates smocking athenaeums</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lapidists</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nonhabituating parring turners</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>kevils larrups gradating</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hundredweight maleficently swelled</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>ringtosses</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nonintersecting pointlessness visions baals toadied gingersnap ambiverts circumnavigation retranslates polytheist overdrunk urines shapelier merinos ruffianly nervings retrospection subofficer ecdysis fracturing semilegal catnapped tzardom gushier otology portfolios dovecots hopes duelled noncommunicative microgrammes flatly lycanthropy whinnier shushes sheepskins mutative nuthouses starers tantara unblessed investigated faculae curacies moneyer oleos chare investible computerizing anthraces hardheadedness warder objectionable condonable southron playmates sieged ratting presbyter onondagas sidetracks miters recurrently knockwurst laicizing cloudlets semblances treatability rioting emigrations yielder foreclosed pseudonym hyperexcitable dandify finishes rubbishes gravelling stagings gauntly shakers reassimilated loosened beams lecherousness anatase kudu fantasms auricular relevances innkeepers anybodies bluntest reportages mistuned repellers</literal>
+      </binding>
+      <binding name="producer">
+        <literal>episcopally expectations</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>quacks severer elicitation</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inebriant chromes focusing landscaped</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>unmemorized patsies gasped</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>epeeists bobs murther thrummed antepast frypan reteach ideologic resonator</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">741</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1885</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>centuple centralization bicyclists semicircle abdicates lobs combings insurrectionary charms bounden balked fiberizing</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,703 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>defined ventral</literal>
+      </binding>
+      <binding name="comment">
+        <literal>foretells dooming iambs destines rigged flambeed subminiaturize prated adroiter deerweed addled pedometer renounceable coughed misdeal anglicans emotionally snobbier straightforwardness unhook recalculating preludes fisheye lf gunnel balladeer unwatched choreman corker ensiles fanner darkeners crestless globularly ofter vocalized camphors upswell annuitants beatification loch voiceprints tenderness glibbest converged headlining teaboards literals wellborn farriers bewitched hosannas saddens loofs deworm diminuendos silvering clangorously fighting nuttiest wrists igniter skinflint zenana teamakers burlesks corkwoods involuting dedicational warmheartedness thralled negotiator transiency nativisms conjurers nightspots submissively unstopped discourage pimps variorum acrylics lymphatic lumina scissored barbicans muzzling jetted nauseam safflowers decaffeinating huguenot cubbyholes politeness chroma cooled pegboxes saxons unfitness turbulence plundered punctured overanalyzing overwise aliquant sceptral protectionism misconceiving constrains unaccessible aborts langues tatting excusableness americanist batons aimful porters iterative reclassified treaters mopingly heavyhearted inking bowyer peekaboo vulgarizers whitey blowsier underrating squinches routines supramental haplessly materialists describes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>searing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>huggermugger twitchers noggin</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>quivers belligerents members waggons wiseness subsumes returnees synapsed cleansers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>former rhombs guars recolors nonporous</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">240</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>picnics verification herring battening lucubrations shootout forested</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>browny pitches shooks wreathes peruke cations laryngoscope kilowatt displeasing salines filius refutations</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">24</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>defined ventral</literal>
+      </binding>
+      <binding name="comment">
+        <literal>foretells dooming iambs destines rigged flambeed subminiaturize prated adroiter deerweed addled pedometer renounceable coughed misdeal anglicans emotionally snobbier straightforwardness unhook recalculating preludes fisheye lf gunnel balladeer unwatched choreman corker ensiles fanner darkeners crestless globularly ofter vocalized camphors upswell annuitants beatification loch voiceprints tenderness glibbest converged headlining teaboards literals wellborn farriers bewitched hosannas saddens loofs deworm diminuendos silvering clangorously fighting nuttiest wrists igniter skinflint zenana teamakers burlesks corkwoods involuting dedicational warmheartedness thralled negotiator transiency nativisms conjurers nightspots submissively unstopped discourage pimps variorum acrylics lymphatic lumina scissored barbicans muzzling jetted nauseam safflowers decaffeinating huguenot cubbyholes politeness chroma cooled pegboxes saxons unfitness turbulence plundered punctured overanalyzing overwise aliquant sceptral protectionism misconceiving constrains unaccessible aborts langues tatting excusableness americanist batons aimful porters iterative reclassified treaters mopingly heavyhearted inking bowyer peekaboo vulgarizers whitey blowsier underrating squinches routines supramental haplessly materialists describes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cedes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>huggermugger twitchers noggin</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>quivers belligerents members waggons wiseness subsumes returnees synapsed cleansers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>former rhombs guars recolors nonporous</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">240</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>picnics verification herring battening lucubrations shootout forested</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>browny pitches shooks wreathes peruke cations laryngoscope kilowatt displeasing salines filius refutations</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">24</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>defined ventral</literal>
+      </binding>
+      <binding name="comment">
+        <literal>foretells dooming iambs destines rigged flambeed subminiaturize prated adroiter deerweed addled pedometer renounceable coughed misdeal anglicans emotionally snobbier straightforwardness unhook recalculating preludes fisheye lf gunnel balladeer unwatched choreman corker ensiles fanner darkeners crestless globularly ofter vocalized camphors upswell annuitants beatification loch voiceprints tenderness glibbest converged headlining teaboards literals wellborn farriers bewitched hosannas saddens loofs deworm diminuendos silvering clangorously fighting nuttiest wrists igniter skinflint zenana teamakers burlesks corkwoods involuting dedicational warmheartedness thralled negotiator transiency nativisms conjurers nightspots submissively unstopped discourage pimps variorum acrylics lymphatic lumina scissored barbicans muzzling jetted nauseam safflowers decaffeinating huguenot cubbyholes politeness chroma cooled pegboxes saxons unfitness turbulence plundered punctured overanalyzing overwise aliquant sceptral protectionism misconceiving constrains unaccessible aborts langues tatting excusableness americanist batons aimful porters iterative reclassified treaters mopingly heavyhearted inking bowyer peekaboo vulgarizers whitey blowsier underrating squinches routines supramental haplessly materialists describes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>graciousness flunkeys knave</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>huggermugger twitchers noggin</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>quivers belligerents members waggons wiseness subsumes returnees synapsed cleansers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>former rhombs guars recolors nonporous</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">240</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>picnics verification herring battening lucubrations shootout forested</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>browny pitches shooks wreathes peruke cations laryngoscope kilowatt displeasing salines filius refutations</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">24</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>defined ventral</literal>
+      </binding>
+      <binding name="comment">
+        <literal>foretells dooming iambs destines rigged flambeed subminiaturize prated adroiter deerweed addled pedometer renounceable coughed misdeal anglicans emotionally snobbier straightforwardness unhook recalculating preludes fisheye lf gunnel balladeer unwatched choreman corker ensiles fanner darkeners crestless globularly ofter vocalized camphors upswell annuitants beatification loch voiceprints tenderness glibbest converged headlining teaboards literals wellborn farriers bewitched hosannas saddens loofs deworm diminuendos silvering clangorously fighting nuttiest wrists igniter skinflint zenana teamakers burlesks corkwoods involuting dedicational warmheartedness thralled negotiator transiency nativisms conjurers nightspots submissively unstopped discourage pimps variorum acrylics lymphatic lumina scissored barbicans muzzling jetted nauseam safflowers decaffeinating huguenot cubbyholes politeness chroma cooled pegboxes saxons unfitness turbulence plundered punctured overanalyzing overwise aliquant sceptral protectionism misconceiving constrains unaccessible aborts langues tatting excusableness americanist batons aimful porters iterative reclassified treaters mopingly heavyhearted inking bowyer peekaboo vulgarizers whitey blowsier underrating squinches routines supramental haplessly materialists describes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dregs feminists cypriote</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>huggermugger twitchers noggin</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>quivers belligerents members waggons wiseness subsumes returnees synapsed cleansers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>former rhombs guars recolors nonporous</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">240</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>picnics verification herring battening lucubrations shootout forested</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>browny pitches shooks wreathes peruke cations laryngoscope kilowatt displeasing salines filius refutations</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">24</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>defined ventral</literal>
+      </binding>
+      <binding name="comment">
+        <literal>foretells dooming iambs destines rigged flambeed subminiaturize prated adroiter deerweed addled pedometer renounceable coughed misdeal anglicans emotionally snobbier straightforwardness unhook recalculating preludes fisheye lf gunnel balladeer unwatched choreman corker ensiles fanner darkeners crestless globularly ofter vocalized camphors upswell annuitants beatification loch voiceprints tenderness glibbest converged headlining teaboards literals wellborn farriers bewitched hosannas saddens loofs deworm diminuendos silvering clangorously fighting nuttiest wrists igniter skinflint zenana teamakers burlesks corkwoods involuting dedicational warmheartedness thralled negotiator transiency nativisms conjurers nightspots submissively unstopped discourage pimps variorum acrylics lymphatic lumina scissored barbicans muzzling jetted nauseam safflowers decaffeinating huguenot cubbyholes politeness chroma cooled pegboxes saxons unfitness turbulence plundered punctured overanalyzing overwise aliquant sceptral protectionism misconceiving constrains unaccessible aborts langues tatting excusableness americanist batons aimful porters iterative reclassified treaters mopingly heavyhearted inking bowyer peekaboo vulgarizers whitey blowsier underrating squinches routines supramental haplessly materialists describes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bioecologies microwave</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>huggermugger twitchers noggin</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>quivers belligerents members waggons wiseness subsumes returnees synapsed cleansers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>former rhombs guars recolors nonporous</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">240</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>picnics verification herring battening lucubrations shootout forested</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>browny pitches shooks wreathes peruke cations laryngoscope kilowatt displeasing salines filius refutations</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">24</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>defined ventral</literal>
+      </binding>
+      <binding name="comment">
+        <literal>foretells dooming iambs destines rigged flambeed subminiaturize prated adroiter deerweed addled pedometer renounceable coughed misdeal anglicans emotionally snobbier straightforwardness unhook recalculating preludes fisheye lf gunnel balladeer unwatched choreman corker ensiles fanner darkeners crestless globularly ofter vocalized camphors upswell annuitants beatification loch voiceprints tenderness glibbest converged headlining teaboards literals wellborn farriers bewitched hosannas saddens loofs deworm diminuendos silvering clangorously fighting nuttiest wrists igniter skinflint zenana teamakers burlesks corkwoods involuting dedicational warmheartedness thralled negotiator transiency nativisms conjurers nightspots submissively unstopped discourage pimps variorum acrylics lymphatic lumina scissored barbicans muzzling jetted nauseam safflowers decaffeinating huguenot cubbyholes politeness chroma cooled pegboxes saxons unfitness turbulence plundered punctured overanalyzing overwise aliquant sceptral protectionism misconceiving constrains unaccessible aborts langues tatting excusableness americanist batons aimful porters iterative reclassified treaters mopingly heavyhearted inking bowyer peekaboo vulgarizers whitey blowsier underrating squinches routines supramental haplessly materialists describes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>outcry secondarily</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>huggermugger twitchers noggin</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>quivers belligerents members waggons wiseness subsumes returnees synapsed cleansers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>former rhombs guars recolors nonporous</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">240</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>picnics verification herring battening lucubrations shootout forested</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>browny pitches shooks wreathes peruke cations laryngoscope kilowatt displeasing salines filius refutations</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">24</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>defined ventral</literal>
+      </binding>
+      <binding name="comment">
+        <literal>foretells dooming iambs destines rigged flambeed subminiaturize prated adroiter deerweed addled pedometer renounceable coughed misdeal anglicans emotionally snobbier straightforwardness unhook recalculating preludes fisheye lf gunnel balladeer unwatched choreman corker ensiles fanner darkeners crestless globularly ofter vocalized camphors upswell annuitants beatification loch voiceprints tenderness glibbest converged headlining teaboards literals wellborn farriers bewitched hosannas saddens loofs deworm diminuendos silvering clangorously fighting nuttiest wrists igniter skinflint zenana teamakers burlesks corkwoods involuting dedicational warmheartedness thralled negotiator transiency nativisms conjurers nightspots submissively unstopped discourage pimps variorum acrylics lymphatic lumina scissored barbicans muzzling jetted nauseam safflowers decaffeinating huguenot cubbyholes politeness chroma cooled pegboxes saxons unfitness turbulence plundered punctured overanalyzing overwise aliquant sceptral protectionism misconceiving constrains unaccessible aborts langues tatting excusableness americanist batons aimful porters iterative reclassified treaters mopingly heavyhearted inking bowyer peekaboo vulgarizers whitey blowsier underrating squinches routines supramental haplessly materialists describes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>celeriac teetered hexarchies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>huggermugger twitchers noggin</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>quivers belligerents members waggons wiseness subsumes returnees synapsed cleansers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>former rhombs guars recolors nonporous</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">240</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>picnics verification herring battening lucubrations shootout forested</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>browny pitches shooks wreathes peruke cations laryngoscope kilowatt displeasing salines filius refutations</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">24</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>defined ventral</literal>
+      </binding>
+      <binding name="comment">
+        <literal>foretells dooming iambs destines rigged flambeed subminiaturize prated adroiter deerweed addled pedometer renounceable coughed misdeal anglicans emotionally snobbier straightforwardness unhook recalculating preludes fisheye lf gunnel balladeer unwatched choreman corker ensiles fanner darkeners crestless globularly ofter vocalized camphors upswell annuitants beatification loch voiceprints tenderness glibbest converged headlining teaboards literals wellborn farriers bewitched hosannas saddens loofs deworm diminuendos silvering clangorously fighting nuttiest wrists igniter skinflint zenana teamakers burlesks corkwoods involuting dedicational warmheartedness thralled negotiator transiency nativisms conjurers nightspots submissively unstopped discourage pimps variorum acrylics lymphatic lumina scissored barbicans muzzling jetted nauseam safflowers decaffeinating huguenot cubbyholes politeness chroma cooled pegboxes saxons unfitness turbulence plundered punctured overanalyzing overwise aliquant sceptral protectionism misconceiving constrains unaccessible aborts langues tatting excusableness americanist batons aimful porters iterative reclassified treaters mopingly heavyhearted inking bowyer peekaboo vulgarizers whitey blowsier underrating squinches routines supramental haplessly materialists describes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>poetaster crones steamier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>huggermugger twitchers noggin</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>quivers belligerents members waggons wiseness subsumes returnees synapsed cleansers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>former rhombs guars recolors nonporous</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">240</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>picnics verification herring battening lucubrations shootout forested</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>browny pitches shooks wreathes peruke cations laryngoscope kilowatt displeasing salines filius refutations</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">24</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>defined ventral</literal>
+      </binding>
+      <binding name="comment">
+        <literal>foretells dooming iambs destines rigged flambeed subminiaturize prated adroiter deerweed addled pedometer renounceable coughed misdeal anglicans emotionally snobbier straightforwardness unhook recalculating preludes fisheye lf gunnel balladeer unwatched choreman corker ensiles fanner darkeners crestless globularly ofter vocalized camphors upswell annuitants beatification loch voiceprints tenderness glibbest converged headlining teaboards literals wellborn farriers bewitched hosannas saddens loofs deworm diminuendos silvering clangorously fighting nuttiest wrists igniter skinflint zenana teamakers burlesks corkwoods involuting dedicational warmheartedness thralled negotiator transiency nativisms conjurers nightspots submissively unstopped discourage pimps variorum acrylics lymphatic lumina scissored barbicans muzzling jetted nauseam safflowers decaffeinating huguenot cubbyholes politeness chroma cooled pegboxes saxons unfitness turbulence plundered punctured overanalyzing overwise aliquant sceptral protectionism misconceiving constrains unaccessible aborts langues tatting excusableness americanist batons aimful porters iterative reclassified treaters mopingly heavyhearted inking bowyer peekaboo vulgarizers whitey blowsier underrating squinches routines supramental haplessly materialists describes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>teenagers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>huggermugger twitchers noggin</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>quivers belligerents members waggons wiseness subsumes returnees synapsed cleansers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>former rhombs guars recolors nonporous</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">240</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>picnics verification herring battening lucubrations shootout forested</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>browny pitches shooks wreathes peruke cations laryngoscope kilowatt displeasing salines filius refutations</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">24</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>defined ventral</literal>
+      </binding>
+      <binding name="comment">
+        <literal>foretells dooming iambs destines rigged flambeed subminiaturize prated adroiter deerweed addled pedometer renounceable coughed misdeal anglicans emotionally snobbier straightforwardness unhook recalculating preludes fisheye lf gunnel balladeer unwatched choreman corker ensiles fanner darkeners crestless globularly ofter vocalized camphors upswell annuitants beatification loch voiceprints tenderness glibbest converged headlining teaboards literals wellborn farriers bewitched hosannas saddens loofs deworm diminuendos silvering clangorously fighting nuttiest wrists igniter skinflint zenana teamakers burlesks corkwoods involuting dedicational warmheartedness thralled negotiator transiency nativisms conjurers nightspots submissively unstopped discourage pimps variorum acrylics lymphatic lumina scissored barbicans muzzling jetted nauseam safflowers decaffeinating huguenot cubbyholes politeness chroma cooled pegboxes saxons unfitness turbulence plundered punctured overanalyzing overwise aliquant sceptral protectionism misconceiving constrains unaccessible aborts langues tatting excusableness americanist batons aimful porters iterative reclassified treaters mopingly heavyhearted inking bowyer peekaboo vulgarizers whitey blowsier underrating squinches routines supramental haplessly materialists describes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>boxlike improvises</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>huggermugger twitchers noggin</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>quivers belligerents members waggons wiseness subsumes returnees synapsed cleansers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>former rhombs guars recolors nonporous</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">240</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>picnics verification herring battening lucubrations shootout forested</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>browny pitches shooks wreathes peruke cations laryngoscope kilowatt displeasing salines filius refutations</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">24</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>defined ventral</literal>
+      </binding>
+      <binding name="comment">
+        <literal>foretells dooming iambs destines rigged flambeed subminiaturize prated adroiter deerweed addled pedometer renounceable coughed misdeal anglicans emotionally snobbier straightforwardness unhook recalculating preludes fisheye lf gunnel balladeer unwatched choreman corker ensiles fanner darkeners crestless globularly ofter vocalized camphors upswell annuitants beatification loch voiceprints tenderness glibbest converged headlining teaboards literals wellborn farriers bewitched hosannas saddens loofs deworm diminuendos silvering clangorously fighting nuttiest wrists igniter skinflint zenana teamakers burlesks corkwoods involuting dedicational warmheartedness thralled negotiator transiency nativisms conjurers nightspots submissively unstopped discourage pimps variorum acrylics lymphatic lumina scissored barbicans muzzling jetted nauseam safflowers decaffeinating huguenot cubbyholes politeness chroma cooled pegboxes saxons unfitness turbulence plundered punctured overanalyzing overwise aliquant sceptral protectionism misconceiving constrains unaccessible aborts langues tatting excusableness americanist batons aimful porters iterative reclassified treaters mopingly heavyhearted inking bowyer peekaboo vulgarizers whitey blowsier underrating squinches routines supramental haplessly materialists describes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>darnedest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>huggermugger twitchers noggin</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>quivers belligerents members waggons wiseness subsumes returnees synapsed cleansers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>former rhombs guars recolors nonporous</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">240</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>picnics verification herring battening lucubrations shootout forested</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>browny pitches shooks wreathes peruke cations laryngoscope kilowatt displeasing salines filius refutations</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">24</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>defined ventral</literal>
+      </binding>
+      <binding name="comment">
+        <literal>foretells dooming iambs destines rigged flambeed subminiaturize prated adroiter deerweed addled pedometer renounceable coughed misdeal anglicans emotionally snobbier straightforwardness unhook recalculating preludes fisheye lf gunnel balladeer unwatched choreman corker ensiles fanner darkeners crestless globularly ofter vocalized camphors upswell annuitants beatification loch voiceprints tenderness glibbest converged headlining teaboards literals wellborn farriers bewitched hosannas saddens loofs deworm diminuendos silvering clangorously fighting nuttiest wrists igniter skinflint zenana teamakers burlesks corkwoods involuting dedicational warmheartedness thralled negotiator transiency nativisms conjurers nightspots submissively unstopped discourage pimps variorum acrylics lymphatic lumina scissored barbicans muzzling jetted nauseam safflowers decaffeinating huguenot cubbyholes politeness chroma cooled pegboxes saxons unfitness turbulence plundered punctured overanalyzing overwise aliquant sceptral protectionism misconceiving constrains unaccessible aborts langues tatting excusableness americanist batons aimful porters iterative reclassified treaters mopingly heavyhearted inking bowyer peekaboo vulgarizers whitey blowsier underrating squinches routines supramental haplessly materialists describes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>collectivist</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>huggermugger twitchers noggin</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>quivers belligerents members waggons wiseness subsumes returnees synapsed cleansers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>former rhombs guars recolors nonporous</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">240</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>picnics verification herring battening lucubrations shootout forested</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>browny pitches shooks wreathes peruke cations laryngoscope kilowatt displeasing salines filius refutations</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">24</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>defined ventral</literal>
+      </binding>
+      <binding name="comment">
+        <literal>foretells dooming iambs destines rigged flambeed subminiaturize prated adroiter deerweed addled pedometer renounceable coughed misdeal anglicans emotionally snobbier straightforwardness unhook recalculating preludes fisheye lf gunnel balladeer unwatched choreman corker ensiles fanner darkeners crestless globularly ofter vocalized camphors upswell annuitants beatification loch voiceprints tenderness glibbest converged headlining teaboards literals wellborn farriers bewitched hosannas saddens loofs deworm diminuendos silvering clangorously fighting nuttiest wrists igniter skinflint zenana teamakers burlesks corkwoods involuting dedicational warmheartedness thralled negotiator transiency nativisms conjurers nightspots submissively unstopped discourage pimps variorum acrylics lymphatic lumina scissored barbicans muzzling jetted nauseam safflowers decaffeinating huguenot cubbyholes politeness chroma cooled pegboxes saxons unfitness turbulence plundered punctured overanalyzing overwise aliquant sceptral protectionism misconceiving constrains unaccessible aborts langues tatting excusableness americanist batons aimful porters iterative reclassified treaters mopingly heavyhearted inking bowyer peekaboo vulgarizers whitey blowsier underrating squinches routines supramental haplessly materialists describes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>recognizance incensing headiest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>huggermugger twitchers noggin</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>quivers belligerents members waggons wiseness subsumes returnees synapsed cleansers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>former rhombs guars recolors nonporous</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">240</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>picnics verification herring battening lucubrations shootout forested</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>browny pitches shooks wreathes peruke cations laryngoscope kilowatt displeasing salines filius refutations</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">24</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>defined ventral</literal>
+      </binding>
+      <binding name="comment">
+        <literal>foretells dooming iambs destines rigged flambeed subminiaturize prated adroiter deerweed addled pedometer renounceable coughed misdeal anglicans emotionally snobbier straightforwardness unhook recalculating preludes fisheye lf gunnel balladeer unwatched choreman corker ensiles fanner darkeners crestless globularly ofter vocalized camphors upswell annuitants beatification loch voiceprints tenderness glibbest converged headlining teaboards literals wellborn farriers bewitched hosannas saddens loofs deworm diminuendos silvering clangorously fighting nuttiest wrists igniter skinflint zenana teamakers burlesks corkwoods involuting dedicational warmheartedness thralled negotiator transiency nativisms conjurers nightspots submissively unstopped discourage pimps variorum acrylics lymphatic lumina scissored barbicans muzzling jetted nauseam safflowers decaffeinating huguenot cubbyholes politeness chroma cooled pegboxes saxons unfitness turbulence plundered punctured overanalyzing overwise aliquant sceptral protectionism misconceiving constrains unaccessible aborts langues tatting excusableness americanist batons aimful porters iterative reclassified treaters mopingly heavyhearted inking bowyer peekaboo vulgarizers whitey blowsier underrating squinches routines supramental haplessly materialists describes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>openheartedness debonairness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>huggermugger twitchers noggin</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>quivers belligerents members waggons wiseness subsumes returnees synapsed cleansers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>former rhombs guars recolors nonporous</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">240</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>picnics verification herring battening lucubrations shootout forested</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>browny pitches shooks wreathes peruke cations laryngoscope kilowatt displeasing salines filius refutations</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">24</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>defined ventral</literal>
+      </binding>
+      <binding name="comment">
+        <literal>foretells dooming iambs destines rigged flambeed subminiaturize prated adroiter deerweed addled pedometer renounceable coughed misdeal anglicans emotionally snobbier straightforwardness unhook recalculating preludes fisheye lf gunnel balladeer unwatched choreman corker ensiles fanner darkeners crestless globularly ofter vocalized camphors upswell annuitants beatification loch voiceprints tenderness glibbest converged headlining teaboards literals wellborn farriers bewitched hosannas saddens loofs deworm diminuendos silvering clangorously fighting nuttiest wrists igniter skinflint zenana teamakers burlesks corkwoods involuting dedicational warmheartedness thralled negotiator transiency nativisms conjurers nightspots submissively unstopped discourage pimps variorum acrylics lymphatic lumina scissored barbicans muzzling jetted nauseam safflowers decaffeinating huguenot cubbyholes politeness chroma cooled pegboxes saxons unfitness turbulence plundered punctured overanalyzing overwise aliquant sceptral protectionism misconceiving constrains unaccessible aborts langues tatting excusableness americanist batons aimful porters iterative reclassified treaters mopingly heavyhearted inking bowyer peekaboo vulgarizers whitey blowsier underrating squinches routines supramental haplessly materialists describes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>equities disregarded discontinuation</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>huggermugger twitchers noggin</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>quivers belligerents members waggons wiseness subsumes returnees synapsed cleansers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>former rhombs guars recolors nonporous</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">240</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>picnics verification herring battening lucubrations shootout forested</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>browny pitches shooks wreathes peruke cations laryngoscope kilowatt displeasing salines filius refutations</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">24</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>defined ventral</literal>
+      </binding>
+      <binding name="comment">
+        <literal>foretells dooming iambs destines rigged flambeed subminiaturize prated adroiter deerweed addled pedometer renounceable coughed misdeal anglicans emotionally snobbier straightforwardness unhook recalculating preludes fisheye lf gunnel balladeer unwatched choreman corker ensiles fanner darkeners crestless globularly ofter vocalized camphors upswell annuitants beatification loch voiceprints tenderness glibbest converged headlining teaboards literals wellborn farriers bewitched hosannas saddens loofs deworm diminuendos silvering clangorously fighting nuttiest wrists igniter skinflint zenana teamakers burlesks corkwoods involuting dedicational warmheartedness thralled negotiator transiency nativisms conjurers nightspots submissively unstopped discourage pimps variorum acrylics lymphatic lumina scissored barbicans muzzling jetted nauseam safflowers decaffeinating huguenot cubbyholes politeness chroma cooled pegboxes saxons unfitness turbulence plundered punctured overanalyzing overwise aliquant sceptral protectionism misconceiving constrains unaccessible aborts langues tatting excusableness americanist batons aimful porters iterative reclassified treaters mopingly heavyhearted inking bowyer peekaboo vulgarizers whitey blowsier underrating squinches routines supramental haplessly materialists describes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>preannouncements intellectualizes barricades</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>huggermugger twitchers noggin</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>quivers belligerents members waggons wiseness subsumes returnees synapsed cleansers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>former rhombs guars recolors nonporous</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">240</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>picnics verification herring battening lucubrations shootout forested</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>browny pitches shooks wreathes peruke cations laryngoscope kilowatt displeasing salines filius refutations</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">24</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>defined ventral</literal>
+      </binding>
+      <binding name="comment">
+        <literal>foretells dooming iambs destines rigged flambeed subminiaturize prated adroiter deerweed addled pedometer renounceable coughed misdeal anglicans emotionally snobbier straightforwardness unhook recalculating preludes fisheye lf gunnel balladeer unwatched choreman corker ensiles fanner darkeners crestless globularly ofter vocalized camphors upswell annuitants beatification loch voiceprints tenderness glibbest converged headlining teaboards literals wellborn farriers bewitched hosannas saddens loofs deworm diminuendos silvering clangorously fighting nuttiest wrists igniter skinflint zenana teamakers burlesks corkwoods involuting dedicational warmheartedness thralled negotiator transiency nativisms conjurers nightspots submissively unstopped discourage pimps variorum acrylics lymphatic lumina scissored barbicans muzzling jetted nauseam safflowers decaffeinating huguenot cubbyholes politeness chroma cooled pegboxes saxons unfitness turbulence plundered punctured overanalyzing overwise aliquant sceptral protectionism misconceiving constrains unaccessible aborts langues tatting excusableness americanist batons aimful porters iterative reclassified treaters mopingly heavyhearted inking bowyer peekaboo vulgarizers whitey blowsier underrating squinches routines supramental haplessly materialists describes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>indiums palimpsest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>huggermugger twitchers noggin</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>quivers belligerents members waggons wiseness subsumes returnees synapsed cleansers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>former rhombs guars recolors nonporous</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">240</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>picnics verification herring battening lucubrations shootout forested</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>browny pitches shooks wreathes peruke cations laryngoscope kilowatt displeasing salines filius refutations</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">24</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>defined ventral</literal>
+      </binding>
+      <binding name="comment">
+        <literal>foretells dooming iambs destines rigged flambeed subminiaturize prated adroiter deerweed addled pedometer renounceable coughed misdeal anglicans emotionally snobbier straightforwardness unhook recalculating preludes fisheye lf gunnel balladeer unwatched choreman corker ensiles fanner darkeners crestless globularly ofter vocalized camphors upswell annuitants beatification loch voiceprints tenderness glibbest converged headlining teaboards literals wellborn farriers bewitched hosannas saddens loofs deworm diminuendos silvering clangorously fighting nuttiest wrists igniter skinflint zenana teamakers burlesks corkwoods involuting dedicational warmheartedness thralled negotiator transiency nativisms conjurers nightspots submissively unstopped discourage pimps variorum acrylics lymphatic lumina scissored barbicans muzzling jetted nauseam safflowers decaffeinating huguenot cubbyholes politeness chroma cooled pegboxes saxons unfitness turbulence plundered punctured overanalyzing overwise aliquant sceptral protectionism misconceiving constrains unaccessible aborts langues tatting excusableness americanist batons aimful porters iterative reclassified treaters mopingly heavyhearted inking bowyer peekaboo vulgarizers whitey blowsier underrating squinches routines supramental haplessly materialists describes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>supersessive mopiest reappointment</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>huggermugger twitchers noggin</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>quivers belligerents members waggons wiseness subsumes returnees synapsed cleansers</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>former rhombs guars recolors nonporous</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">240</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>picnics verification herring battening lucubrations shootout forested</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>browny pitches shooks wreathes peruke cations laryngoscope kilowatt displeasing salines filius refutations</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">24</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer29/Product1325</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>appealers diglots</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer41/Product1925</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>dilatate</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer75/Product3554</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>eroded nonages</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer21/Product970</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>grubbiest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer50/Product2393</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>gyrocompasses</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer87/Product4169</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>harmless meatless plagiarisms</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer2/Product81</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>heraldists southerner germaniums</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer103/Product4857</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>inaugurator</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer58/Product2676</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>lauders memorability habitableness</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer8/Product369</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>outdoor</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer61/Product2810</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>paperhanger cognomens</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer85/Product4071</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>progs</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer64/Product3012</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>reclassifications</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer100/Product4721</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>ruralizing stinkbug</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer98/Product4615</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>shrugs</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer13/Product627</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>sublicensee</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer54/Product2537</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>swills greyer</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer5/Product201</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>tippet overman reexhibited</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer48/Product2232</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>underwriter swarthiness foozle</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer26/Product1238</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>unionist ginny</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer20/Product942</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>unsubtly magnetism</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer85/Product4067</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>yoghourts twister</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

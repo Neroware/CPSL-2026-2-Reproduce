@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer1/Product46</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>abnegators</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer3/Product98</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>announcing awes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer13/Product592</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>colorants dialects coomb</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer12/Product556</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>constituents supporting aswirl</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer16/Product753</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>disgusts hibernal</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

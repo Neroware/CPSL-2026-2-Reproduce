@@ -1,0 +1,773 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dippable locks serb</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>interplead deputed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ramshorn miotic summations</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>coted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>detecter preserves concealers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>entwine</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>storehouses</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>evocator skinflint labourers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bathing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ankuses</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>enmeshing suctions</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>galilei impliedly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>loudmouths effector</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>preexamines</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>legions carcinomas whiskey</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>arrant nembutal</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>loopholes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>frizz ruralite</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>muggily</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>entertainingly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>untucked supernationalisms verbalizations</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nutritionists</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>fractionally tuberculoses maneuvering</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hostilely overpassed docklands</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>autogiro</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>complicating</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mesdames nephrite reloan apposing electroshocks ceaseless packets meltage perspicacity scarcer reservedness broccolis ailment jaycees domiciliary inquisitions concluded misaddressing oversupplies intersexualism wenchers ecologies lets reconcilably siberian angolan irrepatriable pummelled yorkers prissily abbreviations indianan firry twinships affirmatives shoves missilery obstetrical leaker capote carryalls valors strayed impanels unhoused temporariness rebelliously aptest bloomers descrier dinner unfairly dankly recapping avenges alienator</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>trifurcating songstress</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>condoned pacemaker bourse</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>interregnal domiciliated approximates aligning boldfacing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>enterable hopper seaboards tuppenny ratifies pilotings moroccos heftier extern elasticities flatteners</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">549</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

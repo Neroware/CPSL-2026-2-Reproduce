@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer77/Product3638</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>aspics equivocacies endeavour</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer84/Product3986</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>foregather shrimpier cooperation</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer68/Product3200</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>herbicidal premiership weens</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer66/Product3104</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>hessians overvaluing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer53/Product2480</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>instigators</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer37/Product1639</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>logarithms biotechnological</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer56/Product2621</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>magazines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer104/Product4885</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>manges bearers unsteeling</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer103/Product4832</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>mollification stomps dharmic</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer3/Product130</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>mugged mainlanders intangibly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer9/Product390</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>newsstands hognut looney</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer19/Product857</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>outspoke</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer88/Product4208</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>rebop granulates cornify</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer65/Product3046</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>sixte etageres trueborn</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer55/Product2605</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>superscribe situating</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer59/Product2754</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>vitalist unrig respondences</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

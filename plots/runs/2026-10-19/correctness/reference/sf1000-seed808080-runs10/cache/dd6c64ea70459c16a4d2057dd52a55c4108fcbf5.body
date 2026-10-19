@@ -1,0 +1,541 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>cogitator christianity manas</literal>
+      </binding>
+      <binding name="comment">
+        <literal>wiretappers bunkhouses sonde melanophore kinless underspent sowbread invincibly attainment cannabinol dishier dosimeters unproportionate frag pollywogs declassifying strides arroyos gunrunner skycoach revolutionize dripped malfeasantly satinwood gainliest firers inexpensively triturable peppier classiest hogfishes barmy costively tarragon handpick baboos irksomely emptor whist reimported flatwork outsized etiolated kumquats contra joggling scrapples snooted idolize aurated gliders shoaling enumerating subitems unaided hyposensitizing backslider tutting dregs positivest lassoed underclad encouragements peachiest flubdubs unexcusably moldering anisic rustical noncontroversially warmheartedly acidifiers unmasks likeness copiously scrupled shrugs virtually chanted geographically ricked bouzoukia restartable muncher photos merman frankfurters embryologic egos overbakes megohms</literal>
+      </binding>
+      <binding name="producer">
+        <literal>redeveloper looper nosily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>contentions pepping</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>threatful crummiest unsaved virgules sagacities distinctness oxy dispersions operants</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>amusement tenantry persuaded patches overtrains smirch</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>lubricating lucently dictions savorous preventable vitalising unafraid readouts misjudges cowgirls consignment grinners beachboy braids yodled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">956</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1560</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>cogitator christianity manas</literal>
+      </binding>
+      <binding name="comment">
+        <literal>wiretappers bunkhouses sonde melanophore kinless underspent sowbread invincibly attainment cannabinol dishier dosimeters unproportionate frag pollywogs declassifying strides arroyos gunrunner skycoach revolutionize dripped malfeasantly satinwood gainliest firers inexpensively triturable peppier classiest hogfishes barmy costively tarragon handpick baboos irksomely emptor whist reimported flatwork outsized etiolated kumquats contra joggling scrapples snooted idolize aurated gliders shoaling enumerating subitems unaided hyposensitizing backslider tutting dregs positivest lassoed underclad encouragements peachiest flubdubs unexcusably moldering anisic rustical noncontroversially warmheartedly acidifiers unmasks likeness copiously scrupled shrugs virtually chanted geographically ricked bouzoukia restartable muncher photos merman frankfurters embryologic egos overbakes megohms</literal>
+      </binding>
+      <binding name="producer">
+        <literal>redeveloper looper nosily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tincturing filterability</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>threatful crummiest unsaved virgules sagacities distinctness oxy dispersions operants</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>amusement tenantry persuaded patches overtrains smirch</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>lubricating lucently dictions savorous preventable vitalising unafraid readouts misjudges cowgirls consignment grinners beachboy braids yodled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">956</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1560</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>cogitator christianity manas</literal>
+      </binding>
+      <binding name="comment">
+        <literal>wiretappers bunkhouses sonde melanophore kinless underspent sowbread invincibly attainment cannabinol dishier dosimeters unproportionate frag pollywogs declassifying strides arroyos gunrunner skycoach revolutionize dripped malfeasantly satinwood gainliest firers inexpensively triturable peppier classiest hogfishes barmy costively tarragon handpick baboos irksomely emptor whist reimported flatwork outsized etiolated kumquats contra joggling scrapples snooted idolize aurated gliders shoaling enumerating subitems unaided hyposensitizing backslider tutting dregs positivest lassoed underclad encouragements peachiest flubdubs unexcusably moldering anisic rustical noncontroversially warmheartedly acidifiers unmasks likeness copiously scrupled shrugs virtually chanted geographically ricked bouzoukia restartable muncher photos merman frankfurters embryologic egos overbakes megohms</literal>
+      </binding>
+      <binding name="producer">
+        <literal>redeveloper looper nosily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>intercepted nonplusing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>threatful crummiest unsaved virgules sagacities distinctness oxy dispersions operants</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>amusement tenantry persuaded patches overtrains smirch</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>lubricating lucently dictions savorous preventable vitalising unafraid readouts misjudges cowgirls consignment grinners beachboy braids yodled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">956</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1560</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>cogitator christianity manas</literal>
+      </binding>
+      <binding name="comment">
+        <literal>wiretappers bunkhouses sonde melanophore kinless underspent sowbread invincibly attainment cannabinol dishier dosimeters unproportionate frag pollywogs declassifying strides arroyos gunrunner skycoach revolutionize dripped malfeasantly satinwood gainliest firers inexpensively triturable peppier classiest hogfishes barmy costively tarragon handpick baboos irksomely emptor whist reimported flatwork outsized etiolated kumquats contra joggling scrapples snooted idolize aurated gliders shoaling enumerating subitems unaided hyposensitizing backslider tutting dregs positivest lassoed underclad encouragements peachiest flubdubs unexcusably moldering anisic rustical noncontroversially warmheartedly acidifiers unmasks likeness copiously scrupled shrugs virtually chanted geographically ricked bouzoukia restartable muncher photos merman frankfurters embryologic egos overbakes megohms</literal>
+      </binding>
+      <binding name="producer">
+        <literal>redeveloper looper nosily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>burrowers accommodations empyrean</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>threatful crummiest unsaved virgules sagacities distinctness oxy dispersions operants</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>amusement tenantry persuaded patches overtrains smirch</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>lubricating lucently dictions savorous preventable vitalising unafraid readouts misjudges cowgirls consignment grinners beachboy braids yodled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">956</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1560</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>cogitator christianity manas</literal>
+      </binding>
+      <binding name="comment">
+        <literal>wiretappers bunkhouses sonde melanophore kinless underspent sowbread invincibly attainment cannabinol dishier dosimeters unproportionate frag pollywogs declassifying strides arroyos gunrunner skycoach revolutionize dripped malfeasantly satinwood gainliest firers inexpensively triturable peppier classiest hogfishes barmy costively tarragon handpick baboos irksomely emptor whist reimported flatwork outsized etiolated kumquats contra joggling scrapples snooted idolize aurated gliders shoaling enumerating subitems unaided hyposensitizing backslider tutting dregs positivest lassoed underclad encouragements peachiest flubdubs unexcusably moldering anisic rustical noncontroversially warmheartedly acidifiers unmasks likeness copiously scrupled shrugs virtually chanted geographically ricked bouzoukia restartable muncher photos merman frankfurters embryologic egos overbakes megohms</literal>
+      </binding>
+      <binding name="producer">
+        <literal>redeveloper looper nosily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>snagged deliquescence</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>threatful crummiest unsaved virgules sagacities distinctness oxy dispersions operants</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>amusement tenantry persuaded patches overtrains smirch</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>lubricating lucently dictions savorous preventable vitalising unafraid readouts misjudges cowgirls consignment grinners beachboy braids yodled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">956</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1560</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>cogitator christianity manas</literal>
+      </binding>
+      <binding name="comment">
+        <literal>wiretappers bunkhouses sonde melanophore kinless underspent sowbread invincibly attainment cannabinol dishier dosimeters unproportionate frag pollywogs declassifying strides arroyos gunrunner skycoach revolutionize dripped malfeasantly satinwood gainliest firers inexpensively triturable peppier classiest hogfishes barmy costively tarragon handpick baboos irksomely emptor whist reimported flatwork outsized etiolated kumquats contra joggling scrapples snooted idolize aurated gliders shoaling enumerating subitems unaided hyposensitizing backslider tutting dregs positivest lassoed underclad encouragements peachiest flubdubs unexcusably moldering anisic rustical noncontroversially warmheartedly acidifiers unmasks likeness copiously scrupled shrugs virtually chanted geographically ricked bouzoukia restartable muncher photos merman frankfurters embryologic egos overbakes megohms</literal>
+      </binding>
+      <binding name="producer">
+        <literal>redeveloper looper nosily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>boundaries proselyted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>threatful crummiest unsaved virgules sagacities distinctness oxy dispersions operants</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>amusement tenantry persuaded patches overtrains smirch</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>lubricating lucently dictions savorous preventable vitalising unafraid readouts misjudges cowgirls consignment grinners beachboy braids yodled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">956</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1560</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>cogitator christianity manas</literal>
+      </binding>
+      <binding name="comment">
+        <literal>wiretappers bunkhouses sonde melanophore kinless underspent sowbread invincibly attainment cannabinol dishier dosimeters unproportionate frag pollywogs declassifying strides arroyos gunrunner skycoach revolutionize dripped malfeasantly satinwood gainliest firers inexpensively triturable peppier classiest hogfishes barmy costively tarragon handpick baboos irksomely emptor whist reimported flatwork outsized etiolated kumquats contra joggling scrapples snooted idolize aurated gliders shoaling enumerating subitems unaided hyposensitizing backslider tutting dregs positivest lassoed underclad encouragements peachiest flubdubs unexcusably moldering anisic rustical noncontroversially warmheartedly acidifiers unmasks likeness copiously scrupled shrugs virtually chanted geographically ricked bouzoukia restartable muncher photos merman frankfurters embryologic egos overbakes megohms</literal>
+      </binding>
+      <binding name="producer">
+        <literal>redeveloper looper nosily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>uncivil powerplants</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>threatful crummiest unsaved virgules sagacities distinctness oxy dispersions operants</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>amusement tenantry persuaded patches overtrains smirch</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>lubricating lucently dictions savorous preventable vitalising unafraid readouts misjudges cowgirls consignment grinners beachboy braids yodled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">956</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1560</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>cogitator christianity manas</literal>
+      </binding>
+      <binding name="comment">
+        <literal>wiretappers bunkhouses sonde melanophore kinless underspent sowbread invincibly attainment cannabinol dishier dosimeters unproportionate frag pollywogs declassifying strides arroyos gunrunner skycoach revolutionize dripped malfeasantly satinwood gainliest firers inexpensively triturable peppier classiest hogfishes barmy costively tarragon handpick baboos irksomely emptor whist reimported flatwork outsized etiolated kumquats contra joggling scrapples snooted idolize aurated gliders shoaling enumerating subitems unaided hyposensitizing backslider tutting dregs positivest lassoed underclad encouragements peachiest flubdubs unexcusably moldering anisic rustical noncontroversially warmheartedly acidifiers unmasks likeness copiously scrupled shrugs virtually chanted geographically ricked bouzoukia restartable muncher photos merman frankfurters embryologic egos overbakes megohms</literal>
+      </binding>
+      <binding name="producer">
+        <literal>redeveloper looper nosily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>vociferously sundrops legalism</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>threatful crummiest unsaved virgules sagacities distinctness oxy dispersions operants</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>amusement tenantry persuaded patches overtrains smirch</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>lubricating lucently dictions savorous preventable vitalising unafraid readouts misjudges cowgirls consignment grinners beachboy braids yodled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">956</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1560</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>cogitator christianity manas</literal>
+      </binding>
+      <binding name="comment">
+        <literal>wiretappers bunkhouses sonde melanophore kinless underspent sowbread invincibly attainment cannabinol dishier dosimeters unproportionate frag pollywogs declassifying strides arroyos gunrunner skycoach revolutionize dripped malfeasantly satinwood gainliest firers inexpensively triturable peppier classiest hogfishes barmy costively tarragon handpick baboos irksomely emptor whist reimported flatwork outsized etiolated kumquats contra joggling scrapples snooted idolize aurated gliders shoaling enumerating subitems unaided hyposensitizing backslider tutting dregs positivest lassoed underclad encouragements peachiest flubdubs unexcusably moldering anisic rustical noncontroversially warmheartedly acidifiers unmasks likeness copiously scrupled shrugs virtually chanted geographically ricked bouzoukia restartable muncher photos merman frankfurters embryologic egos overbakes megohms</literal>
+      </binding>
+      <binding name="producer">
+        <literal>redeveloper looper nosily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>niched reshuffle ghettoed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>threatful crummiest unsaved virgules sagacities distinctness oxy dispersions operants</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>amusement tenantry persuaded patches overtrains smirch</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>lubricating lucently dictions savorous preventable vitalising unafraid readouts misjudges cowgirls consignment grinners beachboy braids yodled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">956</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1560</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>cogitator christianity manas</literal>
+      </binding>
+      <binding name="comment">
+        <literal>wiretappers bunkhouses sonde melanophore kinless underspent sowbread invincibly attainment cannabinol dishier dosimeters unproportionate frag pollywogs declassifying strides arroyos gunrunner skycoach revolutionize dripped malfeasantly satinwood gainliest firers inexpensively triturable peppier classiest hogfishes barmy costively tarragon handpick baboos irksomely emptor whist reimported flatwork outsized etiolated kumquats contra joggling scrapples snooted idolize aurated gliders shoaling enumerating subitems unaided hyposensitizing backslider tutting dregs positivest lassoed underclad encouragements peachiest flubdubs unexcusably moldering anisic rustical noncontroversially warmheartedly acidifiers unmasks likeness copiously scrupled shrugs virtually chanted geographically ricked bouzoukia restartable muncher photos merman frankfurters embryologic egos overbakes megohms</literal>
+      </binding>
+      <binding name="producer">
+        <literal>redeveloper looper nosily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>macroeconomic triskaidekaphobia restorer</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>threatful crummiest unsaved virgules sagacities distinctness oxy dispersions operants</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>amusement tenantry persuaded patches overtrains smirch</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>lubricating lucently dictions savorous preventable vitalising unafraid readouts misjudges cowgirls consignment grinners beachboy braids yodled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">956</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1560</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>cogitator christianity manas</literal>
+      </binding>
+      <binding name="comment">
+        <literal>wiretappers bunkhouses sonde melanophore kinless underspent sowbread invincibly attainment cannabinol dishier dosimeters unproportionate frag pollywogs declassifying strides arroyos gunrunner skycoach revolutionize dripped malfeasantly satinwood gainliest firers inexpensively triturable peppier classiest hogfishes barmy costively tarragon handpick baboos irksomely emptor whist reimported flatwork outsized etiolated kumquats contra joggling scrapples snooted idolize aurated gliders shoaling enumerating subitems unaided hyposensitizing backslider tutting dregs positivest lassoed underclad encouragements peachiest flubdubs unexcusably moldering anisic rustical noncontroversially warmheartedly acidifiers unmasks likeness copiously scrupled shrugs virtually chanted geographically ricked bouzoukia restartable muncher photos merman frankfurters embryologic egos overbakes megohms</literal>
+      </binding>
+      <binding name="producer">
+        <literal>redeveloper looper nosily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>papaya bellevue truced</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>threatful crummiest unsaved virgules sagacities distinctness oxy dispersions operants</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>amusement tenantry persuaded patches overtrains smirch</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>lubricating lucently dictions savorous preventable vitalising unafraid readouts misjudges cowgirls consignment grinners beachboy braids yodled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">956</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1560</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>cogitator christianity manas</literal>
+      </binding>
+      <binding name="comment">
+        <literal>wiretappers bunkhouses sonde melanophore kinless underspent sowbread invincibly attainment cannabinol dishier dosimeters unproportionate frag pollywogs declassifying strides arroyos gunrunner skycoach revolutionize dripped malfeasantly satinwood gainliest firers inexpensively triturable peppier classiest hogfishes barmy costively tarragon handpick baboos irksomely emptor whist reimported flatwork outsized etiolated kumquats contra joggling scrapples snooted idolize aurated gliders shoaling enumerating subitems unaided hyposensitizing backslider tutting dregs positivest lassoed underclad encouragements peachiest flubdubs unexcusably moldering anisic rustical noncontroversially warmheartedly acidifiers unmasks likeness copiously scrupled shrugs virtually chanted geographically ricked bouzoukia restartable muncher photos merman frankfurters embryologic egos overbakes megohms</literal>
+      </binding>
+      <binding name="producer">
+        <literal>redeveloper looper nosily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bisulfate invalidating incapacitant</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>threatful crummiest unsaved virgules sagacities distinctness oxy dispersions operants</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>amusement tenantry persuaded patches overtrains smirch</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>lubricating lucently dictions savorous preventable vitalising unafraid readouts misjudges cowgirls consignment grinners beachboy braids yodled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">956</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1560</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>cogitator christianity manas</literal>
+      </binding>
+      <binding name="comment">
+        <literal>wiretappers bunkhouses sonde melanophore kinless underspent sowbread invincibly attainment cannabinol dishier dosimeters unproportionate frag pollywogs declassifying strides arroyos gunrunner skycoach revolutionize dripped malfeasantly satinwood gainliest firers inexpensively triturable peppier classiest hogfishes barmy costively tarragon handpick baboos irksomely emptor whist reimported flatwork outsized etiolated kumquats contra joggling scrapples snooted idolize aurated gliders shoaling enumerating subitems unaided hyposensitizing backslider tutting dregs positivest lassoed underclad encouragements peachiest flubdubs unexcusably moldering anisic rustical noncontroversially warmheartedly acidifiers unmasks likeness copiously scrupled shrugs virtually chanted geographically ricked bouzoukia restartable muncher photos merman frankfurters embryologic egos overbakes megohms</literal>
+      </binding>
+      <binding name="producer">
+        <literal>redeveloper looper nosily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>valiants</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>threatful crummiest unsaved virgules sagacities distinctness oxy dispersions operants</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>amusement tenantry persuaded patches overtrains smirch</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>lubricating lucently dictions savorous preventable vitalising unafraid readouts misjudges cowgirls consignment grinners beachboy braids yodled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">956</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1560</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>cogitator christianity manas</literal>
+      </binding>
+      <binding name="comment">
+        <literal>wiretappers bunkhouses sonde melanophore kinless underspent sowbread invincibly attainment cannabinol dishier dosimeters unproportionate frag pollywogs declassifying strides arroyos gunrunner skycoach revolutionize dripped malfeasantly satinwood gainliest firers inexpensively triturable peppier classiest hogfishes barmy costively tarragon handpick baboos irksomely emptor whist reimported flatwork outsized etiolated kumquats contra joggling scrapples snooted idolize aurated gliders shoaling enumerating subitems unaided hyposensitizing backslider tutting dregs positivest lassoed underclad encouragements peachiest flubdubs unexcusably moldering anisic rustical noncontroversially warmheartedly acidifiers unmasks likeness copiously scrupled shrugs virtually chanted geographically ricked bouzoukia restartable muncher photos merman frankfurters embryologic egos overbakes megohms</literal>
+      </binding>
+      <binding name="producer">
+        <literal>redeveloper looper nosily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>kneelers abortions chemosterilants</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>threatful crummiest unsaved virgules sagacities distinctness oxy dispersions operants</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>amusement tenantry persuaded patches overtrains smirch</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>lubricating lucently dictions savorous preventable vitalising unafraid readouts misjudges cowgirls consignment grinners beachboy braids yodled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">956</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1560</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>cogitator christianity manas</literal>
+      </binding>
+      <binding name="comment">
+        <literal>wiretappers bunkhouses sonde melanophore kinless underspent sowbread invincibly attainment cannabinol dishier dosimeters unproportionate frag pollywogs declassifying strides arroyos gunrunner skycoach revolutionize dripped malfeasantly satinwood gainliest firers inexpensively triturable peppier classiest hogfishes barmy costively tarragon handpick baboos irksomely emptor whist reimported flatwork outsized etiolated kumquats contra joggling scrapples snooted idolize aurated gliders shoaling enumerating subitems unaided hyposensitizing backslider tutting dregs positivest lassoed underclad encouragements peachiest flubdubs unexcusably moldering anisic rustical noncontroversially warmheartedly acidifiers unmasks likeness copiously scrupled shrugs virtually chanted geographically ricked bouzoukia restartable muncher photos merman frankfurters embryologic egos overbakes megohms</literal>
+      </binding>
+      <binding name="producer">
+        <literal>redeveloper looper nosily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>overcooking mutualities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>threatful crummiest unsaved virgules sagacities distinctness oxy dispersions operants</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>amusement tenantry persuaded patches overtrains smirch</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>lubricating lucently dictions savorous preventable vitalising unafraid readouts misjudges cowgirls consignment grinners beachboy braids yodled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">956</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1560</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>cogitator christianity manas</literal>
+      </binding>
+      <binding name="comment">
+        <literal>wiretappers bunkhouses sonde melanophore kinless underspent sowbread invincibly attainment cannabinol dishier dosimeters unproportionate frag pollywogs declassifying strides arroyos gunrunner skycoach revolutionize dripped malfeasantly satinwood gainliest firers inexpensively triturable peppier classiest hogfishes barmy costively tarragon handpick baboos irksomely emptor whist reimported flatwork outsized etiolated kumquats contra joggling scrapples snooted idolize aurated gliders shoaling enumerating subitems unaided hyposensitizing backslider tutting dregs positivest lassoed underclad encouragements peachiest flubdubs unexcusably moldering anisic rustical noncontroversially warmheartedly acidifiers unmasks likeness copiously scrupled shrugs virtually chanted geographically ricked bouzoukia restartable muncher photos merman frankfurters embryologic egos overbakes megohms</literal>
+      </binding>
+      <binding name="producer">
+        <literal>redeveloper looper nosily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>impartialness uncertified</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>threatful crummiest unsaved virgules sagacities distinctness oxy dispersions operants</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>amusement tenantry persuaded patches overtrains smirch</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>lubricating lucently dictions savorous preventable vitalising unafraid readouts misjudges cowgirls consignment grinners beachboy braids yodled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">956</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1560</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>cogitator christianity manas</literal>
+      </binding>
+      <binding name="comment">
+        <literal>wiretappers bunkhouses sonde melanophore kinless underspent sowbread invincibly attainment cannabinol dishier dosimeters unproportionate frag pollywogs declassifying strides arroyos gunrunner skycoach revolutionize dripped malfeasantly satinwood gainliest firers inexpensively triturable peppier classiest hogfishes barmy costively tarragon handpick baboos irksomely emptor whist reimported flatwork outsized etiolated kumquats contra joggling scrapples snooted idolize aurated gliders shoaling enumerating subitems unaided hyposensitizing backslider tutting dregs positivest lassoed underclad encouragements peachiest flubdubs unexcusably moldering anisic rustical noncontroversially warmheartedly acidifiers unmasks likeness copiously scrupled shrugs virtually chanted geographically ricked bouzoukia restartable muncher photos merman frankfurters embryologic egos overbakes megohms</literal>
+      </binding>
+      <binding name="producer">
+        <literal>redeveloper looper nosily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nationalism inditing saltires</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>threatful crummiest unsaved virgules sagacities distinctness oxy dispersions operants</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>amusement tenantry persuaded patches overtrains smirch</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>lubricating lucently dictions savorous preventable vitalising unafraid readouts misjudges cowgirls consignment grinners beachboy braids yodled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">956</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1560</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>cogitator christianity manas</literal>
+      </binding>
+      <binding name="comment">
+        <literal>wiretappers bunkhouses sonde melanophore kinless underspent sowbread invincibly attainment cannabinol dishier dosimeters unproportionate frag pollywogs declassifying strides arroyos gunrunner skycoach revolutionize dripped malfeasantly satinwood gainliest firers inexpensively triturable peppier classiest hogfishes barmy costively tarragon handpick baboos irksomely emptor whist reimported flatwork outsized etiolated kumquats contra joggling scrapples snooted idolize aurated gliders shoaling enumerating subitems unaided hyposensitizing backslider tutting dregs positivest lassoed underclad encouragements peachiest flubdubs unexcusably moldering anisic rustical noncontroversially warmheartedly acidifiers unmasks likeness copiously scrupled shrugs virtually chanted geographically ricked bouzoukia restartable muncher photos merman frankfurters embryologic egos overbakes megohms</literal>
+      </binding>
+      <binding name="producer">
+        <literal>redeveloper looper nosily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>smasher</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>threatful crummiest unsaved virgules sagacities distinctness oxy dispersions operants</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>amusement tenantry persuaded patches overtrains smirch</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>lubricating lucently dictions savorous preventable vitalising unafraid readouts misjudges cowgirls consignment grinners beachboy braids yodled</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">956</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1560</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

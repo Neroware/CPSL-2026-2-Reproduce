@@ -1,0 +1,684 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>steamboats cajoles</literal>
+      </binding>
+      <binding name="comment">
+        <literal>fathers spoored sheiks acroliths connecter persuaded sandbagging lapin soliciting effaced developmental maidenliness libidinization ranchers couchantly excuses sloped twelfths corporals tackifies percussor buffo fitters unserviceably riggings mucked undercover compasses unpacker copies hoodwinking vivified girted basses antipersonnel poohed tranquilizer cartable waspy predaciousness asphyxia clayier deceives heliocentrically brittleness ejectors designating neatest salivating respiting godliness witnessed networked casketed grumblers uplifter scummiest statesmanship undy coagulated lurchers overcautiousness incompressibly placer irides ladanum splinting reprieving hebraizes ordeals ratsbanes manager stacks lianas transposing interleaving leeks kopje adventitiousness orality semideserts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>chiseled deair</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>cosily unquieter reemerging</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>murkest remap indolence tufter wreckers streusel governing willowed hampshirites vetted schmalzier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>replenished nows bringer circumnavigated remarque exhibiting lazying peculiars aunts readjustment</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">644</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">891</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>humorlessly fumes archdeacon bluecap</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1793</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>steamboats cajoles</literal>
+      </binding>
+      <binding name="comment">
+        <literal>fathers spoored sheiks acroliths connecter persuaded sandbagging lapin soliciting effaced developmental maidenliness libidinization ranchers couchantly excuses sloped twelfths corporals tackifies percussor buffo fitters unserviceably riggings mucked undercover compasses unpacker copies hoodwinking vivified girted basses antipersonnel poohed tranquilizer cartable waspy predaciousness asphyxia clayier deceives heliocentrically brittleness ejectors designating neatest salivating respiting godliness witnessed networked casketed grumblers uplifter scummiest statesmanship undy coagulated lurchers overcautiousness incompressibly placer irides ladanum splinting reprieving hebraizes ordeals ratsbanes manager stacks lianas transposing interleaving leeks kopje adventitiousness orality semideserts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>moue</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>cosily unquieter reemerging</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>murkest remap indolence tufter wreckers streusel governing willowed hampshirites vetted schmalzier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>replenished nows bringer circumnavigated remarque exhibiting lazying peculiars aunts readjustment</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">644</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">891</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>humorlessly fumes archdeacon bluecap</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1793</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>steamboats cajoles</literal>
+      </binding>
+      <binding name="comment">
+        <literal>fathers spoored sheiks acroliths connecter persuaded sandbagging lapin soliciting effaced developmental maidenliness libidinization ranchers couchantly excuses sloped twelfths corporals tackifies percussor buffo fitters unserviceably riggings mucked undercover compasses unpacker copies hoodwinking vivified girted basses antipersonnel poohed tranquilizer cartable waspy predaciousness asphyxia clayier deceives heliocentrically brittleness ejectors designating neatest salivating respiting godliness witnessed networked casketed grumblers uplifter scummiest statesmanship undy coagulated lurchers overcautiousness incompressibly placer irides ladanum splinting reprieving hebraizes ordeals ratsbanes manager stacks lianas transposing interleaving leeks kopje adventitiousness orality semideserts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>crooned</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>cosily unquieter reemerging</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>murkest remap indolence tufter wreckers streusel governing willowed hampshirites vetted schmalzier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>replenished nows bringer circumnavigated remarque exhibiting lazying peculiars aunts readjustment</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">644</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">891</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>humorlessly fumes archdeacon bluecap</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1793</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>steamboats cajoles</literal>
+      </binding>
+      <binding name="comment">
+        <literal>fathers spoored sheiks acroliths connecter persuaded sandbagging lapin soliciting effaced developmental maidenliness libidinization ranchers couchantly excuses sloped twelfths corporals tackifies percussor buffo fitters unserviceably riggings mucked undercover compasses unpacker copies hoodwinking vivified girted basses antipersonnel poohed tranquilizer cartable waspy predaciousness asphyxia clayier deceives heliocentrically brittleness ejectors designating neatest salivating respiting godliness witnessed networked casketed grumblers uplifter scummiest statesmanship undy coagulated lurchers overcautiousness incompressibly placer irides ladanum splinting reprieving hebraizes ordeals ratsbanes manager stacks lianas transposing interleaving leeks kopje adventitiousness orality semideserts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pearler</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>cosily unquieter reemerging</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>murkest remap indolence tufter wreckers streusel governing willowed hampshirites vetted schmalzier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>replenished nows bringer circumnavigated remarque exhibiting lazying peculiars aunts readjustment</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">644</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">891</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>humorlessly fumes archdeacon bluecap</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1793</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>steamboats cajoles</literal>
+      </binding>
+      <binding name="comment">
+        <literal>fathers spoored sheiks acroliths connecter persuaded sandbagging lapin soliciting effaced developmental maidenliness libidinization ranchers couchantly excuses sloped twelfths corporals tackifies percussor buffo fitters unserviceably riggings mucked undercover compasses unpacker copies hoodwinking vivified girted basses antipersonnel poohed tranquilizer cartable waspy predaciousness asphyxia clayier deceives heliocentrically brittleness ejectors designating neatest salivating respiting godliness witnessed networked casketed grumblers uplifter scummiest statesmanship undy coagulated lurchers overcautiousness incompressibly placer irides ladanum splinting reprieving hebraizes ordeals ratsbanes manager stacks lianas transposing interleaving leeks kopje adventitiousness orality semideserts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>praxes cantons</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>cosily unquieter reemerging</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>murkest remap indolence tufter wreckers streusel governing willowed hampshirites vetted schmalzier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>replenished nows bringer circumnavigated remarque exhibiting lazying peculiars aunts readjustment</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">644</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">891</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>humorlessly fumes archdeacon bluecap</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1793</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>steamboats cajoles</literal>
+      </binding>
+      <binding name="comment">
+        <literal>fathers spoored sheiks acroliths connecter persuaded sandbagging lapin soliciting effaced developmental maidenliness libidinization ranchers couchantly excuses sloped twelfths corporals tackifies percussor buffo fitters unserviceably riggings mucked undercover compasses unpacker copies hoodwinking vivified girted basses antipersonnel poohed tranquilizer cartable waspy predaciousness asphyxia clayier deceives heliocentrically brittleness ejectors designating neatest salivating respiting godliness witnessed networked casketed grumblers uplifter scummiest statesmanship undy coagulated lurchers overcautiousness incompressibly placer irides ladanum splinting reprieving hebraizes ordeals ratsbanes manager stacks lianas transposing interleaving leeks kopje adventitiousness orality semideserts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>relativity peacekeeping</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>cosily unquieter reemerging</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>murkest remap indolence tufter wreckers streusel governing willowed hampshirites vetted schmalzier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>replenished nows bringer circumnavigated remarque exhibiting lazying peculiars aunts readjustment</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">644</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">891</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>humorlessly fumes archdeacon bluecap</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1793</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>steamboats cajoles</literal>
+      </binding>
+      <binding name="comment">
+        <literal>fathers spoored sheiks acroliths connecter persuaded sandbagging lapin soliciting effaced developmental maidenliness libidinization ranchers couchantly excuses sloped twelfths corporals tackifies percussor buffo fitters unserviceably riggings mucked undercover compasses unpacker copies hoodwinking vivified girted basses antipersonnel poohed tranquilizer cartable waspy predaciousness asphyxia clayier deceives heliocentrically brittleness ejectors designating neatest salivating respiting godliness witnessed networked casketed grumblers uplifter scummiest statesmanship undy coagulated lurchers overcautiousness incompressibly placer irides ladanum splinting reprieving hebraizes ordeals ratsbanes manager stacks lianas transposing interleaving leeks kopje adventitiousness orality semideserts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>waifing bamboos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>cosily unquieter reemerging</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>murkest remap indolence tufter wreckers streusel governing willowed hampshirites vetted schmalzier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>replenished nows bringer circumnavigated remarque exhibiting lazying peculiars aunts readjustment</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">644</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">891</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>humorlessly fumes archdeacon bluecap</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1793</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>steamboats cajoles</literal>
+      </binding>
+      <binding name="comment">
+        <literal>fathers spoored sheiks acroliths connecter persuaded sandbagging lapin soliciting effaced developmental maidenliness libidinization ranchers couchantly excuses sloped twelfths corporals tackifies percussor buffo fitters unserviceably riggings mucked undercover compasses unpacker copies hoodwinking vivified girted basses antipersonnel poohed tranquilizer cartable waspy predaciousness asphyxia clayier deceives heliocentrically brittleness ejectors designating neatest salivating respiting godliness witnessed networked casketed grumblers uplifter scummiest statesmanship undy coagulated lurchers overcautiousness incompressibly placer irides ladanum splinting reprieving hebraizes ordeals ratsbanes manager stacks lianas transposing interleaving leeks kopje adventitiousness orality semideserts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>squiggle postnasal waylayers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>cosily unquieter reemerging</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>murkest remap indolence tufter wreckers streusel governing willowed hampshirites vetted schmalzier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>replenished nows bringer circumnavigated remarque exhibiting lazying peculiars aunts readjustment</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">644</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">891</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>humorlessly fumes archdeacon bluecap</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1793</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>steamboats cajoles</literal>
+      </binding>
+      <binding name="comment">
+        <literal>fathers spoored sheiks acroliths connecter persuaded sandbagging lapin soliciting effaced developmental maidenliness libidinization ranchers couchantly excuses sloped twelfths corporals tackifies percussor buffo fitters unserviceably riggings mucked undercover compasses unpacker copies hoodwinking vivified girted basses antipersonnel poohed tranquilizer cartable waspy predaciousness asphyxia clayier deceives heliocentrically brittleness ejectors designating neatest salivating respiting godliness witnessed networked casketed grumblers uplifter scummiest statesmanship undy coagulated lurchers overcautiousness incompressibly placer irides ladanum splinting reprieving hebraizes ordeals ratsbanes manager stacks lianas transposing interleaving leeks kopje adventitiousness orality semideserts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hautboys bastilles</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>cosily unquieter reemerging</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>murkest remap indolence tufter wreckers streusel governing willowed hampshirites vetted schmalzier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>replenished nows bringer circumnavigated remarque exhibiting lazying peculiars aunts readjustment</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">644</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">891</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>humorlessly fumes archdeacon bluecap</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1793</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>steamboats cajoles</literal>
+      </binding>
+      <binding name="comment">
+        <literal>fathers spoored sheiks acroliths connecter persuaded sandbagging lapin soliciting effaced developmental maidenliness libidinization ranchers couchantly excuses sloped twelfths corporals tackifies percussor buffo fitters unserviceably riggings mucked undercover compasses unpacker copies hoodwinking vivified girted basses antipersonnel poohed tranquilizer cartable waspy predaciousness asphyxia clayier deceives heliocentrically brittleness ejectors designating neatest salivating respiting godliness witnessed networked casketed grumblers uplifter scummiest statesmanship undy coagulated lurchers overcautiousness incompressibly placer irides ladanum splinting reprieving hebraizes ordeals ratsbanes manager stacks lianas transposing interleaving leeks kopje adventitiousness orality semideserts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nonelection</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>cosily unquieter reemerging</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>murkest remap indolence tufter wreckers streusel governing willowed hampshirites vetted schmalzier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>replenished nows bringer circumnavigated remarque exhibiting lazying peculiars aunts readjustment</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">644</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">891</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>humorlessly fumes archdeacon bluecap</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1793</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>steamboats cajoles</literal>
+      </binding>
+      <binding name="comment">
+        <literal>fathers spoored sheiks acroliths connecter persuaded sandbagging lapin soliciting effaced developmental maidenliness libidinization ranchers couchantly excuses sloped twelfths corporals tackifies percussor buffo fitters unserviceably riggings mucked undercover compasses unpacker copies hoodwinking vivified girted basses antipersonnel poohed tranquilizer cartable waspy predaciousness asphyxia clayier deceives heliocentrically brittleness ejectors designating neatest salivating respiting godliness witnessed networked casketed grumblers uplifter scummiest statesmanship undy coagulated lurchers overcautiousness incompressibly placer irides ladanum splinting reprieving hebraizes ordeals ratsbanes manager stacks lianas transposing interleaving leeks kopje adventitiousness orality semideserts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>preforms garde</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>cosily unquieter reemerging</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>murkest remap indolence tufter wreckers streusel governing willowed hampshirites vetted schmalzier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>replenished nows bringer circumnavigated remarque exhibiting lazying peculiars aunts readjustment</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">644</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">891</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>humorlessly fumes archdeacon bluecap</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1793</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>steamboats cajoles</literal>
+      </binding>
+      <binding name="comment">
+        <literal>fathers spoored sheiks acroliths connecter persuaded sandbagging lapin soliciting effaced developmental maidenliness libidinization ranchers couchantly excuses sloped twelfths corporals tackifies percussor buffo fitters unserviceably riggings mucked undercover compasses unpacker copies hoodwinking vivified girted basses antipersonnel poohed tranquilizer cartable waspy predaciousness asphyxia clayier deceives heliocentrically brittleness ejectors designating neatest salivating respiting godliness witnessed networked casketed grumblers uplifter scummiest statesmanship undy coagulated lurchers overcautiousness incompressibly placer irides ladanum splinting reprieving hebraizes ordeals ratsbanes manager stacks lianas transposing interleaving leeks kopje adventitiousness orality semideserts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>credited allegator</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>cosily unquieter reemerging</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>murkest remap indolence tufter wreckers streusel governing willowed hampshirites vetted schmalzier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>replenished nows bringer circumnavigated remarque exhibiting lazying peculiars aunts readjustment</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">644</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">891</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>humorlessly fumes archdeacon bluecap</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1793</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>steamboats cajoles</literal>
+      </binding>
+      <binding name="comment">
+        <literal>fathers spoored sheiks acroliths connecter persuaded sandbagging lapin soliciting effaced developmental maidenliness libidinization ranchers couchantly excuses sloped twelfths corporals tackifies percussor buffo fitters unserviceably riggings mucked undercover compasses unpacker copies hoodwinking vivified girted basses antipersonnel poohed tranquilizer cartable waspy predaciousness asphyxia clayier deceives heliocentrically brittleness ejectors designating neatest salivating respiting godliness witnessed networked casketed grumblers uplifter scummiest statesmanship undy coagulated lurchers overcautiousness incompressibly placer irides ladanum splinting reprieving hebraizes ordeals ratsbanes manager stacks lianas transposing interleaving leeks kopje adventitiousness orality semideserts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cubbies zonked crevassing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>cosily unquieter reemerging</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>murkest remap indolence tufter wreckers streusel governing willowed hampshirites vetted schmalzier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>replenished nows bringer circumnavigated remarque exhibiting lazying peculiars aunts readjustment</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">644</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">891</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>humorlessly fumes archdeacon bluecap</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1793</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>steamboats cajoles</literal>
+      </binding>
+      <binding name="comment">
+        <literal>fathers spoored sheiks acroliths connecter persuaded sandbagging lapin soliciting effaced developmental maidenliness libidinization ranchers couchantly excuses sloped twelfths corporals tackifies percussor buffo fitters unserviceably riggings mucked undercover compasses unpacker copies hoodwinking vivified girted basses antipersonnel poohed tranquilizer cartable waspy predaciousness asphyxia clayier deceives heliocentrically brittleness ejectors designating neatest salivating respiting godliness witnessed networked casketed grumblers uplifter scummiest statesmanship undy coagulated lurchers overcautiousness incompressibly placer irides ladanum splinting reprieving hebraizes ordeals ratsbanes manager stacks lianas transposing interleaving leeks kopje adventitiousness orality semideserts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>interceder abatements</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>cosily unquieter reemerging</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>murkest remap indolence tufter wreckers streusel governing willowed hampshirites vetted schmalzier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>replenished nows bringer circumnavigated remarque exhibiting lazying peculiars aunts readjustment</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">644</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">891</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>humorlessly fumes archdeacon bluecap</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1793</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>steamboats cajoles</literal>
+      </binding>
+      <binding name="comment">
+        <literal>fathers spoored sheiks acroliths connecter persuaded sandbagging lapin soliciting effaced developmental maidenliness libidinization ranchers couchantly excuses sloped twelfths corporals tackifies percussor buffo fitters unserviceably riggings mucked undercover compasses unpacker copies hoodwinking vivified girted basses antipersonnel poohed tranquilizer cartable waspy predaciousness asphyxia clayier deceives heliocentrically brittleness ejectors designating neatest salivating respiting godliness witnessed networked casketed grumblers uplifter scummiest statesmanship undy coagulated lurchers overcautiousness incompressibly placer irides ladanum splinting reprieving hebraizes ordeals ratsbanes manager stacks lianas transposing interleaving leeks kopje adventitiousness orality semideserts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nighest crosspatches pawnable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>cosily unquieter reemerging</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>murkest remap indolence tufter wreckers streusel governing willowed hampshirites vetted schmalzier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>replenished nows bringer circumnavigated remarque exhibiting lazying peculiars aunts readjustment</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">644</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">891</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>humorlessly fumes archdeacon bluecap</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1793</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>steamboats cajoles</literal>
+      </binding>
+      <binding name="comment">
+        <literal>fathers spoored sheiks acroliths connecter persuaded sandbagging lapin soliciting effaced developmental maidenliness libidinization ranchers couchantly excuses sloped twelfths corporals tackifies percussor buffo fitters unserviceably riggings mucked undercover compasses unpacker copies hoodwinking vivified girted basses antipersonnel poohed tranquilizer cartable waspy predaciousness asphyxia clayier deceives heliocentrically brittleness ejectors designating neatest salivating respiting godliness witnessed networked casketed grumblers uplifter scummiest statesmanship undy coagulated lurchers overcautiousness incompressibly placer irides ladanum splinting reprieving hebraizes ordeals ratsbanes manager stacks lianas transposing interleaving leeks kopje adventitiousness orality semideserts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>destaining</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>cosily unquieter reemerging</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>murkest remap indolence tufter wreckers streusel governing willowed hampshirites vetted schmalzier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>replenished nows bringer circumnavigated remarque exhibiting lazying peculiars aunts readjustment</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">644</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">891</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>humorlessly fumes archdeacon bluecap</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1793</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>steamboats cajoles</literal>
+      </binding>
+      <binding name="comment">
+        <literal>fathers spoored sheiks acroliths connecter persuaded sandbagging lapin soliciting effaced developmental maidenliness libidinization ranchers couchantly excuses sloped twelfths corporals tackifies percussor buffo fitters unserviceably riggings mucked undercover compasses unpacker copies hoodwinking vivified girted basses antipersonnel poohed tranquilizer cartable waspy predaciousness asphyxia clayier deceives heliocentrically brittleness ejectors designating neatest salivating respiting godliness witnessed networked casketed grumblers uplifter scummiest statesmanship undy coagulated lurchers overcautiousness incompressibly placer irides ladanum splinting reprieving hebraizes ordeals ratsbanes manager stacks lianas transposing interleaving leeks kopje adventitiousness orality semideserts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>torts</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>cosily unquieter reemerging</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>murkest remap indolence tufter wreckers streusel governing willowed hampshirites vetted schmalzier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>replenished nows bringer circumnavigated remarque exhibiting lazying peculiars aunts readjustment</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">644</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">891</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>humorlessly fumes archdeacon bluecap</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1793</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>steamboats cajoles</literal>
+      </binding>
+      <binding name="comment">
+        <literal>fathers spoored sheiks acroliths connecter persuaded sandbagging lapin soliciting effaced developmental maidenliness libidinization ranchers couchantly excuses sloped twelfths corporals tackifies percussor buffo fitters unserviceably riggings mucked undercover compasses unpacker copies hoodwinking vivified girted basses antipersonnel poohed tranquilizer cartable waspy predaciousness asphyxia clayier deceives heliocentrically brittleness ejectors designating neatest salivating respiting godliness witnessed networked casketed grumblers uplifter scummiest statesmanship undy coagulated lurchers overcautiousness incompressibly placer irides ladanum splinting reprieving hebraizes ordeals ratsbanes manager stacks lianas transposing interleaving leeks kopje adventitiousness orality semideserts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pendently</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>cosily unquieter reemerging</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>murkest remap indolence tufter wreckers streusel governing willowed hampshirites vetted schmalzier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>replenished nows bringer circumnavigated remarque exhibiting lazying peculiars aunts readjustment</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">644</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">891</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>humorlessly fumes archdeacon bluecap</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1793</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>steamboats cajoles</literal>
+      </binding>
+      <binding name="comment">
+        <literal>fathers spoored sheiks acroliths connecter persuaded sandbagging lapin soliciting effaced developmental maidenliness libidinization ranchers couchantly excuses sloped twelfths corporals tackifies percussor buffo fitters unserviceably riggings mucked undercover compasses unpacker copies hoodwinking vivified girted basses antipersonnel poohed tranquilizer cartable waspy predaciousness asphyxia clayier deceives heliocentrically brittleness ejectors designating neatest salivating respiting godliness witnessed networked casketed grumblers uplifter scummiest statesmanship undy coagulated lurchers overcautiousness incompressibly placer irides ladanum splinting reprieving hebraizes ordeals ratsbanes manager stacks lianas transposing interleaving leeks kopje adventitiousness orality semideserts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>chiefest rubying centralize</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>cosily unquieter reemerging</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>murkest remap indolence tufter wreckers streusel governing willowed hampshirites vetted schmalzier</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>replenished nows bringer circumnavigated remarque exhibiting lazying peculiars aunts readjustment</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">644</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">891</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>humorlessly fumes archdeacon bluecap</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1793</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

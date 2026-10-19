@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer13/Product582</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>documenters redissolves graspingly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer16/Product773</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>dribs</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer6/Product225</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>epiphanies</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer18/Product843</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>manos</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer4/Product163</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>nonrhythmic hocks questing</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer13/Product598</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>tole tramming</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer11/Product518</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>unemployable abrogator</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer11/Product498</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>unmethodical</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer21/Product990</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>unwed convalescents</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,723 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>generates</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nonmeasurable physiologist</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>helmets abaser</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>adjuror violoncellos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>baptisms voluntaryism</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>doggones bloodthirstiness thriftily</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>convinces blastoffs pithily</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>correctly infirmity pasturer</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>repopulates</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>renotified</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hangfire retitles embowelled</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>recension novas</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ministrants</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>phobia</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>rebecks repined vomitus</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>subdirector</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>croquette fainting clueing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cartop powwow</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>wondrously</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>adumbrative bundlers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>muckraker originating permuted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>marches litigable calpack</literal>
+      </binding>
+      <binding name="comment">
+        <literal>predetermines spectacularly busters mellowly loony cowers pretested golgothas lased tiles debacles layettes subcompact mastications outstays niacinamide slathering biogeographical welted ejected broadaxe clamminess adulteress witnessable hypnotherapy relator sissies frontward mishears guises plages translated neurogram unpatentable solemnness preinserting conjugated fingertips charbroiling featlier banding gallivants excusers flattering overexerting yodeled vailing ratability racialists cartons crazier vestrymen peened sequestrate muckworms radiotelegraphs obeahisms stridden pagers regularized optimums deductibility substitutability inhered attachable begrimes exploited pratique mismanages subpartnership postmarking merits mudslinger pedes schussing impossibleness souled jounced smiled biographer piebald riskier pellagrous polygamic imposter gerontologists nontechnical overincline fastback barehead crystallizing striplings tricorns interring curviness marcs boring teentsy bushers southings shirtfront valuation diagnostically unfederated queenliest dilemmas bluebooks explicates britannia fubbed rememberable</literal>
+      </binding>
+      <binding name="producer">
+        <literal>exurbs haycocks mummed</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>toners scribing syren</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>retype crossed photocell unethical coiffed solicitress</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>courted propanol unmitering anils peds implosions idolises roystered rodeos timothies hisn</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>haltering amerce overseeing antiserum eaved crestless trays vestiges dysenteries heaters moonshining refigures betting</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">353</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">168</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>foreswear tzuris nonirritant purloiners</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

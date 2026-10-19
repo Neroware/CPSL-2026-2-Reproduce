@@ -1,0 +1,551 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>tokes fuddling fishhooks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bracero barbecued airlessness colluder regluing claybanks dalliers helistop alternately lymphocytic stagiest theorems offence peasants dogy fetes reshaper shushed condemnable pompoms semitone infringer dupped larky marmoset micromeli photocells dataflow vibrances ohioan nope totes eclectics integers nutlet sabotaging positives firedogs microcephalous gorgedly archfiend demerited ensnarer apogean brahma advertized dempster syrian rugbies philatelists braiding garaged selflessly catheterizes welcoming arco foveal pinoles terming undisputable tubbable pampean unhurriedly incapacities cedulas enounces dazzler palatines justifiers unabsentmindedness aversions desertion disease xenophobic dissolute dunged exactness tabulates clematises nonbeings lisles thorning velds unwelcome halters weldless multipolar employees overbooked defrays remold disfigure reannexed divinity explicators scummiest firebirds statutes fatalistic jinxes staler unclasped procrastinator stupa festoon nonhistoric bellicosity defeatist appealed tannish areola timecard polygraphic mony anchorages styes gamekeeper nonuple reflexively flanged reassured retailer impulsions outchiding poured unscientific swatted bowwow</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>views</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>myeloma zonked frags miscounted selectivity ejaculates fessed bangers ampler</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>vigorously oblongish inscribing admissability recharging preadjusting kettledrums clarksville destriers accommodational antineutrino conditionalities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>precalculations tearable capitulatory preludes investigator predicates electrum genteelness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">514</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">794</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>ancestrally rotifers spicey gauzes pals ires lbs cupboards somatopsychic erasions topknot selective retrospectives babbler ensuring</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>disaffecting advices annunciator kindler seborrhea tiniest outstaring fittingness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">571</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tokes fuddling fishhooks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bracero barbecued airlessness colluder regluing claybanks dalliers helistop alternately lymphocytic stagiest theorems offence peasants dogy fetes reshaper shushed condemnable pompoms semitone infringer dupped larky marmoset micromeli photocells dataflow vibrances ohioan nope totes eclectics integers nutlet sabotaging positives firedogs microcephalous gorgedly archfiend demerited ensnarer apogean brahma advertized dempster syrian rugbies philatelists braiding garaged selflessly catheterizes welcoming arco foveal pinoles terming undisputable tubbable pampean unhurriedly incapacities cedulas enounces dazzler palatines justifiers unabsentmindedness aversions desertion disease xenophobic dissolute dunged exactness tabulates clematises nonbeings lisles thorning velds unwelcome halters weldless multipolar employees overbooked defrays remold disfigure reannexed divinity explicators scummiest firebirds statutes fatalistic jinxes staler unclasped procrastinator stupa festoon nonhistoric bellicosity defeatist appealed tannish areola timecard polygraphic mony anchorages styes gamekeeper nonuple reflexively flanged reassured retailer impulsions outchiding poured unscientific swatted bowwow</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>alcaldes gerrymander planner</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>myeloma zonked frags miscounted selectivity ejaculates fessed bangers ampler</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>vigorously oblongish inscribing admissability recharging preadjusting kettledrums clarksville destriers accommodational antineutrino conditionalities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>precalculations tearable capitulatory preludes investigator predicates electrum genteelness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">514</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">794</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>ancestrally rotifers spicey gauzes pals ires lbs cupboards somatopsychic erasions topknot selective retrospectives babbler ensuring</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>disaffecting advices annunciator kindler seborrhea tiniest outstaring fittingness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">571</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tokes fuddling fishhooks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bracero barbecued airlessness colluder regluing claybanks dalliers helistop alternately lymphocytic stagiest theorems offence peasants dogy fetes reshaper shushed condemnable pompoms semitone infringer dupped larky marmoset micromeli photocells dataflow vibrances ohioan nope totes eclectics integers nutlet sabotaging positives firedogs microcephalous gorgedly archfiend demerited ensnarer apogean brahma advertized dempster syrian rugbies philatelists braiding garaged selflessly catheterizes welcoming arco foveal pinoles terming undisputable tubbable pampean unhurriedly incapacities cedulas enounces dazzler palatines justifiers unabsentmindedness aversions desertion disease xenophobic dissolute dunged exactness tabulates clematises nonbeings lisles thorning velds unwelcome halters weldless multipolar employees overbooked defrays remold disfigure reannexed divinity explicators scummiest firebirds statutes fatalistic jinxes staler unclasped procrastinator stupa festoon nonhistoric bellicosity defeatist appealed tannish areola timecard polygraphic mony anchorages styes gamekeeper nonuple reflexively flanged reassured retailer impulsions outchiding poured unscientific swatted bowwow</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>enginery oilseeds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>myeloma zonked frags miscounted selectivity ejaculates fessed bangers ampler</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>vigorously oblongish inscribing admissability recharging preadjusting kettledrums clarksville destriers accommodational antineutrino conditionalities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>precalculations tearable capitulatory preludes investigator predicates electrum genteelness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">514</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">794</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>ancestrally rotifers spicey gauzes pals ires lbs cupboards somatopsychic erasions topknot selective retrospectives babbler ensuring</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>disaffecting advices annunciator kindler seborrhea tiniest outstaring fittingness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">571</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tokes fuddling fishhooks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bracero barbecued airlessness colluder regluing claybanks dalliers helistop alternately lymphocytic stagiest theorems offence peasants dogy fetes reshaper shushed condemnable pompoms semitone infringer dupped larky marmoset micromeli photocells dataflow vibrances ohioan nope totes eclectics integers nutlet sabotaging positives firedogs microcephalous gorgedly archfiend demerited ensnarer apogean brahma advertized dempster syrian rugbies philatelists braiding garaged selflessly catheterizes welcoming arco foveal pinoles terming undisputable tubbable pampean unhurriedly incapacities cedulas enounces dazzler palatines justifiers unabsentmindedness aversions desertion disease xenophobic dissolute dunged exactness tabulates clematises nonbeings lisles thorning velds unwelcome halters weldless multipolar employees overbooked defrays remold disfigure reannexed divinity explicators scummiest firebirds statutes fatalistic jinxes staler unclasped procrastinator stupa festoon nonhistoric bellicosity defeatist appealed tannish areola timecard polygraphic mony anchorages styes gamekeeper nonuple reflexively flanged reassured retailer impulsions outchiding poured unscientific swatted bowwow</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>reheat</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>myeloma zonked frags miscounted selectivity ejaculates fessed bangers ampler</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>vigorously oblongish inscribing admissability recharging preadjusting kettledrums clarksville destriers accommodational antineutrino conditionalities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>precalculations tearable capitulatory preludes investigator predicates electrum genteelness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">514</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">794</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>ancestrally rotifers spicey gauzes pals ires lbs cupboards somatopsychic erasions topknot selective retrospectives babbler ensuring</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>disaffecting advices annunciator kindler seborrhea tiniest outstaring fittingness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">571</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tokes fuddling fishhooks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bracero barbecued airlessness colluder regluing claybanks dalliers helistop alternately lymphocytic stagiest theorems offence peasants dogy fetes reshaper shushed condemnable pompoms semitone infringer dupped larky marmoset micromeli photocells dataflow vibrances ohioan nope totes eclectics integers nutlet sabotaging positives firedogs microcephalous gorgedly archfiend demerited ensnarer apogean brahma advertized dempster syrian rugbies philatelists braiding garaged selflessly catheterizes welcoming arco foveal pinoles terming undisputable tubbable pampean unhurriedly incapacities cedulas enounces dazzler palatines justifiers unabsentmindedness aversions desertion disease xenophobic dissolute dunged exactness tabulates clematises nonbeings lisles thorning velds unwelcome halters weldless multipolar employees overbooked defrays remold disfigure reannexed divinity explicators scummiest firebirds statutes fatalistic jinxes staler unclasped procrastinator stupa festoon nonhistoric bellicosity defeatist appealed tannish areola timecard polygraphic mony anchorages styes gamekeeper nonuple reflexively flanged reassured retailer impulsions outchiding poured unscientific swatted bowwow</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>confounder</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>myeloma zonked frags miscounted selectivity ejaculates fessed bangers ampler</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>vigorously oblongish inscribing admissability recharging preadjusting kettledrums clarksville destriers accommodational antineutrino conditionalities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>precalculations tearable capitulatory preludes investigator predicates electrum genteelness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">514</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">794</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>ancestrally rotifers spicey gauzes pals ires lbs cupboards somatopsychic erasions topknot selective retrospectives babbler ensuring</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>disaffecting advices annunciator kindler seborrhea tiniest outstaring fittingness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">571</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tokes fuddling fishhooks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bracero barbecued airlessness colluder regluing claybanks dalliers helistop alternately lymphocytic stagiest theorems offence peasants dogy fetes reshaper shushed condemnable pompoms semitone infringer dupped larky marmoset micromeli photocells dataflow vibrances ohioan nope totes eclectics integers nutlet sabotaging positives firedogs microcephalous gorgedly archfiend demerited ensnarer apogean brahma advertized dempster syrian rugbies philatelists braiding garaged selflessly catheterizes welcoming arco foveal pinoles terming undisputable tubbable pampean unhurriedly incapacities cedulas enounces dazzler palatines justifiers unabsentmindedness aversions desertion disease xenophobic dissolute dunged exactness tabulates clematises nonbeings lisles thorning velds unwelcome halters weldless multipolar employees overbooked defrays remold disfigure reannexed divinity explicators scummiest firebirds statutes fatalistic jinxes staler unclasped procrastinator stupa festoon nonhistoric bellicosity defeatist appealed tannish areola timecard polygraphic mony anchorages styes gamekeeper nonuple reflexively flanged reassured retailer impulsions outchiding poured unscientific swatted bowwow</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dockages hijacked complies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>myeloma zonked frags miscounted selectivity ejaculates fessed bangers ampler</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>vigorously oblongish inscribing admissability recharging preadjusting kettledrums clarksville destriers accommodational antineutrino conditionalities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>precalculations tearable capitulatory preludes investigator predicates electrum genteelness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">514</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">794</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>ancestrally rotifers spicey gauzes pals ires lbs cupboards somatopsychic erasions topknot selective retrospectives babbler ensuring</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>disaffecting advices annunciator kindler seborrhea tiniest outstaring fittingness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">571</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tokes fuddling fishhooks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bracero barbecued airlessness colluder regluing claybanks dalliers helistop alternately lymphocytic stagiest theorems offence peasants dogy fetes reshaper shushed condemnable pompoms semitone infringer dupped larky marmoset micromeli photocells dataflow vibrances ohioan nope totes eclectics integers nutlet sabotaging positives firedogs microcephalous gorgedly archfiend demerited ensnarer apogean brahma advertized dempster syrian rugbies philatelists braiding garaged selflessly catheterizes welcoming arco foveal pinoles terming undisputable tubbable pampean unhurriedly incapacities cedulas enounces dazzler palatines justifiers unabsentmindedness aversions desertion disease xenophobic dissolute dunged exactness tabulates clematises nonbeings lisles thorning velds unwelcome halters weldless multipolar employees overbooked defrays remold disfigure reannexed divinity explicators scummiest firebirds statutes fatalistic jinxes staler unclasped procrastinator stupa festoon nonhistoric bellicosity defeatist appealed tannish areola timecard polygraphic mony anchorages styes gamekeeper nonuple reflexively flanged reassured retailer impulsions outchiding poured unscientific swatted bowwow</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>spoked</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>myeloma zonked frags miscounted selectivity ejaculates fessed bangers ampler</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>vigorously oblongish inscribing admissability recharging preadjusting kettledrums clarksville destriers accommodational antineutrino conditionalities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>precalculations tearable capitulatory preludes investigator predicates electrum genteelness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">514</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">794</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>ancestrally rotifers spicey gauzes pals ires lbs cupboards somatopsychic erasions topknot selective retrospectives babbler ensuring</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>disaffecting advices annunciator kindler seborrhea tiniest outstaring fittingness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">571</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tokes fuddling fishhooks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bracero barbecued airlessness colluder regluing claybanks dalliers helistop alternately lymphocytic stagiest theorems offence peasants dogy fetes reshaper shushed condemnable pompoms semitone infringer dupped larky marmoset micromeli photocells dataflow vibrances ohioan nope totes eclectics integers nutlet sabotaging positives firedogs microcephalous gorgedly archfiend demerited ensnarer apogean brahma advertized dempster syrian rugbies philatelists braiding garaged selflessly catheterizes welcoming arco foveal pinoles terming undisputable tubbable pampean unhurriedly incapacities cedulas enounces dazzler palatines justifiers unabsentmindedness aversions desertion disease xenophobic dissolute dunged exactness tabulates clematises nonbeings lisles thorning velds unwelcome halters weldless multipolar employees overbooked defrays remold disfigure reannexed divinity explicators scummiest firebirds statutes fatalistic jinxes staler unclasped procrastinator stupa festoon nonhistoric bellicosity defeatist appealed tannish areola timecard polygraphic mony anchorages styes gamekeeper nonuple reflexively flanged reassured retailer impulsions outchiding poured unscientific swatted bowwow</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>interpreter</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>myeloma zonked frags miscounted selectivity ejaculates fessed bangers ampler</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>vigorously oblongish inscribing admissability recharging preadjusting kettledrums clarksville destriers accommodational antineutrino conditionalities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>precalculations tearable capitulatory preludes investigator predicates electrum genteelness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">514</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">794</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>ancestrally rotifers spicey gauzes pals ires lbs cupboards somatopsychic erasions topknot selective retrospectives babbler ensuring</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>disaffecting advices annunciator kindler seborrhea tiniest outstaring fittingness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">571</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tokes fuddling fishhooks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bracero barbecued airlessness colluder regluing claybanks dalliers helistop alternately lymphocytic stagiest theorems offence peasants dogy fetes reshaper shushed condemnable pompoms semitone infringer dupped larky marmoset micromeli photocells dataflow vibrances ohioan nope totes eclectics integers nutlet sabotaging positives firedogs microcephalous gorgedly archfiend demerited ensnarer apogean brahma advertized dempster syrian rugbies philatelists braiding garaged selflessly catheterizes welcoming arco foveal pinoles terming undisputable tubbable pampean unhurriedly incapacities cedulas enounces dazzler palatines justifiers unabsentmindedness aversions desertion disease xenophobic dissolute dunged exactness tabulates clematises nonbeings lisles thorning velds unwelcome halters weldless multipolar employees overbooked defrays remold disfigure reannexed divinity explicators scummiest firebirds statutes fatalistic jinxes staler unclasped procrastinator stupa festoon nonhistoric bellicosity defeatist appealed tannish areola timecard polygraphic mony anchorages styes gamekeeper nonuple reflexively flanged reassured retailer impulsions outchiding poured unscientific swatted bowwow</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>exteriorizing pannier tsunamic</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>myeloma zonked frags miscounted selectivity ejaculates fessed bangers ampler</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>vigorously oblongish inscribing admissability recharging preadjusting kettledrums clarksville destriers accommodational antineutrino conditionalities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>precalculations tearable capitulatory preludes investigator predicates electrum genteelness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">514</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">794</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>ancestrally rotifers spicey gauzes pals ires lbs cupboards somatopsychic erasions topknot selective retrospectives babbler ensuring</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>disaffecting advices annunciator kindler seborrhea tiniest outstaring fittingness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">571</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tokes fuddling fishhooks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bracero barbecued airlessness colluder regluing claybanks dalliers helistop alternately lymphocytic stagiest theorems offence peasants dogy fetes reshaper shushed condemnable pompoms semitone infringer dupped larky marmoset micromeli photocells dataflow vibrances ohioan nope totes eclectics integers nutlet sabotaging positives firedogs microcephalous gorgedly archfiend demerited ensnarer apogean brahma advertized dempster syrian rugbies philatelists braiding garaged selflessly catheterizes welcoming arco foveal pinoles terming undisputable tubbable pampean unhurriedly incapacities cedulas enounces dazzler palatines justifiers unabsentmindedness aversions desertion disease xenophobic dissolute dunged exactness tabulates clematises nonbeings lisles thorning velds unwelcome halters weldless multipolar employees overbooked defrays remold disfigure reannexed divinity explicators scummiest firebirds statutes fatalistic jinxes staler unclasped procrastinator stupa festoon nonhistoric bellicosity defeatist appealed tannish areola timecard polygraphic mony anchorages styes gamekeeper nonuple reflexively flanged reassured retailer impulsions outchiding poured unscientific swatted bowwow</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>carboniferous bialy misemploy</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>myeloma zonked frags miscounted selectivity ejaculates fessed bangers ampler</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>vigorously oblongish inscribing admissability recharging preadjusting kettledrums clarksville destriers accommodational antineutrino conditionalities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>precalculations tearable capitulatory preludes investigator predicates electrum genteelness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">514</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">794</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>ancestrally rotifers spicey gauzes pals ires lbs cupboards somatopsychic erasions topknot selective retrospectives babbler ensuring</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>disaffecting advices annunciator kindler seborrhea tiniest outstaring fittingness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">571</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tokes fuddling fishhooks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bracero barbecued airlessness colluder regluing claybanks dalliers helistop alternately lymphocytic stagiest theorems offence peasants dogy fetes reshaper shushed condemnable pompoms semitone infringer dupped larky marmoset micromeli photocells dataflow vibrances ohioan nope totes eclectics integers nutlet sabotaging positives firedogs microcephalous gorgedly archfiend demerited ensnarer apogean brahma advertized dempster syrian rugbies philatelists braiding garaged selflessly catheterizes welcoming arco foveal pinoles terming undisputable tubbable pampean unhurriedly incapacities cedulas enounces dazzler palatines justifiers unabsentmindedness aversions desertion disease xenophobic dissolute dunged exactness tabulates clematises nonbeings lisles thorning velds unwelcome halters weldless multipolar employees overbooked defrays remold disfigure reannexed divinity explicators scummiest firebirds statutes fatalistic jinxes staler unclasped procrastinator stupa festoon nonhistoric bellicosity defeatist appealed tannish areola timecard polygraphic mony anchorages styes gamekeeper nonuple reflexively flanged reassured retailer impulsions outchiding poured unscientific swatted bowwow</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>becalming ab biases</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>myeloma zonked frags miscounted selectivity ejaculates fessed bangers ampler</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>vigorously oblongish inscribing admissability recharging preadjusting kettledrums clarksville destriers accommodational antineutrino conditionalities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>precalculations tearable capitulatory preludes investigator predicates electrum genteelness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">514</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">794</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>ancestrally rotifers spicey gauzes pals ires lbs cupboards somatopsychic erasions topknot selective retrospectives babbler ensuring</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>disaffecting advices annunciator kindler seborrhea tiniest outstaring fittingness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">571</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tokes fuddling fishhooks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bracero barbecued airlessness colluder regluing claybanks dalliers helistop alternately lymphocytic stagiest theorems offence peasants dogy fetes reshaper shushed condemnable pompoms semitone infringer dupped larky marmoset micromeli photocells dataflow vibrances ohioan nope totes eclectics integers nutlet sabotaging positives firedogs microcephalous gorgedly archfiend demerited ensnarer apogean brahma advertized dempster syrian rugbies philatelists braiding garaged selflessly catheterizes welcoming arco foveal pinoles terming undisputable tubbable pampean unhurriedly incapacities cedulas enounces dazzler palatines justifiers unabsentmindedness aversions desertion disease xenophobic dissolute dunged exactness tabulates clematises nonbeings lisles thorning velds unwelcome halters weldless multipolar employees overbooked defrays remold disfigure reannexed divinity explicators scummiest firebirds statutes fatalistic jinxes staler unclasped procrastinator stupa festoon nonhistoric bellicosity defeatist appealed tannish areola timecard polygraphic mony anchorages styes gamekeeper nonuple reflexively flanged reassured retailer impulsions outchiding poured unscientific swatted bowwow</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>grudges</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>myeloma zonked frags miscounted selectivity ejaculates fessed bangers ampler</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>vigorously oblongish inscribing admissability recharging preadjusting kettledrums clarksville destriers accommodational antineutrino conditionalities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>precalculations tearable capitulatory preludes investigator predicates electrum genteelness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">514</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">794</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>ancestrally rotifers spicey gauzes pals ires lbs cupboards somatopsychic erasions topknot selective retrospectives babbler ensuring</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>disaffecting advices annunciator kindler seborrhea tiniest outstaring fittingness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">571</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tokes fuddling fishhooks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bracero barbecued airlessness colluder regluing claybanks dalliers helistop alternately lymphocytic stagiest theorems offence peasants dogy fetes reshaper shushed condemnable pompoms semitone infringer dupped larky marmoset micromeli photocells dataflow vibrances ohioan nope totes eclectics integers nutlet sabotaging positives firedogs microcephalous gorgedly archfiend demerited ensnarer apogean brahma advertized dempster syrian rugbies philatelists braiding garaged selflessly catheterizes welcoming arco foveal pinoles terming undisputable tubbable pampean unhurriedly incapacities cedulas enounces dazzler palatines justifiers unabsentmindedness aversions desertion disease xenophobic dissolute dunged exactness tabulates clematises nonbeings lisles thorning velds unwelcome halters weldless multipolar employees overbooked defrays remold disfigure reannexed divinity explicators scummiest firebirds statutes fatalistic jinxes staler unclasped procrastinator stupa festoon nonhistoric bellicosity defeatist appealed tannish areola timecard polygraphic mony anchorages styes gamekeeper nonuple reflexively flanged reassured retailer impulsions outchiding poured unscientific swatted bowwow</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>subtonic realized</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>myeloma zonked frags miscounted selectivity ejaculates fessed bangers ampler</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>vigorously oblongish inscribing admissability recharging preadjusting kettledrums clarksville destriers accommodational antineutrino conditionalities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>precalculations tearable capitulatory preludes investigator predicates electrum genteelness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">514</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">794</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>ancestrally rotifers spicey gauzes pals ires lbs cupboards somatopsychic erasions topknot selective retrospectives babbler ensuring</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>disaffecting advices annunciator kindler seborrhea tiniest outstaring fittingness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">571</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>tokes fuddling fishhooks</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bracero barbecued airlessness colluder regluing claybanks dalliers helistop alternately lymphocytic stagiest theorems offence peasants dogy fetes reshaper shushed condemnable pompoms semitone infringer dupped larky marmoset micromeli photocells dataflow vibrances ohioan nope totes eclectics integers nutlet sabotaging positives firedogs microcephalous gorgedly archfiend demerited ensnarer apogean brahma advertized dempster syrian rugbies philatelists braiding garaged selflessly catheterizes welcoming arco foveal pinoles terming undisputable tubbable pampean unhurriedly incapacities cedulas enounces dazzler palatines justifiers unabsentmindedness aversions desertion disease xenophobic dissolute dunged exactness tabulates clematises nonbeings lisles thorning velds unwelcome halters weldless multipolar employees overbooked defrays remold disfigure reannexed divinity explicators scummiest firebirds statutes fatalistic jinxes staler unclasped procrastinator stupa festoon nonhistoric bellicosity defeatist appealed tannish areola timecard polygraphic mony anchorages styes gamekeeper nonuple reflexively flanged reassured retailer impulsions outchiding poured unscientific swatted bowwow</literal>
+      </binding>
+      <binding name="producer">
+        <literal>complicator</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bolling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>myeloma zonked frags miscounted selectivity ejaculates fessed bangers ampler</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>vigorously oblongish inscribing admissability recharging preadjusting kettledrums clarksville destriers accommodational antineutrino conditionalities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>precalculations tearable capitulatory preludes investigator predicates electrum genteelness</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">514</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">794</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>ancestrally rotifers spicey gauzes pals ires lbs cupboards somatopsychic erasions topknot selective retrospectives babbler ensuring</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>disaffecting advices annunciator kindler seborrhea tiniest outstaring fittingness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">571</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

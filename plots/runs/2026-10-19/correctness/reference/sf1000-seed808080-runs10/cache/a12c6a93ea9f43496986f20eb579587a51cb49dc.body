@@ -1,0 +1,483 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>sideswiper epitaphs</literal>
+      </binding>
+      <binding name="comment">
+        <literal>impassioning flouring derms reshipments reglaze hup capers underparts develope intimidated adsorbent calx gaels eyewink worshiper morphologies agonizing squarest solely planed disappearing climatotherapy wowed cowed litigated nonconvertible uninhabitable broodiest wipeout stabilization unexplored censors disagree conterminousness grubworm supercharging dazed lither revictualing subchiefs denigrators arguses fueling unaccountable grapevines obtains vagrants dyestuff crematorium eftsoons originals gunboat blinkers palmettoes landscaping primness xeroxing statism nonsymbolic substantively foresees selectional miniatures prerecords potages jaggedness multijet algicide gasher squealed crumbers favour incrustation investigations serb hotheads anxieties flites parchments ormolu constitutional waggers chandlery lysins preaffirmed topwork articles smoothed rampagers conies bestowals ringtoss balefulness perambulators forecastle butterfingered nihilistically sheltering pomanders stenches whisting measuring laxities capitalizes generalizations metonymies orthoepy etched implacably perfidies corelate keeners frivolling footsteps jackfish momism embalming kinesthesia extraterritorial amniotic fanners reprice reseats ennoblers cakewalks weeps wirable snowmen quacking foxfire fraternalism elopement</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>interplead deputed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overreaches barless mumm morphos megawatts covering belts</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>eggheads strafed gaoling sowable outfields</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>drollest dialyse transvestism syllabification biocides</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">873</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">94</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sideswiper epitaphs</literal>
+      </binding>
+      <binding name="comment">
+        <literal>impassioning flouring derms reshipments reglaze hup capers underparts develope intimidated adsorbent calx gaels eyewink worshiper morphologies agonizing squarest solely planed disappearing climatotherapy wowed cowed litigated nonconvertible uninhabitable broodiest wipeout stabilization unexplored censors disagree conterminousness grubworm supercharging dazed lither revictualing subchiefs denigrators arguses fueling unaccountable grapevines obtains vagrants dyestuff crematorium eftsoons originals gunboat blinkers palmettoes landscaping primness xeroxing statism nonsymbolic substantively foresees selectional miniatures prerecords potages jaggedness multijet algicide gasher squealed crumbers favour incrustation investigations serb hotheads anxieties flites parchments ormolu constitutional waggers chandlery lysins preaffirmed topwork articles smoothed rampagers conies bestowals ringtoss balefulness perambulators forecastle butterfingered nihilistically sheltering pomanders stenches whisting measuring laxities capitalizes generalizations metonymies orthoepy etched implacably perfidies corelate keeners frivolling footsteps jackfish momism embalming kinesthesia extraterritorial amniotic fanners reprice reseats ennoblers cakewalks weeps wirable snowmen quacking foxfire fraternalism elopement</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>entwine</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overreaches barless mumm morphos megawatts covering belts</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>eggheads strafed gaoling sowable outfields</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>drollest dialyse transvestism syllabification biocides</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">873</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">94</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sideswiper epitaphs</literal>
+      </binding>
+      <binding name="comment">
+        <literal>impassioning flouring derms reshipments reglaze hup capers underparts develope intimidated adsorbent calx gaels eyewink worshiper morphologies agonizing squarest solely planed disappearing climatotherapy wowed cowed litigated nonconvertible uninhabitable broodiest wipeout stabilization unexplored censors disagree conterminousness grubworm supercharging dazed lither revictualing subchiefs denigrators arguses fueling unaccountable grapevines obtains vagrants dyestuff crematorium eftsoons originals gunboat blinkers palmettoes landscaping primness xeroxing statism nonsymbolic substantively foresees selectional miniatures prerecords potages jaggedness multijet algicide gasher squealed crumbers favour incrustation investigations serb hotheads anxieties flites parchments ormolu constitutional waggers chandlery lysins preaffirmed topwork articles smoothed rampagers conies bestowals ringtoss balefulness perambulators forecastle butterfingered nihilistically sheltering pomanders stenches whisting measuring laxities capitalizes generalizations metonymies orthoepy etched implacably perfidies corelate keeners frivolling footsteps jackfish momism embalming kinesthesia extraterritorial amniotic fanners reprice reseats ennoblers cakewalks weeps wirable snowmen quacking foxfire fraternalism elopement</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>fatiguing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overreaches barless mumm morphos megawatts covering belts</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>eggheads strafed gaoling sowable outfields</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>drollest dialyse transvestism syllabification biocides</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">873</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">94</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sideswiper epitaphs</literal>
+      </binding>
+      <binding name="comment">
+        <literal>impassioning flouring derms reshipments reglaze hup capers underparts develope intimidated adsorbent calx gaels eyewink worshiper morphologies agonizing squarest solely planed disappearing climatotherapy wowed cowed litigated nonconvertible uninhabitable broodiest wipeout stabilization unexplored censors disagree conterminousness grubworm supercharging dazed lither revictualing subchiefs denigrators arguses fueling unaccountable grapevines obtains vagrants dyestuff crematorium eftsoons originals gunboat blinkers palmettoes landscaping primness xeroxing statism nonsymbolic substantively foresees selectional miniatures prerecords potages jaggedness multijet algicide gasher squealed crumbers favour incrustation investigations serb hotheads anxieties flites parchments ormolu constitutional waggers chandlery lysins preaffirmed topwork articles smoothed rampagers conies bestowals ringtoss balefulness perambulators forecastle butterfingered nihilistically sheltering pomanders stenches whisting measuring laxities capitalizes generalizations metonymies orthoepy etched implacably perfidies corelate keeners frivolling footsteps jackfish momism embalming kinesthesia extraterritorial amniotic fanners reprice reseats ennoblers cakewalks weeps wirable snowmen quacking foxfire fraternalism elopement</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>polled favour bruising</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overreaches barless mumm morphos megawatts covering belts</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>eggheads strafed gaoling sowable outfields</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>drollest dialyse transvestism syllabification biocides</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">873</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">94</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sideswiper epitaphs</literal>
+      </binding>
+      <binding name="comment">
+        <literal>impassioning flouring derms reshipments reglaze hup capers underparts develope intimidated adsorbent calx gaels eyewink worshiper morphologies agonizing squarest solely planed disappearing climatotherapy wowed cowed litigated nonconvertible uninhabitable broodiest wipeout stabilization unexplored censors disagree conterminousness grubworm supercharging dazed lither revictualing subchiefs denigrators arguses fueling unaccountable grapevines obtains vagrants dyestuff crematorium eftsoons originals gunboat blinkers palmettoes landscaping primness xeroxing statism nonsymbolic substantively foresees selectional miniatures prerecords potages jaggedness multijet algicide gasher squealed crumbers favour incrustation investigations serb hotheads anxieties flites parchments ormolu constitutional waggers chandlery lysins preaffirmed topwork articles smoothed rampagers conies bestowals ringtoss balefulness perambulators forecastle butterfingered nihilistically sheltering pomanders stenches whisting measuring laxities capitalizes generalizations metonymies orthoepy etched implacably perfidies corelate keeners frivolling footsteps jackfish momism embalming kinesthesia extraterritorial amniotic fanners reprice reseats ennoblers cakewalks weeps wirable snowmen quacking foxfire fraternalism elopement</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hammerheads</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overreaches barless mumm morphos megawatts covering belts</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>eggheads strafed gaoling sowable outfields</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>drollest dialyse transvestism syllabification biocides</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">873</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">94</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sideswiper epitaphs</literal>
+      </binding>
+      <binding name="comment">
+        <literal>impassioning flouring derms reshipments reglaze hup capers underparts develope intimidated adsorbent calx gaels eyewink worshiper morphologies agonizing squarest solely planed disappearing climatotherapy wowed cowed litigated nonconvertible uninhabitable broodiest wipeout stabilization unexplored censors disagree conterminousness grubworm supercharging dazed lither revictualing subchiefs denigrators arguses fueling unaccountable grapevines obtains vagrants dyestuff crematorium eftsoons originals gunboat blinkers palmettoes landscaping primness xeroxing statism nonsymbolic substantively foresees selectional miniatures prerecords potages jaggedness multijet algicide gasher squealed crumbers favour incrustation investigations serb hotheads anxieties flites parchments ormolu constitutional waggers chandlery lysins preaffirmed topwork articles smoothed rampagers conies bestowals ringtoss balefulness perambulators forecastle butterfingered nihilistically sheltering pomanders stenches whisting measuring laxities capitalizes generalizations metonymies orthoepy etched implacably perfidies corelate keeners frivolling footsteps jackfish momism embalming kinesthesia extraterritorial amniotic fanners reprice reseats ennoblers cakewalks weeps wirable snowmen quacking foxfire fraternalism elopement</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bastilles nonelection diastrophic</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overreaches barless mumm morphos megawatts covering belts</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>eggheads strafed gaoling sowable outfields</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>drollest dialyse transvestism syllabification biocides</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">873</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">94</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sideswiper epitaphs</literal>
+      </binding>
+      <binding name="comment">
+        <literal>impassioning flouring derms reshipments reglaze hup capers underparts develope intimidated adsorbent calx gaels eyewink worshiper morphologies agonizing squarest solely planed disappearing climatotherapy wowed cowed litigated nonconvertible uninhabitable broodiest wipeout stabilization unexplored censors disagree conterminousness grubworm supercharging dazed lither revictualing subchiefs denigrators arguses fueling unaccountable grapevines obtains vagrants dyestuff crematorium eftsoons originals gunboat blinkers palmettoes landscaping primness xeroxing statism nonsymbolic substantively foresees selectional miniatures prerecords potages jaggedness multijet algicide gasher squealed crumbers favour incrustation investigations serb hotheads anxieties flites parchments ormolu constitutional waggers chandlery lysins preaffirmed topwork articles smoothed rampagers conies bestowals ringtoss balefulness perambulators forecastle butterfingered nihilistically sheltering pomanders stenches whisting measuring laxities capitalizes generalizations metonymies orthoepy etched implacably perfidies corelate keeners frivolling footsteps jackfish momism embalming kinesthesia extraterritorial amniotic fanners reprice reseats ennoblers cakewalks weeps wirable snowmen quacking foxfire fraternalism elopement</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>usuriously genteelly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overreaches barless mumm morphos megawatts covering belts</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>eggheads strafed gaoling sowable outfields</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>drollest dialyse transvestism syllabification biocides</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">873</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">94</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sideswiper epitaphs</literal>
+      </binding>
+      <binding name="comment">
+        <literal>impassioning flouring derms reshipments reglaze hup capers underparts develope intimidated adsorbent calx gaels eyewink worshiper morphologies agonizing squarest solely planed disappearing climatotherapy wowed cowed litigated nonconvertible uninhabitable broodiest wipeout stabilization unexplored censors disagree conterminousness grubworm supercharging dazed lither revictualing subchiefs denigrators arguses fueling unaccountable grapevines obtains vagrants dyestuff crematorium eftsoons originals gunboat blinkers palmettoes landscaping primness xeroxing statism nonsymbolic substantively foresees selectional miniatures prerecords potages jaggedness multijet algicide gasher squealed crumbers favour incrustation investigations serb hotheads anxieties flites parchments ormolu constitutional waggers chandlery lysins preaffirmed topwork articles smoothed rampagers conies bestowals ringtoss balefulness perambulators forecastle butterfingered nihilistically sheltering pomanders stenches whisting measuring laxities capitalizes generalizations metonymies orthoepy etched implacably perfidies corelate keeners frivolling footsteps jackfish momism embalming kinesthesia extraterritorial amniotic fanners reprice reseats ennoblers cakewalks weeps wirable snowmen quacking foxfire fraternalism elopement</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>regimenting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overreaches barless mumm morphos megawatts covering belts</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>eggheads strafed gaoling sowable outfields</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>drollest dialyse transvestism syllabification biocides</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">873</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">94</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sideswiper epitaphs</literal>
+      </binding>
+      <binding name="comment">
+        <literal>impassioning flouring derms reshipments reglaze hup capers underparts develope intimidated adsorbent calx gaels eyewink worshiper morphologies agonizing squarest solely planed disappearing climatotherapy wowed cowed litigated nonconvertible uninhabitable broodiest wipeout stabilization unexplored censors disagree conterminousness grubworm supercharging dazed lither revictualing subchiefs denigrators arguses fueling unaccountable grapevines obtains vagrants dyestuff crematorium eftsoons originals gunboat blinkers palmettoes landscaping primness xeroxing statism nonsymbolic substantively foresees selectional miniatures prerecords potages jaggedness multijet algicide gasher squealed crumbers favour incrustation investigations serb hotheads anxieties flites parchments ormolu constitutional waggers chandlery lysins preaffirmed topwork articles smoothed rampagers conies bestowals ringtoss balefulness perambulators forecastle butterfingered nihilistically sheltering pomanders stenches whisting measuring laxities capitalizes generalizations metonymies orthoepy etched implacably perfidies corelate keeners frivolling footsteps jackfish momism embalming kinesthesia extraterritorial amniotic fanners reprice reseats ennoblers cakewalks weeps wirable snowmen quacking foxfire fraternalism elopement</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>abatements feaze</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overreaches barless mumm morphos megawatts covering belts</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>eggheads strafed gaoling sowable outfields</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>drollest dialyse transvestism syllabification biocides</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">873</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">94</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sideswiper epitaphs</literal>
+      </binding>
+      <binding name="comment">
+        <literal>impassioning flouring derms reshipments reglaze hup capers underparts develope intimidated adsorbent calx gaels eyewink worshiper morphologies agonizing squarest solely planed disappearing climatotherapy wowed cowed litigated nonconvertible uninhabitable broodiest wipeout stabilization unexplored censors disagree conterminousness grubworm supercharging dazed lither revictualing subchiefs denigrators arguses fueling unaccountable grapevines obtains vagrants dyestuff crematorium eftsoons originals gunboat blinkers palmettoes landscaping primness xeroxing statism nonsymbolic substantively foresees selectional miniatures prerecords potages jaggedness multijet algicide gasher squealed crumbers favour incrustation investigations serb hotheads anxieties flites parchments ormolu constitutional waggers chandlery lysins preaffirmed topwork articles smoothed rampagers conies bestowals ringtoss balefulness perambulators forecastle butterfingered nihilistically sheltering pomanders stenches whisting measuring laxities capitalizes generalizations metonymies orthoepy etched implacably perfidies corelate keeners frivolling footsteps jackfish momism embalming kinesthesia extraterritorial amniotic fanners reprice reseats ennoblers cakewalks weeps wirable snowmen quacking foxfire fraternalism elopement</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>expediencies interdependence talkier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overreaches barless mumm morphos megawatts covering belts</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>eggheads strafed gaoling sowable outfields</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>drollest dialyse transvestism syllabification biocides</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">873</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">94</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sideswiper epitaphs</literal>
+      </binding>
+      <binding name="comment">
+        <literal>impassioning flouring derms reshipments reglaze hup capers underparts develope intimidated adsorbent calx gaels eyewink worshiper morphologies agonizing squarest solely planed disappearing climatotherapy wowed cowed litigated nonconvertible uninhabitable broodiest wipeout stabilization unexplored censors disagree conterminousness grubworm supercharging dazed lither revictualing subchiefs denigrators arguses fueling unaccountable grapevines obtains vagrants dyestuff crematorium eftsoons originals gunboat blinkers palmettoes landscaping primness xeroxing statism nonsymbolic substantively foresees selectional miniatures prerecords potages jaggedness multijet algicide gasher squealed crumbers favour incrustation investigations serb hotheads anxieties flites parchments ormolu constitutional waggers chandlery lysins preaffirmed topwork articles smoothed rampagers conies bestowals ringtoss balefulness perambulators forecastle butterfingered nihilistically sheltering pomanders stenches whisting measuring laxities capitalizes generalizations metonymies orthoepy etched implacably perfidies corelate keeners frivolling footsteps jackfish momism embalming kinesthesia extraterritorial amniotic fanners reprice reseats ennoblers cakewalks weeps wirable snowmen quacking foxfire fraternalism elopement</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>photosensitize bumkin personation</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overreaches barless mumm morphos megawatts covering belts</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>eggheads strafed gaoling sowable outfields</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>drollest dialyse transvestism syllabification biocides</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">873</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">94</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sideswiper epitaphs</literal>
+      </binding>
+      <binding name="comment">
+        <literal>impassioning flouring derms reshipments reglaze hup capers underparts develope intimidated adsorbent calx gaels eyewink worshiper morphologies agonizing squarest solely planed disappearing climatotherapy wowed cowed litigated nonconvertible uninhabitable broodiest wipeout stabilization unexplored censors disagree conterminousness grubworm supercharging dazed lither revictualing subchiefs denigrators arguses fueling unaccountable grapevines obtains vagrants dyestuff crematorium eftsoons originals gunboat blinkers palmettoes landscaping primness xeroxing statism nonsymbolic substantively foresees selectional miniatures prerecords potages jaggedness multijet algicide gasher squealed crumbers favour incrustation investigations serb hotheads anxieties flites parchments ormolu constitutional waggers chandlery lysins preaffirmed topwork articles smoothed rampagers conies bestowals ringtoss balefulness perambulators forecastle butterfingered nihilistically sheltering pomanders stenches whisting measuring laxities capitalizes generalizations metonymies orthoepy etched implacably perfidies corelate keeners frivolling footsteps jackfish momism embalming kinesthesia extraterritorial amniotic fanners reprice reseats ennoblers cakewalks weeps wirable snowmen quacking foxfire fraternalism elopement</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>celebrators glaciates motiveless</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overreaches barless mumm morphos megawatts covering belts</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>eggheads strafed gaoling sowable outfields</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>drollest dialyse transvestism syllabification biocides</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">873</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">94</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sideswiper epitaphs</literal>
+      </binding>
+      <binding name="comment">
+        <literal>impassioning flouring derms reshipments reglaze hup capers underparts develope intimidated adsorbent calx gaels eyewink worshiper morphologies agonizing squarest solely planed disappearing climatotherapy wowed cowed litigated nonconvertible uninhabitable broodiest wipeout stabilization unexplored censors disagree conterminousness grubworm supercharging dazed lither revictualing subchiefs denigrators arguses fueling unaccountable grapevines obtains vagrants dyestuff crematorium eftsoons originals gunboat blinkers palmettoes landscaping primness xeroxing statism nonsymbolic substantively foresees selectional miniatures prerecords potages jaggedness multijet algicide gasher squealed crumbers favour incrustation investigations serb hotheads anxieties flites parchments ormolu constitutional waggers chandlery lysins preaffirmed topwork articles smoothed rampagers conies bestowals ringtoss balefulness perambulators forecastle butterfingered nihilistically sheltering pomanders stenches whisting measuring laxities capitalizes generalizations metonymies orthoepy etched implacably perfidies corelate keeners frivolling footsteps jackfish momism embalming kinesthesia extraterritorial amniotic fanners reprice reseats ennoblers cakewalks weeps wirable snowmen quacking foxfire fraternalism elopement</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ropily</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overreaches barless mumm morphos megawatts covering belts</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>eggheads strafed gaoling sowable outfields</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>drollest dialyse transvestism syllabification biocides</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">873</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">94</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sideswiper epitaphs</literal>
+      </binding>
+      <binding name="comment">
+        <literal>impassioning flouring derms reshipments reglaze hup capers underparts develope intimidated adsorbent calx gaels eyewink worshiper morphologies agonizing squarest solely planed disappearing climatotherapy wowed cowed litigated nonconvertible uninhabitable broodiest wipeout stabilization unexplored censors disagree conterminousness grubworm supercharging dazed lither revictualing subchiefs denigrators arguses fueling unaccountable grapevines obtains vagrants dyestuff crematorium eftsoons originals gunboat blinkers palmettoes landscaping primness xeroxing statism nonsymbolic substantively foresees selectional miniatures prerecords potages jaggedness multijet algicide gasher squealed crumbers favour incrustation investigations serb hotheads anxieties flites parchments ormolu constitutional waggers chandlery lysins preaffirmed topwork articles smoothed rampagers conies bestowals ringtoss balefulness perambulators forecastle butterfingered nihilistically sheltering pomanders stenches whisting measuring laxities capitalizes generalizations metonymies orthoepy etched implacably perfidies corelate keeners frivolling footsteps jackfish momism embalming kinesthesia extraterritorial amniotic fanners reprice reseats ennoblers cakewalks weeps wirable snowmen quacking foxfire fraternalism elopement</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>deedbox flakiest statutableness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overreaches barless mumm morphos megawatts covering belts</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>eggheads strafed gaoling sowable outfields</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>drollest dialyse transvestism syllabification biocides</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">873</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">94</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sideswiper epitaphs</literal>
+      </binding>
+      <binding name="comment">
+        <literal>impassioning flouring derms reshipments reglaze hup capers underparts develope intimidated adsorbent calx gaels eyewink worshiper morphologies agonizing squarest solely planed disappearing climatotherapy wowed cowed litigated nonconvertible uninhabitable broodiest wipeout stabilization unexplored censors disagree conterminousness grubworm supercharging dazed lither revictualing subchiefs denigrators arguses fueling unaccountable grapevines obtains vagrants dyestuff crematorium eftsoons originals gunboat blinkers palmettoes landscaping primness xeroxing statism nonsymbolic substantively foresees selectional miniatures prerecords potages jaggedness multijet algicide gasher squealed crumbers favour incrustation investigations serb hotheads anxieties flites parchments ormolu constitutional waggers chandlery lysins preaffirmed topwork articles smoothed rampagers conies bestowals ringtoss balefulness perambulators forecastle butterfingered nihilistically sheltering pomanders stenches whisting measuring laxities capitalizes generalizations metonymies orthoepy etched implacably perfidies corelate keeners frivolling footsteps jackfish momism embalming kinesthesia extraterritorial amniotic fanners reprice reseats ennoblers cakewalks weeps wirable snowmen quacking foxfire fraternalism elopement</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>abducted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overreaches barless mumm morphos megawatts covering belts</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>eggheads strafed gaoling sowable outfields</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>drollest dialyse transvestism syllabification biocides</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">873</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">94</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sideswiper epitaphs</literal>
+      </binding>
+      <binding name="comment">
+        <literal>impassioning flouring derms reshipments reglaze hup capers underparts develope intimidated adsorbent calx gaels eyewink worshiper morphologies agonizing squarest solely planed disappearing climatotherapy wowed cowed litigated nonconvertible uninhabitable broodiest wipeout stabilization unexplored censors disagree conterminousness grubworm supercharging dazed lither revictualing subchiefs denigrators arguses fueling unaccountable grapevines obtains vagrants dyestuff crematorium eftsoons originals gunboat blinkers palmettoes landscaping primness xeroxing statism nonsymbolic substantively foresees selectional miniatures prerecords potages jaggedness multijet algicide gasher squealed crumbers favour incrustation investigations serb hotheads anxieties flites parchments ormolu constitutional waggers chandlery lysins preaffirmed topwork articles smoothed rampagers conies bestowals ringtoss balefulness perambulators forecastle butterfingered nihilistically sheltering pomanders stenches whisting measuring laxities capitalizes generalizations metonymies orthoepy etched implacably perfidies corelate keeners frivolling footsteps jackfish momism embalming kinesthesia extraterritorial amniotic fanners reprice reseats ennoblers cakewalks weeps wirable snowmen quacking foxfire fraternalism elopement</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gunboats</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>overreaches barless mumm morphos megawatts covering belts</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>eggheads strafed gaoling sowable outfields</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>drollest dialyse transvestism syllabification biocides</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">873</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">94</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

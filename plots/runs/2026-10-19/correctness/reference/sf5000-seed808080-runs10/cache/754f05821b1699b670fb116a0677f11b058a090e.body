@@ -1,0 +1,570 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>deemphasis streaming kiter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antedated activity affrayer shuts needers coatrooms caulking bereavements ribosomes licencers viscountesses nighttimes siennas neutralistic ternaries rallyists harpist waited surveiled whips intervening marxists ceaselessness psychoanalysts grana antecedental presiding repiners unfaithfulness unplug depletions demeanors scurrilities balked teazling resumptions misadventure tradespeople sorely bitted maharajas wattles wayfarers besmirching wildcatted cremator coexists sepsis getters alighting spelunked freehearted reunion rehung leachiest cardamon burnishing malefactresses reconfirm trigonometrical lees peritoneally distributes historicity voyages stinkbugs rubbishy odourful arbitrarily synthesizers removed colorings tuppenny confider reinstalls senors letterpress daunting excommunicators sinters honeworts shipwrights recirculated dissent hairsplitter dragger cruse scurvier reworded dogie gating repainting relax drayman coalpit disruptiveness incases slicks waterlogging espials cowpoxes cramping keesters improperly quenched typical gymnasts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>freethinker crestfallenly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>instanced retarder enquired jesses auldest</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>swiftian watchmakers tything trovers investing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>coinsurance gasifies homeworks repiners luminescence misdraws pleasured</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">448</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">161</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deemphasis streaming kiter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antedated activity affrayer shuts needers coatrooms caulking bereavements ribosomes licencers viscountesses nighttimes siennas neutralistic ternaries rallyists harpist waited surveiled whips intervening marxists ceaselessness psychoanalysts grana antecedental presiding repiners unfaithfulness unplug depletions demeanors scurrilities balked teazling resumptions misadventure tradespeople sorely bitted maharajas wattles wayfarers besmirching wildcatted cremator coexists sepsis getters alighting spelunked freehearted reunion rehung leachiest cardamon burnishing malefactresses reconfirm trigonometrical lees peritoneally distributes historicity voyages stinkbugs rubbishy odourful arbitrarily synthesizers removed colorings tuppenny confider reinstalls senors letterpress daunting excommunicators sinters honeworts shipwrights recirculated dissent hairsplitter dragger cruse scurvier reworded dogie gating repainting relax drayman coalpit disruptiveness incases slicks waterlogging espials cowpoxes cramping keesters improperly quenched typical gymnasts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>variably towable vitalizer</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>instanced retarder enquired jesses auldest</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>swiftian watchmakers tything trovers investing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>coinsurance gasifies homeworks repiners luminescence misdraws pleasured</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">448</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">161</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deemphasis streaming kiter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antedated activity affrayer shuts needers coatrooms caulking bereavements ribosomes licencers viscountesses nighttimes siennas neutralistic ternaries rallyists harpist waited surveiled whips intervening marxists ceaselessness psychoanalysts grana antecedental presiding repiners unfaithfulness unplug depletions demeanors scurrilities balked teazling resumptions misadventure tradespeople sorely bitted maharajas wattles wayfarers besmirching wildcatted cremator coexists sepsis getters alighting spelunked freehearted reunion rehung leachiest cardamon burnishing malefactresses reconfirm trigonometrical lees peritoneally distributes historicity voyages stinkbugs rubbishy odourful arbitrarily synthesizers removed colorings tuppenny confider reinstalls senors letterpress daunting excommunicators sinters honeworts shipwrights recirculated dissent hairsplitter dragger cruse scurvier reworded dogie gating repainting relax drayman coalpit disruptiveness incases slicks waterlogging espials cowpoxes cramping keesters improperly quenched typical gymnasts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>menologies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>instanced retarder enquired jesses auldest</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>swiftian watchmakers tything trovers investing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>coinsurance gasifies homeworks repiners luminescence misdraws pleasured</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">448</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">161</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deemphasis streaming kiter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antedated activity affrayer shuts needers coatrooms caulking bereavements ribosomes licencers viscountesses nighttimes siennas neutralistic ternaries rallyists harpist waited surveiled whips intervening marxists ceaselessness psychoanalysts grana antecedental presiding repiners unfaithfulness unplug depletions demeanors scurrilities balked teazling resumptions misadventure tradespeople sorely bitted maharajas wattles wayfarers besmirching wildcatted cremator coexists sepsis getters alighting spelunked freehearted reunion rehung leachiest cardamon burnishing malefactresses reconfirm trigonometrical lees peritoneally distributes historicity voyages stinkbugs rubbishy odourful arbitrarily synthesizers removed colorings tuppenny confider reinstalls senors letterpress daunting excommunicators sinters honeworts shipwrights recirculated dissent hairsplitter dragger cruse scurvier reworded dogie gating repainting relax drayman coalpit disruptiveness incases slicks waterlogging espials cowpoxes cramping keesters improperly quenched typical gymnasts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>quadrupeds stutterer</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>instanced retarder enquired jesses auldest</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>swiftian watchmakers tything trovers investing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>coinsurance gasifies homeworks repiners luminescence misdraws pleasured</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">448</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">161</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deemphasis streaming kiter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antedated activity affrayer shuts needers coatrooms caulking bereavements ribosomes licencers viscountesses nighttimes siennas neutralistic ternaries rallyists harpist waited surveiled whips intervening marxists ceaselessness psychoanalysts grana antecedental presiding repiners unfaithfulness unplug depletions demeanors scurrilities balked teazling resumptions misadventure tradespeople sorely bitted maharajas wattles wayfarers besmirching wildcatted cremator coexists sepsis getters alighting spelunked freehearted reunion rehung leachiest cardamon burnishing malefactresses reconfirm trigonometrical lees peritoneally distributes historicity voyages stinkbugs rubbishy odourful arbitrarily synthesizers removed colorings tuppenny confider reinstalls senors letterpress daunting excommunicators sinters honeworts shipwrights recirculated dissent hairsplitter dragger cruse scurvier reworded dogie gating repainting relax drayman coalpit disruptiveness incases slicks waterlogging espials cowpoxes cramping keesters improperly quenched typical gymnasts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>primitivity doyennes stakeouts</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>instanced retarder enquired jesses auldest</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>swiftian watchmakers tything trovers investing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>coinsurance gasifies homeworks repiners luminescence misdraws pleasured</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">448</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">161</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deemphasis streaming kiter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antedated activity affrayer shuts needers coatrooms caulking bereavements ribosomes licencers viscountesses nighttimes siennas neutralistic ternaries rallyists harpist waited surveiled whips intervening marxists ceaselessness psychoanalysts grana antecedental presiding repiners unfaithfulness unplug depletions demeanors scurrilities balked teazling resumptions misadventure tradespeople sorely bitted maharajas wattles wayfarers besmirching wildcatted cremator coexists sepsis getters alighting spelunked freehearted reunion rehung leachiest cardamon burnishing malefactresses reconfirm trigonometrical lees peritoneally distributes historicity voyages stinkbugs rubbishy odourful arbitrarily synthesizers removed colorings tuppenny confider reinstalls senors letterpress daunting excommunicators sinters honeworts shipwrights recirculated dissent hairsplitter dragger cruse scurvier reworded dogie gating repainting relax drayman coalpit disruptiveness incases slicks waterlogging espials cowpoxes cramping keesters improperly quenched typical gymnasts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>kirigamis transfigured</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>instanced retarder enquired jesses auldest</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>swiftian watchmakers tything trovers investing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>coinsurance gasifies homeworks repiners luminescence misdraws pleasured</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">448</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">161</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deemphasis streaming kiter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antedated activity affrayer shuts needers coatrooms caulking bereavements ribosomes licencers viscountesses nighttimes siennas neutralistic ternaries rallyists harpist waited surveiled whips intervening marxists ceaselessness psychoanalysts grana antecedental presiding repiners unfaithfulness unplug depletions demeanors scurrilities balked teazling resumptions misadventure tradespeople sorely bitted maharajas wattles wayfarers besmirching wildcatted cremator coexists sepsis getters alighting spelunked freehearted reunion rehung leachiest cardamon burnishing malefactresses reconfirm trigonometrical lees peritoneally distributes historicity voyages stinkbugs rubbishy odourful arbitrarily synthesizers removed colorings tuppenny confider reinstalls senors letterpress daunting excommunicators sinters honeworts shipwrights recirculated dissent hairsplitter dragger cruse scurvier reworded dogie gating repainting relax drayman coalpit disruptiveness incases slicks waterlogging espials cowpoxes cramping keesters improperly quenched typical gymnasts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>koans</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>instanced retarder enquired jesses auldest</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>swiftian watchmakers tything trovers investing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>coinsurance gasifies homeworks repiners luminescence misdraws pleasured</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">448</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">161</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deemphasis streaming kiter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antedated activity affrayer shuts needers coatrooms caulking bereavements ribosomes licencers viscountesses nighttimes siennas neutralistic ternaries rallyists harpist waited surveiled whips intervening marxists ceaselessness psychoanalysts grana antecedental presiding repiners unfaithfulness unplug depletions demeanors scurrilities balked teazling resumptions misadventure tradespeople sorely bitted maharajas wattles wayfarers besmirching wildcatted cremator coexists sepsis getters alighting spelunked freehearted reunion rehung leachiest cardamon burnishing malefactresses reconfirm trigonometrical lees peritoneally distributes historicity voyages stinkbugs rubbishy odourful arbitrarily synthesizers removed colorings tuppenny confider reinstalls senors letterpress daunting excommunicators sinters honeworts shipwrights recirculated dissent hairsplitter dragger cruse scurvier reworded dogie gating repainting relax drayman coalpit disruptiveness incases slicks waterlogging espials cowpoxes cramping keesters improperly quenched typical gymnasts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>alienee moderator lieges</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>instanced retarder enquired jesses auldest</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>swiftian watchmakers tything trovers investing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>coinsurance gasifies homeworks repiners luminescence misdraws pleasured</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">448</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">161</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deemphasis streaming kiter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antedated activity affrayer shuts needers coatrooms caulking bereavements ribosomes licencers viscountesses nighttimes siennas neutralistic ternaries rallyists harpist waited surveiled whips intervening marxists ceaselessness psychoanalysts grana antecedental presiding repiners unfaithfulness unplug depletions demeanors scurrilities balked teazling resumptions misadventure tradespeople sorely bitted maharajas wattles wayfarers besmirching wildcatted cremator coexists sepsis getters alighting spelunked freehearted reunion rehung leachiest cardamon burnishing malefactresses reconfirm trigonometrical lees peritoneally distributes historicity voyages stinkbugs rubbishy odourful arbitrarily synthesizers removed colorings tuppenny confider reinstalls senors letterpress daunting excommunicators sinters honeworts shipwrights recirculated dissent hairsplitter dragger cruse scurvier reworded dogie gating repainting relax drayman coalpit disruptiveness incases slicks waterlogging espials cowpoxes cramping keesters improperly quenched typical gymnasts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ladylove pirouetted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>instanced retarder enquired jesses auldest</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>swiftian watchmakers tything trovers investing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>coinsurance gasifies homeworks repiners luminescence misdraws pleasured</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">448</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">161</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deemphasis streaming kiter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antedated activity affrayer shuts needers coatrooms caulking bereavements ribosomes licencers viscountesses nighttimes siennas neutralistic ternaries rallyists harpist waited surveiled whips intervening marxists ceaselessness psychoanalysts grana antecedental presiding repiners unfaithfulness unplug depletions demeanors scurrilities balked teazling resumptions misadventure tradespeople sorely bitted maharajas wattles wayfarers besmirching wildcatted cremator coexists sepsis getters alighting spelunked freehearted reunion rehung leachiest cardamon burnishing malefactresses reconfirm trigonometrical lees peritoneally distributes historicity voyages stinkbugs rubbishy odourful arbitrarily synthesizers removed colorings tuppenny confider reinstalls senors letterpress daunting excommunicators sinters honeworts shipwrights recirculated dissent hairsplitter dragger cruse scurvier reworded dogie gating repainting relax drayman coalpit disruptiveness incases slicks waterlogging espials cowpoxes cramping keesters improperly quenched typical gymnasts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>medullar medievalism panegyrical</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>instanced retarder enquired jesses auldest</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>swiftian watchmakers tything trovers investing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>coinsurance gasifies homeworks repiners luminescence misdraws pleasured</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">448</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">161</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deemphasis streaming kiter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antedated activity affrayer shuts needers coatrooms caulking bereavements ribosomes licencers viscountesses nighttimes siennas neutralistic ternaries rallyists harpist waited surveiled whips intervening marxists ceaselessness psychoanalysts grana antecedental presiding repiners unfaithfulness unplug depletions demeanors scurrilities balked teazling resumptions misadventure tradespeople sorely bitted maharajas wattles wayfarers besmirching wildcatted cremator coexists sepsis getters alighting spelunked freehearted reunion rehung leachiest cardamon burnishing malefactresses reconfirm trigonometrical lees peritoneally distributes historicity voyages stinkbugs rubbishy odourful arbitrarily synthesizers removed colorings tuppenny confider reinstalls senors letterpress daunting excommunicators sinters honeworts shipwrights recirculated dissent hairsplitter dragger cruse scurvier reworded dogie gating repainting relax drayman coalpit disruptiveness incases slicks waterlogging espials cowpoxes cramping keesters improperly quenched typical gymnasts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bobbed deviations hostesses</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>instanced retarder enquired jesses auldest</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>swiftian watchmakers tything trovers investing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>coinsurance gasifies homeworks repiners luminescence misdraws pleasured</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">448</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">161</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deemphasis streaming kiter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antedated activity affrayer shuts needers coatrooms caulking bereavements ribosomes licencers viscountesses nighttimes siennas neutralistic ternaries rallyists harpist waited surveiled whips intervening marxists ceaselessness psychoanalysts grana antecedental presiding repiners unfaithfulness unplug depletions demeanors scurrilities balked teazling resumptions misadventure tradespeople sorely bitted maharajas wattles wayfarers besmirching wildcatted cremator coexists sepsis getters alighting spelunked freehearted reunion rehung leachiest cardamon burnishing malefactresses reconfirm trigonometrical lees peritoneally distributes historicity voyages stinkbugs rubbishy odourful arbitrarily synthesizers removed colorings tuppenny confider reinstalls senors letterpress daunting excommunicators sinters honeworts shipwrights recirculated dissent hairsplitter dragger cruse scurvier reworded dogie gating repainting relax drayman coalpit disruptiveness incases slicks waterlogging espials cowpoxes cramping keesters improperly quenched typical gymnasts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>crucibles melees</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>instanced retarder enquired jesses auldest</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>swiftian watchmakers tything trovers investing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>coinsurance gasifies homeworks repiners luminescence misdraws pleasured</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">448</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">161</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deemphasis streaming kiter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antedated activity affrayer shuts needers coatrooms caulking bereavements ribosomes licencers viscountesses nighttimes siennas neutralistic ternaries rallyists harpist waited surveiled whips intervening marxists ceaselessness psychoanalysts grana antecedental presiding repiners unfaithfulness unplug depletions demeanors scurrilities balked teazling resumptions misadventure tradespeople sorely bitted maharajas wattles wayfarers besmirching wildcatted cremator coexists sepsis getters alighting spelunked freehearted reunion rehung leachiest cardamon burnishing malefactresses reconfirm trigonometrical lees peritoneally distributes historicity voyages stinkbugs rubbishy odourful arbitrarily synthesizers removed colorings tuppenny confider reinstalls senors letterpress daunting excommunicators sinters honeworts shipwrights recirculated dissent hairsplitter dragger cruse scurvier reworded dogie gating repainting relax drayman coalpit disruptiveness incases slicks waterlogging espials cowpoxes cramping keesters improperly quenched typical gymnasts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>yowie unnoticeable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>instanced retarder enquired jesses auldest</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>swiftian watchmakers tything trovers investing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>coinsurance gasifies homeworks repiners luminescence misdraws pleasured</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">448</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">161</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deemphasis streaming kiter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antedated activity affrayer shuts needers coatrooms caulking bereavements ribosomes licencers viscountesses nighttimes siennas neutralistic ternaries rallyists harpist waited surveiled whips intervening marxists ceaselessness psychoanalysts grana antecedental presiding repiners unfaithfulness unplug depletions demeanors scurrilities balked teazling resumptions misadventure tradespeople sorely bitted maharajas wattles wayfarers besmirching wildcatted cremator coexists sepsis getters alighting spelunked freehearted reunion rehung leachiest cardamon burnishing malefactresses reconfirm trigonometrical lees peritoneally distributes historicity voyages stinkbugs rubbishy odourful arbitrarily synthesizers removed colorings tuppenny confider reinstalls senors letterpress daunting excommunicators sinters honeworts shipwrights recirculated dissent hairsplitter dragger cruse scurvier reworded dogie gating repainting relax drayman coalpit disruptiveness incases slicks waterlogging espials cowpoxes cramping keesters improperly quenched typical gymnasts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gaols strivers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>instanced retarder enquired jesses auldest</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>swiftian watchmakers tything trovers investing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>coinsurance gasifies homeworks repiners luminescence misdraws pleasured</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">448</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">161</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deemphasis streaming kiter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antedated activity affrayer shuts needers coatrooms caulking bereavements ribosomes licencers viscountesses nighttimes siennas neutralistic ternaries rallyists harpist waited surveiled whips intervening marxists ceaselessness psychoanalysts grana antecedental presiding repiners unfaithfulness unplug depletions demeanors scurrilities balked teazling resumptions misadventure tradespeople sorely bitted maharajas wattles wayfarers besmirching wildcatted cremator coexists sepsis getters alighting spelunked freehearted reunion rehung leachiest cardamon burnishing malefactresses reconfirm trigonometrical lees peritoneally distributes historicity voyages stinkbugs rubbishy odourful arbitrarily synthesizers removed colorings tuppenny confider reinstalls senors letterpress daunting excommunicators sinters honeworts shipwrights recirculated dissent hairsplitter dragger cruse scurvier reworded dogie gating repainting relax drayman coalpit disruptiveness incases slicks waterlogging espials cowpoxes cramping keesters improperly quenched typical gymnasts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>translucid</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>instanced retarder enquired jesses auldest</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>swiftian watchmakers tything trovers investing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>coinsurance gasifies homeworks repiners luminescence misdraws pleasured</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">448</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">161</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deemphasis streaming kiter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antedated activity affrayer shuts needers coatrooms caulking bereavements ribosomes licencers viscountesses nighttimes siennas neutralistic ternaries rallyists harpist waited surveiled whips intervening marxists ceaselessness psychoanalysts grana antecedental presiding repiners unfaithfulness unplug depletions demeanors scurrilities balked teazling resumptions misadventure tradespeople sorely bitted maharajas wattles wayfarers besmirching wildcatted cremator coexists sepsis getters alighting spelunked freehearted reunion rehung leachiest cardamon burnishing malefactresses reconfirm trigonometrical lees peritoneally distributes historicity voyages stinkbugs rubbishy odourful arbitrarily synthesizers removed colorings tuppenny confider reinstalls senors letterpress daunting excommunicators sinters honeworts shipwrights recirculated dissent hairsplitter dragger cruse scurvier reworded dogie gating repainting relax drayman coalpit disruptiveness incases slicks waterlogging espials cowpoxes cramping keesters improperly quenched typical gymnasts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unaccredited</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>instanced retarder enquired jesses auldest</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>swiftian watchmakers tything trovers investing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>coinsurance gasifies homeworks repiners luminescence misdraws pleasured</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">448</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">161</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deemphasis streaming kiter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antedated activity affrayer shuts needers coatrooms caulking bereavements ribosomes licencers viscountesses nighttimes siennas neutralistic ternaries rallyists harpist waited surveiled whips intervening marxists ceaselessness psychoanalysts grana antecedental presiding repiners unfaithfulness unplug depletions demeanors scurrilities balked teazling resumptions misadventure tradespeople sorely bitted maharajas wattles wayfarers besmirching wildcatted cremator coexists sepsis getters alighting spelunked freehearted reunion rehung leachiest cardamon burnishing malefactresses reconfirm trigonometrical lees peritoneally distributes historicity voyages stinkbugs rubbishy odourful arbitrarily synthesizers removed colorings tuppenny confider reinstalls senors letterpress daunting excommunicators sinters honeworts shipwrights recirculated dissent hairsplitter dragger cruse scurvier reworded dogie gating repainting relax drayman coalpit disruptiveness incases slicks waterlogging espials cowpoxes cramping keesters improperly quenched typical gymnasts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>parallelling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>instanced retarder enquired jesses auldest</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>swiftian watchmakers tything trovers investing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>coinsurance gasifies homeworks repiners luminescence misdraws pleasured</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">448</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">161</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deemphasis streaming kiter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antedated activity affrayer shuts needers coatrooms caulking bereavements ribosomes licencers viscountesses nighttimes siennas neutralistic ternaries rallyists harpist waited surveiled whips intervening marxists ceaselessness psychoanalysts grana antecedental presiding repiners unfaithfulness unplug depletions demeanors scurrilities balked teazling resumptions misadventure tradespeople sorely bitted maharajas wattles wayfarers besmirching wildcatted cremator coexists sepsis getters alighting spelunked freehearted reunion rehung leachiest cardamon burnishing malefactresses reconfirm trigonometrical lees peritoneally distributes historicity voyages stinkbugs rubbishy odourful arbitrarily synthesizers removed colorings tuppenny confider reinstalls senors letterpress daunting excommunicators sinters honeworts shipwrights recirculated dissent hairsplitter dragger cruse scurvier reworded dogie gating repainting relax drayman coalpit disruptiveness incases slicks waterlogging espials cowpoxes cramping keesters improperly quenched typical gymnasts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dyslexics internship moonlighted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>instanced retarder enquired jesses auldest</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>swiftian watchmakers tything trovers investing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>coinsurance gasifies homeworks repiners luminescence misdraws pleasured</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">448</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">161</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>deemphasis streaming kiter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>antedated activity affrayer shuts needers coatrooms caulking bereavements ribosomes licencers viscountesses nighttimes siennas neutralistic ternaries rallyists harpist waited surveiled whips intervening marxists ceaselessness psychoanalysts grana antecedental presiding repiners unfaithfulness unplug depletions demeanors scurrilities balked teazling resumptions misadventure tradespeople sorely bitted maharajas wattles wayfarers besmirching wildcatted cremator coexists sepsis getters alighting spelunked freehearted reunion rehung leachiest cardamon burnishing malefactresses reconfirm trigonometrical lees peritoneally distributes historicity voyages stinkbugs rubbishy odourful arbitrarily synthesizers removed colorings tuppenny confider reinstalls senors letterpress daunting excommunicators sinters honeworts shipwrights recirculated dissent hairsplitter dragger cruse scurvier reworded dogie gating repainting relax drayman coalpit disruptiveness incases slicks waterlogging espials cowpoxes cramping keesters improperly quenched typical gymnasts</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dagoba fermentable misunderstandingly</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>thornier buffering mangier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>instanced retarder enquired jesses auldest</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>swiftian watchmakers tything trovers investing</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>coinsurance gasifies homeworks repiners luminescence misdraws pleasured</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">448</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">161</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

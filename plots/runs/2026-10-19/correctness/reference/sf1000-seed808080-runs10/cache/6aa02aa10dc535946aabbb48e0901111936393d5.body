@@ -1,0 +1,779 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>searing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scrabbler stimulatingly forkedly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>homerooms mountebanks</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>worshippers bespattered</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>penknives reabandoned vitalities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>contesting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cubistic cloys righter</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>desiccative tipples</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>irritancy</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>elitists</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>critiques heartthrobs</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>authoritatively beheading</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bewitched</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scrumptiously</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>informs solderer dynamos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>redemonstrating</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>launching tintinnabulation</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pends</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gluts</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>rotated aulder</literal>
+      </binding>
+      <binding name="comment">
+        <literal>cooperage musing stellify preciser capelan spoilers canalizations tunnelers metazoic prioresses purlieus receptionist lexicographically maraschinos pastorals encampment listers infidelity housemaid preaxially sweetsops hexagons duplexed softbound mucilaginously rase pavings timelessly musics tenderloins deepened autopilots noctambulation denouements grapnels elation perjuriously crawdad gongs undercharged segregated chaucerian tokays bedwarf coldness gossiper vanquished triskaidekaphobia logbook wrongfully centre stored vitrioled watersheds unresolved visually upwards strawed filters elites viniest dissuaded protozoans miaows villadoms pestiferous perjuries avowable contingently realms amicably translucency microfilming reshaping rallies strangulates damascenes kyanizing owns</literal>
+      </binding>
+      <binding name="producer">
+        <literal>vizirs shipwright hairstreak</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>spindlier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>photojournalist greenhorns enthrallment nonphysiological holographs chieftaincy</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fragrancy trundling proportionately unfederated versos outvoted douches</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>placentae nappies wonkier finites desoxyribonucleic</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">934</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">811</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>swankily shipyards commences easels drabber fretless hortative</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>flatirons languors butters tarriness rafted lobbyism reloaders intermarriage embarks refereed histolysis marbler shamans</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">680</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

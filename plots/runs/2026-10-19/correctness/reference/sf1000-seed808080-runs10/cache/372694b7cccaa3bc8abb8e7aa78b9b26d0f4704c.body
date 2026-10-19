@@ -1,0 +1,665 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>untruest cutin separated</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sequoias analemmas unsurpassably slanging rickracks amender tendencies empiricist theater inkstand flams vets nymphomaniacal unpitying accusatorial waxiness avianizes parsimoniousness cupcakes enemies viperish novas cytologically gruffer councilors calmed trochee unabashed tokays headlong electrotheraputics bureaus texturing osculations commercialists revenuer excogitates brokerages forgivable parimutuels astrologers paranoiacs inventiveness escudo interposed theocracies dialing whales druidic slimily reenact unthriftily diametrically latitudinally absorbability perfectibility arsenites martially traumata dakoit fluoroscopists serigraphy golem verboseness vanes solipsists upshots kinsmen helotry supplicates barbarious moonshined slurs sniggers exterminating elbowing dehorner eponyms battleships medicably dismisses spathic oxidation docketed grander stupidity sedulously lagoonal holographic constrainer fruitages articulating mescalism deedbox ordains embanked overcareful deflea inevitability deciders herniating slantwise joie shorebirds admirations ambivalently honchos dumdums mispronounce preoccupation cooped noiseless chanteuse simulation pledging decompressive galleon initialized posses menageries fabulist lingoes barbering rejuvenations gouty cajaput reins holdouts cyphered bullnoses selectors compilations prearranging disinfectant haggards inners debased trinitrotoluene strongly hibernal semiserious bicuspids hues valencias sooey</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>rotifers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inhalant egomaniacal eccentrics lowing aconite</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exporters pulsejets staying prolifically adumbrating repiners effloresces</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unsalted sculptresses gally penlight climatological valiancy draper copyist punkest hiccuping aglitter insures</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">602</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>springing messmates arete eardrop darwinists retroaction tempter depositional rockeries combes calls scallopers gulleys obi</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>obscurer gambols discomforted susceptibility castrators reciprocating rewakened terrifying coons sharer closed milestones</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1214</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untruest cutin separated</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sequoias analemmas unsurpassably slanging rickracks amender tendencies empiricist theater inkstand flams vets nymphomaniacal unpitying accusatorial waxiness avianizes parsimoniousness cupcakes enemies viperish novas cytologically gruffer councilors calmed trochee unabashed tokays headlong electrotheraputics bureaus texturing osculations commercialists revenuer excogitates brokerages forgivable parimutuels astrologers paranoiacs inventiveness escudo interposed theocracies dialing whales druidic slimily reenact unthriftily diametrically latitudinally absorbability perfectibility arsenites martially traumata dakoit fluoroscopists serigraphy golem verboseness vanes solipsists upshots kinsmen helotry supplicates barbarious moonshined slurs sniggers exterminating elbowing dehorner eponyms battleships medicably dismisses spathic oxidation docketed grander stupidity sedulously lagoonal holographic constrainer fruitages articulating mescalism deedbox ordains embanked overcareful deflea inevitability deciders herniating slantwise joie shorebirds admirations ambivalently honchos dumdums mispronounce preoccupation cooped noiseless chanteuse simulation pledging decompressive galleon initialized posses menageries fabulist lingoes barbering rejuvenations gouty cajaput reins holdouts cyphered bullnoses selectors compilations prearranging disinfectant haggards inners debased trinitrotoluene strongly hibernal semiserious bicuspids hues valencias sooey</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>amu egos espanoles</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inhalant egomaniacal eccentrics lowing aconite</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exporters pulsejets staying prolifically adumbrating repiners effloresces</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unsalted sculptresses gally penlight climatological valiancy draper copyist punkest hiccuping aglitter insures</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">602</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>springing messmates arete eardrop darwinists retroaction tempter depositional rockeries combes calls scallopers gulleys obi</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>obscurer gambols discomforted susceptibility castrators reciprocating rewakened terrifying coons sharer closed milestones</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1214</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untruest cutin separated</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sequoias analemmas unsurpassably slanging rickracks amender tendencies empiricist theater inkstand flams vets nymphomaniacal unpitying accusatorial waxiness avianizes parsimoniousness cupcakes enemies viperish novas cytologically gruffer councilors calmed trochee unabashed tokays headlong electrotheraputics bureaus texturing osculations commercialists revenuer excogitates brokerages forgivable parimutuels astrologers paranoiacs inventiveness escudo interposed theocracies dialing whales druidic slimily reenact unthriftily diametrically latitudinally absorbability perfectibility arsenites martially traumata dakoit fluoroscopists serigraphy golem verboseness vanes solipsists upshots kinsmen helotry supplicates barbarious moonshined slurs sniggers exterminating elbowing dehorner eponyms battleships medicably dismisses spathic oxidation docketed grander stupidity sedulously lagoonal holographic constrainer fruitages articulating mescalism deedbox ordains embanked overcareful deflea inevitability deciders herniating slantwise joie shorebirds admirations ambivalently honchos dumdums mispronounce preoccupation cooped noiseless chanteuse simulation pledging decompressive galleon initialized posses menageries fabulist lingoes barbering rejuvenations gouty cajaput reins holdouts cyphered bullnoses selectors compilations prearranging disinfectant haggards inners debased trinitrotoluene strongly hibernal semiserious bicuspids hues valencias sooey</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>glaceed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inhalant egomaniacal eccentrics lowing aconite</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exporters pulsejets staying prolifically adumbrating repiners effloresces</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unsalted sculptresses gally penlight climatological valiancy draper copyist punkest hiccuping aglitter insures</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">602</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>springing messmates arete eardrop darwinists retroaction tempter depositional rockeries combes calls scallopers gulleys obi</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>obscurer gambols discomforted susceptibility castrators reciprocating rewakened terrifying coons sharer closed milestones</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1214</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untruest cutin separated</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sequoias analemmas unsurpassably slanging rickracks amender tendencies empiricist theater inkstand flams vets nymphomaniacal unpitying accusatorial waxiness avianizes parsimoniousness cupcakes enemies viperish novas cytologically gruffer councilors calmed trochee unabashed tokays headlong electrotheraputics bureaus texturing osculations commercialists revenuer excogitates brokerages forgivable parimutuels astrologers paranoiacs inventiveness escudo interposed theocracies dialing whales druidic slimily reenact unthriftily diametrically latitudinally absorbability perfectibility arsenites martially traumata dakoit fluoroscopists serigraphy golem verboseness vanes solipsists upshots kinsmen helotry supplicates barbarious moonshined slurs sniggers exterminating elbowing dehorner eponyms battleships medicably dismisses spathic oxidation docketed grander stupidity sedulously lagoonal holographic constrainer fruitages articulating mescalism deedbox ordains embanked overcareful deflea inevitability deciders herniating slantwise joie shorebirds admirations ambivalently honchos dumdums mispronounce preoccupation cooped noiseless chanteuse simulation pledging decompressive galleon initialized posses menageries fabulist lingoes barbering rejuvenations gouty cajaput reins holdouts cyphered bullnoses selectors compilations prearranging disinfectant haggards inners debased trinitrotoluene strongly hibernal semiserious bicuspids hues valencias sooey</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>abortionist seppukus harangues</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inhalant egomaniacal eccentrics lowing aconite</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exporters pulsejets staying prolifically adumbrating repiners effloresces</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unsalted sculptresses gally penlight climatological valiancy draper copyist punkest hiccuping aglitter insures</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">602</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>springing messmates arete eardrop darwinists retroaction tempter depositional rockeries combes calls scallopers gulleys obi</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>obscurer gambols discomforted susceptibility castrators reciprocating rewakened terrifying coons sharer closed milestones</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1214</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untruest cutin separated</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sequoias analemmas unsurpassably slanging rickracks amender tendencies empiricist theater inkstand flams vets nymphomaniacal unpitying accusatorial waxiness avianizes parsimoniousness cupcakes enemies viperish novas cytologically gruffer councilors calmed trochee unabashed tokays headlong electrotheraputics bureaus texturing osculations commercialists revenuer excogitates brokerages forgivable parimutuels astrologers paranoiacs inventiveness escudo interposed theocracies dialing whales druidic slimily reenact unthriftily diametrically latitudinally absorbability perfectibility arsenites martially traumata dakoit fluoroscopists serigraphy golem verboseness vanes solipsists upshots kinsmen helotry supplicates barbarious moonshined slurs sniggers exterminating elbowing dehorner eponyms battleships medicably dismisses spathic oxidation docketed grander stupidity sedulously lagoonal holographic constrainer fruitages articulating mescalism deedbox ordains embanked overcareful deflea inevitability deciders herniating slantwise joie shorebirds admirations ambivalently honchos dumdums mispronounce preoccupation cooped noiseless chanteuse simulation pledging decompressive galleon initialized posses menageries fabulist lingoes barbering rejuvenations gouty cajaput reins holdouts cyphered bullnoses selectors compilations prearranging disinfectant haggards inners debased trinitrotoluene strongly hibernal semiserious bicuspids hues valencias sooey</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>vervain</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inhalant egomaniacal eccentrics lowing aconite</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exporters pulsejets staying prolifically adumbrating repiners effloresces</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unsalted sculptresses gally penlight climatological valiancy draper copyist punkest hiccuping aglitter insures</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">602</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>springing messmates arete eardrop darwinists retroaction tempter depositional rockeries combes calls scallopers gulleys obi</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>obscurer gambols discomforted susceptibility castrators reciprocating rewakened terrifying coons sharer closed milestones</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1214</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untruest cutin separated</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sequoias analemmas unsurpassably slanging rickracks amender tendencies empiricist theater inkstand flams vets nymphomaniacal unpitying accusatorial waxiness avianizes parsimoniousness cupcakes enemies viperish novas cytologically gruffer councilors calmed trochee unabashed tokays headlong electrotheraputics bureaus texturing osculations commercialists revenuer excogitates brokerages forgivable parimutuels astrologers paranoiacs inventiveness escudo interposed theocracies dialing whales druidic slimily reenact unthriftily diametrically latitudinally absorbability perfectibility arsenites martially traumata dakoit fluoroscopists serigraphy golem verboseness vanes solipsists upshots kinsmen helotry supplicates barbarious moonshined slurs sniggers exterminating elbowing dehorner eponyms battleships medicably dismisses spathic oxidation docketed grander stupidity sedulously lagoonal holographic constrainer fruitages articulating mescalism deedbox ordains embanked overcareful deflea inevitability deciders herniating slantwise joie shorebirds admirations ambivalently honchos dumdums mispronounce preoccupation cooped noiseless chanteuse simulation pledging decompressive galleon initialized posses menageries fabulist lingoes barbering rejuvenations gouty cajaput reins holdouts cyphered bullnoses selectors compilations prearranging disinfectant haggards inners debased trinitrotoluene strongly hibernal semiserious bicuspids hues valencias sooey</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tangentiality tipster</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inhalant egomaniacal eccentrics lowing aconite</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exporters pulsejets staying prolifically adumbrating repiners effloresces</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unsalted sculptresses gally penlight climatological valiancy draper copyist punkest hiccuping aglitter insures</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">602</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>springing messmates arete eardrop darwinists retroaction tempter depositional rockeries combes calls scallopers gulleys obi</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>obscurer gambols discomforted susceptibility castrators reciprocating rewakened terrifying coons sharer closed milestones</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1214</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untruest cutin separated</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sequoias analemmas unsurpassably slanging rickracks amender tendencies empiricist theater inkstand flams vets nymphomaniacal unpitying accusatorial waxiness avianizes parsimoniousness cupcakes enemies viperish novas cytologically gruffer councilors calmed trochee unabashed tokays headlong electrotheraputics bureaus texturing osculations commercialists revenuer excogitates brokerages forgivable parimutuels astrologers paranoiacs inventiveness escudo interposed theocracies dialing whales druidic slimily reenact unthriftily diametrically latitudinally absorbability perfectibility arsenites martially traumata dakoit fluoroscopists serigraphy golem verboseness vanes solipsists upshots kinsmen helotry supplicates barbarious moonshined slurs sniggers exterminating elbowing dehorner eponyms battleships medicably dismisses spathic oxidation docketed grander stupidity sedulously lagoonal holographic constrainer fruitages articulating mescalism deedbox ordains embanked overcareful deflea inevitability deciders herniating slantwise joie shorebirds admirations ambivalently honchos dumdums mispronounce preoccupation cooped noiseless chanteuse simulation pledging decompressive galleon initialized posses menageries fabulist lingoes barbering rejuvenations gouty cajaput reins holdouts cyphered bullnoses selectors compilations prearranging disinfectant haggards inners debased trinitrotoluene strongly hibernal semiserious bicuspids hues valencias sooey</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dago flexibly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inhalant egomaniacal eccentrics lowing aconite</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exporters pulsejets staying prolifically adumbrating repiners effloresces</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unsalted sculptresses gally penlight climatological valiancy draper copyist punkest hiccuping aglitter insures</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">602</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>springing messmates arete eardrop darwinists retroaction tempter depositional rockeries combes calls scallopers gulleys obi</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>obscurer gambols discomforted susceptibility castrators reciprocating rewakened terrifying coons sharer closed milestones</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1214</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untruest cutin separated</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sequoias analemmas unsurpassably slanging rickracks amender tendencies empiricist theater inkstand flams vets nymphomaniacal unpitying accusatorial waxiness avianizes parsimoniousness cupcakes enemies viperish novas cytologically gruffer councilors calmed trochee unabashed tokays headlong electrotheraputics bureaus texturing osculations commercialists revenuer excogitates brokerages forgivable parimutuels astrologers paranoiacs inventiveness escudo interposed theocracies dialing whales druidic slimily reenact unthriftily diametrically latitudinally absorbability perfectibility arsenites martially traumata dakoit fluoroscopists serigraphy golem verboseness vanes solipsists upshots kinsmen helotry supplicates barbarious moonshined slurs sniggers exterminating elbowing dehorner eponyms battleships medicably dismisses spathic oxidation docketed grander stupidity sedulously lagoonal holographic constrainer fruitages articulating mescalism deedbox ordains embanked overcareful deflea inevitability deciders herniating slantwise joie shorebirds admirations ambivalently honchos dumdums mispronounce preoccupation cooped noiseless chanteuse simulation pledging decompressive galleon initialized posses menageries fabulist lingoes barbering rejuvenations gouty cajaput reins holdouts cyphered bullnoses selectors compilations prearranging disinfectant haggards inners debased trinitrotoluene strongly hibernal semiserious bicuspids hues valencias sooey</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>manner</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inhalant egomaniacal eccentrics lowing aconite</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exporters pulsejets staying prolifically adumbrating repiners effloresces</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unsalted sculptresses gally penlight climatological valiancy draper copyist punkest hiccuping aglitter insures</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">602</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>springing messmates arete eardrop darwinists retroaction tempter depositional rockeries combes calls scallopers gulleys obi</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>obscurer gambols discomforted susceptibility castrators reciprocating rewakened terrifying coons sharer closed milestones</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1214</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untruest cutin separated</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sequoias analemmas unsurpassably slanging rickracks amender tendencies empiricist theater inkstand flams vets nymphomaniacal unpitying accusatorial waxiness avianizes parsimoniousness cupcakes enemies viperish novas cytologically gruffer councilors calmed trochee unabashed tokays headlong electrotheraputics bureaus texturing osculations commercialists revenuer excogitates brokerages forgivable parimutuels astrologers paranoiacs inventiveness escudo interposed theocracies dialing whales druidic slimily reenact unthriftily diametrically latitudinally absorbability perfectibility arsenites martially traumata dakoit fluoroscopists serigraphy golem verboseness vanes solipsists upshots kinsmen helotry supplicates barbarious moonshined slurs sniggers exterminating elbowing dehorner eponyms battleships medicably dismisses spathic oxidation docketed grander stupidity sedulously lagoonal holographic constrainer fruitages articulating mescalism deedbox ordains embanked overcareful deflea inevitability deciders herniating slantwise joie shorebirds admirations ambivalently honchos dumdums mispronounce preoccupation cooped noiseless chanteuse simulation pledging decompressive galleon initialized posses menageries fabulist lingoes barbering rejuvenations gouty cajaput reins holdouts cyphered bullnoses selectors compilations prearranging disinfectant haggards inners debased trinitrotoluene strongly hibernal semiserious bicuspids hues valencias sooey</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gatemen</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inhalant egomaniacal eccentrics lowing aconite</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exporters pulsejets staying prolifically adumbrating repiners effloresces</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unsalted sculptresses gally penlight climatological valiancy draper copyist punkest hiccuping aglitter insures</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">602</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>springing messmates arete eardrop darwinists retroaction tempter depositional rockeries combes calls scallopers gulleys obi</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>obscurer gambols discomforted susceptibility castrators reciprocating rewakened terrifying coons sharer closed milestones</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1214</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untruest cutin separated</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sequoias analemmas unsurpassably slanging rickracks amender tendencies empiricist theater inkstand flams vets nymphomaniacal unpitying accusatorial waxiness avianizes parsimoniousness cupcakes enemies viperish novas cytologically gruffer councilors calmed trochee unabashed tokays headlong electrotheraputics bureaus texturing osculations commercialists revenuer excogitates brokerages forgivable parimutuels astrologers paranoiacs inventiveness escudo interposed theocracies dialing whales druidic slimily reenact unthriftily diametrically latitudinally absorbability perfectibility arsenites martially traumata dakoit fluoroscopists serigraphy golem verboseness vanes solipsists upshots kinsmen helotry supplicates barbarious moonshined slurs sniggers exterminating elbowing dehorner eponyms battleships medicably dismisses spathic oxidation docketed grander stupidity sedulously lagoonal holographic constrainer fruitages articulating mescalism deedbox ordains embanked overcareful deflea inevitability deciders herniating slantwise joie shorebirds admirations ambivalently honchos dumdums mispronounce preoccupation cooped noiseless chanteuse simulation pledging decompressive galleon initialized posses menageries fabulist lingoes barbering rejuvenations gouty cajaput reins holdouts cyphered bullnoses selectors compilations prearranging disinfectant haggards inners debased trinitrotoluene strongly hibernal semiserious bicuspids hues valencias sooey</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>reexhibit</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inhalant egomaniacal eccentrics lowing aconite</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exporters pulsejets staying prolifically adumbrating repiners effloresces</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unsalted sculptresses gally penlight climatological valiancy draper copyist punkest hiccuping aglitter insures</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">602</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>springing messmates arete eardrop darwinists retroaction tempter depositional rockeries combes calls scallopers gulleys obi</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>obscurer gambols discomforted susceptibility castrators reciprocating rewakened terrifying coons sharer closed milestones</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1214</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untruest cutin separated</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sequoias analemmas unsurpassably slanging rickracks amender tendencies empiricist theater inkstand flams vets nymphomaniacal unpitying accusatorial waxiness avianizes parsimoniousness cupcakes enemies viperish novas cytologically gruffer councilors calmed trochee unabashed tokays headlong electrotheraputics bureaus texturing osculations commercialists revenuer excogitates brokerages forgivable parimutuels astrologers paranoiacs inventiveness escudo interposed theocracies dialing whales druidic slimily reenact unthriftily diametrically latitudinally absorbability perfectibility arsenites martially traumata dakoit fluoroscopists serigraphy golem verboseness vanes solipsists upshots kinsmen helotry supplicates barbarious moonshined slurs sniggers exterminating elbowing dehorner eponyms battleships medicably dismisses spathic oxidation docketed grander stupidity sedulously lagoonal holographic constrainer fruitages articulating mescalism deedbox ordains embanked overcareful deflea inevitability deciders herniating slantwise joie shorebirds admirations ambivalently honchos dumdums mispronounce preoccupation cooped noiseless chanteuse simulation pledging decompressive galleon initialized posses menageries fabulist lingoes barbering rejuvenations gouty cajaput reins holdouts cyphered bullnoses selectors compilations prearranging disinfectant haggards inners debased trinitrotoluene strongly hibernal semiserious bicuspids hues valencias sooey</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>catamount</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inhalant egomaniacal eccentrics lowing aconite</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exporters pulsejets staying prolifically adumbrating repiners effloresces</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unsalted sculptresses gally penlight climatological valiancy draper copyist punkest hiccuping aglitter insures</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">602</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>springing messmates arete eardrop darwinists retroaction tempter depositional rockeries combes calls scallopers gulleys obi</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>obscurer gambols discomforted susceptibility castrators reciprocating rewakened terrifying coons sharer closed milestones</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1214</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untruest cutin separated</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sequoias analemmas unsurpassably slanging rickracks amender tendencies empiricist theater inkstand flams vets nymphomaniacal unpitying accusatorial waxiness avianizes parsimoniousness cupcakes enemies viperish novas cytologically gruffer councilors calmed trochee unabashed tokays headlong electrotheraputics bureaus texturing osculations commercialists revenuer excogitates brokerages forgivable parimutuels astrologers paranoiacs inventiveness escudo interposed theocracies dialing whales druidic slimily reenact unthriftily diametrically latitudinally absorbability perfectibility arsenites martially traumata dakoit fluoroscopists serigraphy golem verboseness vanes solipsists upshots kinsmen helotry supplicates barbarious moonshined slurs sniggers exterminating elbowing dehorner eponyms battleships medicably dismisses spathic oxidation docketed grander stupidity sedulously lagoonal holographic constrainer fruitages articulating mescalism deedbox ordains embanked overcareful deflea inevitability deciders herniating slantwise joie shorebirds admirations ambivalently honchos dumdums mispronounce preoccupation cooped noiseless chanteuse simulation pledging decompressive galleon initialized posses menageries fabulist lingoes barbering rejuvenations gouty cajaput reins holdouts cyphered bullnoses selectors compilations prearranging disinfectant haggards inners debased trinitrotoluene strongly hibernal semiserious bicuspids hues valencias sooey</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ciphering peccable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inhalant egomaniacal eccentrics lowing aconite</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exporters pulsejets staying prolifically adumbrating repiners effloresces</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unsalted sculptresses gally penlight climatological valiancy draper copyist punkest hiccuping aglitter insures</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">602</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>springing messmates arete eardrop darwinists retroaction tempter depositional rockeries combes calls scallopers gulleys obi</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>obscurer gambols discomforted susceptibility castrators reciprocating rewakened terrifying coons sharer closed milestones</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1214</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untruest cutin separated</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sequoias analemmas unsurpassably slanging rickracks amender tendencies empiricist theater inkstand flams vets nymphomaniacal unpitying accusatorial waxiness avianizes parsimoniousness cupcakes enemies viperish novas cytologically gruffer councilors calmed trochee unabashed tokays headlong electrotheraputics bureaus texturing osculations commercialists revenuer excogitates brokerages forgivable parimutuels astrologers paranoiacs inventiveness escudo interposed theocracies dialing whales druidic slimily reenact unthriftily diametrically latitudinally absorbability perfectibility arsenites martially traumata dakoit fluoroscopists serigraphy golem verboseness vanes solipsists upshots kinsmen helotry supplicates barbarious moonshined slurs sniggers exterminating elbowing dehorner eponyms battleships medicably dismisses spathic oxidation docketed grander stupidity sedulously lagoonal holographic constrainer fruitages articulating mescalism deedbox ordains embanked overcareful deflea inevitability deciders herniating slantwise joie shorebirds admirations ambivalently honchos dumdums mispronounce preoccupation cooped noiseless chanteuse simulation pledging decompressive galleon initialized posses menageries fabulist lingoes barbering rejuvenations gouty cajaput reins holdouts cyphered bullnoses selectors compilations prearranging disinfectant haggards inners debased trinitrotoluene strongly hibernal semiserious bicuspids hues valencias sooey</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>preconcession</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inhalant egomaniacal eccentrics lowing aconite</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exporters pulsejets staying prolifically adumbrating repiners effloresces</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unsalted sculptresses gally penlight climatological valiancy draper copyist punkest hiccuping aglitter insures</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">602</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>springing messmates arete eardrop darwinists retroaction tempter depositional rockeries combes calls scallopers gulleys obi</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>obscurer gambols discomforted susceptibility castrators reciprocating rewakened terrifying coons sharer closed milestones</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1214</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untruest cutin separated</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sequoias analemmas unsurpassably slanging rickracks amender tendencies empiricist theater inkstand flams vets nymphomaniacal unpitying accusatorial waxiness avianizes parsimoniousness cupcakes enemies viperish novas cytologically gruffer councilors calmed trochee unabashed tokays headlong electrotheraputics bureaus texturing osculations commercialists revenuer excogitates brokerages forgivable parimutuels astrologers paranoiacs inventiveness escudo interposed theocracies dialing whales druidic slimily reenact unthriftily diametrically latitudinally absorbability perfectibility arsenites martially traumata dakoit fluoroscopists serigraphy golem verboseness vanes solipsists upshots kinsmen helotry supplicates barbarious moonshined slurs sniggers exterminating elbowing dehorner eponyms battleships medicably dismisses spathic oxidation docketed grander stupidity sedulously lagoonal holographic constrainer fruitages articulating mescalism deedbox ordains embanked overcareful deflea inevitability deciders herniating slantwise joie shorebirds admirations ambivalently honchos dumdums mispronounce preoccupation cooped noiseless chanteuse simulation pledging decompressive galleon initialized posses menageries fabulist lingoes barbering rejuvenations gouty cajaput reins holdouts cyphered bullnoses selectors compilations prearranging disinfectant haggards inners debased trinitrotoluene strongly hibernal semiserious bicuspids hues valencias sooey</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>moisturize</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inhalant egomaniacal eccentrics lowing aconite</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exporters pulsejets staying prolifically adumbrating repiners effloresces</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unsalted sculptresses gally penlight climatological valiancy draper copyist punkest hiccuping aglitter insures</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">602</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>springing messmates arete eardrop darwinists retroaction tempter depositional rockeries combes calls scallopers gulleys obi</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>obscurer gambols discomforted susceptibility castrators reciprocating rewakened terrifying coons sharer closed milestones</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1214</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untruest cutin separated</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sequoias analemmas unsurpassably slanging rickracks amender tendencies empiricist theater inkstand flams vets nymphomaniacal unpitying accusatorial waxiness avianizes parsimoniousness cupcakes enemies viperish novas cytologically gruffer councilors calmed trochee unabashed tokays headlong electrotheraputics bureaus texturing osculations commercialists revenuer excogitates brokerages forgivable parimutuels astrologers paranoiacs inventiveness escudo interposed theocracies dialing whales druidic slimily reenact unthriftily diametrically latitudinally absorbability perfectibility arsenites martially traumata dakoit fluoroscopists serigraphy golem verboseness vanes solipsists upshots kinsmen helotry supplicates barbarious moonshined slurs sniggers exterminating elbowing dehorner eponyms battleships medicably dismisses spathic oxidation docketed grander stupidity sedulously lagoonal holographic constrainer fruitages articulating mescalism deedbox ordains embanked overcareful deflea inevitability deciders herniating slantwise joie shorebirds admirations ambivalently honchos dumdums mispronounce preoccupation cooped noiseless chanteuse simulation pledging decompressive galleon initialized posses menageries fabulist lingoes barbering rejuvenations gouty cajaput reins holdouts cyphered bullnoses selectors compilations prearranging disinfectant haggards inners debased trinitrotoluene strongly hibernal semiserious bicuspids hues valencias sooey</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>glowing donnas</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inhalant egomaniacal eccentrics lowing aconite</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exporters pulsejets staying prolifically adumbrating repiners effloresces</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unsalted sculptresses gally penlight climatological valiancy draper copyist punkest hiccuping aglitter insures</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">602</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>springing messmates arete eardrop darwinists retroaction tempter depositional rockeries combes calls scallopers gulleys obi</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>obscurer gambols discomforted susceptibility castrators reciprocating rewakened terrifying coons sharer closed milestones</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1214</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untruest cutin separated</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sequoias analemmas unsurpassably slanging rickracks amender tendencies empiricist theater inkstand flams vets nymphomaniacal unpitying accusatorial waxiness avianizes parsimoniousness cupcakes enemies viperish novas cytologically gruffer councilors calmed trochee unabashed tokays headlong electrotheraputics bureaus texturing osculations commercialists revenuer excogitates brokerages forgivable parimutuels astrologers paranoiacs inventiveness escudo interposed theocracies dialing whales druidic slimily reenact unthriftily diametrically latitudinally absorbability perfectibility arsenites martially traumata dakoit fluoroscopists serigraphy golem verboseness vanes solipsists upshots kinsmen helotry supplicates barbarious moonshined slurs sniggers exterminating elbowing dehorner eponyms battleships medicably dismisses spathic oxidation docketed grander stupidity sedulously lagoonal holographic constrainer fruitages articulating mescalism deedbox ordains embanked overcareful deflea inevitability deciders herniating slantwise joie shorebirds admirations ambivalently honchos dumdums mispronounce preoccupation cooped noiseless chanteuse simulation pledging decompressive galleon initialized posses menageries fabulist lingoes barbering rejuvenations gouty cajaput reins holdouts cyphered bullnoses selectors compilations prearranging disinfectant haggards inners debased trinitrotoluene strongly hibernal semiserious bicuspids hues valencias sooey</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>confusing maltreats pesky</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inhalant egomaniacal eccentrics lowing aconite</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exporters pulsejets staying prolifically adumbrating repiners effloresces</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unsalted sculptresses gally penlight climatological valiancy draper copyist punkest hiccuping aglitter insures</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">602</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>springing messmates arete eardrop darwinists retroaction tempter depositional rockeries combes calls scallopers gulleys obi</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>obscurer gambols discomforted susceptibility castrators reciprocating rewakened terrifying coons sharer closed milestones</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1214</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>untruest cutin separated</literal>
+      </binding>
+      <binding name="comment">
+        <literal>sequoias analemmas unsurpassably slanging rickracks amender tendencies empiricist theater inkstand flams vets nymphomaniacal unpitying accusatorial waxiness avianizes parsimoniousness cupcakes enemies viperish novas cytologically gruffer councilors calmed trochee unabashed tokays headlong electrotheraputics bureaus texturing osculations commercialists revenuer excogitates brokerages forgivable parimutuels astrologers paranoiacs inventiveness escudo interposed theocracies dialing whales druidic slimily reenact unthriftily diametrically latitudinally absorbability perfectibility arsenites martially traumata dakoit fluoroscopists serigraphy golem verboseness vanes solipsists upshots kinsmen helotry supplicates barbarious moonshined slurs sniggers exterminating elbowing dehorner eponyms battleships medicably dismisses spathic oxidation docketed grander stupidity sedulously lagoonal holographic constrainer fruitages articulating mescalism deedbox ordains embanked overcareful deflea inevitability deciders herniating slantwise joie shorebirds admirations ambivalently honchos dumdums mispronounce preoccupation cooped noiseless chanteuse simulation pledging decompressive galleon initialized posses menageries fabulist lingoes barbering rejuvenations gouty cajaput reins holdouts cyphered bullnoses selectors compilations prearranging disinfectant haggards inners debased trinitrotoluene strongly hibernal semiserious bicuspids hues valencias sooey</literal>
+      </binding>
+      <binding name="producer">
+        <literal>flams eternise barite</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>kwachas impracticalities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>inhalant egomaniacal eccentrics lowing aconite</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>exporters pulsejets staying prolifically adumbrating repiners effloresces</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unsalted sculptresses gally penlight climatological valiancy draper copyist punkest hiccuping aglitter insures</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">99</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">602</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>springing messmates arete eardrop darwinists retroaction tempter depositional rockeries combes calls scallopers gulleys obi</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>obscurer gambols discomforted susceptibility castrators reciprocating rewakened terrifying coons sharer closed milestones</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1214</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

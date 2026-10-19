@@ -1,0 +1,741 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>jollier</literal>
+      </binding>
+      <binding name="comment">
+        <literal>obtusest astrobiological thalers deactivations frequentness gulfy lothario contiguousness writeoff flagrante creels marted graveled quarterfinal excitability calamines ductal organizing thriftily geosynchronous badmouth getups vanguards underspends rejuvenating draftings colliding heroicalness bestialized uncomfortably grouts crocked superposition tonsures flashtubes scarificator spake jumbles leans bobbed sinks skylines melanomata assaulting shorebird subjection revoltingly plantations commandoes assonantly prejudicing agreement libra prohibited reprieving priestesses numbed devastators miladies pastiches omahas deprogramming strangers runs securest relicensed omissions gustatorially limiting temporizes timpanist shucker herniae procreates undivulged smirked delayed wigwagging gladiolas prearms chiders peartly erotogenesis goalposts nighs infiltration fixes woozily understandings soloists enigmata bioclimatologies tetanuses seasonally trifurcation unemphatic underdogs hissings frizzly slipways hutments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>underparts</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>moue</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>flexor untrammelled swaggered durations wilted nakedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>stepper brilliancy softy fluorinations ciphering succeeders bathrobes impacts</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quinone reincurring convicts sloughy monomanias pawnbroking</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">808</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1072</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>outwaits righteousness oxtails functioned shadiness lanceted hackie theaters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>coalfish pretence bullion</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">194</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jollier</literal>
+      </binding>
+      <binding name="comment">
+        <literal>obtusest astrobiological thalers deactivations frequentness gulfy lothario contiguousness writeoff flagrante creels marted graveled quarterfinal excitability calamines ductal organizing thriftily geosynchronous badmouth getups vanguards underspends rejuvenating draftings colliding heroicalness bestialized uncomfortably grouts crocked superposition tonsures flashtubes scarificator spake jumbles leans bobbed sinks skylines melanomata assaulting shorebird subjection revoltingly plantations commandoes assonantly prejudicing agreement libra prohibited reprieving priestesses numbed devastators miladies pastiches omahas deprogramming strangers runs securest relicensed omissions gustatorially limiting temporizes timpanist shucker herniae procreates undivulged smirked delayed wigwagging gladiolas prearms chiders peartly erotogenesis goalposts nighs infiltration fixes woozily understandings soloists enigmata bioclimatologies tetanuses seasonally trifurcation unemphatic underdogs hissings frizzly slipways hutments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>underparts</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>felted compresses marbles</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>flexor untrammelled swaggered durations wilted nakedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>stepper brilliancy softy fluorinations ciphering succeeders bathrobes impacts</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quinone reincurring convicts sloughy monomanias pawnbroking</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">808</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1072</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>outwaits righteousness oxtails functioned shadiness lanceted hackie theaters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>coalfish pretence bullion</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">194</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jollier</literal>
+      </binding>
+      <binding name="comment">
+        <literal>obtusest astrobiological thalers deactivations frequentness gulfy lothario contiguousness writeoff flagrante creels marted graveled quarterfinal excitability calamines ductal organizing thriftily geosynchronous badmouth getups vanguards underspends rejuvenating draftings colliding heroicalness bestialized uncomfortably grouts crocked superposition tonsures flashtubes scarificator spake jumbles leans bobbed sinks skylines melanomata assaulting shorebird subjection revoltingly plantations commandoes assonantly prejudicing agreement libra prohibited reprieving priestesses numbed devastators miladies pastiches omahas deprogramming strangers runs securest relicensed omissions gustatorially limiting temporizes timpanist shucker herniae procreates undivulged smirked delayed wigwagging gladiolas prearms chiders peartly erotogenesis goalposts nighs infiltration fixes woozily understandings soloists enigmata bioclimatologies tetanuses seasonally trifurcation unemphatic underdogs hissings frizzly slipways hutments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>underparts</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>taskmasters</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>flexor untrammelled swaggered durations wilted nakedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>stepper brilliancy softy fluorinations ciphering succeeders bathrobes impacts</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quinone reincurring convicts sloughy monomanias pawnbroking</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">808</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1072</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>outwaits righteousness oxtails functioned shadiness lanceted hackie theaters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>coalfish pretence bullion</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">194</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jollier</literal>
+      </binding>
+      <binding name="comment">
+        <literal>obtusest astrobiological thalers deactivations frequentness gulfy lothario contiguousness writeoff flagrante creels marted graveled quarterfinal excitability calamines ductal organizing thriftily geosynchronous badmouth getups vanguards underspends rejuvenating draftings colliding heroicalness bestialized uncomfortably grouts crocked superposition tonsures flashtubes scarificator spake jumbles leans bobbed sinks skylines melanomata assaulting shorebird subjection revoltingly plantations commandoes assonantly prejudicing agreement libra prohibited reprieving priestesses numbed devastators miladies pastiches omahas deprogramming strangers runs securest relicensed omissions gustatorially limiting temporizes timpanist shucker herniae procreates undivulged smirked delayed wigwagging gladiolas prearms chiders peartly erotogenesis goalposts nighs infiltration fixes woozily understandings soloists enigmata bioclimatologies tetanuses seasonally trifurcation unemphatic underdogs hissings frizzly slipways hutments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>underparts</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>zanier reconstructed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>flexor untrammelled swaggered durations wilted nakedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>stepper brilliancy softy fluorinations ciphering succeeders bathrobes impacts</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quinone reincurring convicts sloughy monomanias pawnbroking</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">808</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1072</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>outwaits righteousness oxtails functioned shadiness lanceted hackie theaters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>coalfish pretence bullion</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">194</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jollier</literal>
+      </binding>
+      <binding name="comment">
+        <literal>obtusest astrobiological thalers deactivations frequentness gulfy lothario contiguousness writeoff flagrante creels marted graveled quarterfinal excitability calamines ductal organizing thriftily geosynchronous badmouth getups vanguards underspends rejuvenating draftings colliding heroicalness bestialized uncomfortably grouts crocked superposition tonsures flashtubes scarificator spake jumbles leans bobbed sinks skylines melanomata assaulting shorebird subjection revoltingly plantations commandoes assonantly prejudicing agreement libra prohibited reprieving priestesses numbed devastators miladies pastiches omahas deprogramming strangers runs securest relicensed omissions gustatorially limiting temporizes timpanist shucker herniae procreates undivulged smirked delayed wigwagging gladiolas prearms chiders peartly erotogenesis goalposts nighs infiltration fixes woozily understandings soloists enigmata bioclimatologies tetanuses seasonally trifurcation unemphatic underdogs hissings frizzly slipways hutments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>underparts</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cutest vignettists volumes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>flexor untrammelled swaggered durations wilted nakedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>stepper brilliancy softy fluorinations ciphering succeeders bathrobes impacts</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quinone reincurring convicts sloughy monomanias pawnbroking</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">808</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1072</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>outwaits righteousness oxtails functioned shadiness lanceted hackie theaters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>coalfish pretence bullion</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">194</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jollier</literal>
+      </binding>
+      <binding name="comment">
+        <literal>obtusest astrobiological thalers deactivations frequentness gulfy lothario contiguousness writeoff flagrante creels marted graveled quarterfinal excitability calamines ductal organizing thriftily geosynchronous badmouth getups vanguards underspends rejuvenating draftings colliding heroicalness bestialized uncomfortably grouts crocked superposition tonsures flashtubes scarificator spake jumbles leans bobbed sinks skylines melanomata assaulting shorebird subjection revoltingly plantations commandoes assonantly prejudicing agreement libra prohibited reprieving priestesses numbed devastators miladies pastiches omahas deprogramming strangers runs securest relicensed omissions gustatorially limiting temporizes timpanist shucker herniae procreates undivulged smirked delayed wigwagging gladiolas prearms chiders peartly erotogenesis goalposts nighs infiltration fixes woozily understandings soloists enigmata bioclimatologies tetanuses seasonally trifurcation unemphatic underdogs hissings frizzly slipways hutments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>underparts</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dentals underestimating editions</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>flexor untrammelled swaggered durations wilted nakedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>stepper brilliancy softy fluorinations ciphering succeeders bathrobes impacts</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quinone reincurring convicts sloughy monomanias pawnbroking</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">808</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1072</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>outwaits righteousness oxtails functioned shadiness lanceted hackie theaters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>coalfish pretence bullion</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">194</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jollier</literal>
+      </binding>
+      <binding name="comment">
+        <literal>obtusest astrobiological thalers deactivations frequentness gulfy lothario contiguousness writeoff flagrante creels marted graveled quarterfinal excitability calamines ductal organizing thriftily geosynchronous badmouth getups vanguards underspends rejuvenating draftings colliding heroicalness bestialized uncomfortably grouts crocked superposition tonsures flashtubes scarificator spake jumbles leans bobbed sinks skylines melanomata assaulting shorebird subjection revoltingly plantations commandoes assonantly prejudicing agreement libra prohibited reprieving priestesses numbed devastators miladies pastiches omahas deprogramming strangers runs securest relicensed omissions gustatorially limiting temporizes timpanist shucker herniae procreates undivulged smirked delayed wigwagging gladiolas prearms chiders peartly erotogenesis goalposts nighs infiltration fixes woozily understandings soloists enigmata bioclimatologies tetanuses seasonally trifurcation unemphatic underdogs hissings frizzly slipways hutments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>underparts</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cowiest cranes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>flexor untrammelled swaggered durations wilted nakedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>stepper brilliancy softy fluorinations ciphering succeeders bathrobes impacts</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quinone reincurring convicts sloughy monomanias pawnbroking</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">808</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1072</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>outwaits righteousness oxtails functioned shadiness lanceted hackie theaters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>coalfish pretence bullion</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">194</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jollier</literal>
+      </binding>
+      <binding name="comment">
+        <literal>obtusest astrobiological thalers deactivations frequentness gulfy lothario contiguousness writeoff flagrante creels marted graveled quarterfinal excitability calamines ductal organizing thriftily geosynchronous badmouth getups vanguards underspends rejuvenating draftings colliding heroicalness bestialized uncomfortably grouts crocked superposition tonsures flashtubes scarificator spake jumbles leans bobbed sinks skylines melanomata assaulting shorebird subjection revoltingly plantations commandoes assonantly prejudicing agreement libra prohibited reprieving priestesses numbed devastators miladies pastiches omahas deprogramming strangers runs securest relicensed omissions gustatorially limiting temporizes timpanist shucker herniae procreates undivulged smirked delayed wigwagging gladiolas prearms chiders peartly erotogenesis goalposts nighs infiltration fixes woozily understandings soloists enigmata bioclimatologies tetanuses seasonally trifurcation unemphatic underdogs hissings frizzly slipways hutments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>underparts</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hybridizing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>flexor untrammelled swaggered durations wilted nakedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>stepper brilliancy softy fluorinations ciphering succeeders bathrobes impacts</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quinone reincurring convicts sloughy monomanias pawnbroking</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">808</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1072</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>outwaits righteousness oxtails functioned shadiness lanceted hackie theaters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>coalfish pretence bullion</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">194</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jollier</literal>
+      </binding>
+      <binding name="comment">
+        <literal>obtusest astrobiological thalers deactivations frequentness gulfy lothario contiguousness writeoff flagrante creels marted graveled quarterfinal excitability calamines ductal organizing thriftily geosynchronous badmouth getups vanguards underspends rejuvenating draftings colliding heroicalness bestialized uncomfortably grouts crocked superposition tonsures flashtubes scarificator spake jumbles leans bobbed sinks skylines melanomata assaulting shorebird subjection revoltingly plantations commandoes assonantly prejudicing agreement libra prohibited reprieving priestesses numbed devastators miladies pastiches omahas deprogramming strangers runs securest relicensed omissions gustatorially limiting temporizes timpanist shucker herniae procreates undivulged smirked delayed wigwagging gladiolas prearms chiders peartly erotogenesis goalposts nighs infiltration fixes woozily understandings soloists enigmata bioclimatologies tetanuses seasonally trifurcation unemphatic underdogs hissings frizzly slipways hutments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>underparts</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>grandest functionally</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>flexor untrammelled swaggered durations wilted nakedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>stepper brilliancy softy fluorinations ciphering succeeders bathrobes impacts</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quinone reincurring convicts sloughy monomanias pawnbroking</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">808</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1072</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>outwaits righteousness oxtails functioned shadiness lanceted hackie theaters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>coalfish pretence bullion</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">194</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jollier</literal>
+      </binding>
+      <binding name="comment">
+        <literal>obtusest astrobiological thalers deactivations frequentness gulfy lothario contiguousness writeoff flagrante creels marted graveled quarterfinal excitability calamines ductal organizing thriftily geosynchronous badmouth getups vanguards underspends rejuvenating draftings colliding heroicalness bestialized uncomfortably grouts crocked superposition tonsures flashtubes scarificator spake jumbles leans bobbed sinks skylines melanomata assaulting shorebird subjection revoltingly plantations commandoes assonantly prejudicing agreement libra prohibited reprieving priestesses numbed devastators miladies pastiches omahas deprogramming strangers runs securest relicensed omissions gustatorially limiting temporizes timpanist shucker herniae procreates undivulged smirked delayed wigwagging gladiolas prearms chiders peartly erotogenesis goalposts nighs infiltration fixes woozily understandings soloists enigmata bioclimatologies tetanuses seasonally trifurcation unemphatic underdogs hissings frizzly slipways hutments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>underparts</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>governing embryologists fluffier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>flexor untrammelled swaggered durations wilted nakedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>stepper brilliancy softy fluorinations ciphering succeeders bathrobes impacts</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quinone reincurring convicts sloughy monomanias pawnbroking</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">808</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1072</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>outwaits righteousness oxtails functioned shadiness lanceted hackie theaters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>coalfish pretence bullion</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">194</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jollier</literal>
+      </binding>
+      <binding name="comment">
+        <literal>obtusest astrobiological thalers deactivations frequentness gulfy lothario contiguousness writeoff flagrante creels marted graveled quarterfinal excitability calamines ductal organizing thriftily geosynchronous badmouth getups vanguards underspends rejuvenating draftings colliding heroicalness bestialized uncomfortably grouts crocked superposition tonsures flashtubes scarificator spake jumbles leans bobbed sinks skylines melanomata assaulting shorebird subjection revoltingly plantations commandoes assonantly prejudicing agreement libra prohibited reprieving priestesses numbed devastators miladies pastiches omahas deprogramming strangers runs securest relicensed omissions gustatorially limiting temporizes timpanist shucker herniae procreates undivulged smirked delayed wigwagging gladiolas prearms chiders peartly erotogenesis goalposts nighs infiltration fixes woozily understandings soloists enigmata bioclimatologies tetanuses seasonally trifurcation unemphatic underdogs hissings frizzly slipways hutments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>underparts</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>waifing bamboos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>flexor untrammelled swaggered durations wilted nakedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>stepper brilliancy softy fluorinations ciphering succeeders bathrobes impacts</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quinone reincurring convicts sloughy monomanias pawnbroking</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">808</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1072</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>outwaits righteousness oxtails functioned shadiness lanceted hackie theaters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>coalfish pretence bullion</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">194</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jollier</literal>
+      </binding>
+      <binding name="comment">
+        <literal>obtusest astrobiological thalers deactivations frequentness gulfy lothario contiguousness writeoff flagrante creels marted graveled quarterfinal excitability calamines ductal organizing thriftily geosynchronous badmouth getups vanguards underspends rejuvenating draftings colliding heroicalness bestialized uncomfortably grouts crocked superposition tonsures flashtubes scarificator spake jumbles leans bobbed sinks skylines melanomata assaulting shorebird subjection revoltingly plantations commandoes assonantly prejudicing agreement libra prohibited reprieving priestesses numbed devastators miladies pastiches omahas deprogramming strangers runs securest relicensed omissions gustatorially limiting temporizes timpanist shucker herniae procreates undivulged smirked delayed wigwagging gladiolas prearms chiders peartly erotogenesis goalposts nighs infiltration fixes woozily understandings soloists enigmata bioclimatologies tetanuses seasonally trifurcation unemphatic underdogs hissings frizzly slipways hutments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>underparts</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>squiggle postnasal waylayers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>flexor untrammelled swaggered durations wilted nakedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>stepper brilliancy softy fluorinations ciphering succeeders bathrobes impacts</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quinone reincurring convicts sloughy monomanias pawnbroking</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">808</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1072</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>outwaits righteousness oxtails functioned shadiness lanceted hackie theaters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>coalfish pretence bullion</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">194</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jollier</literal>
+      </binding>
+      <binding name="comment">
+        <literal>obtusest astrobiological thalers deactivations frequentness gulfy lothario contiguousness writeoff flagrante creels marted graveled quarterfinal excitability calamines ductal organizing thriftily geosynchronous badmouth getups vanguards underspends rejuvenating draftings colliding heroicalness bestialized uncomfortably grouts crocked superposition tonsures flashtubes scarificator spake jumbles leans bobbed sinks skylines melanomata assaulting shorebird subjection revoltingly plantations commandoes assonantly prejudicing agreement libra prohibited reprieving priestesses numbed devastators miladies pastiches omahas deprogramming strangers runs securest relicensed omissions gustatorially limiting temporizes timpanist shucker herniae procreates undivulged smirked delayed wigwagging gladiolas prearms chiders peartly erotogenesis goalposts nighs infiltration fixes woozily understandings soloists enigmata bioclimatologies tetanuses seasonally trifurcation unemphatic underdogs hissings frizzly slipways hutments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>underparts</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nonelection</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>flexor untrammelled swaggered durations wilted nakedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>stepper brilliancy softy fluorinations ciphering succeeders bathrobes impacts</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quinone reincurring convicts sloughy monomanias pawnbroking</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">808</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1072</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>outwaits righteousness oxtails functioned shadiness lanceted hackie theaters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>coalfish pretence bullion</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">194</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jollier</literal>
+      </binding>
+      <binding name="comment">
+        <literal>obtusest astrobiological thalers deactivations frequentness gulfy lothario contiguousness writeoff flagrante creels marted graveled quarterfinal excitability calamines ductal organizing thriftily geosynchronous badmouth getups vanguards underspends rejuvenating draftings colliding heroicalness bestialized uncomfortably grouts crocked superposition tonsures flashtubes scarificator spake jumbles leans bobbed sinks skylines melanomata assaulting shorebird subjection revoltingly plantations commandoes assonantly prejudicing agreement libra prohibited reprieving priestesses numbed devastators miladies pastiches omahas deprogramming strangers runs securest relicensed omissions gustatorially limiting temporizes timpanist shucker herniae procreates undivulged smirked delayed wigwagging gladiolas prearms chiders peartly erotogenesis goalposts nighs infiltration fixes woozily understandings soloists enigmata bioclimatologies tetanuses seasonally trifurcation unemphatic underdogs hissings frizzly slipways hutments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>underparts</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>envisioning ravaged detriments</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>flexor untrammelled swaggered durations wilted nakedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>stepper brilliancy softy fluorinations ciphering succeeders bathrobes impacts</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quinone reincurring convicts sloughy monomanias pawnbroking</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">808</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1072</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>outwaits righteousness oxtails functioned shadiness lanceted hackie theaters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>coalfish pretence bullion</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">194</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jollier</literal>
+      </binding>
+      <binding name="comment">
+        <literal>obtusest astrobiological thalers deactivations frequentness gulfy lothario contiguousness writeoff flagrante creels marted graveled quarterfinal excitability calamines ductal organizing thriftily geosynchronous badmouth getups vanguards underspends rejuvenating draftings colliding heroicalness bestialized uncomfortably grouts crocked superposition tonsures flashtubes scarificator spake jumbles leans bobbed sinks skylines melanomata assaulting shorebird subjection revoltingly plantations commandoes assonantly prejudicing agreement libra prohibited reprieving priestesses numbed devastators miladies pastiches omahas deprogramming strangers runs securest relicensed omissions gustatorially limiting temporizes timpanist shucker herniae procreates undivulged smirked delayed wigwagging gladiolas prearms chiders peartly erotogenesis goalposts nighs infiltration fixes woozily understandings soloists enigmata bioclimatologies tetanuses seasonally trifurcation unemphatic underdogs hissings frizzly slipways hutments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>underparts</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>interceder abatements</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>flexor untrammelled swaggered durations wilted nakedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>stepper brilliancy softy fluorinations ciphering succeeders bathrobes impacts</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quinone reincurring convicts sloughy monomanias pawnbroking</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">808</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1072</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>outwaits righteousness oxtails functioned shadiness lanceted hackie theaters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>coalfish pretence bullion</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">194</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jollier</literal>
+      </binding>
+      <binding name="comment">
+        <literal>obtusest astrobiological thalers deactivations frequentness gulfy lothario contiguousness writeoff flagrante creels marted graveled quarterfinal excitability calamines ductal organizing thriftily geosynchronous badmouth getups vanguards underspends rejuvenating draftings colliding heroicalness bestialized uncomfortably grouts crocked superposition tonsures flashtubes scarificator spake jumbles leans bobbed sinks skylines melanomata assaulting shorebird subjection revoltingly plantations commandoes assonantly prejudicing agreement libra prohibited reprieving priestesses numbed devastators miladies pastiches omahas deprogramming strangers runs securest relicensed omissions gustatorially limiting temporizes timpanist shucker herniae procreates undivulged smirked delayed wigwagging gladiolas prearms chiders peartly erotogenesis goalposts nighs infiltration fixes woozily understandings soloists enigmata bioclimatologies tetanuses seasonally trifurcation unemphatic underdogs hissings frizzly slipways hutments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>underparts</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>repay reordering</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>flexor untrammelled swaggered durations wilted nakedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>stepper brilliancy softy fluorinations ciphering succeeders bathrobes impacts</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quinone reincurring convicts sloughy monomanias pawnbroking</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">808</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1072</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>outwaits righteousness oxtails functioned shadiness lanceted hackie theaters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>coalfish pretence bullion</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">194</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jollier</literal>
+      </binding>
+      <binding name="comment">
+        <literal>obtusest astrobiological thalers deactivations frequentness gulfy lothario contiguousness writeoff flagrante creels marted graveled quarterfinal excitability calamines ductal organizing thriftily geosynchronous badmouth getups vanguards underspends rejuvenating draftings colliding heroicalness bestialized uncomfortably grouts crocked superposition tonsures flashtubes scarificator spake jumbles leans bobbed sinks skylines melanomata assaulting shorebird subjection revoltingly plantations commandoes assonantly prejudicing agreement libra prohibited reprieving priestesses numbed devastators miladies pastiches omahas deprogramming strangers runs securest relicensed omissions gustatorially limiting temporizes timpanist shucker herniae procreates undivulged smirked delayed wigwagging gladiolas prearms chiders peartly erotogenesis goalposts nighs infiltration fixes woozily understandings soloists enigmata bioclimatologies tetanuses seasonally trifurcation unemphatic underdogs hissings frizzly slipways hutments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>underparts</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hypochondria interferometries</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>flexor untrammelled swaggered durations wilted nakedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>stepper brilliancy softy fluorinations ciphering succeeders bathrobes impacts</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quinone reincurring convicts sloughy monomanias pawnbroking</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">808</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1072</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>outwaits righteousness oxtails functioned shadiness lanceted hackie theaters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>coalfish pretence bullion</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">194</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jollier</literal>
+      </binding>
+      <binding name="comment">
+        <literal>obtusest astrobiological thalers deactivations frequentness gulfy lothario contiguousness writeoff flagrante creels marted graveled quarterfinal excitability calamines ductal organizing thriftily geosynchronous badmouth getups vanguards underspends rejuvenating draftings colliding heroicalness bestialized uncomfortably grouts crocked superposition tonsures flashtubes scarificator spake jumbles leans bobbed sinks skylines melanomata assaulting shorebird subjection revoltingly plantations commandoes assonantly prejudicing agreement libra prohibited reprieving priestesses numbed devastators miladies pastiches omahas deprogramming strangers runs securest relicensed omissions gustatorially limiting temporizes timpanist shucker herniae procreates undivulged smirked delayed wigwagging gladiolas prearms chiders peartly erotogenesis goalposts nighs infiltration fixes woozily understandings soloists enigmata bioclimatologies tetanuses seasonally trifurcation unemphatic underdogs hissings frizzly slipways hutments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>underparts</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>torts</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>flexor untrammelled swaggered durations wilted nakedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>stepper brilliancy softy fluorinations ciphering succeeders bathrobes impacts</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quinone reincurring convicts sloughy monomanias pawnbroking</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">808</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1072</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>outwaits righteousness oxtails functioned shadiness lanceted hackie theaters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>coalfish pretence bullion</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">194</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>jollier</literal>
+      </binding>
+      <binding name="comment">
+        <literal>obtusest astrobiological thalers deactivations frequentness gulfy lothario contiguousness writeoff flagrante creels marted graveled quarterfinal excitability calamines ductal organizing thriftily geosynchronous badmouth getups vanguards underspends rejuvenating draftings colliding heroicalness bestialized uncomfortably grouts crocked superposition tonsures flashtubes scarificator spake jumbles leans bobbed sinks skylines melanomata assaulting shorebird subjection revoltingly plantations commandoes assonantly prejudicing agreement libra prohibited reprieving priestesses numbed devastators miladies pastiches omahas deprogramming strangers runs securest relicensed omissions gustatorially limiting temporizes timpanist shucker herniae procreates undivulged smirked delayed wigwagging gladiolas prearms chiders peartly erotogenesis goalposts nighs infiltration fixes woozily understandings soloists enigmata bioclimatologies tetanuses seasonally trifurcation unemphatic underdogs hissings frizzly slipways hutments</literal>
+      </binding>
+      <binding name="producer">
+        <literal>underparts</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>toted accommodator washers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>flexor untrammelled swaggered durations wilted nakedly</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>stepper brilliancy softy fluorinations ciphering succeeders bathrobes impacts</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>quinone reincurring convicts sloughy monomanias pawnbroking</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">808</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1072</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>outwaits righteousness oxtails functioned shadiness lanceted hackie theaters</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>coalfish pretence bullion</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">194</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

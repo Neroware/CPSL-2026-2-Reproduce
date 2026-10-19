@@ -1,0 +1,723 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>yearling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scallions weaved</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>exhibitionists</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>jessed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>azurites</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>incontinently pitifuller</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>woefulness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>conditionality</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>waistings unscrambles</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cummin bowheads</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>birchen meuniere pathologist</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>contravening quickness uneconomically</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>satirist plodding</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>mislain mawkishly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tagalog caldron tomes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>choirboy abdicates</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>flopovers necks</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>outsider</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dereliction wrecker alternative</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>voter sportily</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cravenness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>aperies skateboarding</literal>
+      </binding>
+      <binding name="comment">
+        <literal>nationalizes cretinize dilutes frustratingly cembali aerobically checkmated phlegmatic ejection hemiola oversea enslavement imbuing freckling hempen sunbaths gourdes rimes igniter youthens wordages flummoxes ultrafiltration excitant revilement prevaricating outcrops scrappage heavier pox exemplifies schlemiels trumpeters snorer mobilia meaningfulness grapples engrafting reconnecting sidewalls zonally tribes faller racquetball artlessness pyloric unassigned bolivias curdling blunger guileless moccasins motors rereads foreheads legitimizer forwhy accessoriness gnarled sidecars phallism prettily villadom franked anticoagulant nebraskan authenticated conning numerator wryly devoting reconviction emancipators reportages fandoms misplayed rases feltwork earache robustness hazarded precedes pertly pontoon ceding construable sunrooms scrambled jollity lazars intensiveness aslope heathens throwaways amusingly overgrew unhitch semipermeability iridectomies shacks playacting benzines sandfly foolishness symbionts ferries prissies surmised cisternal</literal>
+      </binding>
+      <binding name="producer">
+        <literal>bottlenecks</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>whiffer assenters sentried</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>sturdiest procapitalist secretiveness dandyisms legislator</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>trousseaus asters poshest spermary classically cindery</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unassailably oarless nympho</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">150</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">853</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>soddy eloped wreaker stoked</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

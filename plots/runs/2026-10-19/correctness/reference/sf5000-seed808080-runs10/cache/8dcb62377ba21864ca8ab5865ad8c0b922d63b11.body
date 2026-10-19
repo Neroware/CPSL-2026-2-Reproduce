@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="label"/>
+    <variable name="propertyTextual"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer17/Product796</uri>
+      </binding>
+      <binding name="label">
+        <literal>anaemias stuffing</literal>
+      </binding>
+      <binding name="propertyTextual">
+        <literal>overbalances seamount reanimating seawater infidels brutalization overhastily</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer39/Product1813</uri>
+      </binding>
+      <binding name="label">
+        <literal>discerners dopants</literal>
+      </binding>
+      <binding name="propertyTextual">
+        <literal>stumbling quicks dependance adytum bailiwick recognition vealy occasional formfeed ultrasonically</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer7/Product273</uri>
+      </binding>
+      <binding name="label">
+        <literal>escalates reflexes succubuses</literal>
+      </binding>
+      <binding name="propertyTextual">
+        <literal>nonequal formulary pills recuperates flakiness adroitly hellboxes unconditionally</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer75/Product3539</uri>
+      </binding>
+      <binding name="label">
+        <literal>infielder voicer nipping</literal>
+      </binding>
+      <binding name="propertyTextual">
+        <literal>essays laxatives ginny solenoidal streptobacilli</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer105/Product4954</uri>
+      </binding>
+      <binding name="label">
+        <literal>sportscast</literal>
+      </binding>
+      <binding name="propertyTextual">
+        <literal>misinformation popularization heparin folderols granulose basinets mortising caracols husk mukluks approbate bibasic gripes unmilitary</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer68/Product3192</uri>
+      </binding>
+      <binding name="label">
+        <literal>vicuna trilobate femme</literal>
+      </binding>
+      <binding name="propertyTextual">
+        <literal>domes embroiderer chanticleers monsignors nonproprietary semipetrified epithalamion stormier aviatrixes clairvoyance manners</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

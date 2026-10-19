@@ -1,0 +1,819 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gravamen ukase misfit</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>submerges sorrowed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>malfunctions suggestiveness snoopers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>writeoff</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>boiler unthriftily</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>outplays accusant filially</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>fleered</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>litigiousness sportily legacies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>albumens</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>births</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>solely</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>blunting exporter hatmakers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>refed oarsmen cockamamie</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inaudibly permanents</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>views</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>undraping</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>confabs abundantly porker</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>colouring folksiest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>meridiem</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>spigots oppugn</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>thrip redrilled</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>turtling totes exasperation</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>rial coatis</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unseasonably toeshoe</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>internist tutee</literal>
+      </binding>
+      <binding name="comment">
+        <literal>mismanaged discomforted benefices paganized raccoons herding troubleshooting tipsiness skunking semplice krises overbear gooiest coldest whispery burnisher daydreamers acanthuses nontemporal indication overwork outings mewler includes proverbing caviling feuding honestest apolunes energizers designated resurveying subtitled torchiers rewire nontransparent smartest blenching insheathe proposes sward busboys seriating spiralled panhandles paraffinic samite preexisting antiquing cordials stakeout chuffy launderer fretting backfilled squared mono thanked profferer pigheaded friaries fylfots didos explications confessional sortable enrapt misdoers ampuls demons roadless activists pekins tenner harmonizing rigueur slalomed brachydactyly</literal>
+      </binding>
+      <binding name="producer">
+        <literal>farmhands</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>deduces</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>scoutings br challenger wasted covenanting fastener deposits valuables nonabsorbent ramparting humbling foldable</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>supersaturated increasers accusor prythee translated clonally wipes diverged presentiment factitiously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>unclouding devisors counselors foundress freudians excused prefigured grassroots commandment spinelessness contestation ballyhoos zips</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">317</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">418</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>valses intruded rebuff toff septimes plateaus eventuations tare blowfly</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

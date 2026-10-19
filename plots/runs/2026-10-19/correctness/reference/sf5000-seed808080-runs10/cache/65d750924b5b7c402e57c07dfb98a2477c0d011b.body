@@ -1,0 +1,361 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="productLabel"/>
+    <variable name="offer"/>
+    <variable name="price"/>
+    <variable name="vendor"/>
+    <variable name="vendorTitle"/>
+    <variable name="review"/>
+    <variable name="revTitle"/>
+    <variable name="reviewer"/>
+    <variable name="revName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+  </head>
+  <results>
+    <result>
+      <binding name="productLabel">
+        <literal>underwriter swarthiness foozle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review2607</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>vaulting troubadours weakfish unstablest branding</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer129</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Sayon-Merle</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>underwriter swarthiness foozle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review5644</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>lavalier prizes methylparaben megalomaniacs inputs theatricality deathlike chammied paused reactivity decrepitly flows hennaed superscribed jawed</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer275</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Aabdeen</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>underwriter swarthiness foozle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review10306</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>festers zingers cerements shopkeeper jingling hometowns mewlers heliotherapies ravelled swirling suppositories literately</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer519</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Felka-Melody</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>underwriter swarthiness foozle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review10334</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>piccolos associations paretic homonymy pseudonym buttoned</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer520</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Becki-Archibaldo</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>underwriter swarthiness foozle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Review10825</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>unwove accompanies nonvisible pussier sufferer intruder emeralds</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer549</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Rajab-Amandus</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>underwriter swarthiness foozle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Review10984</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>offerings vacatable piecer controversies saintly nativisms investigative tummy gatecrasher plasmapheresis bits rebroaden melanotic</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer558</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Dilara-Rica</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>underwriter swarthiness foozle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Review15361</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>churchyards erin toughest cavities hasps acquisitions pseudohistorical backwoodsmen matzohs</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer779</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Coelestina</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>underwriter swarthiness foozle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite3/Review20723</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>witlessly factorize glycerins reinscribed depressives unslaked clouts gigglers prepubescence legionaries</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite3/Reviewer1053</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Sendong-Trish</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>underwriter swarthiness foozle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Review27537</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>hoboisms generals recompounds checker raspy palisaded hatmaker reformulates</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1401</uri>
+      </binding>
+      <binding name="revName">
+        <literal>KaSean-Tasmin</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>underwriter swarthiness foozle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Review30415</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>bedeck apoplectic revolutionist exposited tetradic roasters extremity asters knuckles rehinged aquatics metalling</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1547</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Gunthild-Fedorova</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>underwriter swarthiness foozle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Review30841</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>venipuncture funnymen conformably yachters dashboards blarneys prognosticators elations</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1569</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ike-Faustine</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>underwriter swarthiness foozle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Review31158</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>paternosters viewers prefixion withholder squirms sophistical drogues hawses moseys unencumbered cornice driftpin emulation</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1585</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Lyeta-Elissa</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>underwriter swarthiness foozle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Review34531</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>emeers whipping hens snails mortgageable strumpets</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite4/Reviewer1763</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Marquise-Rodas</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>underwriter swarthiness foozle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Review39538</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>wattest packable saphead comprising inpatients clockworks grooving serigraph</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2015</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Zakharia-Annemarie</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>underwriter swarthiness foozle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Review43142</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>gourmets cambium ditties resurges extortionist teemers sleepyheads raisings</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2195</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Nabi-Abijah</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>underwriter swarthiness foozle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Review43403</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>hearsed oxygenates refractionist mesomorphic violation savorier typographically astringing</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2207</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Linde-Gertraut</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>underwriter swarthiness foozle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Review46399</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>blimps prebilling bankrupts slalom unteachable incompetents bowelling hookier caroming mused stagnates</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2366</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Casta-Taqiyya</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,657 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lymphocytes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>probationer drips silicas</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inferentially reduced</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dippable locks serb</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>interplead deputed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>coted</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>boomed indemnization</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>oxidating turbocar rabelaisian</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bravuras pictorials nullifying</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>deflection goon</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>praxes cantons</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>relativity</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hybridizing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>functionally ragman</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>distasting unhesitating unflappability</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cates cocas adored</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gimps civilizers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pibroch</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>stimulated woodsheds melanism</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>villainesses cetaceans</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tensionless</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>unstressed fasces</literal>
+      </binding>
+      <binding name="comment">
+        <literal>ivies throning retrenched tempested monopolistically tramroad daubing worming covings disquieted maxwells sacerdotalism trailer reconsignment scintillation essayer whiffer apercus metallurgically recontests cosmopolitanism ingrates laser nows rumbaed peacocked rightisms aggravated hearkened agendas boors slangy refuelled rayon wickedly gymkhana honkie conducing metropolitanized bluely darts windsocks outflowing dismally orreries platitudes scorpios rinded affection judgmental credences overcoat straws graecized empathies teed metabolizes blackamoors yugoslavs previewing garishly gooseberries minifying stemming achordate agricultures fakes clipped airbills bartletts rumoring electronarcosis digitals benumb abstractionism cricks recommendable lariating azoth empathizes acanthuses smitheries intercessional stoopingly begins philately wittings astronautical severable pollee unmannerliness revalue lividness cogitator assonantly cowfish antinationalists burster ladings boomkin confutations etiologically christeners subcontracted overwilling meditated catspaws macrobiotics atheistically affably exhalent standishes cadgers keypunched liftman inexactitude limberness surmising etched reiteration grabbier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>cashmeres prearranges</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>flockier incomings adults</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>baryons eeriest goalposts pyrotechnical disinclines impenetrability gentlemanly guttiest emersion</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>soapless teleological casper stimulatives totems silvan gappy</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>preceeding bonsai reivers iterant conjunctivae</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">112</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">834</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,657 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unsatisfied dialers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>menologies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>densest weeds</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>koans</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>alienee moderator lieges</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>theosophist lullabying deadpanned</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ess nourishes microradiography</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>croaked</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>squooshed meshworks copulate</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unrevised</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bookmark testiest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cozily integrating leaseholder</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inculpates footnoting affixing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hexers discoblastic</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>mopish thew</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tanker miniaturizes obtained</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unbribable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>paleographer</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>respectively</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>valuative becks zoomorphs</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>imposer</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>addax requisitioner southron</literal>
+      </binding>
+      <binding name="comment">
+        <literal>gnats glummer nybble isopropanol inscribed madly balalaika partaking diam provability jughead femininity saintliest executions undisciplinable dissatisfying hecatombs acerbities sappiness ergotic aigrets transmutations wyverns memorizer calderon cookeys charges earflaps intakes knighting dakoits rematch cooed frugging blusher appertained griminess unordained fluids rocketlike fawner condoner foreseer flagpoles ranted acidification salinized reabsorbed overstating crooning trackable voicers whippersnappers habits algicides ecumenicism drabbed arbitrarily decorates mitzvahs exordia nouveaux cushioned elevating mellower pharmacologies inverted nonpermanent tinily thrashing waterworks bibliographers neutrophils gimballed analgesia belier eighthly septal shanking ticklers neurophysiologic unbuckle repairs computerize witlings hydrogenations otolithic accompanied honkeys inhabits conjugator swashing weirdest ariose refutes gibbed yields distinctiveness deputations ceramists barware turnspits relocated tost interrogating uteri forswears endomorph friendlessness bobbers reassimilate alopecias nabob colorings vespertine valentines placarders disunion precipitously admissability matriculates teratologies marzipans maidhoods bromides essentials secretor outfoxing lama monomers goads burgeoning</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>overseership</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>lasting seadog odiums breadboards transfigures dioramic copulates campaigners</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>colliding snoozes doozies wheal porkiest cinematheque downrange mortises hatchback dilatations cockatrices margays</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>shiveringly sextuply renegotiates snowdrift unironed laciest madwoman reworks veneerer comprehending twinier qualifications kalpa guilds rationalist</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">195</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1017</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

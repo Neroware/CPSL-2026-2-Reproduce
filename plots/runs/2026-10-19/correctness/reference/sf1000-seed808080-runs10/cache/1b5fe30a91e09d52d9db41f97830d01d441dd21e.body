@@ -1,0 +1,824 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ophthalmoscopic rotationally anality</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dont inferiorities</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dominium hyperkinesis</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sheaves benchmarked</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>appreciated usability</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>guarantying</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>refastens</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>romanticist splines</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>foreordained unsocially unchilled</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>halberd lacrimal</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>honesties</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>calcimining</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>jounces catchalls</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>necropolis panegyrics fouled</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>preconstruct undercarriages</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>yearnings</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>institutionalize</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pettily frames</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>herby sayonara</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>discriminately careering biochemist</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>miscalculates</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>shoos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>posits</literal>
+      </binding>
+      <binding name="comment">
+        <literal>legalities disjoint outing drummers gibbosity tentage promontories maladjustment blueberries engirds dairying grinding unexpurgated parser violations cyclical cementum raters proctologies remaking goobers southeasters mammies explores vicissitudes blender billed brickbats angas plainly meditatio evaporated harassed perilousness carnies kinked nonfilterable tightwads bursts commercializations mottler retracting beaufort hebraist wildering ladybird fixups forehooves acclaimed mottled deterministic confetto keepable monarchical weightier unfree volutes logotype skilful lymphosarcomas dissuasions kettledrums epicentral heliotropic tenuously brittles dustiest philtre swastikas assailed dampeners naughtily inducing decagon emulsifying campstools depths areas alkalinization wowed gauziness grazers unappeased hydromassage mounds tegument frisbee misproportions inedible resiliently pshaw ropery eyewashes portulacas blushing refortified glorifier ostentatiously stainer spirochete narcissistically amoebean hording charier wadded fisted taximeter gigabytes</literal>
+      </binding>
+      <binding name="producer">
+        <literal>swigger spectrographies sniffily</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sharper</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>pulmonectomies capillarity schizo insensateness blase metonyms kitties saddlery ensurer abandoned piker waxily</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>nescient counselee alar uninvited astringents goatherds fascias fleeced segregationist agoraphobic alit</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gastroenterology nard woefully rinded equivocator approaching overbites</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">717</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">948</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>knouting carnivals recreative rustless retrorockets titteringly juntos girdler transcribes uttered</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">865</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="label"/>
+    <variable name="propertyTextual"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer29/Product1331</uri>
+      </binding>
+      <binding name="label">
+        <literal>muttonchops nuttier</literal>
+      </binding>
+      <binding name="propertyTextual">
+        <literal>bushwhacks encounterer civilizers kaleidoscopic moroccos galoshes bursars</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

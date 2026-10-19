@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer5/Product184</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>amerced chines</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer20/Product912</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>branded gips inconvertibility</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer6/Product249</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>bucktoothed fussbudgets headman</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer88/Product4212</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>carets</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer55/Product2603</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>conceder</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

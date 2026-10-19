@@ -1,0 +1,719 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>wheelman</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cedes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unmelodious coppering</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>homerooms mountebanks</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>midwived cleavages reconquest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>officiousness mishmoshes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>retsinas sheaving</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>willies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inhabitants reticulated</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>renege</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>vestiges recidivists eyecups</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>physicals tumor curber</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>manslayers gaveling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tiered hyperirritable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>townless</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>twelves exaggerators</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>spending pacifiers connective</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cheeses medicals sassing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>acquirable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>inflicting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>enthronement fuguist adulterates strangeness dissimulating lightening dumbest poltergeist pedestaled drunkards tinseled rimrocks bestialize consolidating overcapitalizes reassimilation badly recrudescing pressurizes peerlessly entrants unauthentic coquets liftable demurrable unembarrassed salves toluol recommenders accounts shmo surcharger jetty kerb retrials fingerlings mechanotherapy overseas malices chainmen uremic balancing supplication incarcerators plundering surcingle ejectors onsets scapegoater trafficway crossbeam disorientate reclining hairspring cheekfuls demagogies rhyta modernizes annuler demounted recovers swallowtails cryogeny terminative pinched tantalizes overslept smegma ovenware prepayment unchanged lavishly equivalency portables definably flaxier</literal>
+      </binding>
+      <binding name="producer">
+        <literal>employability semiserious tanned</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sisterly</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>harlot tankful encoder ambiguities foreshown shudders rehabilitations fatly pseudopodia befriended inflaming</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>defiler reenacting volatilizes porously</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>reexchanging earphones congees resuscitation yawled chandlers aweigh clothiers toxicologic unarm</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1732</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">611</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>appestats featlier reproducible outsider kinesiologies cenotaphic gins gager hemmed shoplift heist hydrotherapeutical victimizing erica</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">166</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

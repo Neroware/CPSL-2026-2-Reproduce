@@ -1,0 +1,541 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>fertilizing refulgence civicisms</literal>
+      </binding>
+      <binding name="comment">
+        <literal>carols postilion demanded statehouses judiciousness circumnavigations perfunctorily production combustibles generalize fezes menads presagers meretriciously melanesian unsubtly teenager obdurated rustical gendarmes turndown trowelling fetidness staged abandonments calculably incorruptibly scarper asepses proposer mikveh conned oversides uniformer dentins menstruations rishis reawoke zionists befooled unhitches southwesters pussyfooted cherrystones nils impearls farmers nibbled bigmouthed unvoiced grooms perfidies dalliers vices invadable glebe smokepot tissues unshipped cupids androgynous hexameters mercerizing turbocar manometers potpourris demonstrators microsurgical</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>interplead deputed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>useably sloppiest clanswomen tigerish dingey merchandising ultimation hypnotists inlets</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ebons piquing anthropoidea berobed eyeable predecease concentricity muffing rennin procured physiognomical musculoskeletal pluralities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gingers enduing peeress stashing burnable reunifying wandered snidely airest recliners lavished junket bewitchments sheathes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1906</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">924</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fertilizing refulgence civicisms</literal>
+      </binding>
+      <binding name="comment">
+        <literal>carols postilion demanded statehouses judiciousness circumnavigations perfunctorily production combustibles generalize fezes menads presagers meretriciously melanesian unsubtly teenager obdurated rustical gendarmes turndown trowelling fetidness staged abandonments calculably incorruptibly scarper asepses proposer mikveh conned oversides uniformer dentins menstruations rishis reawoke zionists befooled unhitches southwesters pussyfooted cherrystones nils impearls farmers nibbled bigmouthed unvoiced grooms perfidies dalliers vices invadable glebe smokepot tissues unshipped cupids androgynous hexameters mercerizing turbocar manometers potpourris demonstrators microsurgical</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>freakily disputing disassimilating</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>useably sloppiest clanswomen tigerish dingey merchandising ultimation hypnotists inlets</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ebons piquing anthropoidea berobed eyeable predecease concentricity muffing rennin procured physiognomical musculoskeletal pluralities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gingers enduing peeress stashing burnable reunifying wandered snidely airest recliners lavished junket bewitchments sheathes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1906</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">924</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fertilizing refulgence civicisms</literal>
+      </binding>
+      <binding name="comment">
+        <literal>carols postilion demanded statehouses judiciousness circumnavigations perfunctorily production combustibles generalize fezes menads presagers meretriciously melanesian unsubtly teenager obdurated rustical gendarmes turndown trowelling fetidness staged abandonments calculably incorruptibly scarper asepses proposer mikveh conned oversides uniformer dentins menstruations rishis reawoke zionists befooled unhitches southwesters pussyfooted cherrystones nils impearls farmers nibbled bigmouthed unvoiced grooms perfidies dalliers vices invadable glebe smokepot tissues unshipped cupids androgynous hexameters mercerizing turbocar manometers potpourris demonstrators microsurgical</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>appose outgrew intenser</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>useably sloppiest clanswomen tigerish dingey merchandising ultimation hypnotists inlets</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ebons piquing anthropoidea berobed eyeable predecease concentricity muffing rennin procured physiognomical musculoskeletal pluralities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gingers enduing peeress stashing burnable reunifying wandered snidely airest recliners lavished junket bewitchments sheathes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1906</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">924</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fertilizing refulgence civicisms</literal>
+      </binding>
+      <binding name="comment">
+        <literal>carols postilion demanded statehouses judiciousness circumnavigations perfunctorily production combustibles generalize fezes menads presagers meretriciously melanesian unsubtly teenager obdurated rustical gendarmes turndown trowelling fetidness staged abandonments calculably incorruptibly scarper asepses proposer mikveh conned oversides uniformer dentins menstruations rishis reawoke zionists befooled unhitches southwesters pussyfooted cherrystones nils impearls farmers nibbled bigmouthed unvoiced grooms perfidies dalliers vices invadable glebe smokepot tissues unshipped cupids androgynous hexameters mercerizing turbocar manometers potpourris demonstrators microsurgical</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>blends tactics platers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>useably sloppiest clanswomen tigerish dingey merchandising ultimation hypnotists inlets</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ebons piquing anthropoidea berobed eyeable predecease concentricity muffing rennin procured physiognomical musculoskeletal pluralities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gingers enduing peeress stashing burnable reunifying wandered snidely airest recliners lavished junket bewitchments sheathes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1906</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">924</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fertilizing refulgence civicisms</literal>
+      </binding>
+      <binding name="comment">
+        <literal>carols postilion demanded statehouses judiciousness circumnavigations perfunctorily production combustibles generalize fezes menads presagers meretriciously melanesian unsubtly teenager obdurated rustical gendarmes turndown trowelling fetidness staged abandonments calculably incorruptibly scarper asepses proposer mikveh conned oversides uniformer dentins menstruations rishis reawoke zionists befooled unhitches southwesters pussyfooted cherrystones nils impearls farmers nibbled bigmouthed unvoiced grooms perfidies dalliers vices invadable glebe smokepot tissues unshipped cupids androgynous hexameters mercerizing turbocar manometers potpourris demonstrators microsurgical</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>agglomeration pygmies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>useably sloppiest clanswomen tigerish dingey merchandising ultimation hypnotists inlets</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ebons piquing anthropoidea berobed eyeable predecease concentricity muffing rennin procured physiognomical musculoskeletal pluralities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gingers enduing peeress stashing burnable reunifying wandered snidely airest recliners lavished junket bewitchments sheathes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1906</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">924</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fertilizing refulgence civicisms</literal>
+      </binding>
+      <binding name="comment">
+        <literal>carols postilion demanded statehouses judiciousness circumnavigations perfunctorily production combustibles generalize fezes menads presagers meretriciously melanesian unsubtly teenager obdurated rustical gendarmes turndown trowelling fetidness staged abandonments calculably incorruptibly scarper asepses proposer mikveh conned oversides uniformer dentins menstruations rishis reawoke zionists befooled unhitches southwesters pussyfooted cherrystones nils impearls farmers nibbled bigmouthed unvoiced grooms perfidies dalliers vices invadable glebe smokepot tissues unshipped cupids androgynous hexameters mercerizing turbocar manometers potpourris demonstrators microsurgical</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>turbocars</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>useably sloppiest clanswomen tigerish dingey merchandising ultimation hypnotists inlets</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ebons piquing anthropoidea berobed eyeable predecease concentricity muffing rennin procured physiognomical musculoskeletal pluralities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gingers enduing peeress stashing burnable reunifying wandered snidely airest recliners lavished junket bewitchments sheathes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1906</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">924</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fertilizing refulgence civicisms</literal>
+      </binding>
+      <binding name="comment">
+        <literal>carols postilion demanded statehouses judiciousness circumnavigations perfunctorily production combustibles generalize fezes menads presagers meretriciously melanesian unsubtly teenager obdurated rustical gendarmes turndown trowelling fetidness staged abandonments calculably incorruptibly scarper asepses proposer mikveh conned oversides uniformer dentins menstruations rishis reawoke zionists befooled unhitches southwesters pussyfooted cherrystones nils impearls farmers nibbled bigmouthed unvoiced grooms perfidies dalliers vices invadable glebe smokepot tissues unshipped cupids androgynous hexameters mercerizing turbocar manometers potpourris demonstrators microsurgical</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>illegally hoosiers aligned</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>useably sloppiest clanswomen tigerish dingey merchandising ultimation hypnotists inlets</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ebons piquing anthropoidea berobed eyeable predecease concentricity muffing rennin procured physiognomical musculoskeletal pluralities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gingers enduing peeress stashing burnable reunifying wandered snidely airest recliners lavished junket bewitchments sheathes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1906</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">924</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fertilizing refulgence civicisms</literal>
+      </binding>
+      <binding name="comment">
+        <literal>carols postilion demanded statehouses judiciousness circumnavigations perfunctorily production combustibles generalize fezes menads presagers meretriciously melanesian unsubtly teenager obdurated rustical gendarmes turndown trowelling fetidness staged abandonments calculably incorruptibly scarper asepses proposer mikveh conned oversides uniformer dentins menstruations rishis reawoke zionists befooled unhitches southwesters pussyfooted cherrystones nils impearls farmers nibbled bigmouthed unvoiced grooms perfidies dalliers vices invadable glebe smokepot tissues unshipped cupids androgynous hexameters mercerizing turbocar manometers potpourris demonstrators microsurgical</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>daybook</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>useably sloppiest clanswomen tigerish dingey merchandising ultimation hypnotists inlets</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ebons piquing anthropoidea berobed eyeable predecease concentricity muffing rennin procured physiognomical musculoskeletal pluralities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gingers enduing peeress stashing burnable reunifying wandered snidely airest recliners lavished junket bewitchments sheathes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1906</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">924</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fertilizing refulgence civicisms</literal>
+      </binding>
+      <binding name="comment">
+        <literal>carols postilion demanded statehouses judiciousness circumnavigations perfunctorily production combustibles generalize fezes menads presagers meretriciously melanesian unsubtly teenager obdurated rustical gendarmes turndown trowelling fetidness staged abandonments calculably incorruptibly scarper asepses proposer mikveh conned oversides uniformer dentins menstruations rishis reawoke zionists befooled unhitches southwesters pussyfooted cherrystones nils impearls farmers nibbled bigmouthed unvoiced grooms perfidies dalliers vices invadable glebe smokepot tissues unshipped cupids androgynous hexameters mercerizing turbocar manometers potpourris demonstrators microsurgical</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>comparers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>useably sloppiest clanswomen tigerish dingey merchandising ultimation hypnotists inlets</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ebons piquing anthropoidea berobed eyeable predecease concentricity muffing rennin procured physiognomical musculoskeletal pluralities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gingers enduing peeress stashing burnable reunifying wandered snidely airest recliners lavished junket bewitchments sheathes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1906</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">924</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fertilizing refulgence civicisms</literal>
+      </binding>
+      <binding name="comment">
+        <literal>carols postilion demanded statehouses judiciousness circumnavigations perfunctorily production combustibles generalize fezes menads presagers meretriciously melanesian unsubtly teenager obdurated rustical gendarmes turndown trowelling fetidness staged abandonments calculably incorruptibly scarper asepses proposer mikveh conned oversides uniformer dentins menstruations rishis reawoke zionists befooled unhitches southwesters pussyfooted cherrystones nils impearls farmers nibbled bigmouthed unvoiced grooms perfidies dalliers vices invadable glebe smokepot tissues unshipped cupids androgynous hexameters mercerizing turbocar manometers potpourris demonstrators microsurgical</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>fulminant zillion intelligence</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>useably sloppiest clanswomen tigerish dingey merchandising ultimation hypnotists inlets</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ebons piquing anthropoidea berobed eyeable predecease concentricity muffing rennin procured physiognomical musculoskeletal pluralities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gingers enduing peeress stashing burnable reunifying wandered snidely airest recliners lavished junket bewitchments sheathes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1906</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">924</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fertilizing refulgence civicisms</literal>
+      </binding>
+      <binding name="comment">
+        <literal>carols postilion demanded statehouses judiciousness circumnavigations perfunctorily production combustibles generalize fezes menads presagers meretriciously melanesian unsubtly teenager obdurated rustical gendarmes turndown trowelling fetidness staged abandonments calculably incorruptibly scarper asepses proposer mikveh conned oversides uniformer dentins menstruations rishis reawoke zionists befooled unhitches southwesters pussyfooted cherrystones nils impearls farmers nibbled bigmouthed unvoiced grooms perfidies dalliers vices invadable glebe smokepot tissues unshipped cupids androgynous hexameters mercerizing turbocar manometers potpourris demonstrators microsurgical</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>poniarded</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>useably sloppiest clanswomen tigerish dingey merchandising ultimation hypnotists inlets</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ebons piquing anthropoidea berobed eyeable predecease concentricity muffing rennin procured physiognomical musculoskeletal pluralities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gingers enduing peeress stashing burnable reunifying wandered snidely airest recliners lavished junket bewitchments sheathes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1906</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">924</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fertilizing refulgence civicisms</literal>
+      </binding>
+      <binding name="comment">
+        <literal>carols postilion demanded statehouses judiciousness circumnavigations perfunctorily production combustibles generalize fezes menads presagers meretriciously melanesian unsubtly teenager obdurated rustical gendarmes turndown trowelling fetidness staged abandonments calculably incorruptibly scarper asepses proposer mikveh conned oversides uniformer dentins menstruations rishis reawoke zionists befooled unhitches southwesters pussyfooted cherrystones nils impearls farmers nibbled bigmouthed unvoiced grooms perfidies dalliers vices invadable glebe smokepot tissues unshipped cupids androgynous hexameters mercerizing turbocar manometers potpourris demonstrators microsurgical</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>accurse unlearned atherosclerotic</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>useably sloppiest clanswomen tigerish dingey merchandising ultimation hypnotists inlets</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ebons piquing anthropoidea berobed eyeable predecease concentricity muffing rennin procured physiognomical musculoskeletal pluralities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gingers enduing peeress stashing burnable reunifying wandered snidely airest recliners lavished junket bewitchments sheathes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1906</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">924</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fertilizing refulgence civicisms</literal>
+      </binding>
+      <binding name="comment">
+        <literal>carols postilion demanded statehouses judiciousness circumnavigations perfunctorily production combustibles generalize fezes menads presagers meretriciously melanesian unsubtly teenager obdurated rustical gendarmes turndown trowelling fetidness staged abandonments calculably incorruptibly scarper asepses proposer mikveh conned oversides uniformer dentins menstruations rishis reawoke zionists befooled unhitches southwesters pussyfooted cherrystones nils impearls farmers nibbled bigmouthed unvoiced grooms perfidies dalliers vices invadable glebe smokepot tissues unshipped cupids androgynous hexameters mercerizing turbocar manometers potpourris demonstrators microsurgical</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lisper intellectualizing deflects</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>useably sloppiest clanswomen tigerish dingey merchandising ultimation hypnotists inlets</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ebons piquing anthropoidea berobed eyeable predecease concentricity muffing rennin procured physiognomical musculoskeletal pluralities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gingers enduing peeress stashing burnable reunifying wandered snidely airest recliners lavished junket bewitchments sheathes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1906</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">924</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fertilizing refulgence civicisms</literal>
+      </binding>
+      <binding name="comment">
+        <literal>carols postilion demanded statehouses judiciousness circumnavigations perfunctorily production combustibles generalize fezes menads presagers meretriciously melanesian unsubtly teenager obdurated rustical gendarmes turndown trowelling fetidness staged abandonments calculably incorruptibly scarper asepses proposer mikveh conned oversides uniformer dentins menstruations rishis reawoke zionists befooled unhitches southwesters pussyfooted cherrystones nils impearls farmers nibbled bigmouthed unvoiced grooms perfidies dalliers vices invadable glebe smokepot tissues unshipped cupids androgynous hexameters mercerizing turbocar manometers potpourris demonstrators microsurgical</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unmolested</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>useably sloppiest clanswomen tigerish dingey merchandising ultimation hypnotists inlets</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ebons piquing anthropoidea berobed eyeable predecease concentricity muffing rennin procured physiognomical musculoskeletal pluralities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gingers enduing peeress stashing burnable reunifying wandered snidely airest recliners lavished junket bewitchments sheathes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1906</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">924</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fertilizing refulgence civicisms</literal>
+      </binding>
+      <binding name="comment">
+        <literal>carols postilion demanded statehouses judiciousness circumnavigations perfunctorily production combustibles generalize fezes menads presagers meretriciously melanesian unsubtly teenager obdurated rustical gendarmes turndown trowelling fetidness staged abandonments calculably incorruptibly scarper asepses proposer mikveh conned oversides uniformer dentins menstruations rishis reawoke zionists befooled unhitches southwesters pussyfooted cherrystones nils impearls farmers nibbled bigmouthed unvoiced grooms perfidies dalliers vices invadable glebe smokepot tissues unshipped cupids androgynous hexameters mercerizing turbocar manometers potpourris demonstrators microsurgical</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>supervisal spirally</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>useably sloppiest clanswomen tigerish dingey merchandising ultimation hypnotists inlets</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ebons piquing anthropoidea berobed eyeable predecease concentricity muffing rennin procured physiognomical musculoskeletal pluralities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gingers enduing peeress stashing burnable reunifying wandered snidely airest recliners lavished junket bewitchments sheathes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1906</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">924</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fertilizing refulgence civicisms</literal>
+      </binding>
+      <binding name="comment">
+        <literal>carols postilion demanded statehouses judiciousness circumnavigations perfunctorily production combustibles generalize fezes menads presagers meretriciously melanesian unsubtly teenager obdurated rustical gendarmes turndown trowelling fetidness staged abandonments calculably incorruptibly scarper asepses proposer mikveh conned oversides uniformer dentins menstruations rishis reawoke zionists befooled unhitches southwesters pussyfooted cherrystones nils impearls farmers nibbled bigmouthed unvoiced grooms perfidies dalliers vices invadable glebe smokepot tissues unshipped cupids androgynous hexameters mercerizing turbocar manometers potpourris demonstrators microsurgical</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>disillusion</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>useably sloppiest clanswomen tigerish dingey merchandising ultimation hypnotists inlets</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ebons piquing anthropoidea berobed eyeable predecease concentricity muffing rennin procured physiognomical musculoskeletal pluralities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gingers enduing peeress stashing burnable reunifying wandered snidely airest recliners lavished junket bewitchments sheathes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1906</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">924</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fertilizing refulgence civicisms</literal>
+      </binding>
+      <binding name="comment">
+        <literal>carols postilion demanded statehouses judiciousness circumnavigations perfunctorily production combustibles generalize fezes menads presagers meretriciously melanesian unsubtly teenager obdurated rustical gendarmes turndown trowelling fetidness staged abandonments calculably incorruptibly scarper asepses proposer mikveh conned oversides uniformer dentins menstruations rishis reawoke zionists befooled unhitches southwesters pussyfooted cherrystones nils impearls farmers nibbled bigmouthed unvoiced grooms perfidies dalliers vices invadable glebe smokepot tissues unshipped cupids androgynous hexameters mercerizing turbocar manometers potpourris demonstrators microsurgical</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>chorizos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>useably sloppiest clanswomen tigerish dingey merchandising ultimation hypnotists inlets</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ebons piquing anthropoidea berobed eyeable predecease concentricity muffing rennin procured physiognomical musculoskeletal pluralities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gingers enduing peeress stashing burnable reunifying wandered snidely airest recliners lavished junket bewitchments sheathes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1906</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">924</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>fertilizing refulgence civicisms</literal>
+      </binding>
+      <binding name="comment">
+        <literal>carols postilion demanded statehouses judiciousness circumnavigations perfunctorily production combustibles generalize fezes menads presagers meretriciously melanesian unsubtly teenager obdurated rustical gendarmes turndown trowelling fetidness staged abandonments calculably incorruptibly scarper asepses proposer mikveh conned oversides uniformer dentins menstruations rishis reawoke zionists befooled unhitches southwesters pussyfooted cherrystones nils impearls farmers nibbled bigmouthed unvoiced grooms perfidies dalliers vices invadable glebe smokepot tissues unshipped cupids androgynous hexameters mercerizing turbocar manometers potpourris demonstrators microsurgical</literal>
+      </binding>
+      <binding name="producer">
+        <literal>stripped partings townships</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>brashier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>useably sloppiest clanswomen tigerish dingey merchandising ultimation hypnotists inlets</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>ebons piquing anthropoidea berobed eyeable predecease concentricity muffing rennin procured physiognomical musculoskeletal pluralities</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>gingers enduing peeress stashing burnable reunifying wandered snidely airest recliners lavished junket bewitchments sheathes</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1906</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">924</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

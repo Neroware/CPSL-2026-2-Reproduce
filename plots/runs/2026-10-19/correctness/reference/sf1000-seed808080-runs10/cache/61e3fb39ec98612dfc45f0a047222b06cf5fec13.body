@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="productLabel"/>
+    <variable name="offer"/>
+    <variable name="price"/>
+    <variable name="vendor"/>
+    <variable name="vendorTitle"/>
+    <variable name="review"/>
+    <variable name="revTitle"/>
+    <variable name="reviewer"/>
+    <variable name="revName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+  </head>
+  <results>
+    <result>
+      <binding name="productLabel">
+        <literal>laureated salinizes landlessness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review1302</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>malignantly imperceptibleness swanned squarers proliferated rabbiters</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer65</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Lin-Anastagio</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>laureated salinizes landlessness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review1686</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>disparagements bloomed pima phonoreceptor donatives pirouetting tenability appositions tongers vivification spoliator upchuck blaming</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer86</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Lingling-Felizian</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>laureated salinizes landlessness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review4774</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>vitamins sizy arcus ergosterol</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer235</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Lone-Angha</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>laureated salinizes landlessness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review5457</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>filmgoer nickelled misjudged sparkish microinstructions reputed snailed crapes discursiveness midguts wallpapers narrowed upswept abortion</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer266</uri>
+      </binding>
+      <binding name="revName">
+        <literal>ApMaddock-Amaanullah</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>laureated salinizes landlessness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review5694</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>stringiest corrosively reminisces leaked falsettos anxieties enate noncombustibles watchdogs hulloed rusts sliming undermine imbuing urinaries</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer278</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Kalene</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>laureated salinizes landlessness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6443</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>suspensory murrain unresentful juvenilities trapshooting honchos gastrology unwoven translucency globularity philippics liftmen deductibles worthing</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer314</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Gaudenz-Gopa</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>laureated salinizes landlessness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6989</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>unpurified embryologists electrodynamic safeties mantels</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer343</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Audra-Sonja</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

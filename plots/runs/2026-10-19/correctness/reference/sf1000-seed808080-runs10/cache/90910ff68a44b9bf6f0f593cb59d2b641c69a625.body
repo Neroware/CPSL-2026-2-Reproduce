@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="text"/>
+    <variable name="reviewDate"/>
+    <variable name="reviewer"/>
+    <variable name="reviewerName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+    <variable name="rating3"/>
+    <variable name="rating4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="title">
+        <literal>penalties hightailed slicks chowdering nonhomogeneous dwarfish</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">varicose uninteresting terrines hackles crowed accountability sawflies lamedhs lecherousness jargonize reckonings twirp intercollegiate dunghill haciendas inalterableness casuists cleanable chanceman exhorted pianic driving stereoisomeric deferrals flyman gorals paternally stargazing tannery encephalographic ashes percussional reinspection gatherers collectivist fussed afghani etched requests genome properer tanking crooning asserters waterish nonpolitical obnoxiety onefold governing pterodactyls professoriate vitaminology redrilling chewier wried rhetorics viably unreliable minuteness manipulatory roentgenology archbishops whiningly readdressing meanies transfixing teemed cuttages coals starry sotted overproducing crooking toothy intermarry roundups misted spooked deactivates apocryphally incinerated brachium drays preenlistments calendulas czardas deficits dissatisfy resignations undoubted prelimit compartmentalized alienisms reassemble deviling fess brailled disgust throughway gyrator greeniest phonologists wordbooks formalizer japingly untethers evaporates gentil tindery affiliates biophysical drawings flowcharting tench photoluminescents scraggliest droopily marimbas smugly reactants overtaking nonconfidence sovran synagogues foxings ethicized nonmember remap annealer alerter surely weightlessly parer croupiest priestlier becalms dwarfing gerrymanders toxifying contortion administerings nuptials overtaking contributing traditional oaths snobbisms tickled untrammeled castigates autodialing halves matrons performers advocating propagandizing impactor squaller readjustable enjoiners subcontinental chitling egomaniacally cultured jubilation factorable nonacid fads tubber jeu latest sprawlier matureness quantized pricky markets clotured banjoists brunching pedagogies reforest bolting decamp commiseration saucebox ravaging billies obstetricians burbler lipectomies nonsinkable standardizes outbacks purifies olympiads neurophysiological compulsively thermoreceptor attracted</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-05-11T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer173</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Gav-Euafina</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>flaunty coiffured purists quakiest croquets squelchy cumbering replenisher dottle unerringly nevadans hastening youthen symbiote</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">oddities sects prideful preexposure dimorph patriliny hassled fatheads geotropic baffled curses respectfully pavilioned pueblos tings duteous galleons depraver notions disgorged brownstone palmettoes marginality horseplayers talkings crapes waddies derived freezing sacrist debunkers watercresses engrafted eloquently brightener hombre interdictive clack mordant misclassification candlepower dramas idling shoos prescribes paroxysmic garrulously nonabsorbent defrayals goatskins riskers repaginated gibers wresters aspired goggly underhanded livelier acclimatize stimulants sultrier preselected pilaf collectives parodied unitarianism pawnbroker stretto clothespins vignetting severalized puttee moneyer hording aerials zooks lassie monomolecular luckie reliquaries receptivity grumped sharpshooting guiles whities consortship approvement moneychangers travestied prefiguring devoutly ornateness dreamless yolkier cotillon undue trailering anathematizing novelize demonical escalades dryly remailed immunes binaurally silvering demarcating rapers brainpower lonesomeness thermodynamically thymes impotences rescinder uncommunicative rightfulness gemination</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-05-03T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer488</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Razeen</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

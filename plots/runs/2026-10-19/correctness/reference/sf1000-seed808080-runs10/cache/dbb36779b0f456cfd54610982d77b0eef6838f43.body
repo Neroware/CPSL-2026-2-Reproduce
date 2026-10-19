@@ -1,0 +1,741 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>sprightliness masterly psychosomatics</literal>
+      </binding>
+      <binding name="comment">
+        <literal>polestar divans reconverts televises comanches unexcelled sadomasochist graecizing shabbier recondition crosse vacates creeps siltier bootstraps clunk signeted fisheye secularists legends requisitioners acerbating bantamweights jungliest asst marxist punctured estoppage impecuniously brislings according wakenings globes fishtail gyrfalcons emboldened foreordains staggy deterges drownds enshrined lands nuttiness foyers heighth guilts coequality dressier popping confessable acidulated alternative mistyping masquerades semiopaque scoffing petioles uniques wordlessly swoosh haler coupled deworm radiotelephones oxygenic trajected phoenician knowingly semipublic coppering pipings stereoscopes smoothy threading jointer seismologists kakistocracy indifference ourself peopling cussedly dotter localites hindgut disproves wangled telecast calumets upped canthi scams presser fingerlings straddles readaptation astrolabes outing allegiantly vitiates claver equalities slaker backhoe snits trendiest faunal shooting browsers milkily humanly lodging bandicoot guardsmen stoles galilei lilliput vealy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sheaves benchmarked</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>enclosable jughead clingier faultfinders rotational tuber ungratifying lenience undescribably infiltrations bramblier postmistresses</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helots badman woolie acrostic iller poignantly heirship zebecs steersman nonabsolute imbeds mahjongg</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>linchpin clawers houseboats alienates heartiness packsacks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">770</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>suitability luckier preconceives ostomy rinds grasslands undescribable tallyhoed biorythmic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>waxier strobic foodless rummager slitters oilskins tartufe cavorts</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">408</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sprightliness masterly psychosomatics</literal>
+      </binding>
+      <binding name="comment">
+        <literal>polestar divans reconverts televises comanches unexcelled sadomasochist graecizing shabbier recondition crosse vacates creeps siltier bootstraps clunk signeted fisheye secularists legends requisitioners acerbating bantamweights jungliest asst marxist punctured estoppage impecuniously brislings according wakenings globes fishtail gyrfalcons emboldened foreordains staggy deterges drownds enshrined lands nuttiness foyers heighth guilts coequality dressier popping confessable acidulated alternative mistyping masquerades semiopaque scoffing petioles uniques wordlessly swoosh haler coupled deworm radiotelephones oxygenic trajected phoenician knowingly semipublic coppering pipings stereoscopes smoothy threading jointer seismologists kakistocracy indifference ourself peopling cussedly dotter localites hindgut disproves wangled telecast calumets upped canthi scams presser fingerlings straddles readaptation astrolabes outing allegiantly vitiates claver equalities slaker backhoe snits trendiest faunal shooting browsers milkily humanly lodging bandicoot guardsmen stoles galilei lilliput vealy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>happenings</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>enclosable jughead clingier faultfinders rotational tuber ungratifying lenience undescribably infiltrations bramblier postmistresses</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helots badman woolie acrostic iller poignantly heirship zebecs steersman nonabsolute imbeds mahjongg</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>linchpin clawers houseboats alienates heartiness packsacks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">770</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>suitability luckier preconceives ostomy rinds grasslands undescribable tallyhoed biorythmic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>waxier strobic foodless rummager slitters oilskins tartufe cavorts</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">408</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sprightliness masterly psychosomatics</literal>
+      </binding>
+      <binding name="comment">
+        <literal>polestar divans reconverts televises comanches unexcelled sadomasochist graecizing shabbier recondition crosse vacates creeps siltier bootstraps clunk signeted fisheye secularists legends requisitioners acerbating bantamweights jungliest asst marxist punctured estoppage impecuniously brislings according wakenings globes fishtail gyrfalcons emboldened foreordains staggy deterges drownds enshrined lands nuttiness foyers heighth guilts coequality dressier popping confessable acidulated alternative mistyping masquerades semiopaque scoffing petioles uniques wordlessly swoosh haler coupled deworm radiotelephones oxygenic trajected phoenician knowingly semipublic coppering pipings stereoscopes smoothy threading jointer seismologists kakistocracy indifference ourself peopling cussedly dotter localites hindgut disproves wangled telecast calumets upped canthi scams presser fingerlings straddles readaptation astrolabes outing allegiantly vitiates claver equalities slaker backhoe snits trendiest faunal shooting browsers milkily humanly lodging bandicoot guardsmen stoles galilei lilliput vealy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>doltishly polygram lockages</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>enclosable jughead clingier faultfinders rotational tuber ungratifying lenience undescribably infiltrations bramblier postmistresses</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helots badman woolie acrostic iller poignantly heirship zebecs steersman nonabsolute imbeds mahjongg</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>linchpin clawers houseboats alienates heartiness packsacks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">770</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>suitability luckier preconceives ostomy rinds grasslands undescribable tallyhoed biorythmic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>waxier strobic foodless rummager slitters oilskins tartufe cavorts</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">408</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sprightliness masterly psychosomatics</literal>
+      </binding>
+      <binding name="comment">
+        <literal>polestar divans reconverts televises comanches unexcelled sadomasochist graecizing shabbier recondition crosse vacates creeps siltier bootstraps clunk signeted fisheye secularists legends requisitioners acerbating bantamweights jungliest asst marxist punctured estoppage impecuniously brislings according wakenings globes fishtail gyrfalcons emboldened foreordains staggy deterges drownds enshrined lands nuttiness foyers heighth guilts coequality dressier popping confessable acidulated alternative mistyping masquerades semiopaque scoffing petioles uniques wordlessly swoosh haler coupled deworm radiotelephones oxygenic trajected phoenician knowingly semipublic coppering pipings stereoscopes smoothy threading jointer seismologists kakistocracy indifference ourself peopling cussedly dotter localites hindgut disproves wangled telecast calumets upped canthi scams presser fingerlings straddles readaptation astrolabes outing allegiantly vitiates claver equalities slaker backhoe snits trendiest faunal shooting browsers milkily humanly lodging bandicoot guardsmen stoles galilei lilliput vealy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>guarantying</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>enclosable jughead clingier faultfinders rotational tuber ungratifying lenience undescribably infiltrations bramblier postmistresses</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helots badman woolie acrostic iller poignantly heirship zebecs steersman nonabsolute imbeds mahjongg</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>linchpin clawers houseboats alienates heartiness packsacks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">770</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>suitability luckier preconceives ostomy rinds grasslands undescribable tallyhoed biorythmic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>waxier strobic foodless rummager slitters oilskins tartufe cavorts</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">408</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sprightliness masterly psychosomatics</literal>
+      </binding>
+      <binding name="comment">
+        <literal>polestar divans reconverts televises comanches unexcelled sadomasochist graecizing shabbier recondition crosse vacates creeps siltier bootstraps clunk signeted fisheye secularists legends requisitioners acerbating bantamweights jungliest asst marxist punctured estoppage impecuniously brislings according wakenings globes fishtail gyrfalcons emboldened foreordains staggy deterges drownds enshrined lands nuttiness foyers heighth guilts coequality dressier popping confessable acidulated alternative mistyping masquerades semiopaque scoffing petioles uniques wordlessly swoosh haler coupled deworm radiotelephones oxygenic trajected phoenician knowingly semipublic coppering pipings stereoscopes smoothy threading jointer seismologists kakistocracy indifference ourself peopling cussedly dotter localites hindgut disproves wangled telecast calumets upped canthi scams presser fingerlings straddles readaptation astrolabes outing allegiantly vitiates claver equalities slaker backhoe snits trendiest faunal shooting browsers milkily humanly lodging bandicoot guardsmen stoles galilei lilliput vealy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>eying</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>enclosable jughead clingier faultfinders rotational tuber ungratifying lenience undescribably infiltrations bramblier postmistresses</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helots badman woolie acrostic iller poignantly heirship zebecs steersman nonabsolute imbeds mahjongg</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>linchpin clawers houseboats alienates heartiness packsacks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">770</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>suitability luckier preconceives ostomy rinds grasslands undescribable tallyhoed biorythmic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>waxier strobic foodless rummager slitters oilskins tartufe cavorts</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">408</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sprightliness masterly psychosomatics</literal>
+      </binding>
+      <binding name="comment">
+        <literal>polestar divans reconverts televises comanches unexcelled sadomasochist graecizing shabbier recondition crosse vacates creeps siltier bootstraps clunk signeted fisheye secularists legends requisitioners acerbating bantamweights jungliest asst marxist punctured estoppage impecuniously brislings according wakenings globes fishtail gyrfalcons emboldened foreordains staggy deterges drownds enshrined lands nuttiness foyers heighth guilts coequality dressier popping confessable acidulated alternative mistyping masquerades semiopaque scoffing petioles uniques wordlessly swoosh haler coupled deworm radiotelephones oxygenic trajected phoenician knowingly semipublic coppering pipings stereoscopes smoothy threading jointer seismologists kakistocracy indifference ourself peopling cussedly dotter localites hindgut disproves wangled telecast calumets upped canthi scams presser fingerlings straddles readaptation astrolabes outing allegiantly vitiates claver equalities slaker backhoe snits trendiest faunal shooting browsers milkily humanly lodging bandicoot guardsmen stoles galilei lilliput vealy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>mesentery santonins</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>enclosable jughead clingier faultfinders rotational tuber ungratifying lenience undescribably infiltrations bramblier postmistresses</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helots badman woolie acrostic iller poignantly heirship zebecs steersman nonabsolute imbeds mahjongg</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>linchpin clawers houseboats alienates heartiness packsacks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">770</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>suitability luckier preconceives ostomy rinds grasslands undescribable tallyhoed biorythmic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>waxier strobic foodless rummager slitters oilskins tartufe cavorts</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">408</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sprightliness masterly psychosomatics</literal>
+      </binding>
+      <binding name="comment">
+        <literal>polestar divans reconverts televises comanches unexcelled sadomasochist graecizing shabbier recondition crosse vacates creeps siltier bootstraps clunk signeted fisheye secularists legends requisitioners acerbating bantamweights jungliest asst marxist punctured estoppage impecuniously brislings according wakenings globes fishtail gyrfalcons emboldened foreordains staggy deterges drownds enshrined lands nuttiness foyers heighth guilts coequality dressier popping confessable acidulated alternative mistyping masquerades semiopaque scoffing petioles uniques wordlessly swoosh haler coupled deworm radiotelephones oxygenic trajected phoenician knowingly semipublic coppering pipings stereoscopes smoothy threading jointer seismologists kakistocracy indifference ourself peopling cussedly dotter localites hindgut disproves wangled telecast calumets upped canthi scams presser fingerlings straddles readaptation astrolabes outing allegiantly vitiates claver equalities slaker backhoe snits trendiest faunal shooting browsers milkily humanly lodging bandicoot guardsmen stoles galilei lilliput vealy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>clattered</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>enclosable jughead clingier faultfinders rotational tuber ungratifying lenience undescribably infiltrations bramblier postmistresses</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helots badman woolie acrostic iller poignantly heirship zebecs steersman nonabsolute imbeds mahjongg</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>linchpin clawers houseboats alienates heartiness packsacks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">770</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>suitability luckier preconceives ostomy rinds grasslands undescribable tallyhoed biorythmic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>waxier strobic foodless rummager slitters oilskins tartufe cavorts</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">408</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sprightliness masterly psychosomatics</literal>
+      </binding>
+      <binding name="comment">
+        <literal>polestar divans reconverts televises comanches unexcelled sadomasochist graecizing shabbier recondition crosse vacates creeps siltier bootstraps clunk signeted fisheye secularists legends requisitioners acerbating bantamweights jungliest asst marxist punctured estoppage impecuniously brislings according wakenings globes fishtail gyrfalcons emboldened foreordains staggy deterges drownds enshrined lands nuttiness foyers heighth guilts coequality dressier popping confessable acidulated alternative mistyping masquerades semiopaque scoffing petioles uniques wordlessly swoosh haler coupled deworm radiotelephones oxygenic trajected phoenician knowingly semipublic coppering pipings stereoscopes smoothy threading jointer seismologists kakistocracy indifference ourself peopling cussedly dotter localites hindgut disproves wangled telecast calumets upped canthi scams presser fingerlings straddles readaptation astrolabes outing allegiantly vitiates claver equalities slaker backhoe snits trendiest faunal shooting browsers milkily humanly lodging bandicoot guardsmen stoles galilei lilliput vealy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>fantasizing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>enclosable jughead clingier faultfinders rotational tuber ungratifying lenience undescribably infiltrations bramblier postmistresses</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helots badman woolie acrostic iller poignantly heirship zebecs steersman nonabsolute imbeds mahjongg</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>linchpin clawers houseboats alienates heartiness packsacks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">770</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>suitability luckier preconceives ostomy rinds grasslands undescribable tallyhoed biorythmic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>waxier strobic foodless rummager slitters oilskins tartufe cavorts</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">408</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sprightliness masterly psychosomatics</literal>
+      </binding>
+      <binding name="comment">
+        <literal>polestar divans reconverts televises comanches unexcelled sadomasochist graecizing shabbier recondition crosse vacates creeps siltier bootstraps clunk signeted fisheye secularists legends requisitioners acerbating bantamweights jungliest asst marxist punctured estoppage impecuniously brislings according wakenings globes fishtail gyrfalcons emboldened foreordains staggy deterges drownds enshrined lands nuttiness foyers heighth guilts coequality dressier popping confessable acidulated alternative mistyping masquerades semiopaque scoffing petioles uniques wordlessly swoosh haler coupled deworm radiotelephones oxygenic trajected phoenician knowingly semipublic coppering pipings stereoscopes smoothy threading jointer seismologists kakistocracy indifference ourself peopling cussedly dotter localites hindgut disproves wangled telecast calumets upped canthi scams presser fingerlings straddles readaptation astrolabes outing allegiantly vitiates claver equalities slaker backhoe snits trendiest faunal shooting browsers milkily humanly lodging bandicoot guardsmen stoles galilei lilliput vealy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>movement</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>enclosable jughead clingier faultfinders rotational tuber ungratifying lenience undescribably infiltrations bramblier postmistresses</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helots badman woolie acrostic iller poignantly heirship zebecs steersman nonabsolute imbeds mahjongg</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>linchpin clawers houseboats alienates heartiness packsacks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">770</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>suitability luckier preconceives ostomy rinds grasslands undescribable tallyhoed biorythmic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>waxier strobic foodless rummager slitters oilskins tartufe cavorts</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">408</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sprightliness masterly psychosomatics</literal>
+      </binding>
+      <binding name="comment">
+        <literal>polestar divans reconverts televises comanches unexcelled sadomasochist graecizing shabbier recondition crosse vacates creeps siltier bootstraps clunk signeted fisheye secularists legends requisitioners acerbating bantamweights jungliest asst marxist punctured estoppage impecuniously brislings according wakenings globes fishtail gyrfalcons emboldened foreordains staggy deterges drownds enshrined lands nuttiness foyers heighth guilts coequality dressier popping confessable acidulated alternative mistyping masquerades semiopaque scoffing petioles uniques wordlessly swoosh haler coupled deworm radiotelephones oxygenic trajected phoenician knowingly semipublic coppering pipings stereoscopes smoothy threading jointer seismologists kakistocracy indifference ourself peopling cussedly dotter localites hindgut disproves wangled telecast calumets upped canthi scams presser fingerlings straddles readaptation astrolabes outing allegiantly vitiates claver equalities slaker backhoe snits trendiest faunal shooting browsers milkily humanly lodging bandicoot guardsmen stoles galilei lilliput vealy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>anatomist</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>enclosable jughead clingier faultfinders rotational tuber ungratifying lenience undescribably infiltrations bramblier postmistresses</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helots badman woolie acrostic iller poignantly heirship zebecs steersman nonabsolute imbeds mahjongg</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>linchpin clawers houseboats alienates heartiness packsacks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">770</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>suitability luckier preconceives ostomy rinds grasslands undescribable tallyhoed biorythmic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>waxier strobic foodless rummager slitters oilskins tartufe cavorts</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">408</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sprightliness masterly psychosomatics</literal>
+      </binding>
+      <binding name="comment">
+        <literal>polestar divans reconverts televises comanches unexcelled sadomasochist graecizing shabbier recondition crosse vacates creeps siltier bootstraps clunk signeted fisheye secularists legends requisitioners acerbating bantamweights jungliest asst marxist punctured estoppage impecuniously brislings according wakenings globes fishtail gyrfalcons emboldened foreordains staggy deterges drownds enshrined lands nuttiness foyers heighth guilts coequality dressier popping confessable acidulated alternative mistyping masquerades semiopaque scoffing petioles uniques wordlessly swoosh haler coupled deworm radiotelephones oxygenic trajected phoenician knowingly semipublic coppering pipings stereoscopes smoothy threading jointer seismologists kakistocracy indifference ourself peopling cussedly dotter localites hindgut disproves wangled telecast calumets upped canthi scams presser fingerlings straddles readaptation astrolabes outing allegiantly vitiates claver equalities slaker backhoe snits trendiest faunal shooting browsers milkily humanly lodging bandicoot guardsmen stoles galilei lilliput vealy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>chafferer deepener</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>enclosable jughead clingier faultfinders rotational tuber ungratifying lenience undescribably infiltrations bramblier postmistresses</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helots badman woolie acrostic iller poignantly heirship zebecs steersman nonabsolute imbeds mahjongg</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>linchpin clawers houseboats alienates heartiness packsacks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">770</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>suitability luckier preconceives ostomy rinds grasslands undescribable tallyhoed biorythmic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>waxier strobic foodless rummager slitters oilskins tartufe cavorts</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">408</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sprightliness masterly psychosomatics</literal>
+      </binding>
+      <binding name="comment">
+        <literal>polestar divans reconverts televises comanches unexcelled sadomasochist graecizing shabbier recondition crosse vacates creeps siltier bootstraps clunk signeted fisheye secularists legends requisitioners acerbating bantamweights jungliest asst marxist punctured estoppage impecuniously brislings according wakenings globes fishtail gyrfalcons emboldened foreordains staggy deterges drownds enshrined lands nuttiness foyers heighth guilts coequality dressier popping confessable acidulated alternative mistyping masquerades semiopaque scoffing petioles uniques wordlessly swoosh haler coupled deworm radiotelephones oxygenic trajected phoenician knowingly semipublic coppering pipings stereoscopes smoothy threading jointer seismologists kakistocracy indifference ourself peopling cussedly dotter localites hindgut disproves wangled telecast calumets upped canthi scams presser fingerlings straddles readaptation astrolabes outing allegiantly vitiates claver equalities slaker backhoe snits trendiest faunal shooting browsers milkily humanly lodging bandicoot guardsmen stoles galilei lilliput vealy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>guising</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>enclosable jughead clingier faultfinders rotational tuber ungratifying lenience undescribably infiltrations bramblier postmistresses</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helots badman woolie acrostic iller poignantly heirship zebecs steersman nonabsolute imbeds mahjongg</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>linchpin clawers houseboats alienates heartiness packsacks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">770</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>suitability luckier preconceives ostomy rinds grasslands undescribable tallyhoed biorythmic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>waxier strobic foodless rummager slitters oilskins tartufe cavorts</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">408</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sprightliness masterly psychosomatics</literal>
+      </binding>
+      <binding name="comment">
+        <literal>polestar divans reconverts televises comanches unexcelled sadomasochist graecizing shabbier recondition crosse vacates creeps siltier bootstraps clunk signeted fisheye secularists legends requisitioners acerbating bantamweights jungliest asst marxist punctured estoppage impecuniously brislings according wakenings globes fishtail gyrfalcons emboldened foreordains staggy deterges drownds enshrined lands nuttiness foyers heighth guilts coequality dressier popping confessable acidulated alternative mistyping masquerades semiopaque scoffing petioles uniques wordlessly swoosh haler coupled deworm radiotelephones oxygenic trajected phoenician knowingly semipublic coppering pipings stereoscopes smoothy threading jointer seismologists kakistocracy indifference ourself peopling cussedly dotter localites hindgut disproves wangled telecast calumets upped canthi scams presser fingerlings straddles readaptation astrolabes outing allegiantly vitiates claver equalities slaker backhoe snits trendiest faunal shooting browsers milkily humanly lodging bandicoot guardsmen stoles galilei lilliput vealy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sulphurs</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>enclosable jughead clingier faultfinders rotational tuber ungratifying lenience undescribably infiltrations bramblier postmistresses</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helots badman woolie acrostic iller poignantly heirship zebecs steersman nonabsolute imbeds mahjongg</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>linchpin clawers houseboats alienates heartiness packsacks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">770</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>suitability luckier preconceives ostomy rinds grasslands undescribable tallyhoed biorythmic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>waxier strobic foodless rummager slitters oilskins tartufe cavorts</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">408</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sprightliness masterly psychosomatics</literal>
+      </binding>
+      <binding name="comment">
+        <literal>polestar divans reconverts televises comanches unexcelled sadomasochist graecizing shabbier recondition crosse vacates creeps siltier bootstraps clunk signeted fisheye secularists legends requisitioners acerbating bantamweights jungliest asst marxist punctured estoppage impecuniously brislings according wakenings globes fishtail gyrfalcons emboldened foreordains staggy deterges drownds enshrined lands nuttiness foyers heighth guilts coequality dressier popping confessable acidulated alternative mistyping masquerades semiopaque scoffing petioles uniques wordlessly swoosh haler coupled deworm radiotelephones oxygenic trajected phoenician knowingly semipublic coppering pipings stereoscopes smoothy threading jointer seismologists kakistocracy indifference ourself peopling cussedly dotter localites hindgut disproves wangled telecast calumets upped canthi scams presser fingerlings straddles readaptation astrolabes outing allegiantly vitiates claver equalities slaker backhoe snits trendiest faunal shooting browsers milkily humanly lodging bandicoot guardsmen stoles galilei lilliput vealy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>obscurative</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>enclosable jughead clingier faultfinders rotational tuber ungratifying lenience undescribably infiltrations bramblier postmistresses</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helots badman woolie acrostic iller poignantly heirship zebecs steersman nonabsolute imbeds mahjongg</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>linchpin clawers houseboats alienates heartiness packsacks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">770</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>suitability luckier preconceives ostomy rinds grasslands undescribable tallyhoed biorythmic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>waxier strobic foodless rummager slitters oilskins tartufe cavorts</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">408</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sprightliness masterly psychosomatics</literal>
+      </binding>
+      <binding name="comment">
+        <literal>polestar divans reconverts televises comanches unexcelled sadomasochist graecizing shabbier recondition crosse vacates creeps siltier bootstraps clunk signeted fisheye secularists legends requisitioners acerbating bantamweights jungliest asst marxist punctured estoppage impecuniously brislings according wakenings globes fishtail gyrfalcons emboldened foreordains staggy deterges drownds enshrined lands nuttiness foyers heighth guilts coequality dressier popping confessable acidulated alternative mistyping masquerades semiopaque scoffing petioles uniques wordlessly swoosh haler coupled deworm radiotelephones oxygenic trajected phoenician knowingly semipublic coppering pipings stereoscopes smoothy threading jointer seismologists kakistocracy indifference ourself peopling cussedly dotter localites hindgut disproves wangled telecast calumets upped canthi scams presser fingerlings straddles readaptation astrolabes outing allegiantly vitiates claver equalities slaker backhoe snits trendiest faunal shooting browsers milkily humanly lodging bandicoot guardsmen stoles galilei lilliput vealy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>prattlers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>enclosable jughead clingier faultfinders rotational tuber ungratifying lenience undescribably infiltrations bramblier postmistresses</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helots badman woolie acrostic iller poignantly heirship zebecs steersman nonabsolute imbeds mahjongg</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>linchpin clawers houseboats alienates heartiness packsacks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">770</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>suitability luckier preconceives ostomy rinds grasslands undescribable tallyhoed biorythmic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>waxier strobic foodless rummager slitters oilskins tartufe cavorts</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">408</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sprightliness masterly psychosomatics</literal>
+      </binding>
+      <binding name="comment">
+        <literal>polestar divans reconverts televises comanches unexcelled sadomasochist graecizing shabbier recondition crosse vacates creeps siltier bootstraps clunk signeted fisheye secularists legends requisitioners acerbating bantamweights jungliest asst marxist punctured estoppage impecuniously brislings according wakenings globes fishtail gyrfalcons emboldened foreordains staggy deterges drownds enshrined lands nuttiness foyers heighth guilts coequality dressier popping confessable acidulated alternative mistyping masquerades semiopaque scoffing petioles uniques wordlessly swoosh haler coupled deworm radiotelephones oxygenic trajected phoenician knowingly semipublic coppering pipings stereoscopes smoothy threading jointer seismologists kakistocracy indifference ourself peopling cussedly dotter localites hindgut disproves wangled telecast calumets upped canthi scams presser fingerlings straddles readaptation astrolabes outing allegiantly vitiates claver equalities slaker backhoe snits trendiest faunal shooting browsers milkily humanly lodging bandicoot guardsmen stoles galilei lilliput vealy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>normally flavoring</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>enclosable jughead clingier faultfinders rotational tuber ungratifying lenience undescribably infiltrations bramblier postmistresses</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helots badman woolie acrostic iller poignantly heirship zebecs steersman nonabsolute imbeds mahjongg</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>linchpin clawers houseboats alienates heartiness packsacks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">770</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>suitability luckier preconceives ostomy rinds grasslands undescribable tallyhoed biorythmic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>waxier strobic foodless rummager slitters oilskins tartufe cavorts</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">408</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sprightliness masterly psychosomatics</literal>
+      </binding>
+      <binding name="comment">
+        <literal>polestar divans reconverts televises comanches unexcelled sadomasochist graecizing shabbier recondition crosse vacates creeps siltier bootstraps clunk signeted fisheye secularists legends requisitioners acerbating bantamweights jungliest asst marxist punctured estoppage impecuniously brislings according wakenings globes fishtail gyrfalcons emboldened foreordains staggy deterges drownds enshrined lands nuttiness foyers heighth guilts coequality dressier popping confessable acidulated alternative mistyping masquerades semiopaque scoffing petioles uniques wordlessly swoosh haler coupled deworm radiotelephones oxygenic trajected phoenician knowingly semipublic coppering pipings stereoscopes smoothy threading jointer seismologists kakistocracy indifference ourself peopling cussedly dotter localites hindgut disproves wangled telecast calumets upped canthi scams presser fingerlings straddles readaptation astrolabes outing allegiantly vitiates claver equalities slaker backhoe snits trendiest faunal shooting browsers milkily humanly lodging bandicoot guardsmen stoles galilei lilliput vealy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dangerousness mortis unsubstantiated</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>enclosable jughead clingier faultfinders rotational tuber ungratifying lenience undescribably infiltrations bramblier postmistresses</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helots badman woolie acrostic iller poignantly heirship zebecs steersman nonabsolute imbeds mahjongg</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>linchpin clawers houseboats alienates heartiness packsacks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">770</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>suitability luckier preconceives ostomy rinds grasslands undescribable tallyhoed biorythmic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>waxier strobic foodless rummager slitters oilskins tartufe cavorts</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">408</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sprightliness masterly psychosomatics</literal>
+      </binding>
+      <binding name="comment">
+        <literal>polestar divans reconverts televises comanches unexcelled sadomasochist graecizing shabbier recondition crosse vacates creeps siltier bootstraps clunk signeted fisheye secularists legends requisitioners acerbating bantamweights jungliest asst marxist punctured estoppage impecuniously brislings according wakenings globes fishtail gyrfalcons emboldened foreordains staggy deterges drownds enshrined lands nuttiness foyers heighth guilts coequality dressier popping confessable acidulated alternative mistyping masquerades semiopaque scoffing petioles uniques wordlessly swoosh haler coupled deworm radiotelephones oxygenic trajected phoenician knowingly semipublic coppering pipings stereoscopes smoothy threading jointer seismologists kakistocracy indifference ourself peopling cussedly dotter localites hindgut disproves wangled telecast calumets upped canthi scams presser fingerlings straddles readaptation astrolabes outing allegiantly vitiates claver equalities slaker backhoe snits trendiest faunal shooting browsers milkily humanly lodging bandicoot guardsmen stoles galilei lilliput vealy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>fussier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>enclosable jughead clingier faultfinders rotational tuber ungratifying lenience undescribably infiltrations bramblier postmistresses</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helots badman woolie acrostic iller poignantly heirship zebecs steersman nonabsolute imbeds mahjongg</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>linchpin clawers houseboats alienates heartiness packsacks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">770</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>suitability luckier preconceives ostomy rinds grasslands undescribable tallyhoed biorythmic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>waxier strobic foodless rummager slitters oilskins tartufe cavorts</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">408</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>sprightliness masterly psychosomatics</literal>
+      </binding>
+      <binding name="comment">
+        <literal>polestar divans reconverts televises comanches unexcelled sadomasochist graecizing shabbier recondition crosse vacates creeps siltier bootstraps clunk signeted fisheye secularists legends requisitioners acerbating bantamweights jungliest asst marxist punctured estoppage impecuniously brislings according wakenings globes fishtail gyrfalcons emboldened foreordains staggy deterges drownds enshrined lands nuttiness foyers heighth guilts coequality dressier popping confessable acidulated alternative mistyping masquerades semiopaque scoffing petioles uniques wordlessly swoosh haler coupled deworm radiotelephones oxygenic trajected phoenician knowingly semipublic coppering pipings stereoscopes smoothy threading jointer seismologists kakistocracy indifference ourself peopling cussedly dotter localites hindgut disproves wangled telecast calumets upped canthi scams presser fingerlings straddles readaptation astrolabes outing allegiantly vitiates claver equalities slaker backhoe snits trendiest faunal shooting browsers milkily humanly lodging bandicoot guardsmen stoles galilei lilliput vealy</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>containers pailful</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>enclosable jughead clingier faultfinders rotational tuber ungratifying lenience undescribably infiltrations bramblier postmistresses</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helots badman woolie acrostic iller poignantly heirship zebecs steersman nonabsolute imbeds mahjongg</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>linchpin clawers houseboats alienates heartiness packsacks</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">770</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">607</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>suitability luckier preconceives ostomy rinds grasslands undescribable tallyhoed biorythmic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>waxier strobic foodless rummager slitters oilskins tartufe cavorts</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">408</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

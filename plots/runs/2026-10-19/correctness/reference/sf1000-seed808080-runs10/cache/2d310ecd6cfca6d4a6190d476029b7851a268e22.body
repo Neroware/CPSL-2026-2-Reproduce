@@ -1,0 +1,665 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>substituting meriting detesting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bikeways vanman scantiest artiste timings supermen pirated chemotropism lifesaver renigs visoring hindquarter rustication milder interludes sipping molested jests sheikh sleekness nettier equalling friendliness tambourines reglaze victoriousness anomalies roughens auburns discards convergency instils visuals nonabrasively lungers ablating congos endorser cubiform heavies inbreeds syringing despotism unprofessionally telegraphically biddies alkalinize unoffered shakes digitalized inkstand fletches pygmies preadjustments limes resumer casa titbits alinement sandblasted favorableness retrospectives embraces glider robes marines holistic snailed chicaneries misadministration lowlands modulators fridays fidgeter fromage exalter stags nonprocedural fax musher vivant laryngotracheal extincts dreamless nonviolation preparatorily bucko clocks curative labials multiplicands symphonies badging cornify pietist falling footlockers papayan sadisms drawer unquenched serumal whats ethologies carbonize dalles overdecorates deflection grantsmen marcelled friarly pentathlons excisemen toller graveled opposites immortalizing jurisdictionally wooding antiquer memorizer rapes wordily salsa gingerly propagandistic dojos contortionists grossest pierces commiseratively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>biographies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hafts unaffectedly normalizer gyrator pyrenes stamped narcissistically petalled sedateness purposeless leafs keelhauled underpinnings keypunches</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helpfully lymphs incitants axletree spottier caltrap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>jackboots lived physicians eschalot moodily chirped hallucinative toyon peasants</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pentateuchal newspapers dirtiness</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>britons weaned peekaboo prestidigitation adorability scupper burins peeved chintzes fulfiller sowable headlocks peepers habitably resoluteness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>substituting meriting detesting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bikeways vanman scantiest artiste timings supermen pirated chemotropism lifesaver renigs visoring hindquarter rustication milder interludes sipping molested jests sheikh sleekness nettier equalling friendliness tambourines reglaze victoriousness anomalies roughens auburns discards convergency instils visuals nonabrasively lungers ablating congos endorser cubiform heavies inbreeds syringing despotism unprofessionally telegraphically biddies alkalinize unoffered shakes digitalized inkstand fletches pygmies preadjustments limes resumer casa titbits alinement sandblasted favorableness retrospectives embraces glider robes marines holistic snailed chicaneries misadministration lowlands modulators fridays fidgeter fromage exalter stags nonprocedural fax musher vivant laryngotracheal extincts dreamless nonviolation preparatorily bucko clocks curative labials multiplicands symphonies badging cornify pietist falling footlockers papayan sadisms drawer unquenched serumal whats ethologies carbonize dalles overdecorates deflection grantsmen marcelled friarly pentathlons excisemen toller graveled opposites immortalizing jurisdictionally wooding antiquer memorizer rapes wordily salsa gingerly propagandistic dojos contortionists grossest pierces commiseratively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>entoiling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hafts unaffectedly normalizer gyrator pyrenes stamped narcissistically petalled sedateness purposeless leafs keelhauled underpinnings keypunches</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helpfully lymphs incitants axletree spottier caltrap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>jackboots lived physicians eschalot moodily chirped hallucinative toyon peasants</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pentateuchal newspapers dirtiness</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>britons weaned peekaboo prestidigitation adorability scupper burins peeved chintzes fulfiller sowable headlocks peepers habitably resoluteness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>substituting meriting detesting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bikeways vanman scantiest artiste timings supermen pirated chemotropism lifesaver renigs visoring hindquarter rustication milder interludes sipping molested jests sheikh sleekness nettier equalling friendliness tambourines reglaze victoriousness anomalies roughens auburns discards convergency instils visuals nonabrasively lungers ablating congos endorser cubiform heavies inbreeds syringing despotism unprofessionally telegraphically biddies alkalinize unoffered shakes digitalized inkstand fletches pygmies preadjustments limes resumer casa titbits alinement sandblasted favorableness retrospectives embraces glider robes marines holistic snailed chicaneries misadministration lowlands modulators fridays fidgeter fromage exalter stags nonprocedural fax musher vivant laryngotracheal extincts dreamless nonviolation preparatorily bucko clocks curative labials multiplicands symphonies badging cornify pietist falling footlockers papayan sadisms drawer unquenched serumal whats ethologies carbonize dalles overdecorates deflection grantsmen marcelled friarly pentathlons excisemen toller graveled opposites immortalizing jurisdictionally wooding antiquer memorizer rapes wordily salsa gingerly propagandistic dojos contortionists grossest pierces commiseratively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>nonparliamentary loaches</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hafts unaffectedly normalizer gyrator pyrenes stamped narcissistically petalled sedateness purposeless leafs keelhauled underpinnings keypunches</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helpfully lymphs incitants axletree spottier caltrap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>jackboots lived physicians eschalot moodily chirped hallucinative toyon peasants</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pentateuchal newspapers dirtiness</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>britons weaned peekaboo prestidigitation adorability scupper burins peeved chintzes fulfiller sowable headlocks peepers habitably resoluteness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>substituting meriting detesting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bikeways vanman scantiest artiste timings supermen pirated chemotropism lifesaver renigs visoring hindquarter rustication milder interludes sipping molested jests sheikh sleekness nettier equalling friendliness tambourines reglaze victoriousness anomalies roughens auburns discards convergency instils visuals nonabrasively lungers ablating congos endorser cubiform heavies inbreeds syringing despotism unprofessionally telegraphically biddies alkalinize unoffered shakes digitalized inkstand fletches pygmies preadjustments limes resumer casa titbits alinement sandblasted favorableness retrospectives embraces glider robes marines holistic snailed chicaneries misadministration lowlands modulators fridays fidgeter fromage exalter stags nonprocedural fax musher vivant laryngotracheal extincts dreamless nonviolation preparatorily bucko clocks curative labials multiplicands symphonies badging cornify pietist falling footlockers papayan sadisms drawer unquenched serumal whats ethologies carbonize dalles overdecorates deflection grantsmen marcelled friarly pentathlons excisemen toller graveled opposites immortalizing jurisdictionally wooding antiquer memorizer rapes wordily salsa gingerly propagandistic dojos contortionists grossest pierces commiseratively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gadgeteers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hafts unaffectedly normalizer gyrator pyrenes stamped narcissistically petalled sedateness purposeless leafs keelhauled underpinnings keypunches</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helpfully lymphs incitants axletree spottier caltrap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>jackboots lived physicians eschalot moodily chirped hallucinative toyon peasants</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pentateuchal newspapers dirtiness</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>britons weaned peekaboo prestidigitation adorability scupper burins peeved chintzes fulfiller sowable headlocks peepers habitably resoluteness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>substituting meriting detesting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bikeways vanman scantiest artiste timings supermen pirated chemotropism lifesaver renigs visoring hindquarter rustication milder interludes sipping molested jests sheikh sleekness nettier equalling friendliness tambourines reglaze victoriousness anomalies roughens auburns discards convergency instils visuals nonabrasively lungers ablating congos endorser cubiform heavies inbreeds syringing despotism unprofessionally telegraphically biddies alkalinize unoffered shakes digitalized inkstand fletches pygmies preadjustments limes resumer casa titbits alinement sandblasted favorableness retrospectives embraces glider robes marines holistic snailed chicaneries misadministration lowlands modulators fridays fidgeter fromage exalter stags nonprocedural fax musher vivant laryngotracheal extincts dreamless nonviolation preparatorily bucko clocks curative labials multiplicands symphonies badging cornify pietist falling footlockers papayan sadisms drawer unquenched serumal whats ethologies carbonize dalles overdecorates deflection grantsmen marcelled friarly pentathlons excisemen toller graveled opposites immortalizing jurisdictionally wooding antiquer memorizer rapes wordily salsa gingerly propagandistic dojos contortionists grossest pierces commiseratively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>repeated coroners depilate</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hafts unaffectedly normalizer gyrator pyrenes stamped narcissistically petalled sedateness purposeless leafs keelhauled underpinnings keypunches</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helpfully lymphs incitants axletree spottier caltrap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>jackboots lived physicians eschalot moodily chirped hallucinative toyon peasants</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pentateuchal newspapers dirtiness</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>britons weaned peekaboo prestidigitation adorability scupper burins peeved chintzes fulfiller sowable headlocks peepers habitably resoluteness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>substituting meriting detesting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bikeways vanman scantiest artiste timings supermen pirated chemotropism lifesaver renigs visoring hindquarter rustication milder interludes sipping molested jests sheikh sleekness nettier equalling friendliness tambourines reglaze victoriousness anomalies roughens auburns discards convergency instils visuals nonabrasively lungers ablating congos endorser cubiform heavies inbreeds syringing despotism unprofessionally telegraphically biddies alkalinize unoffered shakes digitalized inkstand fletches pygmies preadjustments limes resumer casa titbits alinement sandblasted favorableness retrospectives embraces glider robes marines holistic snailed chicaneries misadministration lowlands modulators fridays fidgeter fromage exalter stags nonprocedural fax musher vivant laryngotracheal extincts dreamless nonviolation preparatorily bucko clocks curative labials multiplicands symphonies badging cornify pietist falling footlockers papayan sadisms drawer unquenched serumal whats ethologies carbonize dalles overdecorates deflection grantsmen marcelled friarly pentathlons excisemen toller graveled opposites immortalizing jurisdictionally wooding antiquer memorizer rapes wordily salsa gingerly propagandistic dojos contortionists grossest pierces commiseratively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sorbet subprovinces</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hafts unaffectedly normalizer gyrator pyrenes stamped narcissistically petalled sedateness purposeless leafs keelhauled underpinnings keypunches</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helpfully lymphs incitants axletree spottier caltrap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>jackboots lived physicians eschalot moodily chirped hallucinative toyon peasants</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pentateuchal newspapers dirtiness</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>britons weaned peekaboo prestidigitation adorability scupper burins peeved chintzes fulfiller sowable headlocks peepers habitably resoluteness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>substituting meriting detesting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bikeways vanman scantiest artiste timings supermen pirated chemotropism lifesaver renigs visoring hindquarter rustication milder interludes sipping molested jests sheikh sleekness nettier equalling friendliness tambourines reglaze victoriousness anomalies roughens auburns discards convergency instils visuals nonabrasively lungers ablating congos endorser cubiform heavies inbreeds syringing despotism unprofessionally telegraphically biddies alkalinize unoffered shakes digitalized inkstand fletches pygmies preadjustments limes resumer casa titbits alinement sandblasted favorableness retrospectives embraces glider robes marines holistic snailed chicaneries misadministration lowlands modulators fridays fidgeter fromage exalter stags nonprocedural fax musher vivant laryngotracheal extincts dreamless nonviolation preparatorily bucko clocks curative labials multiplicands symphonies badging cornify pietist falling footlockers papayan sadisms drawer unquenched serumal whats ethologies carbonize dalles overdecorates deflection grantsmen marcelled friarly pentathlons excisemen toller graveled opposites immortalizing jurisdictionally wooding antiquer memorizer rapes wordily salsa gingerly propagandistic dojos contortionists grossest pierces commiseratively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>labially cogence</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hafts unaffectedly normalizer gyrator pyrenes stamped narcissistically petalled sedateness purposeless leafs keelhauled underpinnings keypunches</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helpfully lymphs incitants axletree spottier caltrap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>jackboots lived physicians eschalot moodily chirped hallucinative toyon peasants</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pentateuchal newspapers dirtiness</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>britons weaned peekaboo prestidigitation adorability scupper burins peeved chintzes fulfiller sowable headlocks peepers habitably resoluteness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>substituting meriting detesting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bikeways vanman scantiest artiste timings supermen pirated chemotropism lifesaver renigs visoring hindquarter rustication milder interludes sipping molested jests sheikh sleekness nettier equalling friendliness tambourines reglaze victoriousness anomalies roughens auburns discards convergency instils visuals nonabrasively lungers ablating congos endorser cubiform heavies inbreeds syringing despotism unprofessionally telegraphically biddies alkalinize unoffered shakes digitalized inkstand fletches pygmies preadjustments limes resumer casa titbits alinement sandblasted favorableness retrospectives embraces glider robes marines holistic snailed chicaneries misadministration lowlands modulators fridays fidgeter fromage exalter stags nonprocedural fax musher vivant laryngotracheal extincts dreamless nonviolation preparatorily bucko clocks curative labials multiplicands symphonies badging cornify pietist falling footlockers papayan sadisms drawer unquenched serumal whats ethologies carbonize dalles overdecorates deflection grantsmen marcelled friarly pentathlons excisemen toller graveled opposites immortalizing jurisdictionally wooding antiquer memorizer rapes wordily salsa gingerly propagandistic dojos contortionists grossest pierces commiseratively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hushed antibiotic grabbier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hafts unaffectedly normalizer gyrator pyrenes stamped narcissistically petalled sedateness purposeless leafs keelhauled underpinnings keypunches</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helpfully lymphs incitants axletree spottier caltrap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>jackboots lived physicians eschalot moodily chirped hallucinative toyon peasants</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pentateuchal newspapers dirtiness</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>britons weaned peekaboo prestidigitation adorability scupper burins peeved chintzes fulfiller sowable headlocks peepers habitably resoluteness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>substituting meriting detesting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bikeways vanman scantiest artiste timings supermen pirated chemotropism lifesaver renigs visoring hindquarter rustication milder interludes sipping molested jests sheikh sleekness nettier equalling friendliness tambourines reglaze victoriousness anomalies roughens auburns discards convergency instils visuals nonabrasively lungers ablating congos endorser cubiform heavies inbreeds syringing despotism unprofessionally telegraphically biddies alkalinize unoffered shakes digitalized inkstand fletches pygmies preadjustments limes resumer casa titbits alinement sandblasted favorableness retrospectives embraces glider robes marines holistic snailed chicaneries misadministration lowlands modulators fridays fidgeter fromage exalter stags nonprocedural fax musher vivant laryngotracheal extincts dreamless nonviolation preparatorily bucko clocks curative labials multiplicands symphonies badging cornify pietist falling footlockers papayan sadisms drawer unquenched serumal whats ethologies carbonize dalles overdecorates deflection grantsmen marcelled friarly pentathlons excisemen toller graveled opposites immortalizing jurisdictionally wooding antiquer memorizer rapes wordily salsa gingerly propagandistic dojos contortionists grossest pierces commiseratively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>noiseless memorizing enzymologist</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hafts unaffectedly normalizer gyrator pyrenes stamped narcissistically petalled sedateness purposeless leafs keelhauled underpinnings keypunches</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helpfully lymphs incitants axletree spottier caltrap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>jackboots lived physicians eschalot moodily chirped hallucinative toyon peasants</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pentateuchal newspapers dirtiness</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>britons weaned peekaboo prestidigitation adorability scupper burins peeved chintzes fulfiller sowable headlocks peepers habitably resoluteness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>substituting meriting detesting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bikeways vanman scantiest artiste timings supermen pirated chemotropism lifesaver renigs visoring hindquarter rustication milder interludes sipping molested jests sheikh sleekness nettier equalling friendliness tambourines reglaze victoriousness anomalies roughens auburns discards convergency instils visuals nonabrasively lungers ablating congos endorser cubiform heavies inbreeds syringing despotism unprofessionally telegraphically biddies alkalinize unoffered shakes digitalized inkstand fletches pygmies preadjustments limes resumer casa titbits alinement sandblasted favorableness retrospectives embraces glider robes marines holistic snailed chicaneries misadministration lowlands modulators fridays fidgeter fromage exalter stags nonprocedural fax musher vivant laryngotracheal extincts dreamless nonviolation preparatorily bucko clocks curative labials multiplicands symphonies badging cornify pietist falling footlockers papayan sadisms drawer unquenched serumal whats ethologies carbonize dalles overdecorates deflection grantsmen marcelled friarly pentathlons excisemen toller graveled opposites immortalizing jurisdictionally wooding antiquer memorizer rapes wordily salsa gingerly propagandistic dojos contortionists grossest pierces commiseratively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>manner</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hafts unaffectedly normalizer gyrator pyrenes stamped narcissistically petalled sedateness purposeless leafs keelhauled underpinnings keypunches</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helpfully lymphs incitants axletree spottier caltrap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>jackboots lived physicians eschalot moodily chirped hallucinative toyon peasants</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pentateuchal newspapers dirtiness</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>britons weaned peekaboo prestidigitation adorability scupper burins peeved chintzes fulfiller sowable headlocks peepers habitably resoluteness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>substituting meriting detesting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bikeways vanman scantiest artiste timings supermen pirated chemotropism lifesaver renigs visoring hindquarter rustication milder interludes sipping molested jests sheikh sleekness nettier equalling friendliness tambourines reglaze victoriousness anomalies roughens auburns discards convergency instils visuals nonabrasively lungers ablating congos endorser cubiform heavies inbreeds syringing despotism unprofessionally telegraphically biddies alkalinize unoffered shakes digitalized inkstand fletches pygmies preadjustments limes resumer casa titbits alinement sandblasted favorableness retrospectives embraces glider robes marines holistic snailed chicaneries misadministration lowlands modulators fridays fidgeter fromage exalter stags nonprocedural fax musher vivant laryngotracheal extincts dreamless nonviolation preparatorily bucko clocks curative labials multiplicands symphonies badging cornify pietist falling footlockers papayan sadisms drawer unquenched serumal whats ethologies carbonize dalles overdecorates deflection grantsmen marcelled friarly pentathlons excisemen toller graveled opposites immortalizing jurisdictionally wooding antiquer memorizer rapes wordily salsa gingerly propagandistic dojos contortionists grossest pierces commiseratively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>reexhibit</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hafts unaffectedly normalizer gyrator pyrenes stamped narcissistically petalled sedateness purposeless leafs keelhauled underpinnings keypunches</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helpfully lymphs incitants axletree spottier caltrap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>jackboots lived physicians eschalot moodily chirped hallucinative toyon peasants</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pentateuchal newspapers dirtiness</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>britons weaned peekaboo prestidigitation adorability scupper burins peeved chintzes fulfiller sowable headlocks peepers habitably resoluteness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>substituting meriting detesting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bikeways vanman scantiest artiste timings supermen pirated chemotropism lifesaver renigs visoring hindquarter rustication milder interludes sipping molested jests sheikh sleekness nettier equalling friendliness tambourines reglaze victoriousness anomalies roughens auburns discards convergency instils visuals nonabrasively lungers ablating congos endorser cubiform heavies inbreeds syringing despotism unprofessionally telegraphically biddies alkalinize unoffered shakes digitalized inkstand fletches pygmies preadjustments limes resumer casa titbits alinement sandblasted favorableness retrospectives embraces glider robes marines holistic snailed chicaneries misadministration lowlands modulators fridays fidgeter fromage exalter stags nonprocedural fax musher vivant laryngotracheal extincts dreamless nonviolation preparatorily bucko clocks curative labials multiplicands symphonies badging cornify pietist falling footlockers papayan sadisms drawer unquenched serumal whats ethologies carbonize dalles overdecorates deflection grantsmen marcelled friarly pentathlons excisemen toller graveled opposites immortalizing jurisdictionally wooding antiquer memorizer rapes wordily salsa gingerly propagandistic dojos contortionists grossest pierces commiseratively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>vacillator</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hafts unaffectedly normalizer gyrator pyrenes stamped narcissistically petalled sedateness purposeless leafs keelhauled underpinnings keypunches</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helpfully lymphs incitants axletree spottier caltrap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>jackboots lived physicians eschalot moodily chirped hallucinative toyon peasants</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pentateuchal newspapers dirtiness</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>britons weaned peekaboo prestidigitation adorability scupper burins peeved chintzes fulfiller sowable headlocks peepers habitably resoluteness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>substituting meriting detesting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bikeways vanman scantiest artiste timings supermen pirated chemotropism lifesaver renigs visoring hindquarter rustication milder interludes sipping molested jests sheikh sleekness nettier equalling friendliness tambourines reglaze victoriousness anomalies roughens auburns discards convergency instils visuals nonabrasively lungers ablating congos endorser cubiform heavies inbreeds syringing despotism unprofessionally telegraphically biddies alkalinize unoffered shakes digitalized inkstand fletches pygmies preadjustments limes resumer casa titbits alinement sandblasted favorableness retrospectives embraces glider robes marines holistic snailed chicaneries misadministration lowlands modulators fridays fidgeter fromage exalter stags nonprocedural fax musher vivant laryngotracheal extincts dreamless nonviolation preparatorily bucko clocks curative labials multiplicands symphonies badging cornify pietist falling footlockers papayan sadisms drawer unquenched serumal whats ethologies carbonize dalles overdecorates deflection grantsmen marcelled friarly pentathlons excisemen toller graveled opposites immortalizing jurisdictionally wooding antiquer memorizer rapes wordily salsa gingerly propagandistic dojos contortionists grossest pierces commiseratively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>haircutting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hafts unaffectedly normalizer gyrator pyrenes stamped narcissistically petalled sedateness purposeless leafs keelhauled underpinnings keypunches</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helpfully lymphs incitants axletree spottier caltrap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>jackboots lived physicians eschalot moodily chirped hallucinative toyon peasants</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pentateuchal newspapers dirtiness</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>britons weaned peekaboo prestidigitation adorability scupper burins peeved chintzes fulfiller sowable headlocks peepers habitably resoluteness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>substituting meriting detesting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bikeways vanman scantiest artiste timings supermen pirated chemotropism lifesaver renigs visoring hindquarter rustication milder interludes sipping molested jests sheikh sleekness nettier equalling friendliness tambourines reglaze victoriousness anomalies roughens auburns discards convergency instils visuals nonabrasively lungers ablating congos endorser cubiform heavies inbreeds syringing despotism unprofessionally telegraphically biddies alkalinize unoffered shakes digitalized inkstand fletches pygmies preadjustments limes resumer casa titbits alinement sandblasted favorableness retrospectives embraces glider robes marines holistic snailed chicaneries misadministration lowlands modulators fridays fidgeter fromage exalter stags nonprocedural fax musher vivant laryngotracheal extincts dreamless nonviolation preparatorily bucko clocks curative labials multiplicands symphonies badging cornify pietist falling footlockers papayan sadisms drawer unquenched serumal whats ethologies carbonize dalles overdecorates deflection grantsmen marcelled friarly pentathlons excisemen toller graveled opposites immortalizing jurisdictionally wooding antiquer memorizer rapes wordily salsa gingerly propagandistic dojos contortionists grossest pierces commiseratively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>exerts pollinated</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hafts unaffectedly normalizer gyrator pyrenes stamped narcissistically petalled sedateness purposeless leafs keelhauled underpinnings keypunches</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helpfully lymphs incitants axletree spottier caltrap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>jackboots lived physicians eschalot moodily chirped hallucinative toyon peasants</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pentateuchal newspapers dirtiness</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>britons weaned peekaboo prestidigitation adorability scupper burins peeved chintzes fulfiller sowable headlocks peepers habitably resoluteness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>substituting meriting detesting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bikeways vanman scantiest artiste timings supermen pirated chemotropism lifesaver renigs visoring hindquarter rustication milder interludes sipping molested jests sheikh sleekness nettier equalling friendliness tambourines reglaze victoriousness anomalies roughens auburns discards convergency instils visuals nonabrasively lungers ablating congos endorser cubiform heavies inbreeds syringing despotism unprofessionally telegraphically biddies alkalinize unoffered shakes digitalized inkstand fletches pygmies preadjustments limes resumer casa titbits alinement sandblasted favorableness retrospectives embraces glider robes marines holistic snailed chicaneries misadministration lowlands modulators fridays fidgeter fromage exalter stags nonprocedural fax musher vivant laryngotracheal extincts dreamless nonviolation preparatorily bucko clocks curative labials multiplicands symphonies badging cornify pietist falling footlockers papayan sadisms drawer unquenched serumal whats ethologies carbonize dalles overdecorates deflection grantsmen marcelled friarly pentathlons excisemen toller graveled opposites immortalizing jurisdictionally wooding antiquer memorizer rapes wordily salsa gingerly propagandistic dojos contortionists grossest pierces commiseratively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>substandard banked interacts</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hafts unaffectedly normalizer gyrator pyrenes stamped narcissistically petalled sedateness purposeless leafs keelhauled underpinnings keypunches</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helpfully lymphs incitants axletree spottier caltrap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>jackboots lived physicians eschalot moodily chirped hallucinative toyon peasants</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pentateuchal newspapers dirtiness</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>britons weaned peekaboo prestidigitation adorability scupper burins peeved chintzes fulfiller sowable headlocks peepers habitably resoluteness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>substituting meriting detesting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bikeways vanman scantiest artiste timings supermen pirated chemotropism lifesaver renigs visoring hindquarter rustication milder interludes sipping molested jests sheikh sleekness nettier equalling friendliness tambourines reglaze victoriousness anomalies roughens auburns discards convergency instils visuals nonabrasively lungers ablating congos endorser cubiform heavies inbreeds syringing despotism unprofessionally telegraphically biddies alkalinize unoffered shakes digitalized inkstand fletches pygmies preadjustments limes resumer casa titbits alinement sandblasted favorableness retrospectives embraces glider robes marines holistic snailed chicaneries misadministration lowlands modulators fridays fidgeter fromage exalter stags nonprocedural fax musher vivant laryngotracheal extincts dreamless nonviolation preparatorily bucko clocks curative labials multiplicands symphonies badging cornify pietist falling footlockers papayan sadisms drawer unquenched serumal whats ethologies carbonize dalles overdecorates deflection grantsmen marcelled friarly pentathlons excisemen toller graveled opposites immortalizing jurisdictionally wooding antiquer memorizer rapes wordily salsa gingerly propagandistic dojos contortionists grossest pierces commiseratively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tollgates frontward hemmer</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hafts unaffectedly normalizer gyrator pyrenes stamped narcissistically petalled sedateness purposeless leafs keelhauled underpinnings keypunches</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helpfully lymphs incitants axletree spottier caltrap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>jackboots lived physicians eschalot moodily chirped hallucinative toyon peasants</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pentateuchal newspapers dirtiness</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>britons weaned peekaboo prestidigitation adorability scupper burins peeved chintzes fulfiller sowable headlocks peepers habitably resoluteness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>substituting meriting detesting</literal>
+      </binding>
+      <binding name="comment">
+        <literal>bikeways vanman scantiest artiste timings supermen pirated chemotropism lifesaver renigs visoring hindquarter rustication milder interludes sipping molested jests sheikh sleekness nettier equalling friendliness tambourines reglaze victoriousness anomalies roughens auburns discards convergency instils visuals nonabrasively lungers ablating congos endorser cubiform heavies inbreeds syringing despotism unprofessionally telegraphically biddies alkalinize unoffered shakes digitalized inkstand fletches pygmies preadjustments limes resumer casa titbits alinement sandblasted favorableness retrospectives embraces glider robes marines holistic snailed chicaneries misadministration lowlands modulators fridays fidgeter fromage exalter stags nonprocedural fax musher vivant laryngotracheal extincts dreamless nonviolation preparatorily bucko clocks curative labials multiplicands symphonies badging cornify pietist falling footlockers papayan sadisms drawer unquenched serumal whats ethologies carbonize dalles overdecorates deflection grantsmen marcelled friarly pentathlons excisemen toller graveled opposites immortalizing jurisdictionally wooding antiquer memorizer rapes wordily salsa gingerly propagandistic dojos contortionists grossest pierces commiseratively</literal>
+      </binding>
+      <binding name="producer">
+        <literal>velcro shying enticements</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>idylists</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>hafts unaffectedly normalizer gyrator pyrenes stamped narcissistically petalled sedateness purposeless leafs keelhauled underpinnings keypunches</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>helpfully lymphs incitants axletree spottier caltrap</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>jackboots lived physicians eschalot moodily chirped hallucinative toyon peasants</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1722</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">779</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>pentateuchal newspapers dirtiness</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>britons weaned peekaboo prestidigitation adorability scupper burins peeved chintzes fulfiller sowable headlocks peepers habitably resoluteness</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1213</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

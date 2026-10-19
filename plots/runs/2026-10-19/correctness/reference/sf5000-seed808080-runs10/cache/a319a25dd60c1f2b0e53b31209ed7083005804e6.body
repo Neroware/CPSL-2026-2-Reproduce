@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="text"/>
+    <variable name="reviewDate"/>
+    <variable name="reviewer"/>
+    <variable name="reviewerName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+    <variable name="rating3"/>
+    <variable name="rating4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="title">
+        <literal>retributing chorussed aliquots innocency unsupportedly overstocks quaffing gelidly practicably mutters substantiae filmsets overeducate</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">lusher caddies assurer fumigations attainer wedding zees superscribed statist ripcords denuclearization unscrupulousness tautens imitators swinged affecter crayoned visoring weaklier ashier sociability obliquities eddies chinned haggises velveteen loops visiter supernovas snickers pard overcapitalizes freezers subindexes achievements superintendence mutating genevas lamentably trashmen rad misspells unserviceable fashes birthmark reekier carryings perigees cemented ballots plans neutralistic foodless tumbrils okapis colostomies tetrahedrons helicopts texases nattering onions semicolons statisms critical scandalled tenseness electrotheraputically crocheted alcoved bleeped arointed outlandishly extorted chippewas judgement suavely theatricals incrusted surliest latencies coverages teetotums differently supes cuffless contradictions negotiated dialoguing capacitances carillonneurs plebescite platooning oversubscribes jongleur carabineer blusterer extending smashers shepherds alkalis tympans curatives storages acetates lusciously profanities quaintness mahjonggs abdicating</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-03-09T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer1009</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Cary-Korenaga</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>tumultus chagrinned folders hideousness</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">judicially forbad hawkeys generative demoting iodize broncobuster incredibilities interviews carcinomata calories operas vanquishes enmities casing toughie midnights plies icefall diabolo sloppier magdalenes overdosed aquavits hypochondriac mudded prewar swamped tellership ixtles colostrum substantiveness coccyx decompensating heartened warmths outclassing blessings piasters matricidal unresistant vapours optimise cheekier absorbed gloried troubling moistureless topsoils preaccustom denigrator naughts brachycephalic imbalmers foldboat mercurialness boner tweeters deltoids antennal envision merciless dispatchers yarely lockbox sneakily unrestrainedly hypoderm mahouts substations rebinds materialities frightens pumpkins unsupervised spoliator swearer indoctrinated sandstorm enroller brooked asphyxiates indoctrinated circumnavigate</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-10-25T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer990</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Josephina-Koji</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

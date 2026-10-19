@@ -1,0 +1,715 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>chiseled deair</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>detoxifier schmoos coddles</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>muskmelons</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bruskness stereoscopical hurried</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dentals underestimating editions</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>deceiver</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>extender shrivelling nannie</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>feminacies dribbed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>turbocar rabelaisian</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>skinniness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>exulted bravuras</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>postbag</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>expanded</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ruling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>mercurochrome commanded royalist</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>taw neutrinos</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>deflection goon</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>subspecific</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>slaked smuttiness waveforms</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>brickyard understatement schlepp</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pops preoperative molestations</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tenoners princedom</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lightfaced foggers escapable</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>grammarians</literal>
+      </binding>
+      <binding name="comment">
+        <literal>precedable wifeless microsystems untangles nightmen adjudicatory quos fouling mopes tbs fossillike counselling shutoffs daylit pancaked nonentities wiling saliencies agnostics barographic sutures goosing plumaged exampling gelt neocolonially swordman peyotyls wirehair crowdies dissociation crenelates hijacks nacres chitling favorable gawker diabolical monoxides clippers rehammered stepdown breaks judicially jerseyite stalag tricksy unrepressed systematized maligns redox seraphic vied moussakas stimy shadowgraph swords woes vireo aboves humdinger irradiation amphitheaters grandstander populates crusted snitches sallowy squasher trumps adulterers discontinuities afrikaans desalinized distr triangulator tritone contractually sunning tenors recalcitrances intertropical scrimpy staggerer snouted abilities dramatically scrimshaws poleaxed couplets bohemias metropolitanize inveteracy mothballs unpedigreed hydroplanes dadoing acnes fattest elusively tuberose threaders friendless enmeshments inaner jacquards rigamarole fenestrae segregates chowing scantily heist cookable smokestacks horseshoers coteries butterfingered bronzings scabbier ours</literal>
+      </binding>
+      <binding name="producer">
+        <literal>originated</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>hucks</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>desensitization caffein lathier sardines harshened seafronts dishy superannuity pimpernels</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>canonically nonsuccessive enumerated</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>obviously somewise visualized raggedly garaged percolating electrogram</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1074</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">225</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

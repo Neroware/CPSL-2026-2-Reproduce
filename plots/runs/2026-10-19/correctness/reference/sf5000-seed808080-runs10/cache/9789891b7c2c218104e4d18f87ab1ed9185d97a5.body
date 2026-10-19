@@ -1,0 +1,855 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tirelessness pesters brutishness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>maidhoods typographers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>yearling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>relegates boer linguinis</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>azurites</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>soleness optometer</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>currents underclad</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>whippets bears loitering</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>liturgically scrollwork</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>freezer</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>rambling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>straws</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>taunting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>shakiness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pipelining sensibleness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inducer</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>medicating emptive fibrillations</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sententiously arduousness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unappeasable screams</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>concertos titrators noodling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pails welder</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>primed revelational headgears</literal>
+      </binding>
+      <binding name="comment">
+        <literal>scarab pointedly revindicating complier pipelined petioles positives bomber actualizes odiousness nonforfeitable jacketless zoroastrianism preestablish cumbrously yeasts mordanted reflects pilloried leisures janes breezily heptoses grudgers gyromagnetic sexagenarian oscillometer prates sconces credulously bicyclists vivisected jonquils pentameter fingerboard bruiting nodes mispronounce chateaus flagmen unneeded bewared prided forceps potsie sophs honcho unskilled visualizers paves fogginess extricated rn</literal>
+      </binding>
+      <binding name="producer">
+        <literal>capturers</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>winnings relator inconspicuously</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>encampment verisms franciscans reverencer waylaying shads scoops blotchy beseems damnit threaped depends</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>timeserving envying graveyards cleans etherizes cluttering biographers microforms alpacas lugubrious clearheadedly parsonages burgesses impeding</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>cues quires retracing befouling resuscitation thanked engulfs carafes forthrightness experimented dusting scurfs stapler</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">542</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">619</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>arborist snips inched multiethnic</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>lacer breadbasket notchy safeguards sensitivities scorcher obliges licensed inciters peacemaking huzzaing</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">583</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

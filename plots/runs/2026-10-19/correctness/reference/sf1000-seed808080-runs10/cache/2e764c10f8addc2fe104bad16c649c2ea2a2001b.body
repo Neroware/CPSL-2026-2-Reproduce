@@ -1,0 +1,476 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="productLabel"/>
+    <variable name="offer"/>
+    <variable name="price"/>
+    <variable name="vendor"/>
+    <variable name="vendorTitle"/>
+    <variable name="review"/>
+    <variable name="revTitle"/>
+    <variable name="reviewer"/>
+    <variable name="revName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+  </head>
+  <results>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review2</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>decedents earthing disinfestant sterilizations inequalities regrouped mediatorial</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer1</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ruggiero-Delane</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review109</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>fosterling slubbered trifacial habitancy semisolid extorted orangiest pagans repurchase complements</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer6</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Caryn</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review1723</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>brocading incontestability rockworks rebuilds libbing snippiest</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer88</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Termite</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review2451</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>vestries lacteal dealing slaked corruptness correlatable bluffly exertion raveled unclean flouncy aborted</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer123</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Teela-Dennis</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review3217</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>postures shopgirls chimbley sequestrated slinging assagais daystars basics consoled wakeless yells im spiritualizing blighter tattooist</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer160</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Guiseppa-Nawwaara</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review3240</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>deletes curbs schedular prized pathologists betrayed spiker</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer160</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Guiseppa-Nawwaara</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review3335</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>retarded padlocking disproportionates slanderer decreed canalizing recrudescing unabashedly starfishes incitingly</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer166</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Prabha-Ilsemarie</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review3347</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>bedwarf marling claybanks oppositely offing messing benefiting knouted crudes vaults</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer167</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Hydd-Himani</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review3380</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>renew riskers stringiness crediting twines bellowers cogently muffler creaser bullheads tangibly disinterring brooklets hydrators multiplier</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer168</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Jiro-Arminius</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review3448</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>spearman weaklier tressy toucan asterisms planarian conterminous hoodwinked depopulates repay</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer172</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ixion</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review3499</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>lambskins cantors overcook exurbanites coveralls irrationality waivers unread disinfecting unmaintainable expwy prophets cavorts gnotobiotics</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer175</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Deucalion-Nonna</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review3811</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>rights implacably grossing viscously sentimentalization islands breathless dundee crapulent tartans</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer189</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Martino-Aida</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review3816</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>chasmed microsurgeon faunae misuses uniformest mudslinger disbelieve conus</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer189</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Martino-Aida</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review3935</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>devotedness bemoans reivers overwriting southrons sneezes endoderms credentials molars flivvers educates invocation</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer194</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Waajida-Luke</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review4785</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>cosmetically goads mattedly reconsideration gripers</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer236</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Buncho</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review5451</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>unlawful swayed monorail spick hurting holloaing phrenologically hognuts scrips cardiograms calmer animations</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer266</uri>
+      </binding>
+      <binding name="revName">
+        <literal>ApMaddock-Amaanullah</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6032</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>thanes hypnotherapy beaneries sulfides pupilar strophes lugubriously indexes</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer292</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ilja-Kanita</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6207</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>middling muzzlers veinule drops corves jugula polemical gazebo</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer302</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Benedikta-Takamuku</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review7262</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>drogues epigrammatically extemporizing ovule reivers supermarket cauterized restorers headlining pills</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer356</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Apikaila</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review7263</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>unconditionality coppering protracts punkest begrudges peplum mournfulness attracting microelectronics</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer356</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Apikaila</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8416</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>ungodliness cinques laps steamrollering motioned ranching radioelement endocrinology gooders</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer419</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Severina-Jawhara</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>corpuscle</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review9350</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>pissing excitants relinquishes adsorbing malingers philol standardization overvalued</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer472</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Hareem-Rgine</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

@@ -1,0 +1,817 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>relegates boer linguinis</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bulletproofs manliest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>azurites</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>spendthrift</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>suzettes jolty</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>woefulness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>boob phenotypes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>chams</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>fins libellee</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>retaken</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>fixups ceils</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tuberoid freelances perpendicularity</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>commonalties</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ostmark</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>salmagundis wickedest athletics</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>quiltings</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>speculation prefixally hellebores</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lids</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>overinflating administrative</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>predigest overage</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>recenter</literal>
+      </binding>
+      <binding name="comment">
+        <literal>lycanthropies wrongly concisest abaci manners sweeties schoolteaching evanishes drinks bulldozes nearness subcontract nominals proofs incursions matronal logs dbms amoks clabbering psst goldfishes mooed faithless corroders extranuclear ensheathe gyps videos inarm harmonium kitchens machismos apartment inconsistently isobar hermitry orients acetates homebody acquisitiveness legginged emasculated miscast phasic bankrupted rowan screeners cribbages surceases decompositions brocket demulcent wrastled fragilities gestalten kickshaw denigrations rainwear sympathizer thermostable disaffect microcosmical beaucoup overexposing inevitability stretti furbelows prettification thereinafter interferometries braggadocio dishcloths soupcons toxicologic insureds tenderheartedly biblically integrating octothorpe baulked adores carbineer voodooed teensiest hetero terminates crankshafts flavouring ducting preassembly swather barbarities invalidity sclera programing exhorts exobiological machinability whappers spontaneously hideously cypriotes jailbirds earthbound inactivities ampules mammalia wallops pusses appointing solfeges</literal>
+      </binding>
+      <binding name="producer">
+        <literal>unannounced rioter</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>emulsifications underlay</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>unwearying deportees simmering pharmacologists nightshades buoying recirculates thermocauteries brioche improvidence diminuendos limned reverencer flyaways</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>beseemed billhook ransacker cartographers volcanological feticides sleepyheads fiascos contestee butyls fringed moats foreknown</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>exactors rollicking grammarians diatomite</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">656</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">184</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>jawbreakers codifying cabinetmaker subsequential pomeranians freelancing negator recommence erectilities teardrops preachiest gauziest sandsoaps leachy maharajahs</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reshaped riverbed occults gravitic bunkmates</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">976</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

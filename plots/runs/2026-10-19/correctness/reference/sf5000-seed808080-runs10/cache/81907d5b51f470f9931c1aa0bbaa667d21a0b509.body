@@ -1,0 +1,779 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>gravamen ukase misfit</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ophthalmologically bombardments</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>boiler unthriftily</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>countian</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>disburses</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>inflated lacquers</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>sequencing dietetics exposes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>daises</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>electrostatic saltpetre</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>supertaxes purblindness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>thrusts swimmers daubing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>listening disembodiment</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>kajeputs canvasses llamas</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>overrighteousness auditions retailed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>confiscating disillusion</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>wobbling chorizos brashier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>keratoses</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>waltzes cullied nonessentials</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>waterproofing antiseptic deftness</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>bargee blinis</literal>
+      </binding>
+      <binding name="comment">
+        <literal>glooming taxmen befoulier polytheistic demonizing aunts alcalde touchback murrain infarcts antimonarchist abscessing pithily cauldrons lagniappes wiggeries brusquest outdated lacily orreries weirdoes clarksville sparrows tnpk gemutlichkeit defeatists righter amendments humidor unsolders hexyls runnel rebuilt foreclose hijacking suability mishandling wantonness accursedness remands elongation chaffered yukked radiative manoeuvre flatfishes abecedarians gusher reeker unsnapped remits placability licensing holographs sunbaked submembers appetency slamming ultrasonogram preassign starfishes passwords revindication treacherously beefeaters wowed juridically citrines overtired picaroon rowdiness meriting bougainvillea crematoriums acoin nonmetals statisticians misclassified penner yessed chuggers deleing questioner combiner reinduced plashes hotdog magnesian whumps copied infuriatingly cursives dustrags whomp proprietors timpanists pillowcases grottos nullity unbridgeable donne evocations unequivocal draws vestals salter variably culminating glistening spale seared archness gagman pinpricked mamas bacchanalias tosspots conceiving squanders dislodged exemplifications neophobia enslavement gainst aped ponying deckle skirls joram budgeters psychotherapists marbler dabblings morbidities gauntest loadstone</literal>
+      </binding>
+      <binding name="producer">
+        <literal>dewiness weirdo zebecs</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>clattering disreputable goggling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>graduands leewardly emptied deadfall nepalese curettage hardly weakening strumming mezcal phonetically thymuses spurting xerophthalmia nosebands</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>rearm condolers pubs elected</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>flowcharts kindheartedness stepsister thumping heated</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">675</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">605</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>monopolism reconquers tootled reinoculation toited</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>deepening measurer milkweeds thereout nighs exploders gullies crossings radioisotope</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">867</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

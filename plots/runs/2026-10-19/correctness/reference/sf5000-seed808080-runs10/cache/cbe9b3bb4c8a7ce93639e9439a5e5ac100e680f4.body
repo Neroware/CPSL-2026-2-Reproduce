@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="text"/>
+    <variable name="reviewDate"/>
+    <variable name="reviewer"/>
+    <variable name="reviewerName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+    <variable name="rating3"/>
+    <variable name="rating4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="title">
+        <literal>remelt puppeteers authoritarians frigidly snorkels quadraphonic expresses hymns sculpts bocks boxfuls loins imparts aped stroking</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">vermicide overpays benefact tremolo holdovers locales jurisdictions grads realigning nobler lowliness despoiling outproduced betweens vandykes brooches bullpen indiscrete wearisomely enrobing entomologists lenses stators dx trickeries proximo slummier discoveries placated ardors preeners hypothecates xmases hemorrhaging ostentation beelike speedway allurer blasted jeers sewerages borsch gutless bobbysoxers microzoon wakens mainliners teamworks irrigations babblers gelders dermatologist wafted humor</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-04-26T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer346</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Llyn-Eskil</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>thanking simplemindedness misgoverned resupplying bayberries filespec microminiaturizations regressing peccadillo outdistances sirrah opportunistic pupilar</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">avouchers titanism footballs inhibitors maintainers tainted nudeness clarinetists octopuses alienating praetor rationalistic spued smockings monographer painting reinducing reductionism stretching irksomely veeries nuder pairings encephalograph moneyed sexuality achievers hellishness ammoniating brit truncated apologized nullifies miscued darkrooms patients mentioned blueberries torte flamingly paled kabbalahs unturned misdirected stickmen busywork gatekeeper quantic harbour dendrons gymnasia pustuled gunbarrel kaleidoscopically wetter finnickier moors haggardly eschalot imprisonments krafts purifying overfill rabbiters lividness cutoffs typal zoopathologies boniest ballisticians thumbnuts enthrallment sheeting hearthstone moneylender smuggler curding metrists dreariest motivation mastering boomkin consonantly martyries ophthalmological rigadoon quiets longhairs depreciatingly catcalls operably quintillions orthomolecular jacobins nicaraguan squeezes bodyworks ramshorn scapegoats curter parable fossae preapplications mismarriages rogueries pretest trilled unhygienic floss foreshowed lithias ogreism incisively yipped endangerments kettledrum clarinettist swifters longitudinally harpers spinels patrols recipients beebee photospherically disassociate supraliminally contracture sating obsidians suffocated sudsless bidets crapping croaking uniformities ascriptions approbated developments spathed blarney callers louisianans stripings ekes burrowing alleluia</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-11-18T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer554</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Angeline-Swachnina</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>copydesks intuits improvisors underplaying dogsled anopia graining resurging pecking vers frontward</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">foresides qualities unmodified bohunk junks contemner breakages contained invigorations instigates tarried misjudges soliloquize interposed ruggedest doting figured subtenancies quadrantal socketing latticework cavernously radians noncommittally triangulator cooeeing hymenopteron balefires seeded smashup illuminating hamstringing classing otherworldliness lagoonal reconsolidate fuelled commiserative treaties extending thicks broiling oversevere impostor theocracies stargazer pianoforte summarizing gouger canonicity blankly divorces categoricalness prepacked sapiencies eavesdrops ultraviolet superego bellpulls jousters constellation leggiest cyberneticists deriding ricochetted bilkers proctoscope bilateralistic obbligatos hypodermics dogged</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-10-18T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite5/Reviewer2095</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Effimia-Aray</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>maut autoimmunization dewier normativeness homeopathy greyed ducker reasons prosecutory snubness prophetically</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">panelled highways bichrome clustery gormandizers crowns nationality ladders cannonballs subbreed residentially pitapats intermixes piquing apologizing saucerized becalmed headspring marmalades enameler triangulates reprices bassetting catchier trigamy skirter hobbyists metabolizes overexercised jostled hatemonger gyroscopically surveyance universalizing intermediateness fledglings freeloading unended sightlessness firma patching corpulency remeasurement expansiveness electromagnetism asphyxia hyssop unconsoled hardness keepable coequally rumanian polemized thats bespeaks carny peewees gownsman icons frilling repudiator retrograding reanalyze canvasses kiln monomania occupancy madcaps hallucinated desexed encoder incase steepers prefects duddy vegetal optimisms bismuths glasses neurotransmitters croakier raided downgraded recidivistic fem sponger woodchuck explicator underproduced snooker</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-08-18T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite2/Reviewer649</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Tatyana-Latoria</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+      <binding name="rating3">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

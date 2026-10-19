@@ -1,0 +1,356 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="productLabel"/>
+    <variable name="offer"/>
+    <variable name="price"/>
+    <variable name="vendor"/>
+    <variable name="vendorTitle"/>
+    <variable name="review"/>
+    <variable name="revTitle"/>
+    <variable name="reviewer"/>
+    <variable name="revName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+  </head>
+  <results>
+    <result>
+      <binding name="productLabel">
+        <literal>airworthiest foxiness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review91</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>unpasteurized sunbathe complications rewelded modi carriageable postdated rehiring dinner parroting fertilize withdrawals mealies furioso</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer6</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Caryn</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>airworthiest foxiness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review1325</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>domesticating bobwhites gruesomeness eggbeaters bionic replenishers deutschland</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer66</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ulrich-Lambertinae</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>airworthiest foxiness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review2717</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>relettering replenisher costliness swards oversolicitous ninon tippers pedicures desalting pinnaces</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer134</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Carne-Sylvian</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>airworthiest foxiness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review3099</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>thinners harborer frailness turgors scrawling prover overgenerous providers causalities mannerless mayorships iodides fulvous psychoanalytical jaygees</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer153</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Lubachitsa-Ashley</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>airworthiest foxiness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review3580</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>handles widths outboast enrichments missal ticklishly ledgeless domed heartrending</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer178</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Breeauna-Efthymios</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>airworthiest foxiness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review3682</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>irritabilities deflower riflings reinduced twangiest marrows christmases gentleness supervisee coaeval titties gnomists elderberry</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer183</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Noguri-Xeveria</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>airworthiest foxiness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review4906</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>lutheranism wags copulation feudists purdahs erred chalking pretender stiflingly jettisons waftage nanowatts</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer241</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Mai-Orland</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>airworthiest foxiness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review5838</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>metaphysicians cumshaw anointer unlucky</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer283</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Yasujiro-Keshila</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>airworthiest foxiness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review6832</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>roily cattails disobeying noetic metastases metamorphisms</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer336</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Cody-Gwyr</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>airworthiest foxiness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review7868</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>marsupium crumping postbellum progressionist unappropriated narwhales pipets witches seriously unshackles thursdays</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer388</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Effi-Evdoksiia</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>airworthiest foxiness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8125</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>indigestibilty boches polymorphous passports mechanizers</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer402</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Cristine-Ericka</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>airworthiest foxiness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8243</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>invader commercialism predestines maracas recombines beneficiated fretwork unkindlier compendiums reproduce unlined kajeput recreantly aided dacron</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer409</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Abigayle-Chad</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>airworthiest foxiness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review8387</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>measurable fiefdoms rapturing edgiest rails endearing misuse unstoppable</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer417</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ape-Cath</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>airworthiest foxiness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review9294</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>citers salespersons rebus appellee ballerinas roughhewn flounderingly scop anodizing collating radons imbibes</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer468</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Berenike-Katalyn</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>airworthiest foxiness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review9618</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>startled smearers touchiest greatheartedly curter diddling jangled calcspar terbiums ringneck</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer485</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Ty-Kazutoshi</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="productLabel">
+        <literal>airworthiest foxiness</literal>
+      </binding>
+      <binding name="review">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Review9686</uri>
+      </binding>
+      <binding name="revTitle">
+        <literal>washbasins reuseable semiurban splashing jurywoman selectional margents points</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer489</uri>
+      </binding>
+      <binding name="revName">
+        <literal>Min-Vantrice</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

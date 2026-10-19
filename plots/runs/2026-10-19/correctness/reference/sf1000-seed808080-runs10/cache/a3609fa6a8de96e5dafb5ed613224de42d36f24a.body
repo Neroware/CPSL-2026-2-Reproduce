@@ -1,0 +1,589 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>gipper</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiritualists evicting cauterization clamps platers sickness preenlistments bloods evenfall brutifying revamps conjugated suppertime vailing unobliged disenfranchisements remained saggier statist tumefied timbrel sidearms believably compositors flakers adagios kinsmanship redeliver manageably sibyllic coleuses commuted resting melters functionaries enshrouds costing tenderized abandoned thematically supermarkets empennages exhalation gallivanter espying engagers reloaded stereochemistry telemetric calcimines reverencer gamest postcoital</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lymphocytes</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>serialist undyingly unaware cannily preconcealed swerved projectionist proscriptions departmentalism hazing timpanum trysted</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>saxhorns coeducational carbonizing ergotisms smokehouses playboys homestretch dissects stylistic academicians</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>creaking heirlooms affability cagers trueblues uncooperative fourflusher choric serest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">158</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">960</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>decimation pickaxed crimes canticles reversed recommitted hydroelectricity nontransparent trashier</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reeducated ingratiated deniably scowler roentgenoscopy epidermization lappers costumier postboxes obligee delimiting niggarding uncivilized curacaos sonars</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">30</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gipper</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiritualists evicting cauterization clamps platers sickness preenlistments bloods evenfall brutifying revamps conjugated suppertime vailing unobliged disenfranchisements remained saggier statist tumefied timbrel sidearms believably compositors flakers adagios kinsmanship redeliver manageably sibyllic coleuses commuted resting melters functionaries enshrouds costing tenderized abandoned thematically supermarkets empennages exhalation gallivanter espying engagers reloaded stereochemistry telemetric calcimines reverencer gamest postcoital</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>schemery paroler caudated</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>serialist undyingly unaware cannily preconcealed swerved projectionist proscriptions departmentalism hazing timpanum trysted</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>saxhorns coeducational carbonizing ergotisms smokehouses playboys homestretch dissects stylistic academicians</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>creaking heirlooms affability cagers trueblues uncooperative fourflusher choric serest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">158</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">960</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>decimation pickaxed crimes canticles reversed recommitted hydroelectricity nontransparent trashier</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reeducated ingratiated deniably scowler roentgenoscopy epidermization lappers costumier postboxes obligee delimiting niggarding uncivilized curacaos sonars</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">30</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gipper</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiritualists evicting cauterization clamps platers sickness preenlistments bloods evenfall brutifying revamps conjugated suppertime vailing unobliged disenfranchisements remained saggier statist tumefied timbrel sidearms believably compositors flakers adagios kinsmanship redeliver manageably sibyllic coleuses commuted resting melters functionaries enshrouds costing tenderized abandoned thematically supermarkets empennages exhalation gallivanter espying engagers reloaded stereochemistry telemetric calcimines reverencer gamest postcoital</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>interplead deputed</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>serialist undyingly unaware cannily preconcealed swerved projectionist proscriptions departmentalism hazing timpanum trysted</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>saxhorns coeducational carbonizing ergotisms smokehouses playboys homestretch dissects stylistic academicians</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>creaking heirlooms affability cagers trueblues uncooperative fourflusher choric serest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">158</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">960</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>decimation pickaxed crimes canticles reversed recommitted hydroelectricity nontransparent trashier</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reeducated ingratiated deniably scowler roentgenoscopy epidermization lappers costumier postboxes obligee delimiting niggarding uncivilized curacaos sonars</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">30</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gipper</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiritualists evicting cauterization clamps platers sickness preenlistments bloods evenfall brutifying revamps conjugated suppertime vailing unobliged disenfranchisements remained saggier statist tumefied timbrel sidearms believably compositors flakers adagios kinsmanship redeliver manageably sibyllic coleuses commuted resting melters functionaries enshrouds costing tenderized abandoned thematically supermarkets empennages exhalation gallivanter espying engagers reloaded stereochemistry telemetric calcimines reverencer gamest postcoital</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>blether sailable ghettoing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>serialist undyingly unaware cannily preconcealed swerved projectionist proscriptions departmentalism hazing timpanum trysted</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>saxhorns coeducational carbonizing ergotisms smokehouses playboys homestretch dissects stylistic academicians</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>creaking heirlooms affability cagers trueblues uncooperative fourflusher choric serest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">158</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">960</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>decimation pickaxed crimes canticles reversed recommitted hydroelectricity nontransparent trashier</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reeducated ingratiated deniably scowler roentgenoscopy epidermization lappers costumier postboxes obligee delimiting niggarding uncivilized curacaos sonars</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">30</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gipper</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiritualists evicting cauterization clamps platers sickness preenlistments bloods evenfall brutifying revamps conjugated suppertime vailing unobliged disenfranchisements remained saggier statist tumefied timbrel sidearms believably compositors flakers adagios kinsmanship redeliver manageably sibyllic coleuses commuted resting melters functionaries enshrouds costing tenderized abandoned thematically supermarkets empennages exhalation gallivanter espying engagers reloaded stereochemistry telemetric calcimines reverencer gamest postcoital</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>ofter advises</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>serialist undyingly unaware cannily preconcealed swerved projectionist proscriptions departmentalism hazing timpanum trysted</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>saxhorns coeducational carbonizing ergotisms smokehouses playboys homestretch dissects stylistic academicians</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>creaking heirlooms affability cagers trueblues uncooperative fourflusher choric serest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">158</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">960</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>decimation pickaxed crimes canticles reversed recommitted hydroelectricity nontransparent trashier</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reeducated ingratiated deniably scowler roentgenoscopy epidermization lappers costumier postboxes obligee delimiting niggarding uncivilized curacaos sonars</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">30</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gipper</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiritualists evicting cauterization clamps platers sickness preenlistments bloods evenfall brutifying revamps conjugated suppertime vailing unobliged disenfranchisements remained saggier statist tumefied timbrel sidearms believably compositors flakers adagios kinsmanship redeliver manageably sibyllic coleuses commuted resting melters functionaries enshrouds costing tenderized abandoned thematically supermarkets empennages exhalation gallivanter espying engagers reloaded stereochemistry telemetric calcimines reverencer gamest postcoital</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>knobbier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>serialist undyingly unaware cannily preconcealed swerved projectionist proscriptions departmentalism hazing timpanum trysted</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>saxhorns coeducational carbonizing ergotisms smokehouses playboys homestretch dissects stylistic academicians</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>creaking heirlooms affability cagers trueblues uncooperative fourflusher choric serest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">158</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">960</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>decimation pickaxed crimes canticles reversed recommitted hydroelectricity nontransparent trashier</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reeducated ingratiated deniably scowler roentgenoscopy epidermization lappers costumier postboxes obligee delimiting niggarding uncivilized curacaos sonars</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">30</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gipper</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiritualists evicting cauterization clamps platers sickness preenlistments bloods evenfall brutifying revamps conjugated suppertime vailing unobliged disenfranchisements remained saggier statist tumefied timbrel sidearms believably compositors flakers adagios kinsmanship redeliver manageably sibyllic coleuses commuted resting melters functionaries enshrouds costing tenderized abandoned thematically supermarkets empennages exhalation gallivanter espying engagers reloaded stereochemistry telemetric calcimines reverencer gamest postcoital</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>frere unpremeditated</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>serialist undyingly unaware cannily preconcealed swerved projectionist proscriptions departmentalism hazing timpanum trysted</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>saxhorns coeducational carbonizing ergotisms smokehouses playboys homestretch dissects stylistic academicians</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>creaking heirlooms affability cagers trueblues uncooperative fourflusher choric serest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">158</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">960</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>decimation pickaxed crimes canticles reversed recommitted hydroelectricity nontransparent trashier</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reeducated ingratiated deniably scowler roentgenoscopy epidermization lappers costumier postboxes obligee delimiting niggarding uncivilized curacaos sonars</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">30</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gipper</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiritualists evicting cauterization clamps platers sickness preenlistments bloods evenfall brutifying revamps conjugated suppertime vailing unobliged disenfranchisements remained saggier statist tumefied timbrel sidearms believably compositors flakers adagios kinsmanship redeliver manageably sibyllic coleuses commuted resting melters functionaries enshrouds costing tenderized abandoned thematically supermarkets empennages exhalation gallivanter espying engagers reloaded stereochemistry telemetric calcimines reverencer gamest postcoital</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>equitant provided sacrilegiously</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>serialist undyingly unaware cannily preconcealed swerved projectionist proscriptions departmentalism hazing timpanum trysted</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>saxhorns coeducational carbonizing ergotisms smokehouses playboys homestretch dissects stylistic academicians</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>creaking heirlooms affability cagers trueblues uncooperative fourflusher choric serest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">158</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">960</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>decimation pickaxed crimes canticles reversed recommitted hydroelectricity nontransparent trashier</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reeducated ingratiated deniably scowler roentgenoscopy epidermization lappers costumier postboxes obligee delimiting niggarding uncivilized curacaos sonars</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">30</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gipper</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiritualists evicting cauterization clamps platers sickness preenlistments bloods evenfall brutifying revamps conjugated suppertime vailing unobliged disenfranchisements remained saggier statist tumefied timbrel sidearms believably compositors flakers adagios kinsmanship redeliver manageably sibyllic coleuses commuted resting melters functionaries enshrouds costing tenderized abandoned thematically supermarkets empennages exhalation gallivanter espying engagers reloaded stereochemistry telemetric calcimines reverencer gamest postcoital</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>syndications solipsist</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>serialist undyingly unaware cannily preconcealed swerved projectionist proscriptions departmentalism hazing timpanum trysted</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>saxhorns coeducational carbonizing ergotisms smokehouses playboys homestretch dissects stylistic academicians</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>creaking heirlooms affability cagers trueblues uncooperative fourflusher choric serest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">158</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">960</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>decimation pickaxed crimes canticles reversed recommitted hydroelectricity nontransparent trashier</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reeducated ingratiated deniably scowler roentgenoscopy epidermization lappers costumier postboxes obligee delimiting niggarding uncivilized curacaos sonars</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">30</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gipper</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiritualists evicting cauterization clamps platers sickness preenlistments bloods evenfall brutifying revamps conjugated suppertime vailing unobliged disenfranchisements remained saggier statist tumefied timbrel sidearms believably compositors flakers adagios kinsmanship redeliver manageably sibyllic coleuses commuted resting melters functionaries enshrouds costing tenderized abandoned thematically supermarkets empennages exhalation gallivanter espying engagers reloaded stereochemistry telemetric calcimines reverencer gamest postcoital</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>browns</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>serialist undyingly unaware cannily preconcealed swerved projectionist proscriptions departmentalism hazing timpanum trysted</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>saxhorns coeducational carbonizing ergotisms smokehouses playboys homestretch dissects stylistic academicians</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>creaking heirlooms affability cagers trueblues uncooperative fourflusher choric serest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">158</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">960</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>decimation pickaxed crimes canticles reversed recommitted hydroelectricity nontransparent trashier</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reeducated ingratiated deniably scowler roentgenoscopy epidermization lappers costumier postboxes obligee delimiting niggarding uncivilized curacaos sonars</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">30</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gipper</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiritualists evicting cauterization clamps platers sickness preenlistments bloods evenfall brutifying revamps conjugated suppertime vailing unobliged disenfranchisements remained saggier statist tumefied timbrel sidearms believably compositors flakers adagios kinsmanship redeliver manageably sibyllic coleuses commuted resting melters functionaries enshrouds costing tenderized abandoned thematically supermarkets empennages exhalation gallivanter espying engagers reloaded stereochemistry telemetric calcimines reverencer gamest postcoital</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>exhibited uncertainty paraphrasing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>serialist undyingly unaware cannily preconcealed swerved projectionist proscriptions departmentalism hazing timpanum trysted</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>saxhorns coeducational carbonizing ergotisms smokehouses playboys homestretch dissects stylistic academicians</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>creaking heirlooms affability cagers trueblues uncooperative fourflusher choric serest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">158</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">960</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>decimation pickaxed crimes canticles reversed recommitted hydroelectricity nontransparent trashier</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reeducated ingratiated deniably scowler roentgenoscopy epidermization lappers costumier postboxes obligee delimiting niggarding uncivilized curacaos sonars</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">30</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gipper</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiritualists evicting cauterization clamps platers sickness preenlistments bloods evenfall brutifying revamps conjugated suppertime vailing unobliged disenfranchisements remained saggier statist tumefied timbrel sidearms believably compositors flakers adagios kinsmanship redeliver manageably sibyllic coleuses commuted resting melters functionaries enshrouds costing tenderized abandoned thematically supermarkets empennages exhalation gallivanter espying engagers reloaded stereochemistry telemetric calcimines reverencer gamest postcoital</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>flapping aldermanry</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>serialist undyingly unaware cannily preconcealed swerved projectionist proscriptions departmentalism hazing timpanum trysted</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>saxhorns coeducational carbonizing ergotisms smokehouses playboys homestretch dissects stylistic academicians</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>creaking heirlooms affability cagers trueblues uncooperative fourflusher choric serest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">158</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">960</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>decimation pickaxed crimes canticles reversed recommitted hydroelectricity nontransparent trashier</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reeducated ingratiated deniably scowler roentgenoscopy epidermization lappers costumier postboxes obligee delimiting niggarding uncivilized curacaos sonars</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">30</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gipper</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiritualists evicting cauterization clamps platers sickness preenlistments bloods evenfall brutifying revamps conjugated suppertime vailing unobliged disenfranchisements remained saggier statist tumefied timbrel sidearms believably compositors flakers adagios kinsmanship redeliver manageably sibyllic coleuses commuted resting melters functionaries enshrouds costing tenderized abandoned thematically supermarkets empennages exhalation gallivanter espying engagers reloaded stereochemistry telemetric calcimines reverencer gamest postcoital</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>narcomata isolating</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>serialist undyingly unaware cannily preconcealed swerved projectionist proscriptions departmentalism hazing timpanum trysted</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>saxhorns coeducational carbonizing ergotisms smokehouses playboys homestretch dissects stylistic academicians</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>creaking heirlooms affability cagers trueblues uncooperative fourflusher choric serest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">158</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">960</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>decimation pickaxed crimes canticles reversed recommitted hydroelectricity nontransparent trashier</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reeducated ingratiated deniably scowler roentgenoscopy epidermization lappers costumier postboxes obligee delimiting niggarding uncivilized curacaos sonars</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">30</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gipper</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiritualists evicting cauterization clamps platers sickness preenlistments bloods evenfall brutifying revamps conjugated suppertime vailing unobliged disenfranchisements remained saggier statist tumefied timbrel sidearms believably compositors flakers adagios kinsmanship redeliver manageably sibyllic coleuses commuted resting melters functionaries enshrouds costing tenderized abandoned thematically supermarkets empennages exhalation gallivanter espying engagers reloaded stereochemistry telemetric calcimines reverencer gamest postcoital</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>invests traumatism hydrargyrum</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>serialist undyingly unaware cannily preconcealed swerved projectionist proscriptions departmentalism hazing timpanum trysted</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>saxhorns coeducational carbonizing ergotisms smokehouses playboys homestretch dissects stylistic academicians</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>creaking heirlooms affability cagers trueblues uncooperative fourflusher choric serest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">158</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">960</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>decimation pickaxed crimes canticles reversed recommitted hydroelectricity nontransparent trashier</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reeducated ingratiated deniably scowler roentgenoscopy epidermization lappers costumier postboxes obligee delimiting niggarding uncivilized curacaos sonars</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">30</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>gipper</literal>
+      </binding>
+      <binding name="comment">
+        <literal>spiritualists evicting cauterization clamps platers sickness preenlistments bloods evenfall brutifying revamps conjugated suppertime vailing unobliged disenfranchisements remained saggier statist tumefied timbrel sidearms believably compositors flakers adagios kinsmanship redeliver manageably sibyllic coleuses commuted resting melters functionaries enshrouds costing tenderized abandoned thematically supermarkets empennages exhalation gallivanter espying engagers reloaded stereochemistry telemetric calcimines reverencer gamest postcoital</literal>
+      </binding>
+      <binding name="producer">
+        <literal>nondenominational</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>budgie ope</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>serialist undyingly unaware cannily preconcealed swerved projectionist proscriptions departmentalism hazing timpanum trysted</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>saxhorns coeducational carbonizing ergotisms smokehouses playboys homestretch dissects stylistic academicians</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>creaking heirlooms affability cagers trueblues uncooperative fourflusher choric serest</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">158</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">960</literal>
+      </binding>
+      <binding name="propertyTextual4">
+        <literal>decimation pickaxed crimes canticles reversed recommitted hydroelectricity nontransparent trashier</literal>
+      </binding>
+      <binding name="propertyTextual5">
+        <literal>reeducated ingratiated deniably scowler roentgenoscopy epidermization lappers costumier postboxes obligee delimiting niggarding uncivilized curacaos sonars</literal>
+      </binding>
+      <binding name="propertyNumeric4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">30</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

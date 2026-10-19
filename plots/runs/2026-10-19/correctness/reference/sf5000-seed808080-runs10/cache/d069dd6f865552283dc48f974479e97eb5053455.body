@@ -1,0 +1,715 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>cajaputs lives cyclamens</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>radicalize printouts</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>durn</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>buboes aerosolize</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tantras inheres vaulty</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>argils dissemblingly mynahs</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>skylarks versatility</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>calibrating overcome suspends</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>acromegalies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>vestiges recidivists eyecups</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>maidservants satirize</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>manslayers gaveling</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tiered hyperirritable footings</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>tooting townless</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pions overemphasizing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>exaggerators</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>pacifiers connective</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>atomies</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>reseating absorbents</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>impracticality disburdening</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>instal demurrages</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>elaborates</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>exordiums utilizing</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>politicos</literal>
+      </binding>
+      <binding name="comment">
+        <literal>rads percipience os chirrupy squirts aberrations preoperative reputations psalmists tigereyes loading replicating burbling absurdly cooperations herbier photosensitized technocracy disaggregation stargazed biotelemetries inhering punishment piggery runover unconquered landslid theosophical sheering pianos virologist succulently ambulating resonance warrantee orating dunking spinny thyroidectomies carryout cryogeny qindars nucleator intitling embraces thicknesses okra smugness clovers gummiest marmoreal regrets convalesced quarrelers bitterest abbesses jackhammers frightfulness crawdad droplets chats handguns undiscerning ritually reverbs lissomly semis underset noninstinctual checkered unhorse unsweetened infuriation unavowed kilovolts wired cogitators antonymy misinterprets cricketer brittlest reinfuses gulfs nooky suffixal decimals</literal>
+      </binding>
+      <binding name="producer">
+        <literal>professing</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>refolding concrescence decapitations</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>reflowers cedes ungenerous harborer quivering splendors startles cerebella shirked woads usableness</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>marrer solarized weariful moseyed redbirds swanherd draper snits tincting hucksters renotifies</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>intangibles branching omissions detacher hips undergone cosseting subdirector heatable</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1412</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">544</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

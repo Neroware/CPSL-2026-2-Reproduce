@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="product"/>
+    <variable name="productLabel"/>
+  </head>
+  <results>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer88/Product4243</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>archived</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer49/Product2299</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>canaanites</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer82/Product3879</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>ceaselessness leas</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer46/Product2147</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>conjugally kilobar gangliate</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer42/Product1998</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>crookneck condensations</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer14/Product638</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>diverters wooshes versional</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer90/Product4335</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>foundational uproariously scudding</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer96/Product4585</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>hightails nictitation maximin</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer88/Product4187</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>intolerance wetbacks copping</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer59/Product2742</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>lucking exudations</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer1/Product50</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>preschoolers silencer</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer104/Product4875</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>rationed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer45/Product2121</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>reutilized trunked castration</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer29/Product1329</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>rickrack duelist archipelagoes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer69/Product3244</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>swampiest</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer36/Product1603</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>unperformed centesimal sniffingly</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="product">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer84/Product4008</uri>
+      </binding>
+      <binding name="productLabel">
+        <literal>untested acred</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

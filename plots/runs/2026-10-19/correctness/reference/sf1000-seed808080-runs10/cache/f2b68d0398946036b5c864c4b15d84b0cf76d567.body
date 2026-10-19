@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="text"/>
+    <variable name="reviewDate"/>
+    <variable name="reviewer"/>
+    <variable name="reviewerName"/>
+    <variable name="rating1"/>
+    <variable name="rating2"/>
+    <variable name="rating3"/>
+    <variable name="rating4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="title">
+        <literal>cursed copulation prosecutions bedazzling stuccowork polemicist seeress unmask threads</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">uncoiling scrounging auguster severed reprobate hedgerow zouave bucketed musted determinist botanized preallot quizzicalness targets forcefully chidden quilting tries pean protruding napping exactitude camass lubricates grousing choker susceptibilities vitrified largest damnifying viper irreconcilability reasoners linchpin remend empresses rivals endocrine officinal advantaging refutals urchins lustred exposed squeezed blottiest symmetrical fastened ewes scurrilities whirr couth plagiaries shetlands unproclaimed intermarrying nondestructive requester deepness functionality inverts evidently pegmatite flamboyancy splenic trepan commixt collarbones razored resembles shiftless redressed discommode annealers turbo ambitiously shareability bunging spewed molders piebald honeybuns denoted talcky irater welcomed vultures jardinieres crepitation legworks grograms impairers plushest heliotherapy orgastic snubbed recanters metempsychoses rechristenings mafioso scrutinizingly chalah forecloses comprize longbows ratiocinates sandblasted discontinuities inkstand knucklier snows synods doily perused dentist uncoordinated memorability effacement boogers speculum trudgers blowoff jota compliantly bisulfite demurely burglarizes unmapped tenners extortioners macerater enfevers bolloxed attemptable absconded miens prayers mavins credenzas carcinogeneses gourmandize bullheaded interposes catenas lucubrated unicameral advisors rivederci openhearted hagglers digitize perfecting reinjured restacks classifying boozy unavenged cosies</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-04-13T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer99</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Ennafa-Saif</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="title">
+        <literal>swinges plans sigils adders stalked entrees authenticating pursuable</literal>
+      </binding>
+      <binding name="text">
+        <literal xml:lang="en">privateers peacoats fatuously accolades inst bactericidally uncollected selfhood horsing concupiscence groper camporees celebrations repenters rededicated brin cleanups breviate stanchers cadged transits facially salesrooms tooting dilutes twangiest affordable reinvigorated windowpanes rousted megakaryocytic reclaims knocker mahjonggs amphoral cubits sensated coloured wrongheadedness confined logistician underspent rainproof orangiest stalkers feebleness overlorded daisies thole disagreements hayfork unsighted dolors hah retires profiter unintelligible emancipator regularizer equivocally retinoscope harriers approachable hogtieing remarker subvarieties grudgingly bilberry cartop opening seismogram encephalon crayons elective gyroscopically deisms bloodworm looker overcrowds engrave taciturnities argumentatively sheepherder deacidification quilts doglegging benefactions sags misreads lumping romanced imams wealthiest streptococcal knights submembers hyphenations parachutists misdirected entwisted ammonites expendable emboldens balloting saintship respondences sunbather residually gnomical terrorized extinguishable doodles canonical hedonisms harangues imperilled disintegrate hearkens misshaping faddier unwell fuggier birthstone glamorize pinches unmistakable craftsmanship betrothed nonvolatile pegless sergeancies alterative carer thuggery homer recurve whities eliciting warpers doweries holdable</literal>
+      </binding>
+      <binding name="reviewDate">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-09-22T00:00:00</literal>
+      </binding>
+      <binding name="reviewer">
+        <uri>http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromRatingSite1/Reviewer361</uri>
+      </binding>
+      <binding name="reviewerName">
+        <literal>Guy-Yasuyuki</literal>
+      </binding>
+      <binding name="rating1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+      <binding name="rating2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+      <binding name="rating4">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

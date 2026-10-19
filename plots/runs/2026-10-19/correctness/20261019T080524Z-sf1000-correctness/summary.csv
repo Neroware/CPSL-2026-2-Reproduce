@@ -1,0 +1,10 @@
+query,type,informational,total,match,match_modulo_ties,wrong_order,unsupported,content_mismatch,count_mismatch,wrong_vars,error,correct_pct
+1,SELECT,false,10,10,0,0,0,0,0,0,0,100.0
+2,SELECT,false,60,60,0,0,0,0,0,0,0,100.0
+3,SELECT,false,10,10,0,0,0,0,0,0,0,100.0
+4,SELECT,false,10,10,0,0,0,0,0,0,0,100.0
+5,SELECT,false,20,20,0,0,0,0,0,0,0,100.0
+7,SELECT,false,40,40,0,0,0,0,0,0,0,100.0
+8,SELECT,false,20,20,0,0,0,0,0,0,0,100.0
+10,SELECT,false,20,20,0,0,0,0,0,0,0,100.0
+11,SELECT,false,10,10,0,0,0,0,0,0,0,100.0

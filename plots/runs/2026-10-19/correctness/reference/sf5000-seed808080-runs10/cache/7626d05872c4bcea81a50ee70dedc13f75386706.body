@@ -1,0 +1,686 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="label"/>
+    <variable name="comment"/>
+    <variable name="producer"/>
+    <variable name="productFeature"/>
+    <variable name="propertyTextual1"/>
+    <variable name="propertyTextual2"/>
+    <variable name="propertyTextual3"/>
+    <variable name="propertyNumeric1"/>
+    <variable name="propertyNumeric2"/>
+    <variable name="propertyTextual4"/>
+    <variable name="propertyTextual5"/>
+    <variable name="propertyNumeric4"/>
+  </head>
+  <results>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>scansion stodgiest</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>taskmasters</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>schnook exorcised selfsame</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bebopper astronauts</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>bruskness stereoscopical hurried</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>dentals underestimating editions</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>lucubrated quintupling wakens</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>advises noxiousness knobbier</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>unpremeditated</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>coefficients rattlebrained</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>stewardship proteins equitant</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>semitones pimpled browns</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>youthening finical</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>invalidating weekender</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>flatbeds reacceding biffy</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>prescientific pleaded</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>goddam</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>outdistances</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>fibrillations</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>jousted rainwater reverberator</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>antisocially proscriptions</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>prisons</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="label">
+        <literal>pavements</literal>
+      </binding>
+      <binding name="comment">
+        <literal>modernized accents clandestinity pilose resectabilities earflap grower creates pressoreceptor fonds groutier veering annotation preserving gluteus lubrication roundelay rhubarbs admixes uncurtained prounion seriating watertight chitons sanguification schoolers categorizations chalcedonic inhabitability inquisitions immortalized litres megalomaniacal petiole malediction neckerchieves cadets monomaniacs silversmiths reencounters syphon trashmen rucks transactor materials guesser boarded seemliness quadruplicated manufacturable entrenchment autoregulatory sexes butlery batted profascists seditionists laconically aborts profiteered saltness aggrandizer coughing bootlegs skycaps pollinating espouser curter accompli milles kelpy unassertive sprayer waverers titaness bluffly reliever overfamiliar gauger visits delimitating sovietism lysing abnegations neocolonialism working inkiness hassling libitum clumping depressed surprised congestions gratefulness feudalistic animation icebreaker deliquescing motivational polemical uneventful ratiocination cocooned accumulations immoderacy reutilizations judoists overlays naiades boxiest obsessively misbestowed intercalating laborer sillies signatureless deadpan paraffined hemorrhagic suddenness bombe semisacred cyanosed immorality phosphorescence brazes easement fireweed barhops steepest fifes dialysed surnamer fringy vias</literal>
+      </binding>
+      <binding name="producer">
+        <literal>impossibleness appetit unhanding</literal>
+      </binding>
+      <binding name="productFeature">
+        <literal>amusement dialogued polluting</literal>
+      </binding>
+      <binding name="propertyTextual1">
+        <literal>corroders versers amids carbonates setscrews nullity proselyting nonbeings after efficaciously keester</literal>
+      </binding>
+      <binding name="propertyTextual2">
+        <literal>fanlight flappiest cyclopedias overstepping sillier boomier mages equalled brit nonsensically picks roughened assimilation</literal>
+      </binding>
+      <binding name="propertyTextual3">
+        <literal>grafter publicity handgrips boohooed hornswoggled mutes lipoprotein chintz allegiances outfittings windily mal</literal>
+      </binding>
+      <binding name="propertyNumeric1">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">156</literal>
+      </binding>
+      <binding name="propertyNumeric2">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">179</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>
