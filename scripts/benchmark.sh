@@ -36,6 +36,14 @@ cleanup() {
 trap cleanup EXIT
 
 log "== 1/6: build images (backend=$BACKEND) =="
+if [ "$BACKEND" = "gengodb" ] && [ -z "${GENGODB_CACHEBUST:-}" ]; then
+  GENGODB_REF="$(sed -n 's/^RUN git checkout //p' "$ROOT_DIR/hosts/GengoDB/Dockerfile")"
+  GENGODB_CACHEBUST="$(git ls-remote git@github.com:Neroware/GengoDB.git \
+    "refs/tags/$GENGODB_REF^{}" "refs/tags/$GENGODB_REF" "refs/heads/$GENGODB_REF" | head -1 | cut -f1)"
+  [ -n "$GENGODB_CACHEBUST" ] || fail "Could not resolve GengoDB ref '$GENGODB_REF' on remote"
+  export GENGODB_CACHEBUST
+  log "GengoDB ref $GENGODB_REF -> $GENGODB_CACHEBUST"
+fi
 docker compose build "$BACKEND_SERVICE" bsbm-tools
 
 log "== 2/6: generate dataset =="
