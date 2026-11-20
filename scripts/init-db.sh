@@ -22,7 +22,11 @@ init_gengodb() {
 
   cat > "$DB_DIR_HOST/initialize.sparql" <<EOF
 PREFIX db: <gengodb://sparql/settings/>
-DESCRIBE ?entity WHERE { ?entity db:capacity $DB_CAPACITY . };
+DESCRIBE ?entity WHERE {
+    ?entity db:nodeCapacity $DB_NODE_CAPACITY .
+    ?entity db:propCapacity $DB_PROP_CAPACITY .
+    ?entity db:edgeCapacity $DB_EDGE_CAPACITY .
+};
 
 LOAD <file://dataset.ttl> INTO GRAPH <file://dataset.ttl#rdf>;
 LOAD <file://dataset.ttl> INTO GRAPH <gengodb://sparql/settings/defaultGraph#rdf>;
@@ -35,7 +39,7 @@ DESCRIBE ?entity WHERE {
 };
 EOF
 
-  log "Initializing GengoDB directory at $DB_DIR_HOST (capacity=$DB_CAPACITY)"
+  log "Initializing GengoDB directory at $DB_DIR_HOST (nodes=$DB_NODE_CAPACITY props=$DB_PROP_CAPACITY edges=$DB_EDGE_CAPACITY)"
   set +e
   OUT="$(docker compose run --rm gengodb bash -lc \
     "/gengodb/build/lingodb-release/sparql '$DB_DIR_CT_SLASH' < '${DB_DIR_CT}/initialize.sparql'" 2>&1)"

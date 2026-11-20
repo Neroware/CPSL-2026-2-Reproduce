@@ -202,10 +202,19 @@ All via environment variables (defaults in `scripts/lib.sh`):
 | `SEED`                 | `808080`  | BSBM `-seed`, fixed for run-to-run comparability     |
 | `CHECK_RUNS`           | `10`      | Query mixes of instances `run-correctness.sh` checks (×26 instances each) |
 | `CHECK_TIMEOUT`        | `60`      | Per-query timeout (s) in `run-correctness.sh` |
-| `DB_CAPACITY`          | `2000000` | GengoDB `db:capacity` (node/rel/property cap), set before `LOAD` in `init-db.sh`. Default GengoDB cap is 1024, which segfaults on any real BSBM dataset. Unused by Fuseki. |
+| `DB_CAPACITY`          | `2000000` | Fallback GengoDB capacity for nodes, edges and properties, used by the three variables below when they are unset. Default GengoDB cap is 1024, which segfaults on any real BSBM dataset. Unused by Fuseki. |
+| `DB_NODE_CAPACITY`     | `$DB_CAPACITY` | GengoDB `db:nodeCapacity`, set before `LOAD` in `init-db.sh`. Unused by Fuseki. |
+| `DB_PROP_CAPACITY`     | `$DB_CAPACITY` | GengoDB `db:propCapacity`, set before `LOAD` in `init-db.sh`. Unused by Fuseki. |
+| `DB_EDGE_CAPACITY`     | `$DB_CAPACITY` | GengoDB `db:edgeCapacity`, set before `LOAD` in `init-db.sh`. Unused by Fuseki. |
 
 Example for a larger, closer-to-standard run:
 
 ```sh
 SCALE=sf25000 PRODUCT_COUNT=25000 RUNS=100 WARMUPS=25 BACKEND=fuseki ./scripts/benchmark.sh
+```
+
+GengoDB at that scale needs more edge than node capacity, e.g.:
+
+```sh
+SCALE=sf25000 PRODUCT_COUNT=25000 DB_NODE_CAPACITY=3000000 DB_PROP_CAPACITY=2000000 DB_EDGE_CAPACITY=10000000 RUNS=100 WARMUPS=25 BACKEND=gengodb ./scripts/benchmark.sh
 ```

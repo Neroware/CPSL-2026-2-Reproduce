@@ -20,6 +20,9 @@
                                       # nodes/rels/props, which segfaults on any
                                       # real BSBM dataset; must be raised before
                                       # LOAD-ing. Unused when BACKEND=fuseki.
+: "${DB_NODE_CAPACITY:=$DB_CAPACITY}" # db:nodeCapacity - per-kind overrides,
+: "${DB_PROP_CAPACITY:=$DB_CAPACITY}" # db:propCapacity   each defaulting to
+: "${DB_EDGE_CAPACITY:=$DB_CAPACITY}" # db:edgeCapacity   DB_CAPACITY.
 
 # --- Paths --------------------------------------------------------------
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
