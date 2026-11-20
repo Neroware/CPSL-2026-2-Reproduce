@@ -14,6 +14,7 @@
 : "${SEED:=808080}"                  # BSBM -seed   (upstream default)
 : "${CHECK_RUNS:=10}"                # query mixes of instances for run-correctness.sh
 : "${CHECK_TIMEOUT:=60}"             # per-query timeout (s) for run-correctness.sh
+: "${SERVE_TIMEOUT:=600}"            # max seconds serve.sh waits for the server to answer HTTP
 : "${DB_CAPACITY:=2000000}"          # gengodb://sparql/settings/#capacity - see
                                       # hosts/GengoDB/known-issues/README.md #2.
                                       # Default GengoDB cap is 1024

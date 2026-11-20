@@ -202,6 +202,7 @@ All via environment variables (defaults in `scripts/lib.sh`):
 | `SEED`                 | `808080`  | BSBM `-seed`, fixed for run-to-run comparability     |
 | `CHECK_RUNS`           | `10`      | Query mixes of instances `run-correctness.sh` checks (×26 instances each) |
 | `CHECK_TIMEOUT`        | `60`      | Per-query timeout (s) in `run-correctness.sh` |
+| `SERVE_TIMEOUT`        | `600`     | Max seconds `serve.sh` waits for the server to answer HTTP after start (GengoDB loads the DB first, ~10s at sf25000) |
 | `DB_CAPACITY`          | `2000000` | Fallback GengoDB capacity for nodes, edges and properties, used by the three variables below when they are unset. Default GengoDB cap is 1024, which segfaults on any real BSBM dataset. Unused by Fuseki. |
 | `DB_NODE_CAPACITY`     | `$DB_CAPACITY` | GengoDB `db:nodeCapacity`, set before `LOAD` in `init-db.sh`. Unused by Fuseki. |
 | `DB_PROP_CAPACITY`     | `$DB_CAPACITY` | GengoDB `db:propCapacity`, set before `LOAD` in `init-db.sh`. Unused by Fuseki. |

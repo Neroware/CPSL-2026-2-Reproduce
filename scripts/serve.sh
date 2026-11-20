@@ -15,15 +15,24 @@ case "$ACTION" in
     "$0" wait
     ;;
   wait)
-    log "Waiting for $BACKEND_SERVICE to accept connections on port $BACKEND_PORT..."
-    for _ in $(seq 1 60); do
-      if (exec 3<>"/dev/tcp/localhost/$BACKEND_PORT") 2>/dev/null; then
-        log "$BACKEND_SERVICE is accepting connections on port $BACKEND_PORT."
+    URL="http://localhost:${BACKEND_PORT}${BACKEND_SPARQL_PATH}"
+    log "Waiting up to ${SERVE_TIMEOUT}s for $BACKEND_SERVICE to answer HTTP at $URL..."
+    DEADLINE=$(( $(date +%s) + SERVE_TIMEOUT ))
+    while [ "$(date +%s)" -lt "$DEADLINE" ]; do
+      CODE="$(curl -s -o /dev/null -m 10 -w '%{http_code}' -G "$URL" \
+        --data-urlencode 'query=ASK { ?s ?p ?o }' 2>/dev/null || true)"
+      if [ -n "$CODE" ] && [ "$CODE" != "000" ]; then
+        log "$BACKEND_SERVICE is answering HTTP (status $CODE)."
         exit 0
+      fi
+      if [ -z "$(docker compose ps -q --status running "$BACKEND_SERVICE")" ]; then
+        log "$BACKEND_SERVICE container is not running. Recent logs:"
+        docker compose logs --tail=100 "$BACKEND_SERVICE" >&2
+        exit 1
       fi
       sleep 2
     done
-    log "Timed out waiting for $BACKEND_SERVICE to listen on port $BACKEND_PORT. Recent logs:"
+    log "Timed out after ${SERVE_TIMEOUT}s waiting for $BACKEND_SERVICE. Recent logs:"
     docker compose logs --tail=100 "$BACKEND_SERVICE" >&2
     exit 1
     ;;
