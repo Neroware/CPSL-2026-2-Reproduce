@@ -75,7 +75,7 @@ mkdir -p "$RUN_DIR"
 GENGODB_CID="$(docker compose ps -q gengodb)"
 GENGODB_IMAGE="$(docker inspect -f '{{.Image}}' "$GENGODB_CID" 2>/dev/null || echo unknown)"
 GENGODB_ARGS="$(docker inspect -f '{{join .Args " "}}' "$GENGODB_CID" 2>/dev/null || echo unknown)"
-GENGODB_RUNNING_CACHE="$(docker inspect -f '{{range .Args}}{{println .}}{{end}}' "$GENGODB_CID" 2>/dev/null | tail -n 1)"
+GENGODB_RUNNING_CACHE="$(docker inspect -f '{{range .Args}}{{println .}}{{end}}' "$GENGODB_CID" 2>/dev/null | sed '/^$/d' | tail -n 1)"
 GENGODB_RUNNING_CACHE="${GENGODB_RUNNING_CACHE:-unknown}"
 
 log "Checking $TEST_ENDPOINT against $REF_ENDPOINT (scale=$SCALE seed=$SEED runs=$CHECK_RUNS)"

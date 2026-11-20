@@ -30,7 +30,7 @@ docker compose run --rm bsbm-tools \
 GENGODB_RUNNING_CACHE="null"
 if [ "$BACKEND" = gengodb ]; then
   GENGODB_RUNNING_CACHE="\"$(docker inspect -f '{{range .Args}}{{println .}}{{end}}' \
-    "$(docker compose ps -q gengodb)" 2>/dev/null | tail -n 1)\""
+    "$(docker compose ps -q gengodb)" 2>/dev/null | sed '/^$/d' | tail -n 1)\""
 fi
 
 cat > "$RUN_DIR/meta.json" <<EOF
