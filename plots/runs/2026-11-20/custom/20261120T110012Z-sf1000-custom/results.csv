@@ -1,0 +1,2 @@
+file,type,warmups,reps_requested,reps_ok,status,271_mean,lowerRelAlg_mean,lowerSubOp_mean,lowerDB_mean,lowerArrow_mean,lowerToLLVM_mean,baselineLowering_mean,toLLVMIR_mean,llvmOptimize_mean,llvmCodeGen_mean,baselineCodeGen_mean,baselineEmit_mean,executionTime_mean,total_mean,executionTime_min,executionTime_max,total_min,total_max
+bsbm_optional_then_join_hash.mlir,mlir,5,20,20,OK,0.8096,0.38945,1.83485,4.40595,1.0712,14.6314,,1.62655,10.3607,42.3605,,,347.947,428.394,344.515,354.761,424.529,434.965
