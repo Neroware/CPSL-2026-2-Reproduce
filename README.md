@@ -147,7 +147,8 @@ It starts whichever server isn't running yet (and stops only those again),
 and refuses to reuse a running server that serves a different `$SCALE`.
 The GengoDB server is checked exactly as configured in `docker-compose.yml`
 (the server flags and image are recorded in `meta.json`), so a change to
-the benchmarked setup, e.g. `--enable-cache`, is reflected in the check.
+the benchmarked setup, e.g. `--enable-cache` (`GENGODB_CACHE`), is reflected
+in the check; `meta.json` records it as `gengodb_cache`.
 
 How it works:
 
@@ -195,6 +196,7 @@ All via environment variables (defaults in `scripts/lib.sh`):
 | `PRODUCT_COUNT`        | `1000`    | BSBM `-pc`; drives dataset size (~1,000 products ≈ smoke-test scale; standard published BSBM scales are 25,000+) |
 | `GENGODB_PORT`         | `8890`    | Host+container port for GengoDB's SPARQL endpoint (`BACKEND=gengodb` only) |
 | `GENGODB_SPARQL_PATH`  | `/sparql` | HTTP path GengoDB serves SPARQL on (confirmed correct; `BACKEND=gengodb` only) |
+| `GENGODB_CACHE`        | `1`       | `1` starts GengoDB with `--enable-cache` (query compile cache), `0` without. Applies on the next `serve.sh start`; a running server keeps its setting (`BACKEND=gengodb` only) |
 | `FUSEKI_PORT`          | `3030`    | Host+container port for Fuseki (`BACKEND=fuseki` only) |
 | `FUSEKI_DATASET`       | `ds`      | Fuseki dataset path segment — endpoint ends up at `/$FUSEKI_DATASET/sparql` (`BACKEND=fuseki` only) |
 | `RUNS`                 | `20`      | BSBM `-runs` (measured query-mix repetitions). Upstream BSBM default is 500. |

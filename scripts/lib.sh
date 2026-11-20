@@ -7,6 +7,7 @@
 : "${PRODUCT_COUNT:=1000}"           # BSBM -pc, drives dataset size
 : "${GENGODB_PORT:=8890}"
 : "${GENGODB_SPARQL_PATH:=/sparql}"  # ASSUMPTION - see BENCHMARKING.md
+: "${GENGODB_CACHE:=1}"              # 1 = start GengoDB with --enable-cache, 0 = without
 : "${FUSEKI_PORT:=3030}"
 : "${FUSEKI_DATASET:=ds}"            # Fuseki dataset path segment, e.g. /ds/sparql
 : "${RUNS:=20}"                      # BSBM -runs (upstream default: 500)
@@ -73,6 +74,7 @@ DB_DIR_CT_SLASH="$DB_DIR_CT/"
 export DB_DIR="$GENGODB_DB_DIR_CT/"
 export FUSEKI_DB_DIR="$FUSEKI_DB_DIR_CT"
 export GENGODB_PORT
+export GENGODB_CACHE
 export FUSEKI_PORT
 export FUSEKI_DATASET
 

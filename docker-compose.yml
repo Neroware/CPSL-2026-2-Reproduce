@@ -14,11 +14,11 @@ services:
       - "${GENGODB_PORT:-8890}:${GENGODB_PORT:-8890}"
     command:
       [
-        "/gengodb/build/lingodb-release/sparql-endpoint",
+        "sh", "-c",
+        "exec /gengodb/build/lingodb-release/sparql-endpoint \"$$0\" --host 0.0.0.0 --port \"$$1\" $$([ \"$$2\" = 1 ] && echo --enable-cache)",
         "${DB_DIR:-/data/db/default}",
-        "--host", "0.0.0.0",
-        "--port", "${GENGODB_PORT:-8890}",
-        "--enable-cache"
+        "${GENGODB_PORT:-8890}",
+        "${GENGODB_CACHE:-1}"
       ]
 
   jena-fuseki:

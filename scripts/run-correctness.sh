@@ -41,7 +41,6 @@ for b in fuseki gengodb; do
     BACKEND="$b" "$SCRIPT_DIR/serve.sh" start
     STARTED+=("$b")
   else
-    # Reusing a running server is only valid if it serves this $SCALE.
     case " $(docker inspect -f '{{join .Args " "}}' "$cid") " in
       *[\ =]"$db"[/\ ]*) log "$svc already running on $db - using it as is" ;;
       *) fail "$svc is running, but not on $db - stop it first (BACKEND=$b ./scripts/serve.sh stop)" ;;
@@ -49,8 +48,6 @@ for b in fuseki gengodb; do
   fi
 done
 
-# serve.sh only waits for the port, which Docker's proxy opens before the
-# server inside is ready - wait until each endpoint actually answers.
 for url in "http://localhost:${FUSEKI_PORT}/${FUSEKI_DATASET}/sparql" \
            "http://localhost:${GENGODB_PORT}${GENGODB_SPARQL_PATH}"; do
   for i in $(seq 1 60); do
@@ -63,7 +60,6 @@ done
 REF_DIR="$RESULTS_DIR/correctness/reference/${SCALE}-seed${SEED}-runs${CHECK_RUNS}"
 REF_DIR_CT="/results/${REF_DIR#"$RESULTS_DIR"/}"
 if [ "${FORCE:-0}" = "1" ]; then
-  # Removed from inside the container: everything in there is written as root.
   docker compose run --rm bsbm-tools rm -rf "$REF_DIR_CT"
 fi
 if [ ! -s "$REF_DIR/run.log" ]; then
@@ -76,11 +72,11 @@ RUN_ID="$(date -u +%Y%m%dT%H%M%SZ)-${SCALE}-correctness"
 RUN_DIR="$RESULTS_DIR/correctness/$RUN_ID"
 mkdir -p "$RUN_DIR"
 
-# Record exactly which GengoDB build and server flags were checked (e.g.
-# whether --enable-cache was on), since both change the answers.
 GENGODB_CID="$(docker compose ps -q gengodb)"
 GENGODB_IMAGE="$(docker inspect -f '{{.Image}}' "$GENGODB_CID" 2>/dev/null || echo unknown)"
 GENGODB_ARGS="$(docker inspect -f '{{join .Args " "}}' "$GENGODB_CID" 2>/dev/null || echo unknown)"
+GENGODB_RUNNING_CACHE="$(docker inspect -f '{{range .Args}}{{println .}}{{end}}' "$GENGODB_CID" 2>/dev/null | tail -n 1)"
+GENGODB_RUNNING_CACHE="${GENGODB_RUNNING_CACHE:-unknown}"
 
 log "Checking $TEST_ENDPOINT against $REF_ENDPOINT (scale=$SCALE seed=$SEED runs=$CHECK_RUNS)"
 
@@ -97,6 +93,7 @@ docker compose run --rm bsbm-tools python3 check-correctness.py \
   --meta "check_runs=$CHECK_RUNS" \
   --meta "gengodb_image=$GENGODB_IMAGE" \
   --meta "gengodb_args=$GENGODB_ARGS" \
+  --meta "gengodb_cache=$GENGODB_RUNNING_CACHE" \
   --meta "timestamp_utc=$(date -u +%Y-%m-%dT%H:%M:%SZ)"
 
 log "Results stored in $RUN_DIR"

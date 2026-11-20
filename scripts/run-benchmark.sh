@@ -27,10 +27,17 @@ docker compose run --rm bsbm-tools \
     "$ENDPOINT" \
   2>&1 | tee "$RUN_DIR/driver.log"
 
+GENGODB_RUNNING_CACHE="null"
+if [ "$BACKEND" = gengodb ]; then
+  GENGODB_RUNNING_CACHE="\"$(docker inspect -f '{{range .Args}}{{println .}}{{end}}' \
+    "$(docker compose ps -q gengodb)" 2>/dev/null | tail -n 1)\""
+fi
+
 cat > "$RUN_DIR/meta.json" <<EOF
 {
   "run_id": "$RUN_ID",
   "backend": "$BACKEND",
+  "gengodb_cache": $GENGODB_RUNNING_CACHE,
   "scale": "$SCALE",
   "product_count": $PRODUCT_COUNT,
   "runs": $RUNS,
