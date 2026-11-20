@@ -1,0 +1,22 @@
+== BSBM result summary (/home/zebiscra/Documents/Workspace/cpsl-benchmark/results/20261120T144820Z-sf5000-gengodb/result.xml) ==
+Scale factor (product count):      5000
+Query mix runs (measured):         100
+Total runtime (s):                 112.112
+Query Mixes per Hour (QMpH):       3211.07
+Avg. query mix runtime (s, arith): 1.12112
+Avg. query mix runtime (s, geom):  1.12111
+
+Per-query breakdown:
+nr   count  aqet(s)      aqetg(s)     qps        avgres     timeouts
+1    100    0.023217     0.023180     43.07      1.00       0       
+2    600    0.023207     0.023173     43.09      19.00      0       
+3    100    0.040061     0.040052     24.96      0.00       0       
+4    100    0.057806     0.057797     17.30      0.00       0       
+5    200    0.042493     0.042484     23.53      4.00       0       
+6    0      0.0          -            -          -          -       
+7    400    0.110933     0.110927     9.01       4.00       0       
+8    200    0.101334     0.101324     9.87       8.00       0       
+9    0      0.000000     NaN          Infinity   0.00       0       
+10   200    0.063524     0.063512     15.74      2.00       0       
+11   100    0.002360     0.002330     423.74     10.00      0       
+12   0      0.000000     NaN          Infinity   0.00       0       
